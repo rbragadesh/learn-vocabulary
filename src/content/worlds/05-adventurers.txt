@@ -691,3 +691,210 @@ galactic | ✨ | adj | having to do with a galaxy | The spaceship went on a [gal
 🌍💙 | "Earth's [atmosphere] makes stars twinkle," she said. "Up here, there's less air in the way."
 🪐🏫 | The next day, they went to the [planetarium] in town, where the whole ceiling turned into the night sky.
 ✨🐉 | "Someday, I'll go on a [galactic] adventure," said Ziggy. "Can dragons breathe in space?" "Not without a helmet," laughed {Name}.
+
+@unit The Ancient World
+pharaoh | 👑 | noun | a king of ancient Egypt | The [pharaoh] was buried inside a pyramid.
+empire | 🗺️ | noun | a group of countries or lands ruled by one powerful leader | The Roman [empire] stretched across many lands.
+emperor | 🤴 | noun | the ruler of an empire | The [emperor] wore a crown of golden leaves.
+gladiator | ⚔️ | noun | a fighter in ancient Rome who fought in front of crowds | The [gladiator] raised his shield in the arena.
+chariot | 🐎 | noun | a two-wheeled cart pulled by horses, used long ago for racing and war | The [chariot] raced around the track.
+temple | 🛕 | noun | a building where people worship | The ancient [temple] had tall stone columns.
+ruins | 🏛️ | noun | what is left of buildings that have fallen apart over time | We explored the [ruins] of an old castle.
+artifact | 🏺 | noun | an object made by people long ago | The museum has an [artifact] from ancient Greece. | relic
+civilization | 🌍 | noun | a large society with its own culture, government, and way of life | The Maya built a great [civilization] in the jungle. | society, culture
+mummy | 🧟 | noun | a dead body that was dried and wrapped in cloth to preserve it | The [mummy] lay in a golden coffin.
+@story Night at the Museum | museum
+🏛️🌙 | {Name} and Ziggy had a sleepover at the history museum!
+🏺🔦 | They tiptoed past each [artifact] in the glass cases.
+👑🐍 | In the Egypt room, they saw a statue of a [pharaoh] with a cobra crown.
+🧟📦 | Inside a golden box lay a [mummy] wrapped in old cloth. "Don't wake it up," whispered Ziggy.
+🛕🌿 | There was a model of a [temple] from the jungle, built by an ancient [civilization].
+🏛️🪨 | In the next room, they walked among the [ruins] of an old Greek city.
+🗺️🤴 | A giant map showed the Roman [empire]. A statue of its first [emperor] stood beside it.
+⚔️🛡️ | There was the helmet of a [gladiator] who fought in the Colosseum.
+🐎🏁 | And a real [chariot]! Ziggy climbed in. "Giddy-up!" A guard laughed and let him have one turn.
+
+@unit Pathfinders
+pioneer | 🤠 | noun | one of the first people to go somewhere new or do something new | The [pioneer] built a cabin on the open prairie. | settler, trailblazer
+settlement | 🏘️ | noun | a new place where people have come to live | The first [settlement] had only five houses. | colony, village
+navigator | 🧭 | noun | a person who plans the route for a ship or plane | The [navigator] used the stars to guide the ship.
+uncharted | 🗺️ | adj | not yet mapped or explored | The explorers sailed into [uncharted] waters. | unexplored, unknown
+pilgrim | 🚶 | noun | a person who travels to a special or holy place | The [pilgrim] walked hundreds of miles. | traveler
+caravan | 🐫 | noun | a group of people and animals traveling together, often across a desert | A [caravan] of camels crossed the desert. | convoy
+outpost | 🏕️ | noun | a small camp or settlement far from towns | The soldiers lived at a lonely [outpost] in the mountains.
+trailblazer | 🔥 | noun | a person who is the first to do something and leads the way for others | She was a [trailblazer] who became the first woman pilot in her country. | pioneer
+homeland | 🏡 | noun | the country where you were born or where your family comes from | They missed their [homeland] across the ocean. | native land
+wanderer | 🎒 | noun | a person who travels from place to place without a home | The [wanderer] told stories of faraway lands. | drifter, nomad
+@story The Map Makers | desert
+🗺️🐉 | {Name} and Ziggy wanted to explore [uncharted] land beyond the mountains.
+🧭👧 | {Name} was the [navigator]. She read the compass and drew the map.
+🐫🐫 | They joined a [caravan] of camels heading across the desert.
+🚶🙏 | Along the way, they met a [pilgrim] walking to a temple far away.
+🎒🎶 | They also met a [wanderer] who sang songs about every place he'd been.
+🏕️🏔️ | After many days, they reached an [outpost] at the foot of the mountains.
+🤠🏘️ | There they met a [pioneer] family who had started a small [settlement] by a river.
+🏡💭 | "Do you miss your [homeland]?" asked {Name}. "Sometimes," said the mother. "But this is our home now."
+🔥🗺️ | When {Name} finished her map, the settlers gave her a medal. "You're a real [trailblazer]," they said.
+
+@unit Making Things by Hand
+carve | 🔪 | verb | to cut wood, stone, or food into a shape | We [carve] faces into pumpkins every October. | whittle, sculpt
+mold | 🏺 | verb | to shape something soft, like clay, with your hands | [Mold] the clay into a little bowl. | shape, form
+sculpt | 🗿 | verb | to make a figure or shape out of clay, stone, or wood | The artist will [sculpt] a lion out of marble. | carve, model
+weave | 🧺 | verb | to make cloth or a basket by crossing threads or strips over and under | Grandma taught me to [weave] a basket. | interlace
+knit | 🧶 | verb | to make clothes from yarn using long needles | Grandpa likes to [knit] scarves.
+forge | ⚒️ | verb | to shape hot metal by hammering it | The blacksmith will [forge] a new horseshoe.
+craft | ✂️ | verb | to make something skillfully by hand | She likes to [craft] jewelry from beads. | make, create
+whittle | 🪵 | verb | to cut small pieces off wood with a knife to shape it | Grandpa likes to [whittle] little animals from sticks. | carve
+embroider | 🪡 | verb | to sew a picture or design onto cloth with thread | She began to [embroider] flowers on her jacket.
+kiln | 🔥 | noun | a very hot oven for baking clay pots or bricks | The pots dried in the [kiln] overnight.
+@story The Craft Fair | market
+🎪🎨 | {Name} and Ziggy visited the town craft fair, where everyone made things by hand.
+🧶👵 | A grandma showed them how to [knit] a tiny sweater.
+🧺🌾 | A man showed them how to [weave] a basket out of grass.
+🪵🐦 | An old woodcutter would [whittle] tiny birds from sticks.
+🔪🎃 | A teenager would [carve] pumpkin lanterns.
+🪡🌸 | A woman would [embroider] flowers onto pillows.
+⚒️🔥 | A blacksmith would [forge] a horseshoe. Ziggy helped by heating the metal with his breath!
+🏺👐 | At the pottery table, {Name} began to [mold] a little dragon out of clay.
+🔥🏺 | The potter baked it in her [kiln].
+🗿✨ | Ziggy wanted to [sculpt] a statue of {Name}, but it ended up looking like a potato. "It's the thought that counts!"
+✂️🎁 | At the end of the day, {Name} wanted to [craft] a bracelet for her mom out of beads.
+
+@unit Fancy Ways to Walk
+saunter | 🚶 | verb | to walk slowly and easily, in a relaxed way | We like to [saunter] along the boardwalk. | stroll, amble
+amble | 🐄 | verb | to walk at a slow, easy pace | The cows [amble] back to the barn at dusk. | stroll, saunter
+lumber | 🐻 | verb | to move in a slow, heavy, clumsy way | The bear began to [lumber] through the woods. | trudge, plod
+scuttle | 🦀 | verb | to run with short, quick steps, like a crab | The crab began to [scuttle] across the sand. | scurry, scamper
+prance | 🐴 | verb | to walk or move in a proud, lively, bouncy way | The pony began to [prance] around the ring.
+skulk | 🦊 | verb | to move or hide in a sneaky way | The fox began to [skulk] around the henhouse. | sneak, lurk
+sidle | 🦀 | verb | to move sideways in a shy or sneaky way | She began to [sidle] up to the cookie jar.
+swagger | 😎 | verb | to walk in a very proud, show-off way | The champion began to [swagger] across the stage. | strut
+stagger | 🥴 | verb | to walk unsteadily, as if you might fall | The tired runner began to [stagger] across the finish line. | totter, stumble
+lope | 🐺 | verb | to run with long, easy steps | The wolf began to [lope] across the snow.
+@story The Animal Parade | park
+🎺🐾 | The zoo held an animal parade, and every animal had its own special walk.
+🐄🌼 | First, the cows began to [amble] slowly down the street.
+🐴✨ | A pony began to [prance], lifting its hooves high.
+🐻🍯 | A big brown bear began to [lumber] along, sniffing for honey.
+🦀🏖️ | A crab began to [scuttle] sideways.
+🐺❄️ | A wolf began to [lope] with long, easy steps.
+🦊🥚 | A fox tried to [skulk] behind the crowd, looking for snacks.
+😎🦁 | A lion began to [swagger] like the king of the parade.
+🥴🐧 | A tired penguin began to [stagger] at the end.
+🚶🐉 | Ziggy began to [saunter] beside {Name}, waving to everyone.
+🦀🍦 | At the end, a little crab tried to [sidle] up to the ice cream stand. "Even crabs love ice cream!" laughed {Name}.
+
+@unit Nervous and Calm
+apprehensive | 😟 | adj | worried that something bad might happen | I was [apprehensive] about my first day at the new school. | uneasy, anxious
+petrified | 😱 | adj | so frightened that you can't move | The rabbit was [petrified] when it saw the fox. | terrified, frozen
+alarmed | 😨 | adj | suddenly worried or frightened | We were [alarmed] by the loud crash downstairs. | startled, frightened
+uneasy | 😕 | adj | slightly worried or uncomfortable | The quiet woods made me feel [uneasy]. | apprehensive, nervous
+intimidated | 😰 | adj | made to feel nervous or frightened by someone or something | The new player felt [intimidated] by the older kids. | daunted
+unnerved | 😧 | adj | made nervous and less confident | The strange noise left me [unnerved]. | rattled, shaken
+hysterical | 😫 | adj | so upset or excited that you can't control yourself | The kids were [hysterical] with laughter. | frantic
+composed | 😌 | adj | calm and in control of your feelings | She stayed [composed] even when the lights went out. | calm, collected
+tranquil | 🏞️ | adj | quiet, calm, and peaceful | The lake was [tranquil] at dawn. | calm, serene, placid
+placid | 🐄 | adj | calm and not easily upset | The [placid] cow didn't mind the noisy kids. | calm, tranquil
+@story The Big Swim | river
+🏊🌊 | {Name} was going to swim across the lake for the first time. She felt [apprehensive].
+😕🐟 | The deep, dark water made her [uneasy].
+😰🏅 | The older swimmers were so fast that she felt [intimidated].
+😨🐍 | Then something touched her foot! She was [alarmed].
+😱🌿 | For a second, she was [petrified]. She couldn't move!
+😧😅 | It was just seaweed, but it left her [unnerved].
+😫🐉 | On the shore, Ziggy was so worried that he was almost [hysterical], flapping and shouting.
+😌💪 | But {Name} took a deep breath and stayed [composed].
+🏞️🏊 | The water became [tranquil], and she found her rhythm.
+🐄🏆 | When she reached the other side, a [placid] old cow was chewing grass, as if nothing had happened. "I did it!" shouted {Name}.
+
+@unit Hot Tempers
+infuriate | 😡 | verb | to make someone extremely angry | Cheaters always [infuriate] me. | enrage, madden
+exasperate | 😩 | verb | to annoy someone very much | My little brother's questions [exasperate] my dad. | annoy, frustrate
+seethe | 🌋 | verb | to be very angry inside without showing it much | She began to [seethe] when she saw her ruined drawing. | fume, boil
+fume | 💨 | verb | to feel or show great anger | Dad began to [fume] about the traffic jam. | seethe, rage
+resent | 😒 | verb | to feel angry about something you think is unfair | I [resent] being blamed for my sister's mess.
+temper | 🔥 | noun | a tendency to get angry quickly | My uncle has a quick [temper].
+outrage | 😤 | noun | a strong feeling of anger at something unfair or shocking | There was [outrage] when the park was closed. | fury, anger
+tantrum | 😭 | noun | a sudden fit of crying and anger, often by a small child | The toddler threw a [tantrum] in the store. | fit, meltdown
+livid | 🟥 | adj | extremely angry | Mom was [livid] when she saw the mess. | furious, enraged
+vexed | 😠 | adj | annoyed and frustrated | The [vexed] teacher sighed at the noisy class. | annoyed, irritated
+@story The Muddy Day | home
+🐉🟫 | Ziggy and the dog played in the mud and then ran straight into the clean house.
+😠🧹 | {Name} was [vexed]. She had just finished cleaning!
+😩🐾 | The muddy paw prints began to [exasperate] her even more.
+🌋😤 | When she saw mud on her favorite blanket, she began to [seethe].
+💨👨 | Then Dad came home and began to [fume] about the mud on his shoes.
+🟥👩 | When Mom saw the couch, she was [livid]!
+😭👶 | Baby Max threw a [tantrum] because everyone was yelling.
+😤🗣️ | There was [outrage] in the whole family.
+🔥😔 | "I know I have a [temper]," said Mom, taking a deep breath. "Let's all calm down."
+😒🐕 | Ziggy said, "I [resent] that the dog is getting away with it!" Everyone laughed. "Mud doesn't [infuriate] us forever," said Dad. "Let's clean up together."
+
+@unit Talking Someone Into It
+convince | 🗣️ | verb | to make someone believe or agree with something | Can you [convince] Dad to let us get a puppy? | persuade
+coax | 🥕 | verb | to gently persuade someone to do something | We tried to [coax] the kitten out from under the bed. | sweet-talk
+urge | 👉 | verb | to try hard to get someone to do something | The doctor will [urge] you to eat more vegetables. | push, encourage
+tempt | 🍰 | verb | to make someone want to do something, often something they shouldn't | The smell of cookies seemed to [tempt] me into the kitchen. | entice, lure
+entice | 🧀 | verb | to attract someone by offering something nice | The cheese should [entice] the mouse into the trap. | tempt, lure
+bribe | 💰 | verb | to offer someone money or a gift to do something, often something wrong | You can't [bribe] the referee! | pay off
+pester | 🦟 | verb | to keep bothering someone | Stop trying to [pester] me about dessert! | nag, bug
+influence | 🌊 | verb | to have an effect on how someone thinks or acts | Friends can [influence] the choices we make. | affect, sway
+recommend | 👍 | verb | to suggest that something is good | I [recommend] this book—it's great! | suggest
+appeal | 🙏 | noun | a serious request for help or support | The shelter made an [appeal] for blankets. | plea, request
+@story Operation Puppy | home
+🐶💭 | {Name} and Ziggy really wanted a puppy. "We need to [convince] Mom and Dad."
+🦟🗣️ | First, Ziggy tried to [pester] them. "Puppy? Puppy? PUPPY?" That didn't work.
+💰🍪 | Then he tried to [bribe] Dad with cookies. Dad laughed. "Nice try."
+🍰🐉 | Ziggy even baked a cake to [tempt] Mom.
+🙏📄 | So {Name} wrote a serious [appeal]: a letter explaining why they were ready.
+👍📚 | She asked the vet to [recommend] a good book about caring for dogs.
+🌊👀 | Seeing how responsible they were began to [influence] Mom and Dad.
+👉🐾 | Grandma even called to [urge] them: "Let the kids have a dog!"
+🐕🏠 | Finally, they visited the shelter. A shy puppy hid in the corner.
+🧸🐾 | They put a squeaky toy on the floor to [entice] the puppy to come closer.
+🥕😊 | {Name} tried to [coax] it out with a treat. It crept forward and licked her hand. "It's a deal," said Dad. The puppy was coming home!
+
+@unit Jobs and Careers
+occupation | 👩‍💼 | noun | a person's job | Her [occupation] is nurse. | job, profession
+profession | 🩺 | noun | a job that needs special training, like doctor or teacher | Teaching is a respected [profession]. | occupation, career
+career | 🛤️ | noun | the job or series of jobs a person has over many years | Grandpa had a long [career] as a pilot.
+employee | 🧑‍💼 | noun | a person who works for someone else and is paid | Every [employee] at the store wears a red shirt. | worker
+employer | 🏢 | noun | a person or company that pays people to work | My mom's [employer] is a big hospital. | boss
+salary | 💰 | noun | money paid regularly for doing a job, often per year | The new teacher earns a fair [salary]. | pay, income
+wage | 💵 | noun | money paid for work, often by the hour | The minimum [wage] went up this year. | pay
+colleague | 🤝 | noun | a person you work with | Dad and his [colleague] carpool to work. | coworker
+resign | 📄 | verb | to leave your job by choice | The coach decided to [resign] after ten years. | quit, step down
+hire | ✅ | verb | to give someone a job | The bakery wants to [hire] a new baker. | employ
+@story Bring Your Kid to Work Day | city
+🏢👩 | On Bring Your Kid to Work Day, {Name} and Ziggy went to Mom's office.
+👩‍💼🧪 | Mom's [occupation] is scientist. "My [profession] is studying plants," she said.
+🏢🌱 | Her [employer] is a company that makes medicine from plants.
+🧑‍💼👋 | Every [employee] waved hello.
+🤝☕ | Mom's [colleague], Mr. Park, shared his donuts with them.
+🛤️👴 | "I've had a long [career] here," said Mr. Park. "Twenty years! But next month, I'm going to [resign] and travel the world."
+✅📋 | "So we need to [hire] someone new," said Mom.
+💰📅 | "Is there a good [salary]?" asked Ziggy, sounding like a grown-up. Everyone laughed.
+💵🍋 | "Not like the [wage] you get from your lemonade stand," teased {Name}. "Someday," said Ziggy, "I'll have a career too—as a professional cookie taster!"
+
+@unit Inventors' Workshop
+device | 📱 | noun | a machine or tool made for a special job | A phone is a useful [device]. | gadget, tool
+contraption | 🛠️ | noun | a strange or complicated machine | Ziggy built a funny [contraption] to butter his toast. | gizmo, gadget
+mechanism | ⚙️ | noun | the moving parts inside a machine that make it work | The clock's [mechanism] was full of tiny gears.
+prototype | 🧪 | noun | the first model of something, made to test it | The inventors tested a [prototype] of the flying car.
+blueprint | 📐 | noun | a detailed plan or drawing of how to build something | The builders followed the [blueprint] to build the house. | plan
+innovate | 💡 | verb | to come up with new ideas or ways of doing things | Companies [innovate] to make better products.
+ingenious | 🧠 | adj | very clever and creative | Using a paper clip as a key was an [ingenious] idea. | clever, brilliant
+patent | 📜 | noun | an official document that says only you can make or sell your invention | She got a [patent] for her new kind of umbrella.
+engineer | 👷 | noun | a person who designs and builds machines, bridges, or roads | The [engineer] designed a bridge across the river.
+automatic | 🤖 | adj | working by itself without a person controlling it | The store has [automatic] doors that open by themselves.
+@story The Automatic Bed-Maker | lab
+😩🛏️ | Ziggy hated making his bed. "I'm going to [innovate]!" he said.
+📐✏️ | He and {Name} drew a [blueprint] of a bed-making machine.
+👷🔧 | {Name}'s aunt was an [engineer]. She showed them how gears and pulleys work.
+⚙️🔩 | They built the [mechanism] out of old bike chains and wheels.
+🛠️😂 | It was a strange [contraption] with arms, springs, and a feather duster on top.
+🧪🛏️ | They tested the first [prototype]. It folded the blanket… and Ziggy too!
+🤖✨ | After many changes, the machine became fully [automatic]. Press a button, and the bed was made!
+🧠🌟 | "That's [ingenious]!" said Aunt Rosa.
+📜🏆 | She helped them apply for a [patent].
+📱😎 | Now Ziggy can make his bed from a [device] in his pocket. "Inventing is easier than making the bed," he said.
