@@ -1355,3 +1355,256 @@ ruler | 📏 | noun | a flat strip of wood or plastic with marks for measuring |
 🧂🧀 | The cheese for the pizza weighed one [ounce].
 🧃🥛 | They poured a [liter] of juice and a [gallon] of water into the punch bowl.
 🐘😮 | At the zoo, the elephant weighed more than a [ton]! "How much do I weigh?" asked Ziggy. "Let's just say… a lot of pancakes," laughed {Name}.
+
+@unit Solid Shapes
+cube | 🧊 | noun | a solid shape with six square sides, like a box or a die | An ice [cube] melted in my glass.
+sphere | 🌐 | noun | a perfectly round solid shape, like a ball | The Earth is almost a [sphere]. | ball, globe
+cylinder | 🥫 | noun | a solid shape with two flat circle ends and a curved side, like a can | A soup can is a [cylinder].
+cone | 🍦 | noun | a shape with a round base that comes to a point at the top | An ice cream [cone] is a tasty shape!
+pyramid | 🔺 | noun | a solid shape with a flat base and triangle sides that meet at a point | The ancient Egyptians built a giant [pyramid].
+rectangle | ▭ | noun | a flat shape with four straight sides and four square corners | A door is shaped like a [rectangle].
+hexagon | ⬡ | noun | a flat shape with six sides | Each cell in a honeycomb is a [hexagon].
+octagon | 🛑 | noun | a flat shape with eight sides | A stop sign is an [octagon].
+angle | 📐 | noun | the space between two lines that meet at a point | A square has four right [angles].
+diagonal | ↗️ | noun | a straight line that goes from one corner to the opposite corner | Cut the sandwich along the [diagonal] to make two triangles.
+@story Shape City | city
+🏙️🔷 | Ziggy and {Name} built a whole city out of shapes on the kitchen table.
+🧊🏠 | Every house was a [cube] made of sugar cubes.
+🔺🏜️ | In the desert part, they built a giant [pyramid].
+🥫🗼 | The towers were each a [cylinder] made from empty cans.
+🍦🏰 | On top of the castle, Ziggy put an ice cream [cone] as a pointy roof.
+🌐☀️ | A shiny [sphere] hung above as the sun.
+▭🚪 | Every door was a little [rectangle] cut from cardboard.
+⬡🐝 | The beehive had a [hexagon] for every room.
+🛑🚸 | At every corner was a tiny red [octagon]—a stop sign!
+↗️🛣️ | The main road cut across the city on a [diagonal].
+📐😄 | "Every corner has a perfect right [angle]," said {Name}. "And every bite is delicious," said Ziggy, eating a sugar-cube house.
+
+@unit Writing Words
+sentence | 📝 | noun | a group of words that tells a complete thought | Every [sentence] starts with a capital letter.
+paragraph | 📄 | noun | a group of sentences about one idea | Write a [paragraph] about your favorite animal.
+comma | 〰️ | noun | a punctuation mark (,) that shows a short pause | Put a [comma] between "apples" and "bananas."
+vowel | 🔤 | noun | one of the letters a, e, i, o, u (and sometimes y) | Every word has at least one [vowel].
+draft | ✏️ | noun | a first, rough version of a piece of writing | My first [draft] had lots of crossed-out words.
+edit | 🖊️ | verb | to correct and improve a piece of writing | Let's [edit] your story to fix the spelling. | revise
+revise | 🔁 | verb | to change something to make it better | I need to [revise] my essay before I hand it in. | edit, rework
+publish | 📚 | verb | to print a book or article so people can read it | The school will [publish] our poems in a book.
+punctuation | ❓ | noun | marks like periods, commas, and question marks that help make writing clear | Don't forget [punctuation] at the end of each sentence.
+journal | 📔 | noun | a notebook where you write about your day or your thoughts | I write in my [journal] every night. | diary
+@story The Dragon Diaries | library
+📔🐉 | {Name} gave Ziggy a [journal] so he could write about his adventures.
+✏️📝 | He wrote his first [draft] in pencil. It was messy!
+📝🔤 | His first [sentence] was: "i am a dragon and i like pizza"
+❓🖊️ | "You need [punctuation]," said {Name}. "And capital letters!"
+🔤😅 | Ziggy had also forgotten a [vowel] in "drgon."
+〰️🍕 | "Put a [comma] between 'pizza' and 'pancakes,'" said {Name}.
+🖊️🔍 | They began to [edit] the story together.
+🔁✨ | Then Ziggy decided to [revise] the ending to make it more exciting.
+📄📄 | Soon each [paragraph] told a different adventure.
+📚🎉 | At the end of the year, the library agreed to [publish] his book: "The Dragon Diaries, by Ziggy." It was a bestseller—at least in their house!
+
+@unit Math Time
+add | ➕ | verb | to put numbers together to find the total | If you [add] two and three, you get five.
+subtract | ➖ | verb | to take one number away from another | [Subtract] four from ten, and you get six. | take away
+multiply | ✖️ | verb | to add a number to itself a certain number of times | When you [multiply] three by four, you get twelve.
+divide | ➗ | verb | to split into equal parts or groups | [Divide] the cookies equally between the four friends. | split, share
+equal | 🟰 | adj | the same in amount, size, or value | Two plus two is [equal] to four. | same
+difference | ↔️ | noun | the amount left when you subtract one number from another | The [difference] between ten and seven is three.
+fraction | 🍕 | noun | a part of a whole, like one half or one quarter | One slice of a pizza cut into eight is a [fraction] of it.
+digit | 🔢 | noun | any one of the numbers 0 to 9 | The number 245 has three [digits].
+estimate | 🤔 | verb | to make a careful guess about an amount | Can you [estimate] how many jellybeans are in the jar? | guess
+product | ✖️ | noun | the answer you get when you multiply numbers | The [product] of five and two is ten.
+@story The Bakery Math Problem | kitchen
+🍪🐉 | Ziggy and {Name} baked cookies for their class. But first, they needed some math.
+🤔🫙 | "Let's [estimate] how many cookies we need," said {Name}. "About thirty?"
+🔢👧 | "There are twenty-four kids. That number has two [digits]: two and four," said Ziggy.
+➕🧑‍🏫 | "Then [add] one for the teacher. That's twenty-five."
+✖️🍪 | They made five trays of six cookies. To find out how many that is, you [multiply]. "The [product] is thirty!"
+➖😋 | Ziggy ate two cookies. "[Subtract] two," said {Name}, rolling her eyes. "Now we have twenty-eight."
+↔️🧮 | "The [difference] between twenty-eight and twenty-five is three. We have three extra!"
+➗🍪 | At school, they had to [divide] the cookies so everyone got one.
+🟰😊 | "Everyone got an [equal] share!" said the teacher.
+🍕🐉 | Then Ziggy split the extra cookies into halves. "Each half is a [fraction]," he said proudly. "And they're all mine!"
+
+@unit Around the World
+continent | 🌍 | noun | one of the seven very large areas of land on Earth, like Africa or Asia | Australia is a country and a [continent].
+country | 🇺🇳 | noun | an area of land with its own government and borders | France is a [country] in Europe. | nation
+equator | 🌐 | noun | an imaginary line around the middle of the Earth | It's very hot near the [equator].
+globe | 🌎 | noun | a round model of the Earth | Spin the [globe] and point to a place. | sphere
+border | 🛂 | noun | the line that separates two countries or areas | We crossed the [border] into Canada. | boundary
+capital | 🏛️ | noun | the city where a country's or state's government is | Paris is the [capital] of France.
+region | 🗺️ | noun | a large area of a country or the world | The desert [region] gets very little rain. | area, zone
+nation | 🏳️ | noun | a country and the people who live there | The whole [nation] watched the big game. | country
+population | 👥 | noun | the number of people who live in a place | Our town has a [population] of ten thousand.
+atlas | 📖 | noun | a book of maps | I found Japan in the [atlas].
+@story Spin the Globe | school
+🌎🐉 | In geography class, the teacher let Ziggy spin the [globe]. "Wherever your claw lands, we'll learn about it!"
+🌍🦁 | It landed on Africa, the second-biggest [continent].
+🌐☀️ | "It's on the [equator]," said {Name}. "That's why it's so hot there!"
+🇺🇳🦒 | They chose a [country] called Kenya.
+📖🗺️ | They looked at Kenya in the [atlas].
+🏛️🏙️ | "The [capital] city is Nairobi," read {Name}.
+👥📊 | "The [population] is more than fifty million people!"
+🗺️🦓 | "In the grassy [region] called the savanna, you can see zebras and lions."
+🛂🏔️ | "Kenya shares a [border] with Tanzania, where the tallest mountain in Africa is."
+🏳️❤️ | "Every [nation] is different," said the teacher, "but people everywhere love their families, food, and stories." "And dragons!" added Ziggy.
+
+@unit Our Government
+vote | 🗳️ | verb | to choose someone or something by marking a ballot or raising your hand | We will [vote] for class president tomorrow.
+election | 📊 | noun | an event where people vote to choose a leader | The [election] for mayor is in November.
+citizen | 🧑 | noun | a person who belongs to a country and has rights there | Every [citizen] can vote when they turn eighteen.
+president | 🏛️ | noun | the leader of a country, club, or class | The class [president] gave a short speech.
+government | 🏢 | noun | the group of people who run a country, state, or city | The [government] builds roads and schools.
+law | 📜 | noun | a rule made by the government that everyone must follow | It's against the [law] to drive too fast. | rule
+community | 🏘️ | noun | a group of people who live in the same area | Our [community] has a library and a park.
+council | 👥 | noun | a group of people chosen to make decisions | The town [council] decided to build a new pool. | committee
+governor | 🎖️ | noun | the leader of a state | The [governor] visited our school.
+freedom | 🕊️ | noun | the right to do, say, or think what you want | We have the [freedom] to choose our own friends. | liberty
+@story Class President | school
+🏛️🏫 | {Name}'s class was having an [election] for class [president].
+🗳️✋ | Everyone would [vote] by secret ballot.
+🧑🎤 | "In our class, every student is like a [citizen]," said the teacher. "Each person gets one vote."
+📜✍️ | "Just like a country has a [government], our class has rules. But we don't make a [law]—we make class agreements."
+🏘️💛 | {Name} gave a speech. "Our class is a [community]. I want everyone to feel welcome."
+🕊️📚 | "And I'll fight for the [freedom] to choose our own books at reading time!"
+👥🤝 | "I'll also start a class [council] so everyone can share ideas."
+🎖️📞 | She even said she'd write a letter to the [governor] about adding more playgrounds.
+📊🎉 | When the votes were counted, {Name} won! Ziggy was named Vice President of Snacks.
+
+@unit Staying Healthy
+medicine | 💊 | noun | something you take to help you get better when you're sick | The [medicine] tasted like cherries.
+vaccine | 💉 | noun | a shot that teaches your body to fight off a disease | The [vaccine] keeps us from getting measles.
+germ | 🦠 | noun | a tiny living thing that can make you sick | Wash your hands to get rid of every [germ]. | microbe
+virus | 🤧 | noun | a tiny germ that causes illnesses like colds and the flu | The cold is caused by a [virus].
+symptom | 🌡️ | noun | a sign that you might be sick, like a cough or a fever | A runny nose is a [symptom] of a cold. | sign
+allergy | 🤧 | noun | when your body reacts badly to something, like pollen, peanuts, or cats | I have an [allergy] to cats—they make me sneeze.
+bandage | 🩹 | noun | a strip of cloth or plastic used to cover a cut | The nurse put a [bandage] on my knee.
+cure | 🧪 | noun | something that makes a sick person well again | Scientists are looking for a [cure] for the disease. | remedy
+recover | ❤️‍🩹 | verb | to get better after being sick or hurt | It took a week for me to [recover] from the flu. | heal, get well
+hygiene | 🧼 | noun | keeping yourself and things clean to stay healthy | Brushing your teeth is part of good [hygiene]. | cleanliness
+@story Ziggy Gets the Sniffles | home
+🤧🐉 | One morning, Ziggy sneezed and sneezed. "Is it an [allergy]?" asked {Name}. "To the cat?"
+🌡️🤒 | Then he got a fever. That was a [symptom] of something else.
+🩺👩‍⚕️ | The doctor said, "It's just a cold [virus]."
+🦠🔬 | She showed them a picture of a [germ] under a microscope. It looked like a tiny fuzzy ball.
+💊🍒 | She gave Ziggy some cherry [medicine].
+🧪❓ | "Is there a [cure] for colds?" asked {Name}. "Not exactly. Rest and fluids help your body fight it."
+💉💪 | "Make sure you get your [vaccine] every year," said the doctor. "It helps protect against the flu."
+🧼🖐️ | "And practice good [hygiene]. Wash your hands with soap!"
+🩹😅 | Ziggy got a [bandage] too—he had bumped his nose sneezing.
+❤️‍🩹😄 | After three days of soup and cartoons, Ziggy began to [recover]. "I feel as good as new!"
+
+@unit Our Planet
+electricity | ⚡ | noun | a kind of energy that makes lights, TVs, and computers work | The storm knocked out the [electricity].
+energy | 🔋 | noun | the power that makes things move, work, or grow | Food gives your body [energy]. | power
+solar | ☀️ | adj | having to do with the sun, or using the sun's energy | Our house has [solar] panels on the roof.
+fuel | ⛽ | noun | something burned to make heat or power, like gas or wood | Cars need [fuel] to run.
+recycle | ♻️ | verb | to turn used things like paper and cans into something new | We [recycle] our cans and bottles.
+pollution | 🏭 | noun | dirt and harmful things in the air, water, or land | Factory smoke causes air [pollution].
+environment | 🌍 | noun | the natural world around us: air, water, land, plants, and animals | We should protect the [environment]. | nature
+waste | 🗑️ | noun | things that are thrown away because they aren't wanted | Too much [waste] ends up in the ocean. | garbage, trash
+litter | 🚯 | noun | trash left lying around on the ground | We picked up [litter] at the beach. | trash, rubbish
+reuse | 🔁 | verb | to use something again instead of throwing it away | We [reuse] jars to store buttons and beads.
+@story Earth Day Heroes | park
+🌍💚 | It was Earth Day! {Name}'s class wanted to help the [environment].
+🚯🏞️ | First, they went to the park to pick up [litter]. They found bottles, wrappers, and one old boot!
+🗑️🌊 | "Too much [waste] ends up in rivers and oceans," said the teacher.
+♻️🥫 | They sorted cans and paper so the town could [recycle] them.
+🔁🫙 | {Name} brought jars to [reuse] as flower pots.
+🏭💨 | They learned that cars and factories cause air [pollution].
+⛽🚗 | "Cars burn [fuel] like gas," said the teacher. "Walking and biking are cleaner."
+☀️🔋 | They visited a house with [solar] panels that turned sunlight into [electricity].
+⚡🐉 | "Ziggy, could your fire make [energy] too?" asked a boy. Ziggy puffed at a toy windmill. It spun so fast that a light bulb flickered on! Everyone cheered.
+
+@unit Fancy Clothes
+uniform | 👮 | noun | special clothes worn by everyone in a group, like a team or school | The players wore their blue [uniform].
+gown | 👗 | noun | a long, elegant dress | The princess wore a sparkling [gown]. | dress
+cloak | 🧥 | noun | a loose coat without sleeves that hangs from the shoulders | The wizard pulled his [cloak] around him. | cape, mantle
+robe | 👘 | noun | a long, loose piece of clothing you can wrap around yourself, like the one a judge wears | I put on my fluffy [robe] after my bath.
+vest | 🦺 | noun | a piece of clothing without sleeves worn over a shirt | Grandpa wore a wool [vest] over his shirt.
+slipper | 🥿 | noun | a soft, comfortable shoe you wear indoors | I lost one [slipper] under the bed.
+bonnet | 👒 | noun | a hat tied under the chin with ribbons | The baby wore a white [bonnet].
+tuxedo | 🤵 | noun | a fancy black suit for men, worn at special events | The groom wore a black [tuxedo].
+overalls | 👖 | noun | pants with a front piece and straps that go over the shoulders | The farmer wore blue [overalls].
+sash | 🎗️ | noun | a long strip of cloth worn around the waist or over one shoulder | The winner wore a [sash] that said "Champion."
+@story The Costume Ball | castle
+🏰🎭 | The castle was having a costume ball, and everyone was invited.
+👗✨ | {Name} wore a sparkly blue [gown].
+🤵🎩 | Ziggy wore a tiny black [tuxedo] with a bow tie.
+🧙🧥 | The wizard came in a velvet [cloak] covered in stars.
+👘⚖️ | The judge wore her long black [robe].
+👒👶 | The baby princess wore a lace [bonnet].
+👮🎺 | The castle guards wore their red-and-gold [uniform].
+👖🧑‍🌾 | Farmer Rosa came in her [overalls] and boots. "This IS my fancy outfit!" she laughed.
+🦺🥿 | Grandpa wore a [vest], but he forgot to change his shoes—he had one [slipper] on and one boot!
+🎗️🏆 | At the end, the queen gave {Name} a [sash] that said "Best Dancer." Ziggy got one too: "Best Smoke Rings."
+
+@unit Personalities
+witty | 😏 | adj | clever and funny with words | Grandpa is so [witty]—his jokes always make us laugh. | clever, humorous
+goofy | 🤪 | adj | silly in a fun way | My dog makes [goofy] faces when he's happy. | silly, wacky
+comical | 🤡 | adj | funny, making people laugh | The clown had a [comical] walk. | funny, amusing
+serious | 😐 | adj | thoughtful and not joking | The judge had a [serious] face. | solemn
+cheeky | 😜 | adj | a little bit rude in a funny or playful way | The [cheeky] monkey stole my hat! | sassy
+grouchy | 😠 | adj | in a bad mood and complaining | Dad is [grouchy] when he's hungry. | grumpy, crabby
+chatty | 💬 | adj | liking to talk a lot | My [chatty] friend talks all through lunch. | talkative
+reserved | 🤐 | adj | quiet and not sharing your feelings easily | The new boy was [reserved] at first, but he opened up later. | quiet, shy
+outgoing | 🙋 | adj | friendly and comfortable talking to new people | My [outgoing] sister makes friends everywhere. | sociable, friendly
+energetic | ⚡ | adj | full of energy and very active | The [energetic] puppy ran around the yard all day. | lively, active
+@story The Animal Talent Show | park
+🎪🐾 | The park animals had a talent show, and {Name} and Ziggy were the judges.
+⚡🐶 | First came a puppy so [energetic] that it did ten backflips in a row.
+🤪🐐 | Then a [goofy] goat danced on its back legs.
+🤡🐧 | A penguin had a [comical] waddle that made everyone laugh.
+😜🐒 | A [cheeky] monkey stole the judge's hat and wore it.
+😏🦜 | A [witty] parrot told jokes. "Why don't eggs tell jokes? They'd crack up!"
+💬🐿️ | A [chatty] squirrel talked for so long that they had to ring a bell.
+🤐🐢 | A [reserved] turtle was too shy to come out of its shell.
+😠🦡 | A [grouchy] badger complained that the music was too loud.
+🙋🐉 | Ziggy was so [outgoing] that he hugged every performer.
+😐🏆 | {Name} put on a [serious] face to announce the winner… then burst out laughing. "Everybody wins!"
+
+@unit Beginnings and Endings
+origin | 🌱 | noun | the place or point where something begins | The [origin] of the river is a spring in the mountains. | source, beginning
+source | 💧 | noun | the place or thing that something comes from | The sun is the [source] of our light. | origin, root
+conclusion | 🏁 | noun | the end, or a decision you reach after thinking | In the [conclusion] of the story, the dragon finds his family. | ending
+finale | 🎆 | noun | the last, most exciting part of a show | The fireworks [finale] was the best part! | climax
+sequel | 📗 | noun | a book or movie that continues the story of an earlier one | I can't wait to read the [sequel]!
+introduction | 👋 | noun | the beginning part of a book or speech, or the act of meeting someone new | The [introduction] tells you what the book is about.
+debut | 🌟 | noun | someone's first public performance | The young singer made her [debut] at the town festival.
+retire | 🏖️ | verb | to stop working, usually because of age | Grandpa will [retire] from his job next year.
+resume | ▶️ | verb | to start again after stopping | The game will [resume] after the rain stops. | continue, restart
+initial | 1️⃣ | adj | happening at the beginning; first | My [initial] answer was wrong, but I fixed it. | first
+@story The Grand Show | school
+🎭🌟 | It was the night of the school show, and it was {Name}'s [debut] as a singer.
+👋🎤 | The principal gave a short [introduction]: "Welcome, everyone!"
+🌱📜 | The show told the [origin] of the town—how it began as a tiny village by a river.
+💧🏞️ | "The river was the [source] of everything: water, fish, and fun," sang the chorus.
+😬🎵 | {Name}'s [initial] feeling was fear. Her knees were shaking!
+⛈️⏸️ | Then the power went out! But the show would [resume] as soon as the lights came back.
+🏖️👴 | Mr. Gray, the music teacher, was about to [retire] after forty years. This was his last show.
+🎆🐉 | For the [finale], Ziggy lit sparkling fireworks with his breath (safely, outside the window).
+🏁👏 | In the [conclusion], everyone sang a song for Mr. Gray, and he cried happy tears.
+📗😄 | "That was amazing," said {Name}'s dad. "When's the [sequel]?"
+
+@unit Explorer's Gear
+canteen | 🫗 | noun | a small bottle for carrying water on a trip | Fill your [canteen] at the stream.
+pickaxe | ⛏️ | noun | a tool with a long handle and a pointed metal head for breaking rock | The miner swung his [pickaxe].
+headlamp | 🔦 | noun | a light you wear on your head | Her [headlamp] lit up the dark cave.
+raincoat | 🧥 | noun | a waterproof coat for wet weather | Put on your [raincoat]—it's pouring!
+knapsack | 🎒 | noun | a bag you carry on your back | He packed lunch in his [knapsack]. | backpack, rucksack
+rope | 🪢 | noun | strong, thick string made of twisted strands | We used a [rope] to climb the cliff.
+equipment | 🧰 | noun | the tools and things you need for a job or activity | The divers checked their [equipment] before the dive. | gear
+provisions | 🥫 | noun | food and drink for a trip | We packed enough [provisions] for three days. | supplies
+poncho | 🧥 | noun | a waterproof cloak with a hole in the middle for your head | She pulled her [poncho] over her head when the rain started.
+thermos | ☕ | noun | a special bottle that keeps drinks hot or cold | Dad brought hot cocoa in a [thermos]. | flask
+@story The Explorer's Club | mountain
+🧭🐉 | At last, {Name} and Ziggy were ready to join the Explorer's Club! But first, they had to pack the right [equipment].
+🎒✅ | Into her [knapsack] went everything she needed.
+🫗💧 | A [canteen] full of water.
+☕🍫 | A [thermos] of hot cocoa.
+🥫🍎 | Enough [provisions] for two days: sandwiches, apples, and trail mix.
+🪢🧗 | A long [rope] for climbing.
+⛏️🪨 | A small [pickaxe] for chipping rocks.
+🔦🌑 | A [headlamp] for dark caves.
+🧥🌧️ | A [raincoat] for her, and a [poncho] for Ziggy (with a hole for his tail).
+🏅🎉 | The club leader checked their bags and smiled. "Welcome, Explorers! Your next adventure begins tomorrow!"
