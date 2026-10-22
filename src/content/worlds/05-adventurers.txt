@@ -1,0 +1,235 @@
+# World 5 — adventurer words (about grades 4–5).
+
+@world adventurers | Adventurers | ⚔️ | Bold words for big stories
+
+@unit Brave Hearts
+valiant | 🛡️ | adj | very brave, especially in a hard or dangerous situation | The [valiant] knight faced the dragon alone. | courageous, heroic, intrepid
+intrepid | 🧗 | adj | fearless and adventurous | The [intrepid] explorer crossed the frozen sea. | fearless, bold, valiant
+peril | ⚠️ | noun | serious danger | The sailors were in great [peril] during the storm. | danger, jeopardy
+venture | 🗺️ | verb | to go somewhere new or risky | Don't [venture] too far from camp after dark. | dare, journey
+endure | 🏔️ | verb | to put up with something difficult or painful for a long time | The climbers had to [endure] freezing winds. | bear, withstand
+persevere | 🐢 | verb | to keep trying even when something is very hard | If you [persevere], you'll finish the marathon. | persist, keep going
+conquer | 🚩 | verb | to defeat or take control of something | She finally managed to [conquer] her fear of heights. | defeat, overcome
+defy | ✊ | verb | to boldly refuse to obey or go along with something | The rebels chose to [defy] the cruel king. | resist, challenge
+overcome | 🏆 | verb | to succeed in dealing with a problem or difficulty | He worked hard to [overcome] his shyness. | conquer, beat
+vanquish | ⚔️ | verb | to completely defeat an enemy | The hero set out to [vanquish] the evil sorcerer. | defeat, conquer
+@story The Storm Mountain | mountain
+🏔️⛈️ | High in the north stood Storm Mountain. No one had climbed it in a hundred years.
+🧗🐉 | But {Name} was an [intrepid] explorer, and Ziggy was her [valiant] friend.
+🗺️👣 | "Let's [venture] up the mountain," said {Name}. "Someone has to."
+⚠️🌨️ | Halfway up, they faced great [peril]: an icy cliff with a long drop below.
+🥶💨 | They had to [endure] howling winds and stinging snow.
+🐢💪 | Ziggy's wings ached, but they decided to [persevere].
+✊❄️ | A snow giant blocked their path. "Turn back!" he roared. But {Name} chose to [defy] him.
+🧠🤝 | "We won't fight you," she said. "Can you help us [overcome] this last cliff?" The giant was so surprised that he lifted them up himself!
+🚩🌅 | At the top, they planted a flag. They had managed to [conquer] Storm Mountain.
+⚔️😊 | "We didn't [vanquish] anyone," said Ziggy. "We made a friend instead." "That's the best kind of victory," said {Name}.
+
+@unit Uh-Oh!
+calamity | 🌋 | noun | a terrible event that causes great damage or suffering | The flood was a [calamity] for the whole valley. | disaster, catastrophe
+chaos | 🌀 | noun | complete confusion and disorder | When the dog got into the party, there was total [chaos]. | mayhem, pandemonium
+predicament | 😬 | noun | a difficult or awkward situation that is hard to get out of | Locked out in the rain, we were in a real [predicament]. | fix, jam
+dilemma | 🤔 | noun | a situation where you must choose between two difficult options | My [dilemma] was whether to go to the party or the game.
+blunder | 🤦 | noun | a careless, often embarrassing mistake | Calling my teacher "Mom" was a big [blunder]. | mistake, goof
+mishap | 🩹 | noun | a small accident | We had a little [mishap] with the paint, but we cleaned it up. | accident
+turmoil | 🌪️ | noun | a state of great confusion, worry, or disturbance | The town was in [turmoil] after the storm. | upheaval
+remedy | 💊 | noun | something that cures a problem or illness | Honey is a good [remedy] for a sore throat. | cure, fix
+jeopardy | ⚠️ | noun | danger of loss, harm, or failure | The baby birds were in [jeopardy] when the branch broke. | danger, peril
+havoc | 💥 | noun | great damage, mess, and confusion | The goats caused [havoc] in Grandma's garden. | destruction, mayhem
+@story The Goat Party | farm
+🐐🎉 | Farmer Rosa asked {Name} and Ziggy to watch her goats while she went to town. "What could go wrong?" said Ziggy.
+🤦🚪 | Ziggy made a [blunder]: he left the gate open.
+💥🌷 | The goats caused [havoc] in the flower garden, eating every tulip.
+🌀🐐 | Then there was total [chaos]: goats on the porch, goats on the roof, goats in the kitchen!
+🩹🥛 | In one [mishap], a goat knocked over the milk bucket and Ziggy slipped in it.
+🌪️😱 | The farm was in [turmoil].
+⚠️🥧 | Even Farmer Rosa's prize pie was in [jeopardy]—a goat was sniffing it!
+😬🤔 | They were in a real [predicament]. Their [dilemma]: chase the goats or save the pie?
+🌋😩 | "This is a [calamity]!" groaned Ziggy.
+💊🍎 | Then {Name} found the [remedy]: a bucket of apples. She shook it, and every goat came running back to the pen. When Farmer Rosa returned, the pie was safe—mostly.
+
+@unit Good Character
+diligent | 📚 | adj | working hard and carefully | The [diligent] student finished every assignment on time. | hardworking, industrious
+punctual | ⏰ | adj | arriving or doing things at the right time, not late | Please be [punctual]—the bus leaves at eight sharp. | on time, prompt
+reliable | ⚓ | adj | able to be trusted to do what is expected | My old bike is slow but [reliable]. | dependable, trustworthy
+considerate | 💐 | adj | thinking about other people's feelings and needs | It was [considerate] of you to save me a seat. | thoughtful, kind
+courteous | 🎩 | adj | polite and respectful | The [courteous] waiter held the door for us. | polite, gracious
+earnest | 🙏 | adj | very serious and sincere | He made an [earnest] promise to do better. | sincere, serious
+gracious | 👑 | adj | kind, polite, and generous, especially to guests | Our [gracious] host made sure everyone felt welcome. | courteous, kind
+tactful | 🤐 | adj | careful not to say things that upset people | Be [tactful] when you tell her you don't like the gift. | diplomatic, sensitive
+compassionate | 💗 | adj | feeling and showing care for those who suffer | The [compassionate] nurse held the scared boy's hand. | caring, kind
+selfless | 🤲 | adj | caring more about others than yourself | Giving up her seat was a [selfless] act. | unselfish, generous
+@story The New Class Pet | school
+🐹🏫 | {Name}'s class got a hamster named Pepper. The teacher needed someone to care for her.
+⏰🐹 | "Whoever takes care of Pepper must be [punctual] and feed her at nine every morning."
+📚✅ | {Name} was [diligent]. She made a checklist and never missed a day.
+⚓🐉 | Ziggy was [reliable] too. He brought fresh carrots every Monday.
+🎩🙋 | When visitors came to see Pepper, {Name} was [courteous] and showed them how to hold her gently.
+💐🧒 | A boy named Theo was scared of hamsters. {Name} was [considerate] and let him watch from a distance.
+🤐🎨 | When Theo drew a picture of Pepper that looked like a potato, {Name} was [tactful]. "I love the colors!"
+💗🤕 | When Pepper hurt her paw, {Name} was [compassionate]. She made her a soft little bed.
+🙏💬 | Theo gave {Name} an [earnest] thank-you. "You helped me not be scared."
+🤲👑 | At the end of the year, {Name} could have taken Pepper home, but she was [selfless] and let Theo have her. The teacher smiled. "That was very [gracious] of you."
+
+@unit Not-So-Nice Traits
+arrogant | 😤 | adj | thinking you are better or more important than other people | The [arrogant] prince wouldn't talk to the servants. | conceited, haughty
+smug | 😏 | adj | too pleased with yourself | He had a [smug] grin after winning the game. | self-satisfied
+vain | 🪞 | adj | too proud of how you look or what you can do | The [vain] peacock stared at himself in the pond all day. | conceited
+insolent | 😛 | adj | rude and disrespectful | The [insolent] boy stuck his tongue out at the teacher. | rude, impudent
+defiant | 🙅 | adj | boldly refusing to obey | The [defiant] toddler crossed her arms and said, "No!" | rebellious
+sullen | 😒 | adj | quiet and grumpy, in a bad mood | He sat in [sullen] silence after losing the race. | sulky, moody
+spiteful | 😈 | adj | wanting to hurt or upset someone on purpose | It was [spiteful] of her to break my sandcastle. | mean, malicious
+envious | 😑 | adj | wanting something that someone else has | I was [envious] of my friend's new puppy. | jealous
+petty | 🤏 | adj | caring too much about small, unimportant things | It's [petty] to stay mad about who got the bigger cookie. | small-minded
+hostile | 😠 | adj | unfriendly and ready to fight | The [hostile] dog barked at everyone who walked by. | unfriendly, aggressive
+@story The Peacock Prince | castle
+🦚👑 | In the Kingdom of Feathers lived Prince Plume, a peacock who was very [vain]. He stared at his reflection all day.
+😤🐦 | He was [arrogant] too. "I'm the most beautiful bird in the world," he said.
+😏🏆 | When he won the Feather Contest, he wore a [smug] smile for a week.
+😛🐿️ | He was [insolent] to the old owl who gave him advice.
+😑🐉 | When Ziggy came to visit, the prince was [envious] of his shiny scales.
+😈💦 | So he did something [spiteful]—he splashed mud on Ziggy's tail.
+🤏🍰 | Then he got [petty] and complained that Ziggy's slice of cake was bigger.
+😠🪶 | He was so [hostile] that none of the other birds wanted to play with him.
+🙅😢 | When the queen asked him to apologize, he was [defiant]. "No!"
+😒➡️💗 | But later, sitting alone and [sullen], he realized that being beautiful wasn't worth being lonely. The next day, he said sorry to Ziggy—and shared his cake.
+
+@unit Feelings Run Deep
+elated | 🥳 | adj | extremely happy and excited | We were [elated] when our team won the championship. | overjoyed, ecstatic, jubilant
+gleeful | 😆 | adj | full of happy, playful joy | The [gleeful] kids splashed in the puddles. | joyful, delighted
+melancholy | 🌧️ | adj | sad in a quiet, thoughtful way | The rainy day put me in a [melancholy] mood. | sad, gloomy
+forlorn | 🥺 | adj | sad and lonely, as if abandoned | The [forlorn] puppy waited by the door for its owner. | lonely, abandoned
+wistful | 💭 | adj | sadly wishing for something you can't have or that is gone | She gave a [wistful] look at the photos from summer. | longing, nostalgic
+serene | 🌅 | adj | calm and peaceful | The lake looked [serene] in the morning light. | tranquil, peaceful
+jubilant | 🎉 | adj | full of joy because of a success | The [jubilant] fans danced in the streets. | elated, triumphant
+indignant | 😤 | adj | angry because something is unfair | She was [indignant] when she was blamed for something she didn't do. | outraged
+agitated | 😣 | adj | nervous, upset, and unable to keep calm | The cat became [agitated] when it heard the thunder. | upset, worked up
+bewildered | 😵‍💫 | adj | very confused | The tourist looked [bewildered] by the subway map. | confused, puzzled
+@story The Last Day of Summer | beach
+🌅🏖️ | On the last day of summer, the beach was [serene]. The waves rolled in softly.
+💭🐚 | {Name} felt [wistful]. She didn't want summer to end.
+🌧️😔 | Ziggy was [melancholy] too. "No more sandcastles," he sighed.
+🥺🐕 | Down the beach, they saw a [forlorn] little dog sitting alone by a towel.
+😣🐕 | The dog was [agitated], running back and forth and whining.
+😵‍💫🧑 | A man came running. He looked [bewildered]. "Has anyone seen my dog?"
+😤🗣️ | A woman said, "That dog was barking at me! Owners should watch their pets!" The man was [indignant]. "He's just lost!"
+😆🐕 | When the dog saw the man, it jumped into his arms, [gleeful] and wagging.
+🎉👏 | Everyone on the beach clapped. The man was [jubilant].
+🥳🌈 | {Name} and Ziggy were [elated] that they had helped. "Maybe the end of summer isn't so bad," said Ziggy.
+
+@unit Deep Thinking
+contemplate | 🤔 | verb | to think deeply about something for a long time | She sat by the lake to [contemplate] her future. | ponder, consider
+deduce | 🔍 | verb | to figure something out by using clues and reasoning | From the muddy prints, we could [deduce] that the dog had come inside. | infer, conclude
+conclude | 🏁 | verb | to decide something after thinking about the facts | After testing the water, the scientists will [conclude] it is safe. | decide, infer
+analyze | 🔬 | verb | to study something carefully by looking at its parts | We will [analyze] the data from our experiment. | examine, study
+comprehend | 💡 | verb | to understand something | It's hard to [comprehend] how big the universe is. | understand, grasp
+interpret | 🗣️ | verb | to explain the meaning of something | Can you [interpret] what this poem means? | explain, translate
+perceive | 👁️ | verb | to notice or become aware of something | Dogs can [perceive] sounds that people can't hear. | sense, notice
+speculate | 🔮 | verb | to guess about something without knowing all the facts | We can only [speculate] about what's inside the box. | guess, wonder
+reflect | 🪞 | verb | to think carefully about something, especially the past | At the end of the year, we [reflect] on what we learned.
+evaluate | ⚖️ | verb | to judge how good or important something is | The judges will [evaluate] each science project. | assess, judge
+@story The Mysterious Message | library
+📜❓ | In an old library book, {Name} found a strange note: "Under the oldest oak, the treasure waits."
+🔮🐉 | "Maybe it's pirate gold!" said Ziggy. "We can only [speculate]," said {Name}.
+🔬📜 | She decided to [analyze] the note. The paper was yellow and the ink was faded.
+🗣️🔤 | Some words were in an old style. She asked the librarian to help [interpret] them.
+👁️🌳 | Then {Name} began to [perceive] a tiny drawing in the corner: an oak tree next to a fountain.
+🔍⛲ | "There's only one fountain in town," she said. "So we can [deduce] that the oak is in the park!"
+🤔🌳 | In the park, they sat under the oak to [contemplate] what to do next.
+⚖️🪨 | They had to [evaluate] where to dig. "Not near the roots—we don't want to hurt the tree."
+💡📦 | They found a small tin box. Inside were old marbles and a letter from a boy who lived a hundred years ago! It was hard to [comprehend] that he had once played in this same park.
+🏁🪞 | "I [conclude] that this is better than gold," said {Name}. They took time to [reflect], then wrote their own letter and put it back for the next kids to find.
+
+@unit Say It Clearly
+declare | 📣 | verb | to say something firmly and officially | The king will [declare] a holiday for the whole kingdom. | announce, proclaim
+assert | ☝️ | verb | to say something confidently, as if it's definitely true | She will [assert] that her answer is right. | claim, insist
+inquire | ❓ | verb | to ask for information | I called the store to [inquire] about their hours. | ask
+convey | 📨 | verb | to communicate or carry a message or feeling | Her smile seemed to [convey] how happy she was. | communicate, express
+emphasize | ❗ | verb | to show that something is especially important | The coach likes to [emphasize] teamwork. | stress, highlight
+clarify | 🔦 | verb | to make something clearer and easier to understand | Can you [clarify] what you mean? | explain
+pronounce | 🗣️ | verb | to say a word in the correct way | How do you [pronounce] this long word?
+recite | 📜 | verb | to say something aloud from memory | She can [recite] the whole poem by heart.
+utter | 💬 | verb | to make a sound or say something | He was so shocked he couldn't [utter] a word. | say, speak
+summarize | 📝 | verb | to tell the main points briefly | Can you [summarize] the story in three sentences? | sum up
+@story The Spelling Bee | school
+🐝🏫 | It was the town spelling bee, and {Name} was in the finals.
+❓🎤 | Before she began, she raised her hand to [inquire] about the rules.
+🔦📏 | The judge was happy to [clarify]: "You may ask for the word to be used in a sentence."
+🗣️🔤 | The first word was "rhinoceros." {Name} had to [pronounce] it carefully before spelling it.
+☝️✅ | She spelled it and felt sure enough to [assert], "That's correct!"
+😮💬 | Her rival was so nervous that he couldn't [utter] a single letter.
+❗📖 | The judge wanted to [emphasize] that everyone had done well.
+📜🎶 | During the break, Ziggy stood up to [recite] a poem about bees. Everyone laughed.
+📣🏆 | Finally, the judge stood up to [declare] the winner: {Name}!
+📨🌟 | Her mom's hug seemed to [convey] how proud she was.
+📝🐉 | Later, a reporter asked Ziggy to [summarize] the day. "She spelled, she won, and we had cake!"
+
+@unit Up, Down, Away
+ascend | ⬆️ | verb | to go up or climb | The hot-air balloon began to [ascend] into the sky. | climb, rise
+descend | ⬇️ | verb | to go down | We had to [descend] the steep stairs carefully. | go down, drop
+plummet | 📉 | verb | to fall straight down very fast | The rock began to [plummet] off the cliff. | plunge, drop
+surge | 🌊 | verb | to move forward suddenly with great force | The crowd began to [surge] toward the stage. | rush, swell
+emerge | 🐣 | verb | to come out from somewhere and be seen | The butterfly will [emerge] from its cocoon soon. | appear, come out
+retreat | 🏃 | verb | to move back or away, especially from danger | The soldiers had to [retreat] when the enemy came. | withdraw, back off
+advance | ➡️ | verb | to move forward | The army began to [advance] across the field. | proceed, progress
+pursue | 🐕 | verb | to follow or chase someone or something | The police will [pursue] the robbers. | chase, follow
+flee | 💨 | verb | to run away from danger | The animals had to [flee] from the forest fire. | escape, run away
+meander | 〰️ | verb | to follow a winding, wandering path | The stream seems to [meander] through the meadow. | wind, wander
+@story The Balloon Ride | sky
+🎈🐉 | {Name} and Ziggy took a ride in a hot-air balloon at the fair.
+⬆️☁️ | The balloon began to [ascend] slowly into the sky.
+〰️🏞️ | Far below, they watched a river [meander] through the green valley.
+🌊🌬️ | Then a strong wind began to [surge] and push the balloon toward the mountains!
+🦅😮 | A huge eagle swooped down to [pursue] them, thinking the balloon was a big bird.
+➡️🦅 | The eagle began to [advance], closer and closer.
+💨🐉 | Ziggy breathed a puff of smoke, and the eagle had to [retreat].
+📉😱 | Then the balloon began to [plummet]! A rope had come loose.
+🔧🔥 | {Name} quickly fixed the rope, and Ziggy breathed fire into the balloon to heat the air.
+⬇️🌾 | They began to [descend] gently into a field. A family of rabbits had to [flee] as they landed.
+🐣😄 | They watched the last rabbit [emerge] from its burrow to see what had happened. "What a ride!" laughed {Name}.
+
+@unit How Much Is There?
+colossal | 🗿 | adj | extremely large | The [colossal] statue towered over the city. | gigantic, huge
+minuscule | 🔬 | adj | extremely small | There was a [minuscule] crumb on the table. | tiny, minute
+microscopic | 🦠 | adj | so tiny that you need a microscope to see it | Germs are [microscopic]. | invisible
+infinite | ♾️ | adj | without any end or limit | The universe may be [infinite]. | endless, limitless
+ample | 🍽️ | adj | more than enough | There's [ample] room for everyone in the van. | plenty, abundant
+scant | 🤏 | adj | barely enough, or not enough | There was [scant] rain this summer, so the grass turned brown. | meager, sparse
+meager | 🍞 | adj | small in amount and not enough | The hungry travelers had only a [meager] meal of bread. | scant, skimpy
+abundant | 🍎 | adj | existing in large amounts; plenty | Apples are [abundant] in the fall. | plentiful, ample
+sparse | 🌵 | adj | thinly scattered, with lots of space between | Trees were [sparse] in the dry desert. | scattered, scant
+excessive | 📈 | adj | much more than is needed or normal | Eating an [excessive] amount of candy will hurt your tummy. | too much
+@story The Giant's Garden | garden
+🗿🌻 | Past the hills lived a [colossal] giant named Gus. His garden was enormous.
+🍎🍓 | Fruit was [abundant] there: apples as big as boulders and strawberries as big as beds.
+🍽️😋 | There was [ample] food for every animal in the land.
+🐜🔬 | But Gus didn't see a [minuscule] ant colony living under one leaf.
+🦠🌱 | And he didn't know about the [microscopic] creatures in the soil that helped his plants grow.
+📈💧 | One summer, Gus used an [excessive] amount of water. The garden flooded, and the ants nearly washed away!
+🐉👧 | {Name} and Ziggy showed Gus the ants. "Your garden is for everyone, big and small."
+🌵🌾 | The next year, there was [scant] rain. The grass was [sparse] and dry.
+🍞😟 | The animals had only a [meager] amount of food.
+♾️💛 | So Gus shared his water, and the ants shared their tunnels to bring the water to the roots. "There's [infinite] kindness in a garden," said Ziggy.
+
+@unit Light and See-Through
+radiant | ☀️ | adj | shining brightly, or glowing with happiness | The bride had a [radiant] smile. | glowing, beaming
+luminous | 🌟 | adj | giving off light; glowing | The [luminous] jellyfish glowed in the dark water. | glowing, bright
+translucent | 🫧 | adj | letting some light through, but not clear enough to see through | The paper lantern was [translucent].
+transparent | 🪟 | adj | clear enough to see through | Glass is [transparent]. | clear, see-through
+opaque | 🧱 | adj | not letting any light through | The [opaque] curtains kept the room dark.
+iridescent | 🌈 | adj | showing rainbow colors that change as you move | The soap bubble was [iridescent].
+vibrant | 🎨 | adj | bright, lively, and full of energy | The market was full of [vibrant] colors. | vivid, lively
+drab | 🩶 | adj | dull and boring in color | The [drab] gray building needed some paint. | dull, dreary
+dingy | 🏚️ | adj | dark, dirty, and gloomy | The [dingy] basement smelled musty. | grimy, gloomy
+pristine | ✨ | adj | perfectly clean, as if brand new | The snow was [pristine] before anyone walked on it. | spotless, immaculate
+@story The Glass Workshop | lab
+🏚️🔦 | At the end of a [dingy] alley was a tiny glass workshop.
+🩶🚪 | Its door was [drab] and gray, but inside, it was magic.
+🔥🐉 | The glassmaker let Ziggy help heat the furnace with his fire.
+🪟✨ | First, they made a [transparent] window so clear you could hardly see it.
+🫧🏮 | Next, a [translucent] lamp that glowed softly when lit.
+🧱🏺 | Then a dark, [opaque] vase that no light could pass through.
+🌈🫧 | {Name} blew a bubble of glass that was [iridescent], shimmering with rainbow colors.
+🌟🌙 | The best piece was a [luminous] glass moon that glowed all night.
+🎨🌸 | They painted the workshop door with [vibrant] flowers.
+✨😄 | When they were done, everything was [pristine]. The glassmaker gave {Name} a [radiant] smile. "Come back anytime!"
