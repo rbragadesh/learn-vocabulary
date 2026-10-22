@@ -58,6 +58,14 @@ interface Bracket {
   end: number;
 }
 
+/** Catch "[stink]s" (the gap would leave a stray "s") and unfinished lines ending in a dash. */
+function textProblems(text: string): string[] {
+  const problems: string[] = [];
+  if (/\][A-Za-z]/.test(text)) problems.push('letters straight after [..] — put the whole word inside the brackets');
+  if (/[—–-]\s*$/.test(text)) problems.push('line ends with a dash — unfinished sentence?');
+  return problems;
+}
+
 function findBrackets(text: string): Bracket[] {
   const out: Bracket[] = [];
   const re = /\[([^\]|]+)(?:\|([^\]]+))?\]/g;
@@ -177,6 +185,7 @@ export function buildCurriculum(files: { file: string; text: string }[]): { curr
         if (firstSeen.has(id)) err(line, `duplicate word "${word}" (first in ${firstSeen.get(id)})`);
         else firstSeen.set(id, `${file}:${line}`);
         if (containsWord(definition, id)) err(line, `definition of "${word}" gives the word away`);
+        textProblems(example).forEach((m) => err(line, m));
         const brackets = findBrackets(example);
         if (brackets.length !== 1) err(line, `example must contain exactly one [word], found ${brackets.length}`);
         const b = brackets[0];
@@ -208,6 +217,7 @@ export function buildCurriculum(files: { file: string; text: string }[]): { curr
         if (rs.pages.length < 4) err(rs.line, `story "${rs.title}" has only ${rs.pages.length} pages`);
         const used = new Map<string, number>();
         const pages: StoryPage[] = rs.pages.map((p) => {
+          textProblems(p.text).forEach((m) => err(p.line, m));
           const parts: (string | StoryBlank)[] = [];
           let pos = 0;
           for (const b of findBrackets(p.text)) {
