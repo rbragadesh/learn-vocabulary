@@ -896,3 +896,211 @@ chisel | 🔨 | noun | a tool with a sharp flat edge for cutting wood or stone |
 🔧🔩 | He used a [wrench] to fix Ziggy's wobbly bike and [pliers] to bend the bell back into shape.
 🔨🗿 | With a [chisel], he carved a little wooden dragon.
 ✂️🪡 | Grandma used [scissors] and a [needle] to sew a tiny cape for it. "It's you, Ziggy!" said {Name}.
+
+@unit Round and Round
+rotate | 🔄 | verb | to turn around a center point | The Earth will [rotate] once every day. | turn, spin
+vibrate | 📳 | verb | to shake very quickly back and forth | My phone will [vibrate] when I get a message. | buzz, shake
+swivel | 🪑 | verb | to turn around on a fixed point | The office chair can [swivel] all the way around. | pivot
+revolve | 🪐 | verb | to move in a circle around something else | The planets [revolve] around the Sun. | orbit, circle
+topple | 🧱 | verb | to fall over, or make something fall over | The tower of blocks began to [topple]. | tumble, tip over
+teeter | ⚖️ | verb | to wobble and almost fall | The glass began to [teeter] on the edge of the table. | totter, wobble
+jiggle | 🍮 | verb | to move up and down or side to side with quick little movements | The jelly began to [jiggle] on the plate. | wiggle, shake
+jolt | ⚡ | noun | a sudden, hard shake or bump | The bus stopped with a [jolt]. | jerk, bump
+whirl | 🌪️ | verb | to spin around very fast | The dancers began to [whirl] across the stage. | twirl, swirl
+fidget | 🫨 | verb | to move around in a restless way because you can't sit still | Try not to [fidget] during the long movie. | squirm
+@story The Spinning Fair | park
+🎡🎪 | {Name} and Ziggy went to the fair, where everything spun, shook, and wobbled!
+🎡⬆️ | The big Ferris wheel began to [rotate] slowly into the sky.
+🪐🎠 | The swings would [revolve] around a tall pole.
+🌪️☕ | On the teacup ride, they began to [whirl] so fast that Ziggy got dizzy.
+🪑😆 | At the snack stand, Ziggy sat on a stool that could [swivel] all the way around.
+📳🏎️ | In the bumper cars, the floor began to [vibrate], and—bang!—they crashed with a [jolt].
+🍮😂 | Ziggy won a giant jelly, and it began to [jiggle] in his arms.
+⚖️🥤 | He balanced a soda on his head, but it began to [teeter].
+🧱🎯 | At the ring toss, {Name}'s ring made a tower of bottles [topple]. She won a prize!
+🫨🚗 | On the drive home, Ziggy couldn't stop moving. "I can't help it—I still [fidget] like I'm on the rides!"
+
+@unit Colors of the Rainbow
+crimson | 🟥 | adj | a deep, rich red color | The sunset turned the sky [crimson]. | deep red
+scarlet | 🍓 | adj | a bright red color | The cardinal has [scarlet] feathers. | bright red
+azure | 🌊 | adj | the bright blue color of a clear sky | We swam in the [azure] sea. | sky blue
+lavender | 💜 | adj | a pale purple color | She painted her room [lavender].
+violet | 🟣 | adj | a bluish-purple color | The [violet] flowers smelled sweet. | purple
+amber | 🟠 | adj | a warm golden-orange color | The cat had big [amber] eyes.
+ivory | 🦷 | adj | a creamy white color | The bride wore an [ivory] dress. | cream
+turquoise | 🩵 | adj | a greenish-blue color | The tropical water was clear and [turquoise]. | aqua, teal
+indigo | 🫐 | adj | a deep blue-purple color | The night sky turned [indigo]. | navy
+beige | 🟫 | adj | a pale brown color, like sand | Our couch is plain [beige]. | tan
+@story Ziggy's Paint Box | school
+🎨🐉 | Ziggy got a new paint box with fancy color names. "Let's paint a whole world!"
+🌊☀️ | First he painted an [azure] sky.
+🩵🐠 | Below it was a [turquoise] sea with little fish.
+🟫🏖️ | He painted a [beige] beach of soft sand.
+🍓🐦 | On a tree sat a bird with [scarlet] wings.
+🟣🌸 | In the garden he added [violet] flowers and [lavender] bushes.
+🟠🐈 | A cat with [amber] eyes peeked out from a bush.
+🦷🏰 | On a hill stood a castle with [ivory] walls.
+🫐🌙 | For the night side of the picture, he used [indigo] with silver stars.
+🟥🌅 | And in the middle, where day met night, he painted a [crimson] sunset. "It's a whole world of color," said {Name}.
+
+@unit Touch Words
+coarse | 🧶 | adj | rough and thick, not fine or smooth | The rope was made of [coarse] fibers. | rough, scratchy
+velvety | 🌹 | adj | soft and smooth like velvet | The rose petals felt [velvety]. | silky, plush
+gritty | 🏖️ | adj | full of tiny bits of sand or dirt | My sandwich got [gritty] when I dropped it on the beach. | sandy
+slick | 🧊 | adj | smooth and slippery | The floor was [slick] after it was mopped. | slippery
+spongy | 🧽 | adj | soft and full of holes, like a sponge | The moss felt [spongy] under our feet. | squishy
+leathery | 👢 | adj | tough and dry like leather | The old turtle had [leathery] skin. | tough
+waxy | 🕯️ | adj | smooth and shiny like wax | Holly leaves are [waxy] and dark green.
+powdery | ❄️ | adj | soft and fine, like dust or powder | We skied through [powdery] snow. | fine, dusty
+crisp | 🍏 | adj | hard and crunchy in a nice, fresh way | The apple was cold and [crisp]. | crunchy
+grainy | 🍞 | adj | made of small bits you can see or feel | The homemade bread was a bit [grainy].
+@story The Feely Garden | garden
+🌿👐 | At the museum, there was a garden where you were supposed to touch everything!
+🌹😌 | First, {Name} stroked a rose. Its petals were [velvety].
+🧽🌱 | The moss on the rocks was soft and [spongy].
+🕯️🍃 | The holly leaves were shiny and [waxy].
+🧶🌾 | The tall grass felt [coarse] and scratchy.
+🏖️✋ | In a sandbox, the sand was [gritty] between their fingers.
+🍞🌾 | A bowl of birdseed felt [grainy].
+🐢👢 | A friendly old tortoise let them touch its [leathery] shell.
+❄️🧂 | A tray of flour felt [powdery] and soft.
+🧊😮 | Ziggy slipped on a [slick] wet stone. Whoops!
+🍏😋 | At the end, they each got a [crisp] green apple. "Best museum ever," crunched Ziggy.
+
+@unit Arctic Animals
+walrus | 🦭 | noun | a large sea animal with long tusks and whiskers | The [walrus] used its tusks to climb onto the ice.
+penguin | 🐧 | noun | a black and white bird that can't fly but swims very well | The [penguin] slid on its belly across the ice.
+narwhal | 🦄 | noun | a whale with a long, spiral tusk on its head | The [narwhal] is sometimes called the unicorn of the sea.
+reindeer | 🦌 | noun | a kind of deer with big antlers that lives in cold places | The [reindeer] dug through the snow to find food. | caribou
+husky | 🐕 | noun | a strong, furry dog that pulls sleds in the snow | The [husky] pulled the sled across the snow.
+orca | 🐋 | noun | a large black and white whale, also called a killer whale | An [orca] leaped out of the icy water.
+puffin | 🐦 | noun | a seabird with a colorful beak that nests on cliffs | The [puffin] carried fish in its colorful beak.
+igloo | 🛖 | noun | a dome-shaped house made of blocks of snow | We built an [igloo] out of snow bricks.
+iceberg | 🧊 | noun | a huge piece of ice floating in the sea | Most of an [iceberg] is hidden under the water.
+blubber | 🐳 | noun | the thick layer of fat that keeps whales and seals warm | Whales have [blubber] to stay warm in icy water.
+@story The Snowy North | snow
+❄️🛷 | {Name} and Ziggy took a sled ride to the far, frozen North.
+🐕🐕 | A team of friendly [husky] dogs pulled their sled.
+🦌🌨️ | They passed a herd of [reindeer] digging for moss under the snow.
+🛖✨ | That night, they slept in an [igloo] made of snow blocks. It was surprisingly warm inside!
+🧊🌊 | The next day, they saw a giant [iceberg] floating in the sea.
+🦭💪 | On the ice lay a huge [walrus] with long tusks.
+🐳🔥 | "How does it stay warm?" asked Ziggy. "It has thick [blubber]," said {Name}.
+🐋💦 | An [orca] jumped out of the water with a giant splash!
+🦄🌊 | Then they saw a [narwhal] with a long spiral tusk. "A sea unicorn!" gasped {Name}.
+🐦🐟 | A [puffin] flew by with a beak full of fish, and a [penguin] waddled past— "Wait," said {Name}. "Penguins live at the SOUTH Pole!" "He's on vacation," said Ziggy.
+
+@unit Bird Watching
+eagle | 🦅 | noun | a large, strong bird with a hooked beak and sharp eyes | The [eagle] built a huge nest at the top of the tree.
+falcon | 🦅 | noun | a fast bird that hunts by diving through the air | A [falcon] can dive faster than a race car.
+vulture | 🐦 | noun | a large bird that eats dead animals | A [vulture] circled over the desert. | buzzard
+pelican | 🦢 | noun | a large seabird with a big pouch under its beak for catching fish | The [pelican] scooped up fish in its giant beak.
+flamingo | 🦩 | noun | a tall pink bird with long legs that stands in shallow water | The [flamingo] stood on one leg.
+peacock | 🦚 | noun | a large bird whose tail feathers spread into a beautiful fan | The [peacock] spread its blue and green tail.
+ostrich | 🐦 | noun | the largest bird in the world; it can't fly but runs very fast | An [ostrich] can run faster than a horse.
+hummingbird | 🐦 | noun | a tiny bird that beats its wings so fast that they hum | The [hummingbird] sipped nectar from the flower.
+sparrow | 🐦 | noun | a small brown bird that is common in towns and gardens | A [sparrow] hopped across the sidewalk.
+robin | 🐦 | noun | a bird with a red-orange chest that sings in spring | The [robin] pulled a worm from the lawn.
+@story The Bird Count | park
+📋🐦 | Every year, the town has a Big Bird Count. {Name} and Ziggy volunteered to help.
+🐦🌳 | In the garden, a [robin] was pulling up a worm.
+🐦🏙️ | A little brown [sparrow] hopped along the sidewalk.
+🐦🌸 | A tiny [hummingbird] hovered at a flower, its wings a blur.
+🦚🏰 | At the castle garden, a [peacock] spread its tail like a fan.
+🦩🌊 | At the lake, a pink [flamingo] stood on one leg.
+🦢🐟 | A [pelican] scooped up a whole beakful of fish.
+🦅⛰️ | High on the mountain, an [eagle] sat in a giant nest.
+🦅💨 | A [falcon] dove through the sky like a rocket.
+🐦🏜️ | At the zoo, they saw an [ostrich] running and a [vulture] resting on a dead tree. "That's a lot of birds!" said {Name}. "One hundred and twelve!"
+
+@unit Bugs Up Close
+mosquito | 🦟 | noun | a small flying insect that bites and drinks blood | A [mosquito] bit me on the arm.
+termite | 🐜 | noun | an insect like an ant that eats wood | A [termite] can chew through a wooden house.
+flea | 🐕 | noun | a tiny jumping insect that lives on animals and bites them | The dog scratched because of a [flea].
+cocoon | 🐛 | noun | a soft case that some insects spin around themselves while they change | The caterpillar spun a [cocoon] on a twig.
+larva | 🪱 | noun | a young insect that looks like a worm before it changes into an adult | A caterpillar is a butterfly [larva].
+antenna | 📡 | noun | one of two long feelers on an insect's head | The ant waved its [antenna] to smell the food.
+insect | 🐞 | noun | a small animal with six legs and a body in three parts | A ladybug is an [insect]. | bug
+colony | 🏘️ | noun | a large group of animals of one kind that live together | An ant [colony] can have millions of ants.
+centipede | 🐛 | noun | a long, thin creature with many legs | A [centipede] scurried under a rock.
+scorpion | 🦂 | noun | a small creature with eight legs, claws, and a stinging tail | A [scorpion] hid in the desert sand.
+@story Bug Camp | forest
+🏕️🐞 | {Name} and Ziggy went to Bug Camp to study every kind of [insect].
+🐜🏘️ | First they found an ant [colony] under a log. Thousands of ants were marching in lines.
+📡🐜 | One ant waved its [antenna] at Ziggy. "Hello to you too!"
+🪵🐜 | In an old fence post, they found a [termite] munching on wood.
+🪱🍃 | On a leaf was a tiny [larva] that would soon become a beetle.
+🐛🌿 | They also found a [cocoon] hanging from a twig. A moth would come out soon!
+🐛🪨 | Under a rock, a [centipede] wiggled away on its many legs.
+🦂🏜️ | In the camp's glass tank, they saw a [scorpion] from the desert. "Don't touch the tail!"
+🦟😣 | That night, a [mosquito] bit {Name}'s arm.
+🐕😂 | And their camp dog kept scratching because of a [flea]. "Bug Camp is a little TOO full of bugs," laughed Ziggy.
+
+@unit Reptile House
+lizard | 🦎 | noun | a reptile with four legs, a long tail, and scaly skin | A [lizard] sunned itself on a warm rock.
+crocodile | 🐊 | noun | a large reptile with a long snout and sharp teeth that lives in rivers | The [crocodile] floated in the river like a log.
+alligator | 🐊 | noun | a large reptile like a crocodile, with a wider, rounder snout | An [alligator] lives in the swamps of Florida.
+chameleon | 🦎 | noun | a lizard that can change the color of its skin | The [chameleon] turned green on the leaf.
+iguana | 🦎 | noun | a large green lizard with spikes down its back | The [iguana] ate lettuce and flowers.
+salamander | 🦎 | noun | a small animal like a lizard with smooth, wet skin that lives near water | We found a spotted [salamander] under a wet log.
+tortoise | 🐢 | noun | a turtle that lives on land and moves slowly | The [tortoise] is over a hundred years old.
+cobra | 🐍 | noun | a poisonous snake that spreads its neck like a hood | The [cobra] raised its head and hissed.
+python | 🐍 | noun | a very large snake that squeezes its prey | The [python] was as long as a car.
+gecko | 🦎 | noun | a small lizard with sticky feet that can climb walls | A [gecko] walked right up the window.
+@story Ziggy's Cousins | jungle
+🦎🏛️ | {Name} and Ziggy visited the Reptile House. "Are these your cousins?" asked {Name}.
+🦎☀️ | A green [iguana] with spiky skin munched on flowers.
+🦎🌈 | A [chameleon] turned from brown to bright green as they watched.
+🦎🪟 | A tiny [gecko] walked straight up the glass wall with its sticky feet.
+🦎🪨 | A [lizard] lay on a warm rock with its eyes closed.
+🦎💧 | Under a wet log hid a spotted [salamander].
+🐢🐌 | The oldest animal was a giant [tortoise], who was 120 years old.
+🐊🐊 | In the river room, a [crocodile] and an [alligator] floated side by side. "Can you tell them apart?" asked the keeper. "The alligator has a rounder snout!"
+🐍👑 | A [cobra] spread its hood like a crown.
+🐍😮 | And a huge [python] was curled up asleep. "None of them breathe fire," said Ziggy. "I'm the only cool cousin."
+
+@unit Under the Sea
+seahorse | 🐴 | noun | a small fish with a head shaped like a horse that swims upright | The [seahorse] held onto the seaweed with its tail.
+stingray | 🐟 | noun | a flat fish with wide fins and a long tail that can sting | A [stingray] glided along the sandy bottom.
+squid | 🦑 | noun | a sea animal with a long body, ten arms, and the ability to squirt ink | The [squid] squirted ink and swam away.
+barracuda | 🐟 | noun | a long, fast fish with sharp teeth | A silver [barracuda] darted through the reef.
+urchin | 🦔 | noun | a small, round sea animal covered in sharp spines | Don't step on a sea [urchin]—its spines hurt!
+clownfish | 🐠 | noun | a small orange and white fish that lives among anemones | The [clownfish] hid in the anemone.
+plankton | 🦠 | noun | tiny plants and animals that float in the sea | Whales eat tons of [plankton].
+kelp | 🌿 | noun | a large brown seaweed that grows in tall underwater forests | Otters wrap themselves in [kelp] when they sleep. | seaweed
+manatee | 🦭 | noun | a large, gentle, slow sea animal that eats plants | The [manatee] munched on sea grass.
+anemone | 🌸 | noun | a sea animal that looks like a flower with stinging tentacles | The [anemone] waved its tentacles in the water.
+@story Snorkel Day | underwater
+🤿🐉 | {Name} and Ziggy went snorkeling at the coral reef.
+🌸🐠 | They saw a pink [anemone] waving its arms. An orange [clownfish] was hiding inside it!
+🐴🌿 | A tiny [seahorse] curled its tail around a blade of sea grass.
+🌿🌲 | Nearby, a forest of tall [kelp] swayed in the current.
+🦔⚠️ | "Watch out for that sea [urchin]!" said {Name}. Its spines were very sharp.
+🐟🏖️ | A [stingray] glided across the sandy floor like a flying carpet.
+🦑💨 | A [squid] squirted ink and zoomed away.
+🐟⚡ | A silver [barracuda] darted past.
+🦭🌱 | In the warm, shallow water, a gentle [manatee] munched on plants.
+🦠🐋 | "What do whales eat?" asked Ziggy. "Tiny [plankton]," said {Name}. "Billions of them!" "I'd need a LOT of those for lunch," said Ziggy.
+
+@unit City Life
+skyscraper | 🏙️ | noun | a very tall building in a city | The [skyscraper] had one hundred floors.
+traffic | 🚦 | noun | cars, buses, and trucks moving along roads | We were stuck in [traffic] for an hour.
+sidewalk | 🚶 | noun | a paved path for walking at the side of a street | Ride your scooter on the [sidewalk], not in the street. | pavement
+avenue | 🛣️ | noun | a wide street in a city | We walked along Fifth [Avenue]. | boulevard
+downtown | 🏢 | noun | the main business area in the center of a city | Mom works [downtown] in a tall office building.
+apartment | 🏬 | noun | a set of rooms where people live inside a larger building | We live in an [apartment] on the tenth floor. | flat
+elevator | 🛗 | noun | a small room that carries people up and down in a building | We took the [elevator] to the top floor. | lift
+neighborhood | 🏘️ | noun | the area around where you live | Our [neighborhood] has a great park.
+crosswalk | 🚸 | noun | a marked place where people can safely cross the street | Always cross at the [crosswalk].
+pedestrian | 🚶‍♀️ | noun | a person who is walking, not riding in a car | Cars must stop for every [pedestrian] at the crosswalk. | walker
+@story A Day in the Big City | city
+🏙️🐉 | {Name} and Ziggy visited Aunt Rosa in the big city.
+🏬🔟 | She lived in an [apartment] on the twentieth floor.
+🛗⬆️ | They rode the [elevator] up, up, up. Ziggy's ears popped!
+🏢🌆 | From the window, they could see all of [downtown].
+🏙️☁️ | The tallest [skyscraper] seemed to touch the clouds.
+🚦🚕 | Down below, the [traffic] honked and beeped.
+🛣️🌳 | They walked down a wide [avenue] lined with trees.
+🚶👟 | The [sidewalk] was crowded with people.
+🚸🛑 | At the [crosswalk], they waited for the walking signal. "A good [pedestrian] always waits," said Aunt Rosa.
+🏘️🍦 | Then they found an ice cream shop in her [neighborhood]. "I love the city!" said Ziggy.
