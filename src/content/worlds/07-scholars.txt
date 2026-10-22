@@ -1,0 +1,233 @@
+# World 7 — scholar words (about grades 6–7).
+
+@world scholars | Scholars | 🎓 | Precise words for sharp minds
+
+@unit Sharp Minds
+astute | 🦉 | adj | quick to notice and understand things, especially to gain an advantage | The [astute] detective noticed the muddy shoes right away. | shrewd, perceptive
+shrewd | 🦊 | adj | clever at understanding situations and making good decisions | The [shrewd] merchant knew exactly when to lower his prices. | astute, savvy
+perceptive | 👁️ | adj | quick to notice and understand things others might miss | The [perceptive] teacher could tell I was upset. | observant, insightful
+keen | 🔍 | adj | sharp and quick; or very eager | Owls have [keen] eyesight. | sharp, acute
+judicious | ⚖️ | adj | having or showing good judgment | Saving half your allowance is a [judicious] choice. | wise, prudent
+discerning | 🍷 | adj | able to judge well and notice small differences | The [discerning] chef could taste every spice in the soup. | perceptive, selective
+naive | 🐣 | adj | believing things too easily because of a lack of experience | The [naive] puppy trusted every stranger. | innocent, gullible
+wily | 🐺 | adj | clever in a sneaky, tricky way | The [wily] fox escaped every trap. | cunning, crafty, sly
+savvy | 😎 | adj | having practical knowledge and good sense | She's a [savvy] shopper who always finds deals. | knowledgeable, shrewd
+cunning | 🐍 | adj | clever at tricking or deceiving others | The [cunning] villain fooled the whole town. | crafty, wily, sly
+@story The Fox and the Hens | farm
+🦊🐔 | On Farmer Rosa's farm lived a [wily] fox named Rusty who wanted the hens for dinner.
+🐣🐥 | One young hen was [naive]. She believed everything Rusty said.
+🐍😏 | "I'm your friend," said Rusty in his most [cunning] voice. "Open the gate!"
+🦉👁️ | But an old hen named Hattie was [astute]. She noticed Rusty licking his lips.
+👁️🐾 | She was [perceptive] enough to spot fox prints by the fence, too.
+🔍👃 | Hattie had a [keen] sense of smell. "Something smells foxy," she said.
+⚖️🤔 | She made a [judicious] decision: tell Farmer Rosa.
+🍷🌙 | Farmer Rosa was [discerning]. She knew a fox trick when she saw one.
+🦊📦 | She was [shrewd], too. She set a box of old bread outside the fence.
+😎🐔 | Rusty took the bread and left the hens alone. "Being [savvy] beats being sneaky," said {Name}, who had watched it all with Ziggy.
+
+@unit Moods and Tempers
+morose | 😞 | adj | gloomy, unhappy, and not talking much | He was [morose] after his team lost. | gloomy, sullen
+somber | 🌧️ | adj | serious and sad | The funeral was a [somber] occasion. | grave, solemn
+jovial | 🎅 | adj | cheerful and friendly | The [jovial] baker joked with every customer. | jolly, merry
+buoyant | 🎈 | adj | cheerful and full of hope; or able to float | She was in a [buoyant] mood after the good news. | upbeat, cheerful
+languid | 🛋️ | adj | slow, relaxed, and lacking energy | We spent a [languid] afternoon lying in hammocks. | lazy, leisurely
+petulant | 😤 | adj | childishly sulky and bad-tempered | The [petulant] toddler threw his spoon. | sulky, cranky
+irate | 😡 | adj | very angry | The [irate] customer demanded a refund. | furious, livid
+nonchalant | 😎 | adj | calm and relaxed, as if you don't care | She was [nonchalant] about her test, but secretly nervous. | casual, unconcerned
+pensive | 🤔 | adj | thinking deeply and seriously, often a little sadly | He gave a [pensive] look out the window. | thoughtful, reflective
+giddy | 🤪 | adj | silly and excited, or dizzy | The kids were [giddy] on the last day of school. | excited, dizzy
+@story Grandpa's Retirement Party | home
+🎉👴 | It was Grandpa's last day at the post office after forty years.
+🎈😊 | In the morning, he was [buoyant] and cheerful.
+🎅😂 | At the party, he was [jovial], telling jokes to everyone.
+🤪🎂 | {Name}'s little cousins got [giddy] from too much cake.
+😤🎁 | One cousin got [petulant] when he didn't win a game.
+😡📬 | A customer burst in, [irate] that his package was late. Grandpa calmly helped him one last time.
+🤔🪟 | Later, Grandpa grew [pensive], staring at his old mail bag.
+🌧️💭 | The mood turned [somber] as he said goodbye to his coworkers.
+😞🐉 | Even Ziggy was [morose]. "Who will deliver our mail now?"
+😎🛋️ | But Grandpa just shrugged, [nonchalant]. "Someone new. And me? I'll spend [languid] days fishing." Everyone laughed.
+
+@unit How We Speak
+candid | 📷 | adj | honest and direct, even if it's uncomfortable | Thank you for your [candid] answer. | frank, honest
+brusque | 😠 | adj | short and rude in speaking | The waiter's [brusque] reply hurt my feelings. | curt, abrupt
+succinct | ✂️ | adj | short and clear, using few words | Her [succinct] report took just one page. | concise, brief
+tirade | 📢 | noun | a long, angry speech | The coach went on a [tirade] about the referee. | rant, outburst
+vehement | 🔥 | adj | showing strong feeling; forceful | She gave a [vehement] "No!" | forceful, passionate
+terse | 🗨️ | adj | using very few words, sometimes in an unfriendly way | His answer was a [terse] "Fine." | curt, brief
+curt | ⚡ | adj | rudely short in speech | She gave a [curt] nod and walked away. | brusque, abrupt
+forthright | 🙋 | adj | saying what you think directly and honestly | Grandma is [forthright]—she always tells you the truth. | candid, frank
+garbled | 🌀 | adj | mixed up and hard to understand | The radio message was [garbled]. | jumbled, unclear
+coherent | 🧩 | adj | clear, logical, and easy to understand | Her essay was [coherent] and well organized. | logical, clear
+@story The Radio Message | sky
+📻🌧️ | During a storm, {Name} and Ziggy heard a voice on Grandpa's old radio.
+🌀🗣️ | The message was [garbled]: "Help… boat… island…"
+🧩🔊 | They turned a knob until it became [coherent]: "Our boat is stuck near Gull Island!"
+📞👮 | {Name} called the coast guard. The officer was [brusque]. "What's your location?"
+🗨️😬 | His answers were [terse]: "Okay. Wait."
+⚡📵 | Then a [curt] "Hold on," and the line went quiet.
+✂️📝 | {Name} gave a [succinct] report: "Boat stuck. Gull Island. Two people."
+🔥🙅 | When the officer said they'd wait for morning, Ziggy gave a [vehement] "No! They need help now!"
+🙋🐉 | "I can fly there," Ziggy said in his most [forthright] voice.
+📷😊 | Later, the rescued sailors gave a [candid] thank-you on TV, and the officer apologized for his [tirade] about "kids calling in storms."
+
+@unit Building Up, Breaking Down
+undermine | ⛏️ | verb | to weaken something gradually, often secretly | Rumors can [undermine] trust between friends. | weaken, sabotage
+sustain | 🌳 | verb | to keep something going over time | Water and sunlight [sustain] the plants. | maintain, support
+uphold | 🏛️ | verb | to support or defend a rule or belief | Judges must [uphold] the law. | support, maintain
+erode | 🌊 | verb | to wear away slowly | The waves [erode] the cliffs a little every year. | wear away
+ravage | 🔥 | verb | to cause terrible damage | The wildfire began to [ravage] the forest. | devastate, destroy
+devastate | 💔 | verb | to destroy completely, or to make someone extremely upset | The hurricane could [devastate] the coast. | ravage, wreck
+salvage | 🛟 | verb | to save something from being lost or destroyed | We tried to [salvage] the photos from the flood. | rescue, save
+rehabilitate | 🩹 | verb | to help something or someone return to good health or condition | The vet will [rehabilitate] the injured owl. | restore, heal
+dismantle | 🔧 | verb | to take something apart piece by piece | We had to [dismantle] the old swing set. | take apart
+consolidate | 🧱 | verb | to combine things into one stronger whole | The two small schools will [consolidate] into one. | combine, merge
+@story The Cliff House | beach
+🏠🌊 | Mrs. Lin's house sat on a cliff by the sea. But every year, the waves began to [erode] the cliff below it.
+⛏️🪨 | The water would [undermine] the rocks, hollowing them out.
+🔥🌪️ | Then a huge storm began to [ravage] the coast.
+💔😢 | It seemed it would [devastate] Mrs. Lin's home.
+🛟📸 | {Name} and Ziggy rushed over to help [salvage] her photos and books.
+🔧🏚️ | The town decided to [dismantle] the house and rebuild it farther from the edge.
+🧱🏠 | They would [consolidate] the old wood and new bricks into a stronger house.
+🩹🐦 | They found a hurt seagull in the rubble and took it to the vet to [rehabilitate] it.
+🌳🌱 | Mrs. Lin planted beach grass to [sustain] the sand dunes.
+🏛️💛 | "We [uphold] the promise to help our neighbors," said the mayor at the new house party.
+
+@unit Rules and Exceptions
+mandate | 📜 | noun | an official order to do something | The school issued a [mandate] that everyone wear a helmet on bikes. | order, command
+stringent | 🔒 | adj | very strict | The museum has [stringent] rules about touching the art. | strict, rigorous
+lenient | 😌 | adj | not strict; allowing more than usual | The [lenient] teacher gave us extra time on the test. | easygoing, tolerant
+sanction | ⛔ | noun | a penalty for breaking a rule, or official permission | The team faced a [sanction] for cheating. | penalty
+impose | 🏋️ | verb | to force a rule, tax, or burden on someone | The king chose to [impose] a tax on bread. | enforce, inflict
+revoke | ❌ | verb | to officially cancel something | The city may [revoke] his driver's license. | cancel, withdraw
+rescind | ↩️ | verb | to take back or cancel a decision or rule | The principal decided to [rescind] the new rule. | revoke, cancel
+exempt | 🆓 | adj | free from a rule or duty that others must follow | Students with notes are [exempt] from gym class. | excused, free
+abide | 🤝 | verb | to follow or accept a rule or decision | All players must [abide] by the rules. | obey, follow
+infringe | 🚫 | verb | to break a law or take away someone's rights | Copying a movie can [infringe] on copyright laws. | violate, break
+@story The Strict New Principal | school
+🏫📜 | A new principal arrived at {Name}'s school with a long list of [stringent] rules.
+📜🎒 | Her first [mandate]: no talking in the halls, ever.
+🏋️📚 | She chose to [impose] extra homework every weekend.
+😟🗳️ | The students felt the rules would [infringe] on their fun.
+🤝📋 | But they decided to [abide] by them—and also to write a polite letter.
+🆓🎨 | {Name} asked that art time be [exempt] from the silence rule.
+⛔⚽ | The principal said teams that broke rules would face a [sanction].
+🤔💌 | After reading the letter, the principal decided to [rescind] the silence rule.
+❌📚 | She would also [revoke] the weekend homework.
+😌💛 | "I'll be more [lenient]," she said, smiling. "Your letter was very respectful." The whole school cheered—quietly.
+
+@unit Odd and Ordinary
+eccentric | 🎩 | adj | strange or unusual in a harmless, interesting way | Our [eccentric] neighbor walks his cat on a leash. | quirky, odd
+outlandish | 👽 | adj | very strange and unusual | He wore an [outlandish] hat shaped like a fish. | bizarre, weird
+whimsical | 🦄 | adj | playful, fanciful, and a bit silly | The book had [whimsical] drawings of dancing teapots. | fanciful, playful
+quirky | 🤪 | adj | unusual in an interesting way | The café had [quirky] chairs that didn't match. | odd, offbeat
+anomaly | ❓ | noun | something that is different from what is normal or expected | A snowstorm in June would be an [anomaly]. | oddity, exception
+unconventional | 🔄 | adj | not following the usual way of doing things | Her [unconventional] art used old bottle caps. | unusual, original
+conventional | 📏 | adj | following the usual way of doing things | We had a [conventional] birthday party with cake and balloons. | traditional, ordinary
+mundane | 🥱 | adj | ordinary and boring | Brushing my teeth is a [mundane] task. | dull, everyday
+novel | 💡 | adj | new and different in an interesting way | She had a [novel] idea for a game. | new, original
+offbeat | 🎷 | adj | unusual and interesting | The town is full of [offbeat] little shops. | quirky, unconventional
+@story Professor Pickles | city
+🎩🐈 | Down the street lived Professor Pickles, an [eccentric] inventor who wore a top hat everywhere.
+👽🛸 | His house was [outlandish], shaped like a flying saucer.
+🦄🎨 | His garden was [whimsical], with flowers painted like rainbows.
+🤪🪑 | Inside, he had [quirky] furniture: a chair made of books and a table on stilts.
+🔄🍳 | He cooked breakfast in an [unconventional] way—with a hair dryer!
+🥱🏠 | {Name}'s own life felt [mundane] compared to his.
+📏🎂 | "Don't you ever do anything [conventional]?" she asked.
+💡🐉 | "Only when it's boring!" he said. He had a [novel] idea: a machine to give dragons hiccup-free fire.
+🎷🎶 | His music was [offbeat] too—he played the spoons and the kazoo at the same time.
+❓🌟 | "You're an [anomaly] in this town," said {Name}. "Thank you!" said the professor. "That's the nicest thing anyone's ever said."
+
+@unit How Often? How Many?
+myriad | ✨ | adj | countless; extremely many | The night sky held [myriad] stars. | countless, innumerable
+sporadic | 🌦️ | adj | happening now and then, not regularly | We heard [sporadic] thunder all afternoon. | occasional, irregular
+intermittent | ⏯️ | adj | stopping and starting again and again | The [intermittent] rain came and went all day. | on-and-off, sporadic
+incessant | 🔁 | adj | never stopping; constant | The [incessant] barking kept me awake. | nonstop, constant
+rampant | 🌿 | adj | spreading quickly and out of control | Weeds were [rampant] in the old garden. | widespread, uncontrolled
+prevalent | 🌍 | adj | common or widespread | Colds are [prevalent] in winter. | widespread, common
+predominant | 👑 | adj | most common or strongest | Green is the [predominant] color in the forest. | main, dominant
+copious | 🍝 | adj | in large amounts | She took [copious] notes during the lecture. | plentiful, abundant
+multitude | 👥 | noun | a very large number of people or things | A [multitude] of fans filled the stadium. | crowd, host
+countless | ♾️ | adj | too many to count | There are [countless] grains of sand on the beach. | innumerable, myriad
+@story The Bug Invasion | garden
+🐛🌿 | One summer, a [multitude] of caterpillars invaded Grandma's garden.
+✨🐛 | There were [myriad] caterpillars—on every leaf and stem.
+♾️🍃 | They ate [countless] leaves.
+🌿😱 | The problem was [rampant], spreading to the neighbors' gardens too.
+🌍📰 | The newspaper said the caterpillars were [prevalent] all over town.
+🔁😩 | The [incessant] munching sound drove Ziggy crazy.
+⏯️🌧️ | [Intermittent] rain didn't stop them either.
+🌦️🐦 | Birds made [sporadic] visits to eat a few.
+👑🦋 | Then, in a week, the [predominant] creature in the garden was the butterfly!
+🍝📓 | {Name} took [copious] notes. "The caterpillars weren't an invasion," she wrote. "They were a gift."
+
+@unit Subtle or Obvious
+subtle | 🌫️ | adj | so slight or delicate that it's hard to notice | There was a [subtle] smell of vanilla in the room. | faint, delicate
+nuance | 🎨 | noun | a very small difference in meaning, feeling, or color | Good actors show every [nuance] of emotion. | shade, subtlety
+overt | 📢 | adj | done openly, not hidden | He showed [overt] dislike for broccoli. | open, obvious
+blatant | 🚨 | adj | very obvious and done openly, often in a bad way | That was a [blatant] lie! | flagrant, obvious
+flagrant | 🚩 | adj | shockingly obvious and bad | The referee called a [flagrant] foul. | blatant, glaring
+latent | 💤 | adj | present but hidden and not yet developed | She had a [latent] talent for singing. | hidden, dormant
+inherent | 🧬 | adj | being a natural, basic part of something | There is [inherent] risk in rock climbing. | built-in, natural
+innate | 🐣 | adj | existing from birth; natural | Birds have an [innate] ability to build nests. | inborn, natural
+manifest | 👀 | verb | to show something clearly | Her nervousness began to [manifest] in shaky hands. | show, display
+tangible | ✋ | adj | real and able to be touched or clearly seen | The new playground was a [tangible] result of our fundraising. | concrete, real
+@story The Hidden Talent | school
+🎤🏫 | The school was holding auditions for the musical. {Name}'s friend Ava refused to try out.
+💤🎶 | But {Name} believed Ava had a [latent] talent for singing.
+🐣🎵 | "You have an [innate] gift," said {Name}. "I hear you hum all the time."
+🌫️😬 | There was a [subtle] shake in Ava's voice when she spoke about it.
+🎨😔 | {Name} noticed every [nuance] of Ava's fear.
+👀😰 | At the audition, Ava's nerves began to [manifest] in sweaty hands.
+🚨🙄 | A girl named Jen made a [blatant] eye-roll.
+🚩😤 | Then she made a [flagrant] comment: "She'll never get a part."
+🧬💪 | But courage is [inherent] in everyone—it just needs a push. Ava took a breath and sang.
+📢🌟 | The judges showed [overt] delight. Ava got the lead role—a [tangible] reward for her bravery!
+
+@unit Give In or Hold Out?
+relent | 🫠 | verb | to finally agree to something after refusing | Mom finally decided to [relent] and let us have dessert. | give in, soften
+concede | 🏳️ | verb | to admit something is true, often unwillingly; or to admit defeat | The candidate had to [concede] the election. | admit, yield
+acquiesce | 🙂 | verb | to accept something quietly without arguing, even if you don't like it | After much arguing, he decided to [acquiesce] to the plan. | consent, comply
+succumb | 😵 | verb | to stop resisting and give in to something | He began to [succumb] to sleep during the long movie. | give in, yield
+withstand | 🛡️ | verb | to stay strong against force or pressure | The house was built to [withstand] earthquakes. | resist, endure
+prevail | 🏆 | verb | to win or succeed in the end | Good will [prevail] over evil. | triumph, win
+falter | 🥴 | verb | to lose strength or confidence and begin to stop | Her voice began to [falter] as she spoke. | waver, stumble
+buckle | 🦵 | verb | to bend or collapse under pressure | The old shelf began to [buckle] under the heavy books. | collapse, bend
+submit | 📤 | verb | to give in to someone's power; or to hand something in | Please [submit] your essays by Friday. | yield, hand in
+defiance | ✊ | noun | open refusal to obey | In [defiance] of the rules, he stayed up all night. | resistance, rebellion
+@story The Chess Showdown | library
+♟️🏆 | {Name} reached the final round of the town chess tournament. Her opponent was a grandmaster named Mr. Stone.
+🛡️🧠 | Mr. Stone attacked hard, but {Name} was ready to [withstand] it.
+🥴😰 | Halfway through, her confidence began to [falter].
+😵💤 | She was so tired that she almost began to [succumb] to the pressure.
+✊🐉 | But Ziggy, watching, raised a claw in [defiance]: "You can do it!"
+🙅♟️ | {Name} refused to [acquiesce] to his clever traps.
+🦵🏰 | Slowly, Mr. Stone's defense began to [buckle].
+🫠🙂 | He tried a trick, but she didn't fall for it. He had to [relent].
+🏳️🤝 | Finally, he chose to [concede]. "Well played," he said.
+🏆🎉 | {Name} managed to [prevail]! Later, she would [submit] her winning game to the newspaper's chess puzzle page.
+
+@unit Calming Things Down
+alleviate | 💊 | verb | to make pain or a problem less severe | Ice can [alleviate] the swelling. | ease, relieve
+mitigate | 🛡️ | verb | to make something bad less harmful | Trees help [mitigate] flooding. | lessen, reduce
+appease | 🍪 | verb | to calm someone by giving them what they want | We tried to [appease] the crying baby with a toy. | pacify, placate
+placate | 🤲 | verb | to make someone less angry | He bought flowers to [placate] his upset sister. | appease, soothe
+pacify | 🍼 | verb | to calm someone down | The nurse tried to [pacify] the scared child. | calm, soothe
+quell | 🧯 | verb | to stop something like a riot or a fear | The teacher tried to [quell] the noise in the classroom. | suppress, calm
+subdue | 🤼 | verb | to bring under control | The firefighters worked to [subdue] the flames. | control, overpower
+mediate | 🤝 | verb | to help two sides reach an agreement | The coach tried to [mediate] the argument between the players. | negotiate, referee
+intervene | ✋ | verb | to step in to stop or change something | The teacher had to [intervene] when the boys started fighting. | step in, interfere
+diffuse | 🌬️ | verb | to spread out, or to make a tense situation less tense | A joke can help [diffuse] the tension. | spread, ease
+@story The Lunchroom Argument | school
+🍕😠 | In the lunchroom, two friends, Leo and Max, started arguing over the last slice of pizza.
+📢😤 | The yelling grew louder. Someone needed to [intervene].
+🤝👧 | {Name} stepped in to [mediate]. "Let's hear both sides."
+🍪😊 | Ziggy offered his cookies to [appease] them.
+🤲🍕 | Leo offered half his slice to [placate] Max.
+🌬️😂 | Then Ziggy told a silly joke to [diffuse] the tension.
+🧯🔇 | The lunch aide tried to [quell] the noise.
+🍼👶 | Meanwhile, a kindergartner was crying, so a teacher tried to [pacify] him.
+🤼🔥 | In the kitchen, the cook had to [subdue] a small grease fire with a lid.
+🛡️💊 | "Next time, we'll order more pizza to [mitigate] the problem," said the principal. "And ice cream to [alleviate] everyone's bad mood!"
