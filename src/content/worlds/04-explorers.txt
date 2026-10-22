@@ -1104,3 +1104,254 @@ pedestrian | 🚶‍♀️ | noun | a person who is walking, not riding in a car
 🚶👟 | The [sidewalk] was crowded with people.
 🚸🛑 | At the [crosswalk], they waited for the walking signal. "A good [pedestrian] always waits," said Aunt Rosa.
 🏘️🍦 | Then they found an ice cream shop in her [neighborhood]. "I love the city!" said Ziggy.
+
+@unit Travel Plans
+depart | 🛫 | verb | to leave, especially to start a trip | The train will [depart] at nine o'clock. | leave, set off
+detour | ↪️ | noun | a different, longer way you take because the usual way is blocked | The road was closed, so we took a [detour].
+route | 🗺️ | noun | the way you take to get from one place to another | What's the fastest [route] to the beach? | way, path
+shortcut | ✂️ | noun | a quicker way to get somewhere | We took a [shortcut] through the park.
+passport | 🛂 | noun | a small book from your country that you need to travel to other countries | Don't forget your [passport] for the trip to Spain!
+luggage | 🧳 | noun | bags and suitcases for a trip | We packed our [luggage] into the car. | baggage
+souvenir | 🗽 | noun | something you keep to remember a place or trip | I bought a tiny Eiffel Tower as a [souvenir]. | keepsake, memento
+tourist | 📸 | noun | a person who travels to a place for fun | The [tourist] took a picture of the castle. | traveler, sightseer
+guide | 🙋 | noun | a person who shows visitors around a place | Our [guide] told us stories about the old castle.
+abroad | 🌍 | adv | in or to another country | My aunt is studying [abroad] in Japan. | overseas
+@story Ziggy Goes Abroad | sky
+🌍✈️ | {Name}'s family was going [abroad] for the first time—to Italy! And Ziggy was coming too.
+🛂📕 | Everyone needed a [passport]. Ziggy's had a picture of him smiling with smoke coming out of his nose.
+🧳🎒 | They packed their [luggage] the night before.
+🛫⏰ | "Our plane will [depart] at seven," said Dad.
+🗺️🚗 | In Italy, they planned a [route] to the old city.
+↪️🚧 | But a bridge was closed, so they had to take a [detour] through the hills.
+✂️🍕 | Ziggy found a [shortcut] through a little village—and they stopped for pizza!
+🙋🏛️ | At the old ruins, their [guide] told them stories about emperors and gladiators.
+📸😎 | Ziggy took pictures like a real [tourist].
+🗽🎁 | Before they left, {Name} bought a tiny tower as a [souvenir]. "Grazie, Italy!"
+
+@unit Around the House
+attic | 🏚️ | noun | the space just under the roof of a house | We keep old toys in the [attic]. | loft
+chimney | 🏭 | noun | a tall pipe that carries smoke out of a building | Smoke curled out of the [chimney].
+porch | 🏡 | noun | a covered area outside the front or back door of a house | Grandma sat on the [porch] and waved. | veranda
+hallway | 🚪 | noun | a long, narrow space inside a building that leads to rooms | Don't run in the [hallway]! | corridor, hall
+staircase | 🪜 | noun | a set of stairs | The old house had a curving [staircase]. | stairs
+closet | 🚪 | noun | a small room or cupboard for storing clothes or other things | Hang your coat in the [closet]. | wardrobe
+pantry | 🥫 | noun | a small room or cupboard where food is kept | The cereal is in the [pantry].
+balcony | 🏢 | noun | a platform with a railing on the outside of an upstairs room | We ate breakfast on the [balcony].
+garage | 🚗 | noun | a building where a car is kept | Dad parked the car in the [garage].
+fireplace | 🔥 | noun | a place in a wall where you can build a fire to warm a room | We roasted marshmallows in the [fireplace].
+@story Hide-and-Seek House | home
+🏠🙈 | It was a snowy day, so {Name}, her cousins, and Ziggy played hide-and-seek in Grandma's big house.
+🚪🏃 | {Name} counted to twenty in the long [hallway].
+🪜👀 | She crept up the [staircase].
+🚪👕 | She checked the [closet]—just coats.
+🥫🍪 | She looked in the [pantry]—just cookies (she took one).
+🚗🔧 | She checked the [garage]—just the car and Grandpa's tools.
+🏡❄️ | She looked out on the snowy [porch] and up at the [balcony]—nobody.
+🏚️📦 | She climbed up to the dusty [attic]—still nobody!
+🔥🐉 | Finally, she heard a cough by the [fireplace]. Ziggy had hidden in the [chimney]! "I thought dragons would fit right in," he said, covered in soot.
+
+@unit Kitchen Tools
+ladle | 🥄 | noun | a large, deep spoon with a long handle, used for serving soup | Grandma used a [ladle] to pour the soup into our bowls.
+spatula | 🍳 | noun | a tool with a wide, flat blade for flipping or spreading food | Flip the pancake with a [spatula].
+kettle | 🫖 | noun | a pot with a spout and a lid, used for boiling water | The [kettle] whistled when the water boiled.
+skillet | 🍳 | noun | a heavy frying pan | Dad fried the eggs in a big iron [skillet]. | frying pan
+blender | 🥤 | noun | an electric machine that mixes and chops food into liquid | We made a smoothie in the [blender].
+cupboard | 🗄️ | noun | a cabinet with shelves and doors for storing dishes or food | The plates are in the [cupboard]. | cabinet
+napkin | 🧻 | noun | a piece of cloth or paper you use to wipe your mouth and hands at meals | Put your [napkin] on your lap.
+apron | 🧑‍🍳 | noun | a piece of clothing you wear over your clothes to keep them clean while cooking | Put on an [apron] so you don't get flour on your shirt.
+teaspoon | 🥄 | noun | a small spoon, used for stirring or measuring | Add one [teaspoon] of salt.
+platter | 🍽️ | noun | a large, flat plate for serving food | The turkey was served on a big [platter]. | tray
+@story Pancake Sunday | kitchen
+🥞🐉 | Every Sunday, {Name} and Ziggy made pancakes for the whole family.
+🧑‍🍳👕 | First, they each put on an [apron].
+🗄️🥣 | {Name} got a bowl out of the [cupboard].
+🥄🧂 | She added one [teaspoon] of sugar to the batter.
+🍳🔥 | Ziggy heated the [skillet] with one tiny puff of fire.
+🍳🥞 | {Name} used a [spatula] to flip each pancake. Flip!
+🥤🍓 | Meanwhile, Ziggy made strawberry sauce in the [blender].
+🫖☕ | The [kettle] whistled for Grandma's tea.
+🍽️🥞 | They piled the pancakes high on a [platter].
+🥄🍯 | Grandpa used a [ladle] to pour warm syrup over everything.
+🧻😂 | Ziggy got syrup on his nose, so {Name} handed him a [napkin]. "Best breakfast ever!"
+
+@unit Loud and Quiet
+silent | 🤫 | adj | completely quiet, with no sound | The forest was [silent] after the snow fell. | soundless, still
+deafening | 💥 | adj | so loud that you can't hear anything else | The fireworks were [deafening]. | thunderous, ear-splitting
+muffled | 🧣 | adj | quiet and unclear, as if covered up | We heard [muffled] voices through the wall.
+piercing | 📢 | adj | very loud and high, hurting your ears | The whistle made a [piercing] sound. | shrill
+shrill | 🦜 | adj | very high-pitched and loud in an unpleasant way | The parrot let out a [shrill] squawk. | piercing, screechy
+booming | 🥁 | adj | very loud and deep | The giant spoke in a [booming] voice. | thundering
+mute | 🔇 | adj | not speaking or making any sound | The TV was on [mute], so we couldn't hear it.
+volume | 🔊 | noun | how loud or quiet a sound is | Please turn down the [volume] on the radio. | loudness
+hoarse | 😮‍💨 | adj | sounding rough and croaky because your throat is sore | After cheering all game, my voice was [hoarse]. | croaky, husky
+tone | 🎵 | noun | the sound quality of a voice or instrument, or the feeling it shows | She spoke in a gentle [tone].
+@story The Noisy Neighbors | home
+🏢🌙 | One night, {Name} and Ziggy were trying to sleep, but the apartment upstairs was very loud.
+🥁💥 | First came a [booming] drum—BOOM, BOOM!
+🦜😖 | Then a parrot let out a [shrill] squawk.
+📢🙉 | Then a whistle made a [piercing] sound.
+💥😵 | Together it was [deafening]!
+🧣👂 | Through the ceiling, they heard [muffled] singing.
+🔊😤 | Ziggy went upstairs to ask them to turn down the [volume]. He knocked politely.
+😮‍💨🎤 | A man opened the door. His voice was [hoarse] from singing. "Sorry! It's a birthday party for my parrot!"
+🎵😊 | He spoke in a kind [tone]. "Would you like some cake?"
+🔇🎂 | They put the music on [mute] and had cake together. After that, the building was [silent], and everyone slept happily.
+
+@unit Big Moments
+disaster | 🌪️ | noun | something terrible that causes a lot of damage or suffering | The flood was a [disaster] for the town. | catastrophe
+crisis | 🚨 | noun | a time of great danger or difficulty | The town was in a [crisis] when the water ran out. | emergency
+tragedy | 😢 | noun | a very sad event | It was a [tragedy] when the old library burned down.
+miracle | ✨ | noun | an amazing event that seems impossible | It was a [miracle] that nobody was hurt in the crash. | wonder
+triumph | 🏆 | noun | a great victory or success | Winning the championship was a [triumph] for the team. | victory
+ceremony | 🎓 | noun | a formal event for a special occasion | We went to my cousin's graduation [ceremony].
+occasion | 🎉 | noun | a special time or event | My birthday is a happy [occasion].
+event | 📅 | noun | something that happens, especially something important | The school play is the biggest [event] of the year. | happening
+incident | 📝 | noun | something that happens, often something unusual or bad | There was a funny [incident] with a goat at the fair.
+commotion | 🌀 | noun | a noisy, confused situation | There was a [commotion] in the hall when the fire alarm rang. | uproar, fuss
+@story The Big Storm | city
+🌀🏘️ | One summer, a huge storm hit {Name}'s town. It was a [disaster].
+🌳🏠 | Trees fell on roofs, and the power went out. The town was in a [crisis].
+😢🏫 | It was a [tragedy] when the storm flooded the school gym.
+🌀🗣️ | There was a [commotion] on Main Street as people ran to help each other.
+📝🐐 | There was one funny [incident]: a goat climbed onto a car and wouldn't come down!
+✨👶 | Then a [miracle]: firefighters found a lost baby kitten, safe and dry under a porch.
+💪🧱 | Everyone worked together to rebuild. Ziggy carried bricks and dried things with his warm breath.
+🏆🎉 | When the school opened again, it was a [triumph] for the whole town.
+🎓🎗️ | The mayor held a [ceremony] to thank all the helpers.
+🎉📅 | It was a happy [occasion], and everyone agreed it was the most important [event] of the year.
+
+@unit Getting Along 2
+compromise | 🤝 | noun | an agreement where each side gives up a little | We made a [compromise]: I pick the movie, and you pick the snack. | deal, middle ground
+squabble | 🗯️ | verb | to argue noisily about something small | The seagulls began to [squabble] over a french fry. | bicker, quarrel
+truce | 🏳️ | noun | an agreement to stop fighting for a while | The brothers called a [truce] so they could eat dinner. | ceasefire
+ally | 🤜 | noun | a person or country that helps and supports another | In the game, the fox was the rabbit's [ally]. | friend, partner
+peace | ☮️ | noun | a time when there is no fighting or war; calm and quiet | The two kingdoms lived in [peace] for a hundred years.
+conflict | ⚔️ | noun | a fight, argument, or strong disagreement | The [conflict] between the two teams lasted all season. | dispute, clash
+unite | 🫶 | verb | to join together | The animals had to [unite] to stop the flood. | join, combine
+harmony | 🎶 | noun | agreement and friendship; or musical notes that sound good together | The cats and dogs lived in [harmony]. | accord
+betray | 🗡️ | verb | to hurt someone who trusted you, often by being disloyal | A true friend would never [betray] you. | double-cross
+loyalty | 🐕 | noun | being faithful and true to someone | The dog showed great [loyalty] to its owner. | faithfulness
+@story The Bird Feeder War | garden
+🐦🐿️ | In {Name}'s garden, the birds and the squirrels began to [squabble] over the bird feeder.
+⚔️🌻 | The [conflict] grew worse every day.
+🗡️😠 | The blue jay said the cardinal would [betray] them and side with the squirrels.
+🤜🐦 | The robin was the sparrow's [ally], and they guarded the seeds together.
+🏳️🌙 | At night, they called a [truce] so everyone could sleep.
+🤝🐉 | Ziggy had an idea for a [compromise]. "Squirrels eat in the morning, birds in the afternoon!"
+🫶🌱 | {Name} and Ziggy helped the animals [unite] to plant a big sunflower patch, so there would be plenty for all.
+🐕💛 | The squirrels showed their [loyalty] by warning the birds when the cat came near.
+🎶🐦 | Soon the garden was full of [harmony]. The birds even sang for the squirrels.
+☮️🌻 | "Finally, [peace]," said {Name}, eating her own sunflower seeds.
+
+@unit Getting It Done
+accomplish | ✅ | verb | to succeed in doing something | We [accomplish] a lot when we work together. | achieve, complete
+achieve | 🏆 | verb | to reach a goal through hard work | If you work hard, you can [achieve] your dreams. | accomplish, reach
+complete | 🏁 | verb | to finish something | Please [complete] your homework before dinner. | finish
+task | 📋 | noun | a piece of work that needs to be done | My [task] is to set the table. | job, chore
+deadline | ⏰ | noun | the time by which something must be finished | The [deadline] for the art contest is Friday.
+labor | 👷 | noun | hard physical work | Building the wall took months of [labor]. | toil, work
+toil | 😓 | verb | to work very hard for a long time | The farmers [toil] in the fields from dawn to dusk. | labor, slave
+persist | 💪 | verb | to keep trying even when it's hard | If you [persist], you'll learn to swim. | keep going, persevere
+quit | 🛑 | verb | to stop doing something | Never [quit] when things get hard! | give up, stop
+hurdle | 🚧 | noun | a problem you have to get past; also a fence you jump over in a race | Learning to read was a big [hurdle], but she did it. | obstacle
+@story The Giant Puzzle | home
+🧩🐉 | Grandpa gave {Name} and Ziggy a 1,000-piece puzzle. "Can you [complete] it by my birthday?"
+⏰📅 | The [deadline] was one week away.
+📋✏️ | Each day, they gave themselves a [task]: Monday, the edges. Tuesday, the sky.
+🚧😩 | The sky was a big [hurdle]. Every piece looked the same!
+😓🌙 | They had to [toil] late into the night.
+🛑😤 | On Wednesday, Ziggy wanted to [quit]. "It's too hard!"
+💪🤝 | "We have to [persist]," said {Name}. "One piece at a time."
+👷🧩 | After days of [labor], only one piece was left.
+✅🎉 | They clicked it in. "We did it! We managed to [accomplish] the impossible!"
+🏆🎂 | Grandpa was amazed. "If you can [achieve] this, you can do anything!"
+
+@unit Surprise!
+unexpected | 😲 | adj | not expected; surprising | We had an [unexpected] visit from my aunt. | surprising
+accidental | 🙊 | adj | happening by mistake | The [accidental] spill made a huge mess. | unintentional
+shock | ⚡ | noun | a sudden, upsetting or surprising feeling | It was a [shock] to see snow in July. | surprise, jolt
+stun | 😵 | verb | to surprise someone so much that they can't react | The news will [stun] everyone. | amaze, astound
+baffle | 🤔 | verb | to confuse someone completely | The tricky riddle seemed to [baffle] everyone. | puzzle, bewilder
+bewilder | 😕 | verb | to make someone very confused | The maze of hallways can [bewilder] new students. | baffle, puzzle
+flabbergasted | 😱 | adj | extremely surprised | I was [flabbergasted] when I won the contest. | dumbfounded, astonished
+dumbfounded | 😶 | adj | so surprised that you can't speak | We were [dumbfounded] when the magician vanished. | flabbergasted, speechless
+marvel | 🤩 | verb | to feel great wonder and surprise | We [marvel] at the stars every summer night.
+awe | 😮 | noun | a feeling of great wonder mixed with respect | We stared in [awe] at the giant waterfall. | wonder
+@story The Mystery Box | home
+📦🚪 | One morning, an [unexpected] box arrived at {Name}'s door. There was no name on it.
+🤔❓ | The box seemed to [baffle] everyone. Who had sent it?
+😕📦 | The instructions seemed to [bewilder] them too: "Open only at sunset."
+🙊💥 | Ziggy bumped the box by accident. The [accidental] bump made it beep!
+⚡😮 | What a [shock]! The box was moving!
+🌅📦 | At sunset, they opened it. Inside was… a baby dragon egg!
+😵🥚 | It seemed to [stun] everyone. Nobody could move.
+😶🐉 | Ziggy was [dumbfounded]. "Another dragon?"
+😱💌 | Then they found a note: "From Ziggy's grandma." {Name} was [flabbergasted]!
+🤩🐣 | The egg cracked, and out came a tiny baby dragon. They began to [marvel] at it.
+😮💛 | They stared in [awe]. "Hi, little sister," whispered Ziggy.
+
+@unit Precious Stones and Metals
+jewel | 💎 | noun | a precious stone, like a diamond or ruby | The crown was covered in every kind of [jewel]. | gem
+diamond | 💎 | noun | a very hard, clear, sparkling precious stone | Her ring has a tiny [diamond].
+ruby | 🔴 | noun | a precious red stone | The king's ring had a big red [ruby].
+sapphire | 🔵 | noun | a precious blue stone | Her necklace had a deep blue [sapphire].
+pearl | ⚪ | noun | a smooth, shiny white bead that grows inside an oyster | She wore a string of [pearl] beads.
+emerald | 🟢 | noun | a precious green stone | The queen's crown had a bright green [emerald].
+gold | 🥇 | noun | a valuable shiny yellow metal | The pirate's chest was full of [gold].
+silver | 🥈 | noun | a valuable shiny gray-white metal | Grandma polished the [silver] spoons.
+bronze | 🥉 | noun | a hard reddish-brown metal made by mixing copper and tin | The third-place winner got a [bronze] medal.
+valuable | 💰 | adj | worth a lot of money, or very important | This old coin is very [valuable]. | precious
+@story The Dragon's Hoard | cave
+🐉💰 | Ziggy's great-grandpa had a famous hoard of treasure in a mountain cave.
+🥇✨ | There were piles of [gold] coins as high as hills.
+🥈🥄 | There were [silver] cups and spoons.
+🥉🗿 | There was a [bronze] statue of a dragon.
+💎🌈 | Every color of [jewel] sparkled in the torchlight.
+💎🔴 | There was a [diamond] as big as an egg, and a red [ruby] like a cherry.
+🔵🟢 | There was a blue [sapphire] and a green [emerald].
+⚪🐚 | And a necklace of creamy white [pearl] beads.
+💰💛 | "Wow! It's all so [valuable]!" said {Name}. Ziggy smiled. "Grandpa always said the most valuable treasure is a friend." He gave {Name} a tiny gold coin to keep forever.
+
+@unit Times of Day
+noon | 🕛 | noun | twelve o'clock in the middle of the day | We eat lunch at [noon]. | midday
+midnight | 🌌 | noun | twelve o'clock at night | On New Year's Eve, we stay up until [midnight].
+afternoon | 🌤️ | noun | the time between noon and evening | We play outside in the [afternoon].
+evening | 🌆 | noun | the time between afternoon and night | We have dinner in the [evening].
+twilight | 🌇 | noun | the soft light after the sun has set | Bats come out at [twilight]. | dusk
+daybreak | 🌅 | noun | the time in the morning when light first appears | The farmer gets up at [daybreak]. | dawn, sunrise
+nightfall | 🌃 | noun | the time when night begins and it gets dark | We had to be home by [nightfall]. | dusk
+overnight | 🌙 | adv | during the night | The snow fell [overnight].
+sunrise | 🌄 | noun | the time when the sun comes up | We watched the [sunrise] from the beach. | dawn, daybreak
+hour | ⏰ | noun | a period of sixty minutes | The movie lasted one [hour].
+@story A Day and a Night | camp
+🌅🐓 | At [daybreak], the first light crept across the campsite. Ziggy yawned.
+🌄☀️ | They watched the [sunrise] paint the lake pink and gold.
+🕛🥪 | At [noon], they ate sandwiches on a big rock.
+🌤️🏊 | In the [afternoon], they swam in the lake for a whole [hour].
+🌆🔥 | In the [evening], they built a campfire and cooked hot dogs.
+🌇🦇 | At [twilight], bats swooped over the water.
+🌃⭐ | By [nightfall], the stars were coming out one by one.
+🌌🦉 | At [midnight], an owl hooted, and {Name} woke up for a moment.
+🌙❄️ | [Overnight], frost covered the tent. "Time to start another day!" said Ziggy.
+
+@unit How Big? How Heavy?
+inch | 📏 | noun | a small unit for measuring length; 12 of them make a foot | The bug was only an [inch] long.
+mile | 🛣️ | noun | a unit for measuring long distances, a little more than 1.6 kilometers | We walked one [mile] to the beach.
+meter | 📐 | noun | a unit for measuring length, a little more than three feet | The pool is twenty-five [meters] long.
+kilogram | ⚖️ | noun | a unit for measuring weight; 1,000 grams | The bag of rice weighs one [kilogram].
+pound | 🏋️ | noun | a unit for measuring weight, a little less than half a kilogram | Our puppy weighs ten [pounds].
+liter | 🧃 | noun | a unit for measuring liquids, a little more than a quart | We bought a [liter] of milk.
+gallon | 🥛 | noun | a unit for measuring liquids; about four liters | The fish tank holds ten [gallons] of water.
+ounce | 🧂 | noun | a small unit for measuring weight; 16 of them make a pound | Add one [ounce] of cheese.
+ton | 🐘 | noun | a very large unit of weight: 2,000 pounds | An elephant can weigh more than a [ton].
+ruler | 📏 | noun | a flat strip of wood or plastic with marks for measuring | Use a [ruler] to draw a straight line.
+@story Ziggy Measures Everything | school
+📏🐉 | Ziggy got a [ruler] for his birthday and wanted to measure everything!
+📏🐛 | A caterpillar was one [inch] long.
+📐🛋️ | The couch was two [meters] long.
+🛣️🏫 | The walk to school was one [mile].
+🏋️🐕 | Their dog weighed thirty [pounds].
+⚖️🍚 | A bag of rice weighed one [kilogram].
+🧂🧀 | The cheese for the pizza weighed one [ounce].
+🧃🥛 | They poured a [liter] of juice and a [gallon] of water into the punch bowl.
+🐘😮 | At the zoo, the elephant weighed more than a [ton]! "How much do I weigh?" asked Ziggy. "Let's just say… a lot of pancakes," laughed {Name}.
