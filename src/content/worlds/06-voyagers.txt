@@ -510,3 +510,282 @@ phase | 🌗 | noun | one of the shapes of the Moon as we see it, or a stage in 
 ✨⭐ | They lay on the grass and watched [celestial] objects twinkle.
 🪨☄️ | A shooting star streaked by. "If it lands, it's a [meteorite]!" said {Name}.
 🌌💭 | "The universe is so big," whispered Ziggy. "It's [cosmic]!"
+
+@unit History Detectives
+medieval | 🏰 | adj | from the Middle Ages, about 500 to 1500 years ago | We visited a [medieval] castle in England.
+historian | 📜 | noun | a person who studies and writes about history | The [historian] wrote a book about ancient Rome.
+chronological | 📅 | adj | arranged in the order things happened | List the events in [chronological] order.
+archaeologist | 🏺 | noun | a scientist who digs up and studies objects from the past | The [archaeologist] found an ancient coin.
+document | 📄 | noun | a paper with written information, often official | The old [document] was signed by the king.
+archive | 🗄️ | noun | a place where old records and documents are kept | The library [archive] has newspapers from 1850.
+timeline | ⏳ | noun | a line showing when events happened in order | We made a [timeline] of our family history.
+dynasty | 👑 | noun | a series of rulers from the same family | The Ming [dynasty] ruled China for almost three hundred years.
+colonial | ⚓ | adj | having to do with colonies or the time when a country controlled other lands | We toured a [colonial] village from the 1700s.
+renaissance | 🎨 | noun | a time of new interest in art and learning, especially in Europe 500 years ago | Leonardo da Vinci was an artist of the [Renaissance]. | rebirth, revival
+@story The Mystery of the Old Map | library
+🗺️📜 | In the town library, {Name} found an old map tucked into a book. Who made it?
+🗄️🔍 | The librarian took her to the [archive], where old papers were kept.
+📄✍️ | They found a [document] signed by someone named Captain Hale.
+👩‍🏫📚 | A [historian] named Dr. Wells helped them. "This is from the [colonial] days, about 1750."
+⏳📏 | {Name} made a [timeline] on a long strip of paper.
+📅🔢 | She put every clue in [chronological] order.
+🏰⚔️ | One clue showed a [medieval] sword that the captain's family had kept for 500 years.
+👑🇨🇳 | Another showed a vase from a Chinese [dynasty].
+🎨🖼️ | And a painting from the [Renaissance]!
+🏺⛏️ | An [archaeologist] dug where the map pointed and found the captain's old chest—full of letters about his travels. "History is the best mystery," said {Name}.
+
+@unit War and Peace
+invade | ⚔️ | verb | to enter a place by force to take it over | The army tried to [invade] the neighboring kingdom. | attack, occupy
+treaty | 📜 | noun | a written agreement between countries | The two nations signed a peace [treaty]. | pact, agreement
+siege | 🏰 | noun | when an army surrounds a place to force it to give up | The castle survived a long [siege]. | blockade
+fortify | 🧱 | verb | to make a place stronger against attack | They worked to [fortify] the walls before winter. | strengthen, reinforce
+militia | 🪖 | noun | a group of ordinary citizens trained to fight in an emergency | The village [militia] guarded the bridge.
+rebellion | ✊ | noun | an armed fight against a government or ruler | The people started a [rebellion] against the unfair king. | revolt, uprising
+independence | 🗽 | noun | freedom from being controlled by someone else | The country celebrated its [independence] with fireworks. | freedom, liberty
+uprising | 🔥 | noun | a revolt by many people against those in power | The [uprising] began in the capital city. | rebellion, revolt
+liberate | 🕊️ | verb | to set someone free | The heroes came to [liberate] the prisoners. | free, release
+occupy | 🚩 | verb | to take control of a place, or to fill a space | The soldiers moved in to [occupy] the town. | take over, seize
+@story The Two Kingdoms | castle
+🏰🏰 | Long ago, two kingdoms, North and South, were at war.
+⚔️🗺️ | The North wanted to [invade] the South and take its farmland.
+🧱💪 | The South worked to [fortify] its city walls.
+🪖🌾 | Farmers formed a [militia] to protect their homes.
+🏰⛺ | The North began a [siege], surrounding the South's city for months.
+🚩🏘️ | Soon they began to [occupy] the villages around it.
+🔥✊ | Inside the North, the people were tired of war. An [uprising] began.
+✊👑 | The [rebellion] grew until the North's king agreed to stop fighting.
+🕊️⛓️ | Both sides agreed to [liberate] all prisoners.
+📜🤝 | They signed a peace [treaty]. The South kept its [independence], and the two kingdoms became friends—and traded apples for wool every year.
+
+@unit Trade and Money
+economy | 📊 | noun | the way a country or area makes, sells, and buys things and uses money | A strong [economy] means more jobs.
+trade | 🤝 | noun | the buying, selling, or exchanging of goods | Spices were an important part of [trade] long ago. | commerce, exchange
+export | 🚢 | verb | to send goods to another country to sell | Brazil likes to [export] coffee all over the world.
+import | 📦 | verb | to bring goods into a country from another country | We [import] bananas from Ecuador.
+goods | 🛍️ | noun | things that are made to be sold | The market sold [goods] from many countries. | products, merchandise
+barter | 🔄 | verb | to trade things without using money | Long ago, people would [barter] grain for tools. | swap, trade
+currency | 💱 | noun | the kind of money a country uses | The [currency] in Japan is the yen. | money
+inflation | 🎈 | noun | when prices go up over time and money buys less | Because of [inflation], a candy bar costs more now than it did years ago.
+tax | 🧾 | noun | money people must pay to the government to pay for things like roads and schools | Part of the price of the toy is sales [tax].
+revenue | 💰 | noun | money that a business or government takes in | The lemonade stand's [revenue] was twenty dollars. | income, earnings
+@story The Island Market | island
+🏝️🛶 | On a faraway island, there was no money. People would [barter] instead.
+🥥🐟 | A fisherman traded fish for coconuts.
+🚢🌍 | One day, a ship arrived. The captain wanted to [export] the island's coconuts to other lands.
+📦🧶 | He also wanted to [import] wool and tools for the islanders.
+🤝⚖️ | Soon the island had lots of [trade] with other countries.
+🛍️🏪 | A market opened, full of new [goods].
+💱🪙 | The islanders started using shells as [currency].
+🧾🏫 | They paid a small [tax] to build a school.
+💰📈 | The island's [revenue] grew, and its [economy] became strong.
+🎈😮 | But soon there was [inflation]—a fish that once cost one shell now cost three! "Maybe we should go back to bartering," joked Ziggy.
+
+@unit Getting the Word Out
+correspondence | ✉️ | noun | letters or emails sent between people | The two friends kept up their [correspondence] for years. | letters, mail
+telegraph | 📠 | noun | an old machine that sent messages over wires using a code of clicks | Long ago, news traveled by [telegraph].
+communicate | 💬 | verb | to share information, ideas, or feelings with others | Dolphins [communicate] with clicks and whistles. | talk, share
+broadcast | 📡 | verb | to send out a program on radio or TV | The station will [broadcast] the game live.
+transmit | 📶 | verb | to send something from one place or person to another | Radios [transmit] sound through the air. | send, pass on
+signal | 🚦 | noun | a sign, sound, or movement that gives a message | The coach gave the [signal] to start. | sign, cue
+interview | 🎙️ | noun | a meeting where someone is asked questions | The reporter did an [interview] with the mayor.
+media | 📺 | noun | TV, radio, newspapers, and the internet, which give people news | The [media] reported on the big storm.
+journalist | 📰 | noun | a person who writes or reports the news | The [journalist] wrote an article about our school. | reporter
+headline | 🗞️ | noun | the title of a news story, in big letters | The [headline] said "Dragon Saves Town!"
+@story Ziggy Makes the News | city
+📰🐉 | After Ziggy rescued a cat from a tall tree, a [journalist] came to {Name}'s house.
+🎙️❓ | She wanted to do an [interview] with Ziggy.
+💬😊 | Ziggy tried to [communicate] clearly, but he was so excited that he kept puffing smoke.
+📺📡 | The TV station decided to [broadcast] the story that night.
+📶🌍 | Satellites would [transmit] the news all around the world.
+🗞️🦸 | The next morning, the [headline] read: "Local Dragon Is a Hero!"
+📺🌐 | The [media] couldn't stop talking about it.
+✉️📬 | Soon, letters poured in. Ziggy had so much [correspondence] that he needed a bigger mailbox!
+📠👴 | Grandpa said, "In my day, we'd have heard about it by [telegraph]!"
+🚦🐱 | And the cat? Every time it saw Ziggy, it gave a little purr—its [signal] for "thank you."
+
+@unit Praise and Blame
+commend | 👏 | verb | to praise someone formally | The principal will [commend] the students for their kindness. | praise
+applaud | 🙌 | verb | to clap to show you like something, or to praise | We [applaud] the brave firefighters. | clap, cheer
+acclaim | 🌟 | noun | great praise and approval from many people | The movie won [acclaim] around the world. | praise
+condemn | 👎 | verb | to say strongly that something is wrong or bad | Everyone will [condemn] the cruel treatment of the animals. | denounce, criticize
+denounce | 📢 | verb | to say publicly that someone or something is wrong | The mayor stood up to [denounce] the vandals. | condemn
+rebuke | 😠 | verb | to speak sharply to someone because they did something wrong | The coach had to [rebuke] the player for cheating. | scold, reprimand
+reprimand | 👉 | verb | to officially tell someone they have done something wrong | The teacher had to [reprimand] the class for being noisy. | scold, rebuke
+admonish | ☝️ | verb | to warn or scold someone gently but firmly | Grandma will [admonish] us not to run by the pool. | warn, scold
+blame | 🫵 | verb | to say that someone is responsible for something bad | Don't [blame] your brother for your own mistake.
+credit | 🏅 | noun | praise for something good that someone did | She deserves the [credit] for winning the game. | recognition
+@story The Graffiti Problem | city
+🎨🧱 | One morning, someone had sprayed paint all over the new library wall.
+📢🏛️ | The mayor went on TV to [denounce] the vandals.
+👎🗣️ | Everyone was quick to [condemn] the mess.
+🫵🧒 | Some people wanted to [blame] the teenagers who hung out in the park.
+☝️👵 | But Grandma would [admonish] them: "Don't judge before you know the facts."
+😠🧑 | When the teenagers were accused, the police had to [rebuke] the people who blamed them unfairly.
+🧑‍🎨🖌️ | The teenagers offered to paint a beautiful mural over the graffiti.
+🌟🖼️ | Their mural got [acclaim] from the whole town.
+👏🏅 | The mayor wanted to [commend] them at a ceremony.
+🙌🎉 | Everyone stood up to [applaud]. "They deserve the [credit]," said {Name}. And the real vandal? It was a raccoon who'd knocked over paint cans! The mayor had to [reprimand] him—with a warning and a cookie.
+
+@unit Give and Take
+bestow | 🎁 | verb | to give something as an honor or gift | The queen will [bestow] a medal on the hero. | award, grant
+relinquish | 🏳️ | verb | to give up something, often unwillingly | The king had to [relinquish] his crown. | surrender, give up
+acquire | 🛒 | verb | to get or gain something | She wanted to [acquire] a rare stamp for her collection. | obtain, get
+obtain | 🎫 | verb | to get something, often with effort | You must [obtain] permission to camp here. | acquire, get
+receive | 📬 | verb | to get something that is given or sent to you | Did you [receive] my letter?
+confer | 🎓 | verb | to give an honor, title, or degree | The college will [confer] a degree on each graduate.
+confiscate | 🙅 | verb | to take something away from someone as a punishment | The teacher had to [confiscate] the phone during class. | seize, take away
+seize | ✊ | verb | to take hold of something suddenly and firmly | The eagle can [seize] a fish from the water. | grab, snatch
+grant | ✅ | verb | to give or allow something someone asked for | The genie will [grant] you three wishes. | give, allow
+deprive | 🚫 | verb | to take away or keep something from someone | Don't [deprive] the plants of water. | deny, withhold
+@story The Genie in the Teapot | home
+🫖✨ | {Name} found an old teapot in Grandma's attic. When she rubbed it, a genie popped out!
+✅🧞 | "I will [grant] you three wishes," said the genie.
+🛒🎈 | First, Ziggy wanted to [acquire] a hot-air balloon.
+🎫📜 | But the genie said, "You must [obtain] a balloon license first."
+📬🍪 | Instead, {Name} wished to [receive] cookies for every child in town.
+🙅📱 | Then the genie tried to [confiscate] Ziggy's tablet. "Too much screen time!"
+✊😂 | Ziggy began to [seize] it back. "Hey!"
+🚫🥦 | "Don't [deprive] me of my games!" he begged. "Fine," said the genie, "if you eat your broccoli."
+🏳️👑 | For her last wish, {Name} wished the genie were free. The genie had to [relinquish] her lamp forever.
+🎁🎓 | Overjoyed, the genie wanted to [bestow] a golden crown on {Name}, and then to [confer] on Ziggy the title "Royal Cookie Taster." Then she flew off, free at last.
+
+@unit Starting and Stopping
+commence | 🏁 | verb | to begin or start | The ceremony will [commence] at noon. | begin, start
+initiate | ▶️ | verb | to cause something to begin | The principal will [initiate] a new reading program. | start, launch
+terminate | ⏹️ | verb | to bring something to an end | The company may [terminate] the contract. | end, stop
+cease | ✋ | verb | to stop | The rain didn't [cease] all day. | stop, end
+suspend | ⏸️ | verb | to stop something for a while, or to hang something | They will [suspend] the game because of lightning. | pause, postpone
+abolish | 🚫 | verb | to officially end a law, system, or custom | Many countries worked to [abolish] slavery. | end, eliminate
+discontinue | 🛑 | verb | to stop making or doing something | The store will [discontinue] that flavor of ice cream. | stop, drop
+adjourn | 🔨 | verb | to stop a meeting and continue it later | The judge will [adjourn] the trial until Monday. | break, recess
+inaugurate | 🎗️ | verb | to start something officially with a ceremony | The mayor will [inaugurate] the new bridge tomorrow. | launch, open
+finalize | ✅ | verb | to finish making decisions about something | We need to [finalize] our vacation plans. | complete, settle
+@story The New Bridge | city
+🌉🎗️ | The town built a new bridge, and the mayor was going to [inaugurate] it.
+📋✅ | First, the town council had to [finalize] the plans for the big day.
+🔨⏰ | At the meeting, they had to [adjourn] for lunch.
+🏁🎺 | On the big day, the ceremony was ready to [commence] at ten o'clock.
+▶️✂️ | {Name} was chosen to [initiate] the ribbon cutting.
+⛈️⏸️ | But a thunderstorm forced them to [suspend] the ceremony.
+✋☔ | Everyone waited for the rain to [cease].
+🛑⛴️ | "We can finally [discontinue] the old ferry," said the mayor.
+⏹️🚫 | "We'll [terminate] the ferry contract next week."
+🚫💰 | "And we'll [abolish] the bridge toll—it will be free for everyone!" The crowd cheered as the sun came out.
+
+@unit Noisy and Quiet
+boisterous | 🎉 | adj | loud, lively, and full of energy | The [boisterous] kids ran around the playground. | rowdy, noisy
+raucous | 📢 | adj | loud, harsh, and unpleasant | The [raucous] crows woke me up at dawn. | harsh, noisy
+tumultuous | 🌪️ | adj | loud, confused, and disorderly | The crowd gave a [tumultuous] cheer. | wild, turbulent
+subdued | 🤫 | adj | quiet and calm, often because of sadness or tiredness | After the long day, the class was [subdued]. | quiet, muted
+hushed | 🙊 | adj | very quiet | We spoke in [hushed] voices in the museum. | quiet, muted
+uproarious | 😂 | adj | very noisy and full of laughter | The comedian got [uproarious] applause. | hilarious, riotous
+rambunctious | 🐶 | adj | wild, noisy, and full of energy | The [rambunctious] puppy knocked over the lamp. | boisterous, unruly
+sedate | 🐢 | adj | calm, slow, and dignified | The old horse walked at a [sedate] pace. | calm, unhurried
+restless | 🫨 | adj | unable to stay still or relax | The kids got [restless] on the long car ride. | fidgety, antsy
+mellow | 🎷 | adj | soft, smooth, and relaxed | The café played [mellow] jazz music. | gentle, soothing
+@story Two Kinds of Parties | home
+🎉🎈 | {Name} and Ziggy went to two birthday parties on the same day.
+🐶🏃 | The first party was for six-year-old Max. It was [boisterous]!
+📢🦜 | Max's pet parrot let out [raucous] squawks.
+🐶💥 | His [rambunctious] puppy jumped into the cake.
+🌪️👏 | When Max blew out the candles, the cheer was [tumultuous].
+😂🤡 | A clown made everyone laugh with [uproarious] tricks.
+🫨🚗 | On the way to the next party, Ziggy was [restless]. He couldn't sit still!
+🎷☕ | The second party was for Great-Grandma's ninetieth birthday. The music was [mellow].
+🐢🫖 | Everyone sipped tea at a [sedate] pace.
+🙊📸 | They spoke in [hushed] voices while the baby napped.
+🤫🌙 | By the end of the day, {Name} and Ziggy were [subdued] and sleepy. "Two parties is a lot," yawned Ziggy.
+
+@unit Looking Sharp
+disheveled | 🌪️ | adj | messy and untidy, especially hair or clothes | He looked [disheveled] after the windy walk. | messy, untidy
+unkempt | 🦁 | adj | not neat or well cared for | The [unkempt] garden was full of weeds. | messy, scruffy
+immaculate | ✨ | adj | perfectly clean and neat | Her room was [immaculate]. | spotless, pristine
+impeccable | 💎 | adj | perfect, with no faults | He has [impeccable] manners. | perfect, flawless
+dapper | 🎩 | adj | neat and stylish, especially a man | Grandpa looked [dapper] in his new suit. | smart, sharp
+ragged | 👖 | adj | old and torn | The scarecrow wore [ragged] clothes. | tattered, torn
+shabby | 🧥 | adj | worn out and old-looking | He wore a [shabby] old coat with holes in the elbows. | worn, threadbare
+sleek | 🐆 | adj | smooth, shiny, and stylish | The race car had a [sleek] design. | smooth, glossy
+glamorous | 💃 | adj | attractive, exciting, and fancy | The movie star wore a [glamorous] gown. | dazzling, elegant
+frumpy | 🧶 | adj | old-fashioned and dull in style | She thought her old sweater looked [frumpy]. | dowdy
+@story The Makeover Show | city
+📺🐉 | Ziggy was the host of a pretend TV show: "Dragon Makeovers!"
+🌪️💇 | The first guest was {Name}'s dad. After running, he was [disheveled], with his hair sticking up everywhere.
+🦁🧔 | His beard was [unkempt].
+🧥🕳️ | He wore a [shabby] old jacket.
+👖🧵 | And [ragged] jeans with holes in the knees.
+🎩👔 | After the makeover, Dad looked [dapper] in a crisp shirt and bow tie.
+🧶😅 | Next was Grandma, who said her cardigan looked [frumpy].
+💃✨ | Ziggy gave her a [glamorous] scarf with sequins.
+🐆🕶️ | {Name} got [sleek] new sunglasses.
+✨🧹 | At the end, Ziggy's studio was [immaculate].
+💎👏 | "Your work is [impeccable]!" said Grandma, twirling in her new scarf.
+
+@unit Easy or Hard to See?
+conspicuous | 🚨 | adj | very easy to notice | The bright orange hat made him [conspicuous] in the crowd. | noticeable, obvious
+inconspicuous | 🫥 | adj | not easily noticed | The spy wore gray clothes to stay [inconspicuous]. | unnoticeable
+visible | 👀 | adj | able to be seen | The mountain was [visible] from our window.
+prominent | 🗻 | adj | standing out; easy to see, or very important | The tower is a [prominent] part of the city skyline. | noticeable, important
+distinct | 🔍 | adj | clearly different, or easy to see and hear | There was a [distinct] smell of smoke. | clear, separate
+vague | 🌫️ | adj | not clear or definite | I have only a [vague] memory of my first birthday. | unclear, fuzzy
+blurry | 😵 | adj | not clear; fuzzy to look at | The photo was [blurry] because the camera moved. | fuzzy, hazy
+discernible | 👁️ | adj | able to be noticed or seen, even if barely | There was a barely [discernible] path through the woods. | noticeable
+apparent | 💡 | adj | easy to see or understand | It was [apparent] that the dog wanted to go outside. | obvious, clear, evident
+evident | ✅ | adj | plain and clear to see | It was [evident] from her smile that she had won. | obvious, apparent
+@story The Spy Game | park
+🕵️🐉 | {Name} and Ziggy played a spy game in the park. The goal was to stay hidden.
+🚨🧡 | Ziggy wore an orange cape. He was very [conspicuous]!
+🫥🌳 | {Name} wore green and brown to stay [inconspicuous] among the trees.
+👀🔦 | "Your tail is [visible] behind the bush!" laughed {Name}.
+🗻🗼 | The park's tall clock tower was a [prominent] landmark where they met.
+🔍🍦 | There was a [distinct] smell of ice cream from the cart nearby.
+🌫️🗺️ | The secret map was [vague]—just a few squiggly lines.
+😵📸 | When Ziggy tried to take a spy photo, it came out [blurry].
+👁️👣 | They followed a barely [discernible] trail of footprints.
+💡🍪 | It led to a picnic table, where it became [apparent] who had been following them: Grandma, with cookies!
+✅😄 | It was [evident] she was the best spy of all.
+
+@unit Careful or Careless?
+reckless | 🏎️ | adj | doing dangerous things without thinking about what might happen | The [reckless] driver sped through the red light. | careless, rash
+prudent | 🦉 | adj | wise and careful about the future | It's [prudent] to save some of your allowance. | wise, sensible
+impulsive | ⚡ | adj | doing things suddenly without thinking first | My [impulsive] brother bought a toy he didn't need. | rash, hasty
+negligent | 🙈 | adj | not taking proper care of something you're responsible for | The [negligent] owner forgot to feed his fish. | careless
+meticulous | 🔬 | adj | extremely careful about every small detail | The artist was [meticulous] about every brushstroke. | precise, thorough
+thorough | 📋 | adj | complete and careful, leaving nothing out | We did a [thorough] cleaning of the garage. | complete, careful
+sloppy | 🍝 | adj | careless and messy | His [sloppy] handwriting was hard to read. | messy, careless
+rash | 💥 | adj | done too quickly without thinking about the results | Quitting the team was a [rash] decision. | hasty, impulsive
+conscientious | ✅ | adj | careful to do things well and correctly | The [conscientious] student checked her work twice. | diligent, careful
+spontaneous | 🎉 | adj | done suddenly without planning, often in a fun way | We took a [spontaneous] trip to the beach. | unplanned
+@story Two Gardeners | garden
+🌱👦 | Two brothers each planted a garden. Tom was [meticulous]. Jake was [sloppy].
+📋🪴 | Tom did a [thorough] job, pulling every weed.
+✅💧 | He was [conscientious], watering at the same time every day.
+🙈🥀 | Jake was [negligent]. He forgot to water for a week.
+⚡🌻 | Jake was also [impulsive]. He planted fifty sunflowers in one tiny pot!
+🦉🧺 | Tom was [prudent]. He saved seeds for next year.
+🏎️🌿 | Jake was [reckless] with the lawnmower and mowed over his own tomatoes.
+💥😢 | Then he made a [rash] decision: "I'm giving up gardening!"
+🎉🍉 | But Tom had a [spontaneous] idea. "Let's grow a garden together!"
+🐉👧 | {Name} and Ziggy helped. By fall, they had the best watermelons on the street.
+
+@unit In What Order?
+precede | ⏮️ | verb | to come before something | Thunder usually follows lightning; it doesn't [precede] it. | come before
+consecutive | 🔢 | adj | following one after another without a break | It rained for five [consecutive] days. | successive, straight
+preliminary | 🚦 | adj | coming before the main part; a first step | The [preliminary] round decides who goes to the finals. | early, initial
+ultimate | 🏆 | adj | last, final, or the greatest | Winning the championship was her [ultimate] goal. | final, supreme
+interim | ⏳ | adj | for a short time, until something permanent happens | We had an [interim] teacher while Ms. Lee was away. | temporary
+final | 🏁 | adj | coming at the end; last | This is the [final] chapter of the book. | last
+penultimate | 🥈 | adj | next to last | The [penultimate] song was my favorite—then came the last one.
+primary | 1️⃣ | adj | first or most important | Our [primary] goal is safety. | main, chief
+intermediate | 📶 | adj | in the middle level, between beginner and advanced | I'm in the [intermediate] swimming class.
+foremost | ⭐ | adj | the most important or first | She is the world's [foremost] expert on bees. | leading, top
+@story The Dance Competition | school
+💃🏆 | {Name} entered a big dance competition. Her [ultimate] goal was to win the trophy.
+1️⃣🎯 | But her [primary] goal was just to have fun.
+🚦👟 | First came the [preliminary] round. Fifty dancers competed!
+📶🩰 | {Name} was in the [intermediate] group, between the beginners and the experts.
+⏮️🎵 | The warm-up dance would [precede] each performance.
+🔢🗓️ | She practiced for ten [consecutive] days.
+⏳👩‍🏫 | Her regular teacher was sick, so an [interim] coach helped her.
+⭐🌟 | The judge was the country's [foremost] dance teacher.
+🥈🎶 | {Name} danced in the [penultimate] spot—second to last.
+🏁🏆 | When the [final] dancer finished, the judge announced the winner: {Name}! Ziggy danced so wildly that he knocked over a chair.
