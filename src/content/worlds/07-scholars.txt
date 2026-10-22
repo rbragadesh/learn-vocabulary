@@ -1240,3 +1240,169 @@ abbreviation | ✂️ | noun | a short form of a word or phrase | "Dr." is an [a
 ✂️🩺 | "Dr." was an [abbreviation] for "doctor."
 🌧️🐈 | Ziggy learned an [idiom]: "It's raining cats and dogs." He ran to the window to look!
 📜🦖 | Her favorite discovery was the [etymology] of "dinosaur": it comes from Greek words meaning "terrible lizard." "That's my cousin," joked Ziggy.
+
+@unit How Cities Work
+infrastructure | 🌉 | noun | the basic systems a city needs, like roads, bridges, pipes, and power lines | The city is repairing its old [infrastructure].
+utility | 💡 | noun | a service like water, gas, or electricity that people need | We pay a [utility] bill for electricity every month.
+sanitation | 🚛 | noun | keeping places clean, especially by removing garbage and sewage | Good [sanitation] keeps people from getting sick.
+congestion | 🚗 | noun | crowding, especially too much traffic | Traffic [congestion] made us late. | crowding, jam
+metropolitan | 🌆 | adj | having to do with a big city and the area around it | The [metropolitan] area has five million people.
+suburb | 🏘️ | noun | an area with houses near the edge of a city | We live in a quiet [suburb] outside the city.
+district | 🗺️ | noun | an area of a city or country with a special use or government | The theater [district] is full of shows. | area, zone
+boulevard | 🛣️ | noun | a wide city street, often lined with trees | We strolled down the tree-lined [boulevard]. | avenue
+plaza | ⛲ | noun | an open public square in a city | Musicians played in the [plaza]. | square
+thoroughfare | 🚦 | noun | a main road through a city | Main Street is the town's busiest [thoroughfare]. | main road
+@story City Builder Ziggy | city
+🏙️🎮 | Ziggy played a video game where he had to build a whole city.
+🌉🔧 | First, he needed [infrastructure]: roads, bridges, and pipes.
+💡⚡ | Every house needed each [utility]: water, power, and gas.
+🚛🗑️ | He added garbage trucks for [sanitation].
+🛣️🌳 | He built a wide [boulevard] lined with trees.
+🚦🏢 | Main Street became the city's busiest [thoroughfare].
+🚗😩 | Soon there was traffic [congestion]! He added buses and bike lanes.
+⛲🎶 | In the center, he built a [plaza] with a fountain.
+🗺️🎭 | He made a theater [district] full of shows.
+🏘️🌆 | His [metropolitan] area grew, with every [suburb] full of happy pixel people. "I'm a city genius!" he said—until a pixel dragon knocked over the bridge.
+
+@unit Space Travel
+gravitational | 🌍 | adj | having to do with gravity | The Moon's [gravitational] pull causes the tides.
+orbital | 🛰️ | adj | having to do with an orbit | The space station has an [orbital] speed of 28,000 kilometers per hour.
+propulsion | 🚀 | noun | the force that pushes something forward | Rockets use powerful [propulsion] to reach space. | thrust
+spacecraft | 🛸 | noun | a vehicle that travels in space | The [spacecraft] landed on Mars.
+cosmonaut | 👨‍🚀 | noun | an astronaut from Russia | The first person in space was a [cosmonaut] named Yuri Gagarin.
+payload | 📦 | noun | the cargo carried by a rocket or plane | The rocket's [payload] was a new satellite. | cargo, load
+module | 🧩 | noun | a separate section of a spacecraft or building | The astronauts slept in the living [module].
+launchpad | 🏗️ | noun | the platform where a rocket blasts off | The rocket stood tall on the [launchpad].
+reentry | 🔥 | noun | when a spacecraft comes back into Earth's atmosphere | The capsule glowed red-hot during [reentry].
+weightless | 🎈 | adj | floating because you don't feel gravity | In space, astronauts are [weightless].
+@story Mission to Mars | space
+🏗️🚀 | {Name} and Ziggy imagined they were astronauts on the first mission to Mars.
+🚀🔥 | Their rocket stood on the [launchpad], ready to go.
+📦🛰️ | Its [payload] included a rover and a greenhouse.
+🚀💥 | The [propulsion] system roared, and they blasted off!
+🌍⬇️ | They had to escape Earth's [gravitational] pull.
+🛰️🌍 | They circled the Earth at [orbital] speed before heading to Mars.
+🎈😆 | Inside, they were [weightless]. Ziggy did ten somersaults in the air!
+🧩🛏️ | They slept in the living [module].
+🛸🔴 | Their [spacecraft] landed on the red planet. They planted a flag!
+👨‍🚀🇷🇺 | A [cosmonaut] on the team waved hello in Russian.
+🔥🌊 | Months later, during [reentry], their capsule glowed like a shooting star before splashing into the ocean. "Mission accomplished!"
+
+@unit Great Musicians
+virtuoso | 🎻 | noun | a person with amazing skill, especially in music | The violin [virtuoso] played with lightning-fast fingers. | maestro, master
+maestro | 🎼 | noun | a great musician, especially a conductor | The [maestro] raised his baton. | virtuoso, master
+repertoire | 📚 | noun | all the songs or pieces a performer knows and can play | Her [repertoire] includes fifty songs.
+rendition | 🎤 | noun | a performance of a song or piece of music | His [rendition] of the anthem made people cry. | performance, version
+melodious | 🎶 | adj | pleasant and tuneful to hear | The bird's song was [melodious]. | tuneful, musical
+dissonant | 🔊 | adj | harsh and unpleasant because the notes clash | The beginner's band was a little [dissonant]. | clashing, jarring
+cadence | 🥁 | noun | the rise and fall of a voice or rhythm of sounds | She spoke with a gentle [cadence]. | rhythm, beat
+overture | 🎺 | noun | the musical introduction to an opera or show | The orchestra played the [overture] before the curtain rose.
+aria | 🎙️ | noun | a solo song in an opera | The soprano sang a beautiful [aria].
+libretto | 📜 | noun | the words of an opera | The [libretto] was written in Italian.
+@story Opening Night at the Opera | city
+🎭🏛️ | {Name} and Ziggy went to their first opera.
+🎼🎩 | The famous [maestro] walked onto the stage, and everyone clapped.
+🎺🎵 | The orchestra played the [overture], a bright and exciting opening.
+📜🇮🇹 | {Name} read the [libretto] in her program. It was in Italian, with English beside it.
+🎙️✨ | Then the star sang an [aria] so beautiful that Ziggy's eyes filled with tears.
+🎶🐦 | Her voice was [melodious], like a songbird's.
+🥁🌊 | The music had a slow, rolling [cadence], like ocean waves.
+🔊😬 | In one scene, the music became [dissonant] to show danger.
+🎻⚡ | A violin [virtuoso] played a solo with lightning-fast fingers.
+📚🎤 | "His [repertoire] has over a hundred pieces," whispered Grandma.
+🎤🐉 | On the way home, Ziggy sang his own [rendition] of the aria. It was… loud.
+
+@unit Working Together 2
+delegate | 🧑‍💼 | noun | a person chosen to speak or act for a group | Each school sent a [delegate] to the meeting. | representative
+liaison | 🔗 | noun | a person who helps two groups communicate and work together | She was the [liaison] between the students and the teachers. | go-between, link
+coalition | 🤝 | noun | a group of people or organizations that join together for a common goal | A [coalition] of parents worked to build a new playground. | alliance, union
+partnership | 👫 | noun | working together as partners | The two companies formed a [partnership]. | alliance, collaboration
+synergy | ⚡ | noun | the extra power that comes from working together | The team's [synergy] made them unbeatable.
+cooperative | 🧺 | adj | willing to work together | The [cooperative] students finished the project early. | helpful, collaborative
+mediator | ⚖️ | noun | a person who helps two sides settle an argument | A [mediator] helped the neighbors agree. | peacemaker, go-between
+facilitator | 🎙️ | noun | a person who helps a group work together or learn | The [facilitator] led our discussion. | leader, guide
+unify | 🧩 | verb | to bring together into one | The new coach worked to [unify] the team. | unite, join
+rapport | 😊 | noun | a friendly connection between people who understand each other | The teacher has a great [rapport] with her students. | bond, connection
+@story The Big Playground Project | park
+🛝🏫 | Three schools in {Name}'s town wanted to build one giant playground together.
+🤝👥 | Parents formed a [coalition] to raise money.
+🧑‍💼📋 | Each school sent a [delegate] to the planning meeting. {Name} went for her school!
+🔗🗣️ | Ziggy served as the [liaison] between the kids and the grown-ups.
+🎙️📊 | A [facilitator] led the meetings and kept them on track.
+😠⚖️ | When two schools argued about the slide, a [mediator] helped them agree.
+👫🏗️ | A local builder formed a [partnership] with the schools.
+🧺💪 | Everyone was [cooperative], carrying wood and paint.
+⚡🎉 | The [synergy] of three schools working together was amazing.
+🧩🌈 | The project helped [unify] the whole town.
+😊🛝 | And {Name} built a great [rapport] with kids from the other schools—new friends for life!
+
+@unit Falling Apart 2
+derelict | 🏚️ | adj | abandoned and falling apart | The [derelict] warehouse had broken windows. | abandoned, run-down
+defunct | ❌ | adj | no longer existing or working | The [defunct] factory had been closed for years. | closed, dead
+decrepit | 🪑 | adj | old and in bad condition | The [decrepit] old car barely started. | rickety, worn-out
+crumbling | 🧱 | adj | breaking into small pieces | The [crumbling] wall was full of cracks. | decaying, disintegrating
+forsaken | 🥀 | adj | abandoned and alone | The [forsaken] village had no people left. | deserted, abandoned
+ramshackle | 🛖 | adj | badly made and likely to fall apart | They lived in a [ramshackle] hut. | rickety, tumbledown
+blight | 🍂 | noun | something that spoils or damages things | The empty lot was a [blight] on the neighborhood. | plague, eyesore
+disrepair | 🔧 | noun | a bad condition from not being fixed | The old house fell into [disrepair].
+vandalism | 🎨 | noun | deliberately damaging property | Spray-painting the wall was [vandalism].
+restoration | ✨ | noun | returning something to its original good condition | The [restoration] of the castle took ten years. | renovation, repair
+@story The Old Train Station | city
+🚂🏚️ | On the edge of town stood an old train station. It was [derelict].
+❌🛤️ | The railroad was [defunct]; no trains had come in fifty years.
+🧱💔 | Its walls were [crumbling].
+🔧🕸️ | The roof was in [disrepair], full of holes.
+🪑🎫 | A [decrepit] old ticket booth leaned to one side.
+🛖🌿 | Next to it was a [ramshackle] shed covered in vines.
+🎨😠 | Someone had committed [vandalism], spraying paint on the doors.
+🍂🏘️ | People called it a [blight] on the town.
+🥀😢 | It looked [forsaken], as if everyone had forgotten it.
+✨🎉 | But {Name}, Ziggy, and the whole town worked together on its [restoration]. Now it's a museum, a café, and the best place in town for hot cocoa.
+
+@unit Honors and Praise
+flattery | 🍯 | noun | too much praise, often not sincere | He used [flattery] to get an extra cookie. | sweet talk, compliments
+tribute | 🏅 | noun | something said or done to show respect or thanks | The concert was a [tribute] to the heroes. | honor, homage
+eulogy | 🕯️ | noun | a speech praising someone who has died | Grandpa's friend gave a moving [eulogy].
+ovation | 👏 | noun | long, enthusiastic clapping | The singer got a standing [ovation]. | applause, cheering
+accolade | 🏆 | noun | an award or special praise | The book won every [accolade]. | honor, award
+homage | 🙇 | noun | special honor or respect shown publicly | The parade paid [homage] to the town's founders. | tribute, honor
+testimonial | 💬 | noun | a statement praising someone's character or a product | Happy customers wrote a [testimonial] for the bakery. | endorsement, recommendation
+citation | 📜 | noun | an official mention for bravery or achievement; or a quote from a source | The firefighter received a [citation] for bravery.
+laureate | 🌿 | noun | a person who has won a very important prize | The Nobel [laureate] spoke at our school.
+commendation | 🎖️ | noun | official praise | She received a [commendation] for her hard work. | praise, recognition
+@story Grandma Rose's Big Day | city
+🎖️👵 | Grandma Rose had been the town's librarian for fifty years. The town planned a day to honor her.
+🏅📚 | The whole day was a [tribute] to her love of books.
+🙇🎺 | A parade paid [homage] to her, with kids dressed as book characters.
+📜⭐ | The mayor gave her a [citation] for "fifty years of service."
+🎖️✍️ | The governor sent a [commendation] letter.
+🌿🌍 | A Nobel [laureate] who grew up in town sent a video. "Rose gave me my first science book!"
+💬📝 | Former students wrote a [testimonial] about how she changed their lives.
+🏆✨ | It was the greatest [accolade] the town had ever given.
+🍯😂 | Ziggy tried a little [flattery]: "You're the best librarian in the universe!" (He was hoping for a cookie.)
+👏🎉 | When Grandma Rose stood up to speak, everyone gave her a standing [ovation].
+🕯️💛 | "When I'm gone, don't give me a [eulogy]," she joked. "Just read a good book."
+
+@unit The Scholar's Path
+scholarship | 🎓 | noun | money given to a student to help pay for school; or serious study | She won a [scholarship] to college.
+academic | 📚 | adj | having to do with school, learning, and studying | Her [academic] record was excellent. | scholarly, educational
+intellectual | 🧠 | adj | having to do with thinking and understanding | Chess is an [intellectual] challenge. | mental, scholarly
+studious | 📖 | adj | spending a lot of time studying | The [studious] boy read every night. | bookish, diligent
+inquisitive | 🧐 | adj | curious and eager to learn | The [inquisitive] toddler asked "Why?" all day. | curious, questioning
+thesis | 📝 | noun | the main idea of an essay; or a long paper written to earn a degree | Her [thesis] was about saving coral reefs. | argument, dissertation
+seminar | 👥 | noun | a class where a small group discusses a topic with a teacher | We had a [seminar] on climate science.
+symposium | 🎤 | noun | a meeting where experts discuss a subject | Scientists gathered for a [symposium] on space travel. | conference
+discipline | 🏋️ | noun | self-control; or a field of study | Learning piano takes [discipline]. | self-control; field
+enlightenment | 💡 | noun | gaining knowledge and understanding | Reading brings [enlightenment]. | understanding, wisdom
+@story The Young Scholars | school
+🎓🐉 | At the end of the year, {Name}'s school chose ten students for a special Young Scholars program.
+🧐❓ | {Name} was chosen because she was so [inquisitive].
+📖🌙 | She was [studious], reading every night.
+🏋️⏰ | She had the [discipline] to practice a little every day.
+📚🏆 | Her [academic] work was the best in her class.
+🧠♟️ | The program had [intellectual] challenges like chess and logic puzzles.
+👥💬 | Each week there was a [seminar] where students discussed big ideas.
+📝🐋 | {Name} wrote a short [thesis] about saving whales.
+🎤🔬 | She was invited to present it at a [symposium] with real scientists!
+🎓💰 | At the end, she won a [scholarship] for a summer science camp.
+💡🌟 | "Learning is a lifelong path to [enlightenment]," said her teacher. Ziggy added, "And snacks. Don't forget snacks."
