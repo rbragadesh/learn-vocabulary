@@ -396,3 +396,260 @@ obsequious | 🧎 | adj | too eager to please or flatter, in a fake way | The [o
 🙇🦡 | A [servile] badger carried his snacks.
 🦚😴 | But his [hubris] was his downfall—he napped during the race!
 🙂🏆 | The tortoise won and accepted the prize with [modesty]. "Slow and steady," she said, smiling.
+
+@unit True Grit
+indomitable | 🦁 | adj | impossible to defeat or discourage | Her [indomitable] spirit kept her going. | unbeatable, unconquerable
+mettle | 💪 | noun | courage and strength of character when facing difficulty | The hard climb tested our [mettle]. | courage, spirit, grit
+gallantry | 🎖️ | noun | great bravery, especially in battle; or polite attention | The soldier won a medal for [gallantry]. | bravery, valor
+fortitude | 🏔️ | noun | courage in facing pain or trouble | She showed great [fortitude] during her long illness. | strength, endurance
+timorous | 🐭 | adj | easily frightened; nervous | The [timorous] mouse hid at every sound. | timid, fearful
+craven | 🐔 | adj | cowardly | The [craven] knight ran from the battle. | cowardly, spineless
+unscathed | ✨ | adj | not hurt or harmed at all | Amazingly, the cat escaped the fall [unscathed]. | unharmed, unhurt
+tenacity | 🐶 | noun | the quality of holding on and never giving up | Her [tenacity] helped her finish the race. | persistence, determination
+resilience | 🌱 | noun | the ability to recover quickly from difficulties | Kids have amazing [resilience]. | toughness, adaptability
+audacity | 🦅 | noun | boldness, sometimes rude boldness | He had the [audacity] to cut in line! | nerve, daring
+@story The Little Mouse Who Saved the Mill | farm
+🐭🏚️ | In an old mill lived a [timorous] mouse named Pip, who was scared of everything.
+🌊🌧️ | One night, a flood threatened the mill. The farm animals panicked.
+🐔🏃 | A [craven] rooster ran away and hid.
+🦅😤 | A bold crow had the [audacity] to say, "Let it wash away!"
+💪🐭 | But the flood tested Pip's [mettle]. She knew a secret way to close the floodgate.
+🏔️🌊 | With great [fortitude], she swam through the cold water.
+🐶🪵 | Her [tenacity] kept her pushing the heavy lever.
+🎖️✨ | Her [gallantry] saved the mill!
+✨🐭 | And somehow, she came out [unscathed].
+🌱🦁 | "You have [resilience] and an [indomitable] heart," said {Name}, who heard the story from Ziggy. "Even tiny creatures can be brave."
+
+@unit Angry Words
+wrath | ⛈️ | noun | great anger | The villagers feared the giant's [wrath]. | fury, rage
+ire | 🔥 | noun | anger | The unfair call drew the coach's [ire]. | anger, wrath
+indignation | 😤 | noun | anger at something unfair | She felt [indignation] when she was blamed for her brother's mess. | outrage, resentment
+rancor | 🐍 | noun | bitter, long-lasting anger | Despite the loss, he felt no [rancor] toward the winners. | bitterness, resentment
+acrimony | ⚡ | noun | bitter, angry feelings and words | The meeting ended in [acrimony]. | bitterness, hostility
+enmity | ⚔️ | noun | deep hostility between people or groups | There was old [enmity] between the two clans. | hatred, hostility
+vitriolic | ☠️ | adj | full of bitter, cruel criticism | He wrote a [vitriolic] review of the movie. | scathing, venomous
+glower | 😠 | verb | to stare angrily | The old man began to [glower] at the noisy kids. | glare, scowl
+bristle | 🦔 | verb | to show sudden anger or annoyance | She began to [bristle] at his rude comment. | bridle, flare up
+berate | 🗣️ | verb | to scold someone angrily | The coach began to [berate] the players for being late. | scold, rebuke
+@story The Giant's Garden | garden
+🌳🗿 | Beyond the hills lived a giant named Grumbold who guarded his garden with [wrath].
+😠👀 | He would [glower] at anyone who came near.
+🗣️👦 | When a boy picked an apple, the giant began to [berate] him for an hour.
+🔥🍎 | The villagers' [ire] grew. "He has more apples than he needs!"
+⚔️🏘️ | Years of [enmity] grew between the giant and the village.
+⚡📜 | Letters full of [acrimony] flew back and forth.
+☠️📰 | The village paper printed a [vitriolic] article about him.
+😤🐉 | {Name} felt [indignation] at how unkind everyone was being—on both sides.
+🦔💬 | When she visited the giant, he began to [bristle]. "What do YOU want?"
+🍎🤝 | "To share," she said. She brought him cookies. He was so surprised that his [rancor] melted. Soon, the garden was open to everyone.
+
+@unit Sorrow
+despondent | 😞 | adj | without hope; very sad | He felt [despondent] after failing the test twice. | hopeless, dejected
+dejected | 😔 | adj | sad and disappointed | The [dejected] team walked off the field. | downcast, crestfallen
+disconsolate | 😢 | adj | so sad that nothing can comfort you | The [disconsolate] child cried for her lost kitten. | inconsolable, heartbroken
+woeful | 😩 | adj | very sad; or very bad | The team's [woeful] performance lost the game. | sorrowful; terrible
+wretched | 🌧️ | adj | very unhappy or unwell; or very bad | I felt [wretched] with the flu. | miserable, awful
+inconsolable | 💧 | adj | too sad to be comforted | She was [inconsolable] when her best friend moved away. | disconsolate, heartbroken
+mournful | 🎻 | adj | feeling or showing sadness | The wolf gave a [mournful] howl. | sorrowful, doleful
+grieve | 🖤 | verb | to feel deep sadness, especially after a death | It's okay to [grieve] when you lose a pet. | mourn, sorrow
+lament | 😭 | verb | to express sorrow or regret | The old sailor would [lament] his lost ship. | mourn, bemoan
+solace | 🫂 | noun | comfort in a time of sadness | She found [solace] in her friends. | comfort, consolation
+@story The Lost Kite Bird | park
+🦜💔 | {Name}'s pet parrot, Kiwi, flew away during a storm. {Name} was [disconsolate].
+💧😢 | For two days, she was [inconsolable].
+😞🪟 | She sat by the window, [despondent].
+🌧️🤒 | She even felt [wretched], too sad to eat.
+😩🎨 | Her drawings that week were [woeful]—just gray scribbles.
+🎻🌙 | At night, she played a [mournful] song on her flute.
+😭🗣️ | "I [lament] that I left the window open," she said.
+🖤🐉 | "It's okay to [grieve]," said Ziggy gently. "But don't give up hope."
+😔➡️🔍 | The next day, still [dejected], they searched the park.
+🫂🦜 | High in a tree, they heard a whistle—it was Kiwi! {Name} found [solace] in Kiwi's happy squawk as he landed on her shoulder.
+
+@unit Dry Humor
+wry | 😏 | adj | dryly humorous, often with a touch of irony | She gave a [wry] smile at the silly mistake. | ironic, dry
+sardonic | 😒 | adj | mocking in a bitter or scornful way | He gave a [sardonic] laugh at the idea. | mocking, scornful
+facetious | 🤡 | adj | joking at the wrong time, not being serious | Don't be [facetious]—this is important! | flippant, jokey
+flippant | 🙃 | adj | not showing proper seriousness | His [flippant] answer annoyed the teacher. | offhand, glib
+irreverent | 😜 | adj | not showing respect for serious or sacred things | The comedian's [irreverent] jokes made some people uncomfortable. | disrespectful, cheeky
+droll | 🎩 | adj | funny in an odd or dry way | The butler had a [droll] sense of humor. | witty, amusing
+deadpan | 😐 | adj | saying something funny with a completely serious face | He told the joke with a [deadpan] expression. | straight-faced
+quip | 💬 | noun | a short, clever, funny remark | Ziggy made a [quip] about dragons and fire alarms. | witticism, one-liner
+satirical | 📰 | adj | using humor to criticize or mock | The cartoon was [satirical], poking fun at the mayor. | mocking, ironic
+mockery | 😝 | noun | making fun of someone or something | The bully's [mockery] hurt his feelings. | ridicule, derision
+@story The Comedy Club | city
+🎤😂 | {Name} and Ziggy went to a family comedy show.
+😐🎙️ | The first comedian had a [deadpan] style—he never smiled.
+🎩🫖 | The second, dressed as a butler, was [droll], telling odd little stories about tea.
+😏🍋 | The third gave a [wry] grin while talking about her lemon-loving cat.
+💬🔥 | Ziggy shouted a [quip]: "Dragons make terrible firefighters!" Everyone laughed.
+📰🏛️ | The fourth did a [satirical] skit about politicians.
+😜⛪ | The fifth was a bit [irreverent], and some grandparents frowned.
+😒🙄 | A man in the back gave a [sardonic] laugh at everything.
+🙃🎤 | When the host asked for questions, a teen gave a [flippant] answer.
+🤡😬 | "Don't be [facetious]," said his mom.
+😝➡️💛 | At the end, the host said, "Comedy should bring people together—not be [mockery]." Everyone cheered.
+
+@unit Truth and Trickery
+veracity | ✅ | noun | truthfulness | No one doubted the [veracity] of her story. | truth, honesty
+candor | 💬 | noun | honesty and openness | I appreciate your [candor]. | frankness, honesty
+mendacious | 🤥 | adj | lying; untruthful | The [mendacious] salesman lied about the car. | lying, dishonest
+duplicity | 🎭 | noun | dishonesty and double-dealing | The spy's [duplicity] fooled both sides. | deceit, double-dealing
+guile | 🦊 | noun | clever but sneaky intelligence | The fox used [guile] to trick the hens. | cunning, craftiness
+chicanery | 🃏 | noun | clever tricks used to deceive | The election was ruined by [chicanery]. | trickery, deception
+feign | 😴 | verb | to pretend | He tried to [feign] sleep so he wouldn't have to do chores. | pretend, fake
+sham | 🎪 | noun | something fake that pretends to be real | The "magic potion" was a [sham]. | fake, fraud, hoax
+charlatan | 🧙 | noun | a person who pretends to have skills or knowledge they don't have | The [charlatan] sold fake medicine. | fraud, quack, con artist
+dissemble | 🙈 | verb | to hide your real feelings or intentions | He tried to [dissemble] his disappointment with a smile. | disguise, conceal
+@story The Traveling Wizard | market
+🧙🎪 | A traveling "wizard" came to town selling a potion that could make you fly.
+🤥📢 | He was [mendacious], promising things he couldn't deliver.
+🦊💬 | He used [guile] to charm the crowd.
+🃏🧪 | His show was full of [chicanery]—hidden strings and smoke.
+😴🎭 | His helper would [feign] flying while hanging from a rope.
+🎪🔍 | {Name} suspected the whole thing was a [sham].
+🙈😊 | The wizard tried to [dissemble], smiling sweetly when she asked questions.
+🎭👀 | But {Name} noticed his [duplicity]: he whispered "Suckers!" to his helper.
+💬🐉 | With great [candor], Ziggy said, "I'm a real dragon, and that potion won't make anyone fly."
+✅🏃 | The crowd believed in the [veracity] of a real dragon. The [charlatan] ran out of town!
+
+@unit Never Backing Down
+relentless | 🌊 | adj | never stopping or easing up | The [relentless] rain fell for a week. | unceasing, persistent
+persistent | 🐝 | adj | continuing firmly despite problems | The [persistent] bee kept buzzing at the window. | tenacious, determined
+dogged | 🐕 | adj | very determined and not giving up | Her [dogged] effort finally paid off. | determined, tenacious
+unwavering | 🧭 | adj | steady and not changing | He had [unwavering] faith in his friend. | steadfast, firm
+inexorable | ⏳ | adj | impossible to stop or prevent | The [inexorable] march of time continues. | unstoppable, relentless
+implacable | 🪨 | adj | impossible to calm or satisfy | The [implacable] enemy refused every peace offer. | unappeasable, merciless
+obdurate | 🐂 | adj | stubbornly refusing to change your mind | The [obdurate] judge wouldn't listen to new evidence. | stubborn, unyielding
+intransigent | 🧱 | adj | refusing to compromise or agree | The two [intransigent] sides couldn't make a deal. | uncompromising, stubborn
+recalcitrant | 🙅 | adj | stubbornly refusing to obey or cooperate | The [recalcitrant] mule wouldn't move. | stubborn, uncooperative
+headstrong | 🐏 | adj | determined to do things your own way | The [headstrong] girl climbed the tree anyway. | willful, stubborn
+@story The Mule Who Wouldn't Move | farm
+🫏🌾 | On Grandpa's farm lived a [recalcitrant] mule named Boulder.
+🐂🙅 | He was [obdurate]: once he sat down, he wouldn't move.
+🧱🤝 | Grandpa tried to make a deal, but Boulder was [intransigent].
+🪨🥕 | He was [implacable]—even carrots didn't work!
+🐏👧 | {Name} was [headstrong] too. "I'll get him moving!"
+🐕💪 | Her effort was [dogged]. She tried all morning.
+🐝🗣️ | She was [persistent], talking to him gently.
+🌊⛈️ | Then a [relentless] storm rolled in.
+⏳🌧️ | The rain's [inexorable] approach meant they had to get the hay inside.
+🧭💛 | {Name}'s [unwavering] patience paid off. She sang Boulder's favorite song, and he stood up and walked to the barn!
+
+@unit Easygoing
+amenable | 👍 | adj | willing to agree or cooperate | The teacher was [amenable] to our idea. | agreeable, willing
+tractable | 🐑 | adj | easy to control or manage | The [tractable] horse was perfect for beginners. | docile, manageable
+compliant | ✅ | adj | willing to follow rules or requests | The [compliant] students lined up quickly. | obedient, cooperative
+pliable | 🌿 | adj | easily bent; or easily influenced | Willow branches are [pliable]. | flexible, bendable
+malleable | 🔨 | adj | able to be hammered or shaped easily; or easily influenced | Gold is [malleable]. | shapeable, workable
+accommodating | 🤗 | adj | willing to help or do what others want | The [accommodating] hotel brought us extra pillows. | obliging, helpful
+agreeable | 😊 | adj | pleasant; or willing to agree | The weather was [agreeable] for a picnic. | pleasant, willing
+lax | 🛋️ | adj | not strict or careful enough | The [lax] guard let everyone in. | careless, loose
+indulgent | 🍰 | adj | allowing others to have what they want, even too much | My [indulgent] grandma lets me eat dessert first. | lenient, permissive
+permissive | 🔓 | adj | allowing a lot of freedom, maybe too much | The [permissive] babysitter let us stay up until midnight. | lenient, lax
+@story Grandma's House Rules | home
+🏡👵 | {Name} and Ziggy spent a weekend at Grandma's house, where the rules were different.
+🍰😋 | Grandma was [indulgent]—dessert came first!
+🔓🌙 | She was [permissive] about bedtime, too.
+🛋️😴 | The cat was [lax] about catching mice; he just napped.
+🤗🛏️ | Grandma was always [accommodating]. "Need another pillow? Here you go!"
+👍🎨 | When {Name} asked to paint the fence purple, Grandma was [amenable].
+😊☀️ | The weather was [agreeable], perfect for painting.
+✅🧹 | Afterward, the kids were [compliant] and cleaned up without being asked.
+🐑🐴 | Grandma's old horse was [tractable], so they rode him around the yard.
+🌿🧺 | They wove a basket from [pliable] willow branches.
+🔨✨ | Grandpa showed them how [malleable] copper is by hammering it into a tiny dragon.
+
+@unit Advanced Biology
+enzyme | 🧪 | noun | a protein that speeds up chemical reactions in living things | An [enzyme] in your saliva starts digesting bread.
+neuron | 🧠 | noun | a nerve cell that sends messages in the brain and body | Your brain has billions of nerve cells; each [neuron] sends tiny electrical messages.
+synapse | ⚡ | noun | the tiny gap between neurons where messages pass | Messages jump across each [synapse] in a split second.
+genome | 🧬 | noun | the complete set of genes in a living thing | Scientists mapped the human [genome].
+antibody | 🛡️ | noun | a protein made by the body to fight germs | Your body makes an [antibody] to fight each new germ.
+pathogen | 🦠 | noun | a germ that causes disease | A virus is a type of [pathogen].
+antibiotic | 💊 | noun | a medicine that kills bacteria | The doctor gave her an [antibiotic] for her ear infection.
+cellular | 🔬 | adj | having to do with cells | Scientists study [cellular] growth.
+embryo | 🥚 | noun | an animal or plant in the earliest stage of development | A chick [embryo] grows inside an egg.
+hereditary | 👨‍👩‍👧 | adj | passed down from parents to children | Eye color is [hereditary]. | inherited, genetic
+@story Inside the Human Body | lab
+🔬🧑‍🔬 | Dr. Patel showed {Name} and Ziggy amazing videos about how the body works.
+🧬📚 | "Your [genome] is like a giant instruction book with all your genes."
+👨‍👩‍👧👁️ | "Many traits, like eye color, are [hereditary]."
+🥚🐣 | "Every animal starts as a tiny [embryo]."
+🔬🧫 | "[Cellular] growth turns that tiny embryo into a whole creature."
+🧠💭 | "In your brain, each [neuron] sends messages."
+⚡💨 | "Messages jump across a [synapse] in a split second!"
+🧪🍞 | "An [enzyme] in your mouth starts breaking down food."
+🦠⚠️ | "When a [pathogen] gets into your body, your immune system fights back."
+🛡️💪 | "Your body makes an [antibody] to fight each germ."
+💊🩺 | "And if bacteria make you sick, a doctor might give you an [antibiotic]." Ziggy was amazed. "My body is like a superhero team!"
+
+@unit The Sky Above
+stratosphere | 🌍 | noun | the layer of the atmosphere above where weather happens | Jets sometimes fly in the lower [stratosphere].
+troposphere | ☁️ | noun | the lowest layer of the atmosphere, where weather happens | All of Earth's weather happens in the [troposphere].
+ozone | 🛡️ | noun | a gas high in the atmosphere that protects us from the sun's harmful rays | The [ozone] layer blocks harmful sunlight.
+aurora | 🌌 | noun | colorful lights in the night sky near the North or South Pole | We saw a green [aurora] dancing in the Alaska sky. | northern lights
+barometric | 📟 | adj | having to do with air pressure | Falling [barometric] pressure often means a storm.
+meteorology | 🌦️ | noun | the science of weather | She studied [meteorology] to become a weather forecaster.
+cumulus | ☁️ | noun | a big, fluffy, white cloud | A [cumulus] cloud looked like a giant cotton ball.
+cirrus | 🪶 | noun | a thin, wispy cloud high in the sky | Feathery [cirrus] clouds streaked across the blue sky.
+nimbus | 🌧️ | noun | a dark gray rain cloud | A dark [nimbus] cloud rolled in, and it began to pour.
+stratus | 🌫️ | noun | a flat, gray layer of cloud that covers the sky | A blanket of [stratus] made the day gloomy.
+@story Cloud Watching | sky
+☁️🐉 | {Name} and Ziggy lay in the grass and studied the clouds for [meteorology] club.
+☁️🐑 | First, a big fluffy [cumulus] floated by, shaped like a sheep.
+🪶💨 | High above, thin [cirrus] clouds looked like feathers.
+🌫️😐 | Later, a flat gray layer of [stratus] covered the sky.
+🌧️⛈️ | Then a dark [nimbus] rolled in. Rain was coming!
+📟📉 | {Name} checked the [barometric] pressure. It was falling fast.
+☁️🌍 | "All weather happens in the [troposphere]," she said.
+🌍✈️ | "Above it is the [stratosphere], where planes fly over the storms."
+🛡️☀️ | "And the [ozone] layer up there protects us from the sun's rays."
+🌌💚 | That winter, they visited Alaska and saw a glowing green [aurora] dancing in the sky. "It's like the sky is painting," whispered Ziggy.
+
+@unit Math Words
+integer | 🔢 | noun | a whole number, positive, negative, or zero | Negative five is an [integer], but one half is not.
+exponent | ⬆️ | noun | a small number that shows how many times to multiply a number by itself | In 2³, the [exponent] is 3.
+quotient | ➗ | noun | the answer when you divide one number by another | The [quotient] of 12 divided by 3 is 4.
+numerator | ⬆️ | noun | the top number in a fraction | In ¾, the [numerator] is 3.
+denominator | ⬇️ | noun | the bottom number in a fraction | In ¾, the [denominator] is 4.
+polygon | 🔷 | noun | a flat shape with three or more straight sides | A triangle is the simplest [polygon].
+theorem | 📐 | noun | a math statement that has been proven true | The Pythagorean [theorem] is about right triangles.
+hypotenuse | 📏 | noun | the longest side of a right triangle, across from the right angle | The [hypotenuse] is always the longest side.
+axiom | 🧱 | noun | a statement accepted as true without proof | It's an [axiom] that a straight line is the shortest path between two points.
+probability | 🎲 | noun | how likely something is to happen | The [probability] of a coin landing on heads is one half. | chance, likelihood
+@story The Math Olympics | school
+🏅➗ | {Name} competed in the Math Olympics. Ziggy came to cheer.
+🔢❓ | Round one: "Is negative seven an [integer]?" "Yes!" said {Name}.
+➗🍕 | Round two: "Divide 24 slices among 6 friends. What is the [quotient]?" "Four!"
+⬆️⬇️ | Round three: "In the fraction 5/8, what is the [numerator]? What is the [denominator]?" "Five and eight!"
+⬆️🔢 | Round four: "In 10², what is the [exponent]?" "Two!"
+🔷🔺 | Round five: "Name a [polygon] with six sides." "A hexagon!"
+📐📏 | Round six: a right triangle. "Which side is the [hypotenuse]?" "The longest one!"
+📐🏆 | "Which [theorem] helps you find it?" "The Pythagorean theorem!"
+🧱💭 | Round seven: "What's an [axiom]?" "A truth so basic, we accept it without proof!"
+🎲😄 | Final round: "What's the [probability] of rolling a six?" "One in six!" She won the gold medal!
+
+@unit Data and Statistics
+median | 📊 | noun | the middle number when numbers are listed in order | The [median] of 2, 5, and 9 is 5.
+statistics | 📈 | noun | the science of collecting and studying numbers and data | We used [statistics] to study the class's favorite foods.
+percentage | 💯 | noun | an amount out of one hundred | A high [percentage] of students like pizza.
+ratio | ⚖️ | noun | a comparison of two amounts | The [ratio] of cats to dogs in our class is 3 to 2.
+variable | ❓ | noun | something that can change; or a letter that stands for an unknown number | In the experiment, the amount of water was the [variable].
+correlation | 🔗 | noun | a connection between two things that change together | There's a [correlation] between sleep and good grades.
+trend | 📈 | noun | a general direction in which something is changing | The [trend] shows more people riding bikes. | pattern, tendency
+outlier | 🦒 | noun | a number or thing very different from the rest | In the height chart, the giraffe was an [outlier]!
+graph | 📉 | noun | a drawing that shows numbers or data | The [graph] showed how tall the plant grew each week. | chart
+quantitative | 🔢 | adj | measured with numbers | The scientist collected [quantitative] data. | numerical
+@story The Class Survey | school
+📋🐉 | {Name}'s class did a big survey project using [statistics].
+❓🍕 | They asked every student: "What's your favorite food?"
+🔢📝 | They collected [quantitative] data—real numbers.
+💯🍕 | Pizza won! A huge [percentage] of kids picked it.
+⚖️🍦 | The [ratio] of pizza fans to ice cream fans was 3 to 1.
+📉🖍️ | They drew a [graph] with colorful bars.
+📊🔢 | They found the [median] number of pets per student: two.
+🦒🐠 | One boy had forty fish! He was an [outlier].
+🔗😴 | They found a [correlation]: kids who slept more had more energy at recess.
+📈🚲 | They noticed a [trend]: more kids were biking to school each year.
+❓🧪 | For their next experiment, the [variable] would be how much Ziggy ate. (A lot.)
