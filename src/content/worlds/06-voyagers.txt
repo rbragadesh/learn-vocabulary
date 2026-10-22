@@ -1186,3 +1186,211 @@ impossible | 🚫 | adj | not able to happen or be done | It's [impossible] to l
 🌟🎨 | "You have the [potential] to be a great artist," said {Name}, looking at Ziggy's drawing.
 🚨🍪 | Then they smelled cookies baking. "A snack is [imminent]!" said Ziggy.
 ⏳😋 | Eating three cookies was [inevitable].
+
+@unit Fashion Show
+attire | 👔 | noun | clothes, especially for a special occasion | Formal [attire] is required at the wedding. | clothing, dress
+garment | 👕 | noun | a piece of clothing | Each [garment] in the shop was handmade. | piece of clothing
+wardrobe | 🚪 | noun | a tall cupboard for clothes, or all the clothes a person owns | My [wardrobe] is full of T-shirts. | closet
+fabric | 🧵 | noun | cloth made by weaving or knitting | The dress was made of soft blue [fabric]. | cloth, material
+textile | 🧶 | noun | any kind of woven or knitted cloth | The museum had [textile] samples from ancient Peru. | fabric, cloth
+tailor | ✂️ | noun | a person who makes or fixes clothes, especially suits | The [tailor] shortened my pants.
+seamstress | 🪡 | noun | a woman who sews clothes as her job | The [seamstress] sewed a beautiful wedding dress. | dressmaker
+accessory | 👜 | noun | an extra item like a belt, bag, or jewelry that goes with an outfit | A scarf is a nice [accessory] for a winter coat.
+fashion | 💃 | noun | a popular style of clothing at a certain time | Bell-bottom jeans were in [fashion] in the 1970s. | style, trend
+stylish | 😎 | adj | fashionable and good-looking | She wore a [stylish] red coat. | chic, trendy
+@story Ziggy's Fashion Show | school
+👗🐉 | The school held a fashion show, and every outfit had to be made from recycled things.
+🚪👕 | {Name} looked through her [wardrobe] for old clothes to reuse.
+🧵🛍️ | Ziggy found [fabric] from old curtains.
+🧶🏺 | They learned about [textile] weaving from Grandma.
+✂️👔 | Grandpa had been a [tailor]. He helped them cut and measure.
+🪡👵 | Grandma had been a [seamstress]. She sewed everything perfectly.
+👕✨ | Each [garment] was unique.
+👜📰 | For an [accessory], {Name} made a purse out of old newspapers.
+💃🏆 | On the runway, every kid wore their best [attire].
+😎🎩 | Ziggy wore a [stylish] cape made of bottle caps. "This is the future of [fashion]!" he announced.
+
+@unit Great Buildings
+architecture | 🏛️ | noun | the art of designing buildings, or the style of buildings | Ancient Greek [architecture] used tall columns.
+architect | 📐 | noun | a person who designs buildings | The [architect] drew plans for a new school.
+facade | 🏢 | noun | the front of a building | The museum's [facade] was made of white marble.
+column | 🏛️ | noun | a tall, round pillar that holds up a roof | Each stone [column] was taller than a tree. | pillar
+arch | 🌈 | noun | a curved structure over a doorway or bridge | We walked under a stone [arch].
+dome | 🕌 | noun | a round roof shaped like half a ball | The [dome] of the building shone gold in the sun.
+spire | ⛪ | noun | a tall, pointed tower on top of a building | The church [spire] reached into the clouds. | steeple
+monument | 🗽 | noun | a statue or building built to remember a person or event | The [monument] honors the town's founders. | memorial
+cathedral | ⛪ | noun | a large, important church | The [cathedral] had beautiful stained-glass windows.
+mosaic | 🧩 | noun | a picture made of many small pieces of colored stone or glass | The floor had a [mosaic] of a dolphin.
+@story The City Tour | city
+🏙️🐉 | {Name} and Ziggy took a tour of the city's most famous buildings.
+📐👩 | Their guide was an [architect] named Ms. Chen.
+🏛️📚 | "[Architecture] tells the story of a city," she said.
+🏢✨ | First they saw the museum's grand [facade], covered in carvings.
+🏛️⬆️ | Every [column] at the entrance was taller than a house.
+🌈🚶 | They walked under a huge stone [arch] into the old town.
+⛪🔔 | The [cathedral] had a [spire] so tall that birds nested at the top.
+🕌☀️ | City Hall had a golden [dome] that sparkled in the sun.
+🧩🐬 | Inside, the floor was a [mosaic] of a dolphin made of a million tiny tiles.
+🗽🌟 | At the end, they saw the [monument] to the town's first firefighters. "I want to design buildings someday," said {Name}. "Can I design a dragon-sized door?" asked Ziggy.
+
+@unit Music Makers
+tempo | ⏱️ | noun | the speed of a piece of music | The song had a fast [tempo]. | pace, speed
+composer | 🎼 | noun | a person who writes music | Mozart was a famous [composer].
+symphony | 🎻 | noun | a long piece of music written for an orchestra | The orchestra played a beautiful [symphony].
+lyrics | 📝 | noun | the words of a song | I know all the [lyrics] to my favorite song. | words
+conductor | 🎵 | noun | the person who leads an orchestra or choir | The [conductor] waved her baton.
+acoustic | 🎸 | adj | played without electricity; or having to do with sound | He played an [acoustic] guitar by the campfire.
+percussion | 🥁 | noun | instruments you hit or shake, like drums and cymbals | Ziggy loves to play [percussion].
+woodwind | 🎷 | noun | an instrument you blow into, like a flute or clarinet | The flute is a [woodwind] instrument.
+brass | 🎺 | noun | instruments made of metal that you blow into, like trumpets | The [brass] section played loudly.
+ensemble | 👥 | noun | a small group of musicians who play together | The jazz [ensemble] played at the café. | group, band
+@story The Big Concert | city
+🎼✍️ | A young [composer] named Lila wrote a new [symphony] for the town orchestra.
+🎵🪄 | The [conductor] raised her baton.
+⏱️🎶 | The first part had a slow [tempo], like a sunrise.
+🎷🌸 | The [woodwind] section played a gentle melody on flutes and clarinets.
+🎺💥 | Then the [brass] section burst in with trumpets!
+🥁🐉 | Ziggy was in the [percussion] section, banging the big drum.
+📝🎤 | The choir sang [lyrics] about a dragon who learned to fly.
+👥🎸 | In the middle, a small [ensemble] played a quiet part.
+🎸🔥 | Then {Name} played a solo on her [acoustic] guitar.
+👏🌟 | The audience gave a standing ovation. Lila cried happy tears. "My music came alive!"
+
+@unit The Art Museum
+masterpiece | 🖼️ | noun | an outstanding work of art | The "Mona Lisa" is a famous [masterpiece]. | classic, gem
+portrait | 👤 | noun | a painting or photo of a person | The artist painted a [portrait] of the queen.
+landscape | 🏞️ | noun | a painting of natural scenery, or the view of an area | She painted a [landscape] of the mountains. | scenery
+abstract | 🌀 | adj | using shapes and colors instead of showing real things | The [abstract] painting was just swirls of color.
+gallery | 🏛️ | noun | a room or building where art is shown | We visited an art [gallery] downtown.
+exhibit | 🖼️ | noun | a display of art or objects for people to see | The dinosaur [exhibit] was amazing. | display, show
+mural | 🎨 | noun | a large painting on a wall | Kids painted a [mural] on the school wall.
+palette | 🎨 | noun | a board an artist mixes paints on, or a set of colors | The artist mixed blue and yellow on her [palette].
+easel | 🖌️ | noun | a stand that holds a painting while an artist works on it | She set her canvas on an [easel].
+pastel | 🖍️ | adj | soft and pale in color | The baby's room was painted in [pastel] colors.
+@story A Day at the Art Museum | museum
+🏛️🎨 | {Name} and Ziggy visited the art museum's new [gallery].
+🖼️⭐ | The first room had a famous [masterpiece] from 500 years ago.
+👤👑 | There was a [portrait] of a queen with a jeweled crown.
+🏞️🌄 | There was a [landscape] of a misty mountain valley.
+🌀🔴 | One [abstract] painting was just red and blue swirls. "Is it upside down?" asked Ziggy.
+🖍️🌸 | A room of [pastel] flowers looked soft as clouds.
+🎨🖼️ | The special [exhibit] showed paintings by kids from around the world.
+🖌️🧑‍🎨 | In the art studio, an artist worked at her [easel].
+🎨🌈 | She let {Name} mix colors on her [palette].
+🎨🧱 | At the end, the whole family helped paint a giant [mural] on the museum's outside wall. Ziggy added a dragon, of course.
+
+@unit The Big Game
+competitor | 🏃 | noun | a person who takes part in a contest | Each [competitor] got a number to wear. | contestant, rival
+opponent | 🤺 | noun | a person or team you play against | Her [opponent] was the best chess player in town. | rival, adversary
+spectator | 👀 | noun | a person who watches an event | Thousands of [spectators] filled the stadium. | viewer, onlooker
+championship | 🏆 | noun | a contest to decide who is the best | Our team won the soccer [championship].
+sportsmanship | 🤝 | noun | playing fairly and being kind whether you win or lose | Shaking hands after the game shows good [sportsmanship].
+forfeit | 🏳️ | verb | to lose or give up something, often because you broke a rule | If we don't have enough players, we'll [forfeit] the game. | give up, surrender
+qualify | ✅ | verb | to earn the right to be in a contest | She needs to run fast to [qualify] for the race.
+eliminate | ❌ | verb | to remove someone from a contest | A loss will [eliminate] our team from the playoffs. | remove, knock out
+underdog | 🐕 | noun | the person or team that is expected to lose | Everyone loves cheering for the [underdog].
+rematch | 🔁 | noun | a second game between the same players | The losing team asked for a [rematch].
+@story The Underdog Team | park
+⚽🐕 | {Name}'s soccer team, the Little Dragons, was the [underdog]. No one thought they could win.
+✅🎉 | But they managed to [qualify] for the [championship]!
+🤺🦁 | Their [opponent] was the Lions, who had never lost a game.
+👀🏟️ | Hundreds of [spectators] came to watch.
+🏃⚡ | Every [competitor] played their hardest.
+🏳️😬 | The Lions almost had to [forfeit] when their goalie got sick, but a backup arrived just in time.
+❌😮 | In the semifinals, the Little Dragons managed to [eliminate] the Bears.
+🏆🎉 | In the final, {Name} scored the winning goal!
+🤝💛 | Both teams showed great [sportsmanship], shaking hands and cheering for each other.
+🔁😄 | "We want a [rematch] next year!" said the Lions' captain, grinning.
+
+@unit How Machines Work
+pulley | 🏗️ | noun | a wheel with a rope around it, used to lift heavy things | We used a [pulley] to lift the bucket up the well.
+wedge | 🔺 | noun | a piece of wood or metal with a sharp edge, used to split or hold things | Put a [wedge] under the door to keep it open.
+axle | 🛞 | noun | a rod in the middle of a wheel that it turns around | The wagon's [axle] broke.
+mechanical | ⚙️ | adj | having to do with machines | The [mechanical] toy walked when you wound it up.
+hydraulic | 💧 | adj | powered by liquid being pushed through tubes | The truck used a [hydraulic] lift to raise the car.
+generator | ⚡ | noun | a machine that makes electricity | When the power went out, we used a [generator].
+turbine | 🌬️ | noun | a machine with blades that turn to make power | Wind spins the [turbine] to make electricity.
+conveyor | 📦 | noun | a moving belt that carries things from one place to another | Boxes moved along the [conveyor] at the factory.
+piston | 🔩 | noun | a part that moves up and down inside an engine | The [piston] pumped up and down inside the engine.
+circuit | 🔋 | noun | a loop that electricity flows through | When the [circuit] is complete, the light bulb turns on.
+@story The Chocolate Factory Tour | lab
+🍫🏭 | {Name} and Ziggy toured a chocolate factory full of amazing machines.
+📦➡️ | Chocolate bars rode along a [conveyor] belt.
+⚙️🤖 | A [mechanical] arm wrapped each bar in gold foil.
+🔩⬆️ | Inside the big mixer, a [piston] pushed the chocolate up and down.
+💧🏋️ | A [hydraulic] press squeezed cocoa beans into powder.
+🏗️🪣 | A [pulley] lifted giant buckets of sugar to the top floor.
+🛞🚛 | A little cart rolled on a squeaky [axle].
+🔺🚪 | A wooden [wedge] held the heavy door open.
+🌬️⚡ | Outside, a wind [turbine] spun to make power.
+⚡🔋 | When the wind stopped, a [generator] kicked in. "Every machine is part of one big [circuit]," said the guide. Ziggy just wanted the free samples.
+
+@unit Medicine
+diagnosis | 🩺 | noun | a doctor's decision about what illness someone has | The doctor's [diagnosis] was a bad cold.
+chronic | 🔁 | adj | lasting a long time or coming back again and again | Grandpa has [chronic] back pain. | long-lasting, persistent
+contagious | 🤧 | adj | able to spread from one person to another | The flu is very [contagious]. | catching, infectious
+infectious | 🦠 | adj | caused by germs that can spread; or likely to spread to others | Her laugh was [infectious]—everyone started laughing. | contagious
+epidemic | 📈 | noun | a disease that spreads quickly to many people in one area | The town had a flu [epidemic] last winter. | outbreak
+immunity | 🛡️ | noun | the body's ability to fight off a disease | Vaccines help build [immunity].
+therapy | 🧘 | noun | treatment to help someone heal or feel better | After her surgery, she went to physical [therapy]. | treatment
+surgeon | 🔪 | noun | a doctor who does operations | The [surgeon] fixed his broken arm.
+prescription | 📝 | noun | a doctor's written order for medicine | The pharmacist filled my [prescription].
+physician | 👨‍⚕️ | noun | a medical doctor | Our family [physician] has known me since I was born. | doctor
+@story The Hospital Visit | city
+🏥👴 | Grandpa had to go to the hospital, so {Name} and Ziggy went to visit.
+👨‍⚕️😊 | His [physician], Dr. Kim, was very kind.
+🩺📋 | "My [diagnosis] is that Grandpa needs a new knee," she said.
+🔁🦵 | "His knee pain has been [chronic] for years."
+🔪🏥 | A [surgeon] would do the operation.
+🧘🦵 | After surgery, Grandpa would do physical [therapy] to learn to walk again.
+📝💊 | Dr. Kim wrote a [prescription] for medicine.
+🤧🚫 | "Is Grandpa's knee [contagious]?" asked Ziggy. Everyone laughed. "No!"
+📈🦠 | "But wash your hands," said Dr. Kim. "There's a flu [epidemic] in town, and it's very [infectious]."
+🛡️💉 | "Did you get your flu shot? It helps build [immunity]." Two months later, Grandpa was dancing at Ziggy's birthday party.
+
+@unit Coasts and Islands
+coastline | 🏖️ | noun | the edge of the land along the sea | The [coastline] was full of cliffs and beaches. | shore, coast
+peninsula | 🗺️ | noun | land that is almost surrounded by water but connected to a larger area | Florida is a [peninsula].
+archipelago | 🏝️ | noun | a group of islands | The Philippines is an [archipelago] of over seven thousand islands.
+atoll | ⭕ | noun | a ring-shaped coral island around a lagoon | The [atoll] was a circle of sand around blue water.
+strait | 🌊 | noun | a narrow strip of water connecting two seas | Ships sailed through the narrow [strait]. | channel
+gulf | 🌅 | noun | a large area of sea partly surrounded by land | The [Gulf] of Mexico is very warm.
+isthmus | 🌉 | noun | a narrow strip of land connecting two larger areas of land | Panama sits on an [isthmus] between two oceans.
+fjord | 🏔️ | noun | a long, narrow inlet of sea between tall cliffs | We sailed through a [fjord] in Norway.
+cape | 🗼 | noun | a piece of land that sticks out into the sea | The lighthouse stood at the tip of the [cape]. | headland
+headland | 🪨 | noun | a high point of land that juts into the sea | We watched whales from the [headland]. | cape, promontory
+@story Captain {Name}'s Sea Map | ocean
+🗺️⛵ | {Name} and Ziggy sailed around the world and drew a map of every amazing place.
+🏖️📏 | They followed the long, curvy [coastline] of a new country.
+🗺️🌊 | They sailed around a [peninsula] shaped like a boot.
+🗼🌊 | At the tip of a rocky [cape], a lighthouse guided them.
+🪨🐋 | From a high [headland], they watched whales leap.
+🏔️❄️ | They sailed into a narrow [fjord] between icy cliffs.
+🌊🚢 | They squeezed through a narrow [strait] between two seas.
+🌉🌎 | They crossed an [isthmus] on foot, from one ocean to another!
+🌅🐬 | They swam in a warm [gulf] with dolphins.
+🏝️🏝️ | They visited an [archipelago] of a hundred tiny islands.
+⭕🐠 | Finally, they camped on an [atoll], a perfect ring of sand around a turquoise lagoon. "Best map ever!" said Ziggy.
+
+@unit Mapping the World
+latitude | ↔️ | noun | how far north or south a place is from the equator | The North Pole has the highest [latitude].
+longitude | ↕️ | noun | how far east or west a place is, measured in lines from pole to pole | Lines of [longitude] run from the North Pole to the South Pole.
+meridian | 🌐 | noun | an imaginary line from pole to pole, used to measure longitude | The Prime [Meridian] runs through London.
+hemisphere | 🌍 | noun | one half of the Earth | Australia is in the Southern [Hemisphere].
+topography | ⛰️ | noun | the shape of the land: its hills, valleys, and flat areas | The map showed the [topography] of the mountains.
+geography | 🗺️ | noun | the study of the Earth's land, water, climate, and people | In [geography], we learned about rivers.
+cartographer | ✏️ | noun | a person who makes maps | The [cartographer] drew a new map of the island. | mapmaker
+contour | 〰️ | noun | the outline or shape of something; on a map, a line connecting points of equal height | The [contour] lines on the map showed a steep hill. | outline
+coordinates | 📍 | noun | numbers that show the exact location of a place on a map | The pilot checked the [coordinates] of the airport.
+bearing | 🧭 | noun | the direction you are facing or traveling, measured with a compass | The ship changed its [bearing] and headed north. | direction, heading
+@story The Treasure Coordinates | school
+🗺️🎓 | In [geography] class, {Name}'s teacher gave them a treasure hunt.
+✏️👩‍🏫 | "Today, you are each a [cartographer]," she said. "Make a map of the school!"
+🌍🌐 | First, they learned that the Earth is split into the Northern and Southern [Hemisphere].
+↔️🌡️ | "[Latitude] tells how far north or south you are," she said.
+↕️🌐 | "[Longitude] tells how far east or west."
+🌐🇬🇧 | "Every line of longitude is a [meridian]."
+📍🧭 | She gave them [coordinates] for the hidden treasure.
+⛰️🗺️ | On the map, they studied the [topography] of the school field: a hill and a pond.
+〰️🏔️ | [Contour] lines showed how steep the hill was.
+🧭🧩 | Using a compass to find their [bearing], they marched north toward the hill. At the top of the hill, Ziggy found the treasure: a box of chocolate coins!
