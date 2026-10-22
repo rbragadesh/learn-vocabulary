@@ -1394,3 +1394,235 @@ bearing | 🧭 | noun | the direction you are facing or traveling, measured with
 ⛰️🗺️ | On the map, they studied the [topography] of the school field: a hill and a pond.
 〰️🏔️ | [Contour] lines showed how steep the hill was.
 🧭🧩 | Using a compass to find their [bearing], they marched north toward the hill. At the top of the hill, Ziggy found the treasure: a box of chocolate coins!
+
+@unit Making Laws
+legislation | 📜 | noun | laws, or the process of making laws | New [legislation] will protect the forests. | law, lawmaking
+amendment | ✏️ | noun | a change or addition to a law or document | The [amendment] gave women the right to vote. | change, revision
+veto | 🙅 | verb | to officially reject a law or decision | The president can [veto] a law passed by Congress. | reject, block
+ratify | ✅ | verb | to officially approve an agreement or law | All the states had to [ratify] the treaty. | approve, confirm
+cabinet | 🗄️ | noun | a group of advisors to a president or prime minister | The president met with her [cabinet].
+parliament | 🏛️ | noun | the group of elected lawmakers in some countries, like Britain or Canada | The [parliament] voted on the new law.
+congress | 🏛️ | noun | the group of elected lawmakers in the United States | [Congress] passed a law to build new roads.
+judicial | ⚖️ | adj | having to do with courts and judges | The Supreme Court is part of the [judicial] branch.
+executive | 🏢 | adj | having to do with carrying out laws or running a group | The president leads the [executive] branch.
+federal | 🦅 | adj | having to do with the national government | The [federal] government runs the post office. | national
+@story How a Law Is Made | city
+📜🏫 | {Name}'s class wanted a law to protect sea turtles. Their teacher showed them how [legislation] works.
+🏛️🇺🇸 | "In the U.S., [Congress] writes and votes on new laws," she said.
+🏛️🇨🇦 | "In Canada and Britain, it's [parliament]."
+🦅🏢 | "The [federal] government has three parts. The president leads the [executive] branch."
+⚖️🧑‍⚖️ | "Judges are in the [judicial] branch. They decide what laws mean."
+🗄️🗣️ | "The president gets advice from a [cabinet]."
+🙅✍️ | "The president can sign a law—or [veto] it."
+✏️📃 | "Sometimes the Constitution gets an [amendment], a change everyone agrees on."
+✅🗺️ | "And states must [ratify] some changes before they count."
+🐢💛 | The class wrote a letter to their senator. A year later, a new law protected sea turtle beaches. "We did that!" said {Name}.
+
+@unit Rights for All
+liberty | 🗽 | noun | freedom to live, think, and act as you choose | The Statue of [Liberty] stands for freedom. | freedom
+equality | ⚖️ | noun | being equal, with the same rights and chances | Everyone deserves [equality] at school and at work. | fairness, sameness
+suffrage | 🗳️ | noun | the right to vote | Women fought for [suffrage] for many years.
+civil | 🤝 | adj | having to do with citizens and their rights; also, polite | The [civil] rights movement fought for equal rights.
+abolitionist | ⛓️ | noun | a person who worked to end slavery | Frederick Douglass was a famous [abolitionist].
+segregation | 🚧 | noun | keeping groups of people apart, usually unfairly | Laws once forced [segregation] in schools.
+integration | 🤲 | noun | bringing people together so they are treated equally | School [integration] meant all children could learn together.
+emancipate | 🕊️ | verb | to set someone free from slavery or control | President Lincoln worked to [emancipate] enslaved people. | free, liberate
+dignity | 🙌 | noun | the quality of deserving respect | Every person deserves to be treated with [dignity]. | respect, honor
+entitled | 📜 | adj | having a right to something | Every child is [entitled] to an education.
+@story Heroes of Freedom | library
+📚🗽 | For history month, {Name} read about people who fought for [liberty].
+⛓️✊ | First, she read about Harriet Tubman, an [abolitionist] who led people to freedom.
+🕊️📜 | President Lincoln signed a paper to [emancipate] enslaved people.
+🗳️👩 | Then she read about women who fought for [suffrage], the right to vote.
+🚧🏫 | She learned that [segregation] once kept Black and white children in separate schools.
+🤝✊ | Brave leaders in the [civil] rights movement marched for change.
+🤲🎒 | [Integration] meant all kids could go to school together.
+⚖️💛 | They fought for [equality] for everyone.
+🙌👤 | "Every person deserves [dignity]," said Dr. Martin Luther King Jr.
+📜🌍 | "And every person is [entitled] to the same rights," {Name} wrote in her report. Ziggy drew a picture of everyone holding hands.
+
+@unit Famous and Infamous
+renowned | 🌟 | adj | famous and admired | The [renowned] scientist won the Nobel Prize. | famous, celebrated
+notorious | 🦹 | adj | famous for something bad | The [notorious] pirate was feared on every sea. | infamous
+celebrity | 📸 | noun | a famous person | A movie [celebrity] visited our town. | star
+prestige | 🏅 | noun | respect and admiration that comes from success or importance | Winning the award brought [prestige] to the school. | status, honor
+legendary | 🐉 | adj | very famous, as if from a legend | The [legendary] hero was remembered for centuries.
+infamous | 😈 | adj | well known for being bad | The [infamous] robber was finally caught. | notorious
+obscurity | 🌫️ | noun | the state of being unknown | The artist lived in [obscurity] until her paintings were discovered. | anonymity
+publicity | 📰 | noun | attention from the news and public | The movie got lots of [publicity]. | attention, promotion
+fame | ⭐ | noun | being known by many people | The singer found [fame] at age sixteen. | celebrity, renown
+reputation | 💬 | noun | what people generally think about someone | The bakery has a great [reputation] for its pies. | name, standing
+@story Ziggy the Celebrity | city
+🐉🏠 | For years, Ziggy lived in [obscurity]. No one outside {Name}'s town had heard of him.
+🦹🌊 | Then a [notorious] pirate named Captain Grim tried to steal the town's treasure.
+😈⚓ | Grim was [infamous] for robbing ships.
+🔥🏴‍☠️ | Ziggy chased him away with a puff of fire!
+📰📺 | The story got lots of [publicity] on TV.
+⭐📸 | Overnight, Ziggy found [fame]. He became a [celebrity]!
+🌟🧑‍🔬 | Even a [renowned] scientist came to study him.
+🏅🏛️ | Winning a medal brought [prestige] to the whole town.
+💬😊 | But Ziggy cared most about his [reputation] for being kind.
+🐉✨ | Years later, people still told the tale of the [legendary] dragon who saved the town. "I just like helping," Ziggy said.
+
+@unit Writer's Toolbox
+narrative | 📖 | noun | a story or account of events | She wrote a [narrative] about her trip to the mountains. | story, account
+dialogue | 💬 | noun | the words characters say to each other in a story | The [dialogue] in the play was very funny. | conversation
+climax | 🏔️ | noun | the most exciting or important part of a story | At the [climax], the hero faced the dragon. | peak, high point
+resolution | 🎀 | noun | the part of a story where the problem is solved | In the [resolution], the family was together again. | ending, outcome
+foreshadow | 🌩️ | verb | to give a hint of what will happen later in a story | The dark clouds [foreshadow] the coming trouble. | hint at, predict
+flashback | ⏪ | noun | a part of a story that shows something that happened earlier | In a [flashback], we saw the hero as a little boy.
+suspense | 😬 | noun | an exciting feeling of not knowing what will happen next | The movie was full of [suspense]. | tension
+imagery | 🎨 | noun | words that help you picture things in your mind | The poem's [imagery] made me see the ocean.
+personification | 🌳 | noun | describing a thing as if it were a person, like "the wind whispered" | "The sun smiled at us" is [personification].
+alliteration | 🔤 | noun | repeating the same first sound in nearby words, like "silly snakes slither" | "Peter Piper picked peppers" uses [alliteration].
+@story Ziggy Writes a Story | library
+✍️🐉 | Ziggy decided to write his own [narrative] about a lost baby dragon.
+🌩️⛰️ | In the first chapter, a storm would [foreshadow] danger ahead.
+⏪🥚 | He used a [flashback] to show the dragon hatching from its egg.
+💬😂 | He wrote funny [dialogue] between the dragon and a grumpy goat.
+🎨🌅 | He used [imagery]: "The sunset spilled like orange juice across the sky."
+🌳🍃 | He used [personification]: "The old tree waved its branches hello."
+🔤🐍 | He even used [alliteration]: "Seven sneaky snakes slithered south."
+😬📖 | The middle of the story was full of [suspense]. Would the baby dragon find its way home?
+🏔️🐉 | At the [climax], the baby dragon had to fly over a giant volcano.
+🎀🏡 | In the [resolution], it found its family waiting with open wings. {Name} clapped. "That's a bestseller!"
+
+@unit Totally Hooked
+intrigued | 🧐 | adj | very curious and interested | I was [intrigued] by the mysterious box. | curious, fascinated
+captivated | 😍 | adj | holding all your attention because it's so interesting or charming | The audience was [captivated] by the magician. | charmed, enchanted
+enthralled | 🤩 | adj | so interested that you can't look away | The kids were [enthralled] by the story. | spellbound, gripped
+engrossed | 📖 | adj | so busy and interested in something that you don't notice anything else | She was [engrossed] in her book. | absorbed, immersed
+mesmerized | 😵‍💫 | adj | completely held by something, as if in a trance | The cat was [mesmerized] by the fish tank. | hypnotized, entranced
+uninterested | 😑 | adj | not interested | The baby was [uninterested] in his new toy. | bored
+indifferent | 🤷 | adj | not caring one way or the other | The cat was [indifferent] to the new dog. | uncaring, apathetic
+monotonous | 😴 | adj | boring because it never changes | The long, flat road was [monotonous]. | dull, repetitive
+riveting | 🎬 | adj | so exciting that you pay complete attention | The movie was [riveting] from start to finish. | gripping, thrilling
+spellbound | ✨ | adj | so amazed that you can't think of anything else | We sat [spellbound] as the fireworks lit the sky. | enthralled, transfixed
+@story The Storyteller | library
+📚🧓 | Every Saturday, an old storyteller named Mr. Moss came to the library.
+😑🎮 | At first, a boy named Jake was [uninterested]. He just wanted to play video games.
+🤷🪑 | His sister was [indifferent]. She didn't care either way.
+😴🚗 | The car ride to the library had been [monotonous].
+🧐📦 | But when Mr. Moss opened a mysterious box, they were [intrigued].
+🎬🐉 | His story about a sea dragon was [riveting].
+📖👀 | {Name} was so [engrossed] that she didn't notice Ziggy eating her snack.
+😍✨ | The whole room was [captivated].
+🤩🌊 | When the sea dragon rose from the waves, the kids were [enthralled].
+✨🌟 | By the end, everyone sat [spellbound].
+😵‍💫🐉 | Ziggy was so [mesmerized] that he didn't blink for five minutes. Even Jake asked, "Can we come back next week?"
+
+@unit Solving Problems
+troubleshoot | 🔧 | verb | to find and fix problems | Dad had to [troubleshoot] the broken internet connection.
+brainstorm | 🧠 | verb | to come up with lots of ideas quickly | Let's [brainstorm] names for our new puppy.
+strategy | ♟️ | noun | a careful plan to reach a goal | Our [strategy] was to pass the ball a lot. | plan, approach
+tactic | 🎯 | noun | a specific action used to reach a goal | Her [tactic] was to save her best move for last. | move, method
+alternative | 🔀 | noun | another choice or possibility | If it rains, the [alternative] is a movie. | option, choice
+option | ✅ | noun | something you can choose | You have three [options] for dessert. | choice
+approach | 🚶 | noun | a way of dealing with something | Let's try a different [approach] to the problem. | method, way
+prioritize | 🥇 | verb | to decide which things are most important and do them first | You need to [prioritize] your homework over video games. | rank, put first
+implement | ⚙️ | verb | to put a plan or idea into action | The school will [implement] the new recycling plan next month. | carry out
+criteria | 📋 | noun | the standards used to judge or decide something | The judges listed their [criteria] for the best project. | standards, guidelines
+@story Save the Class Garden | school
+🌱😟 | The class garden was dying, and {Name}'s class had to save it.
+🧠💡 | First, they began to [brainstorm] every idea they could think of.
+📋✅ | They agreed on [criteria] for a good plan: it had to be cheap, easy, and kind to bugs.
+🔧💧 | Ziggy helped [troubleshoot]. The problem? The water pipe was clogged!
+♟️🗺️ | Their [strategy] had three parts: fix the water, add compost, and plant new seeds.
+🎯🐞 | One [tactic] was to bring in ladybugs to eat the aphids.
+🔀🌻 | If the tomatoes didn't grow, the [alternative] was to plant sunflowers.
+✅🗳️ | They voted on each [option].
+🥇📅 | They had to [prioritize]: water first, then soil, then seeds.
+🚶⚙️ | Their careful [approach] worked. They began to [implement] the plan, and by spring, the garden was blooming again!
+
+@unit Future Tech
+innovation | 💡 | noun | a new idea, invention, or way of doing something | The smartphone was a huge [innovation]. | invention, breakthrough
+artificial | 🤖 | adj | made by people, not by nature | The park has an [artificial] lake. | man-made, synthetic
+robotics | 🦾 | noun | the science of designing and building robots | She studied [robotics] in college.
+wireless | 📶 | adj | working without wires | Our house has [wireless] internet.
+network | 🕸️ | noun | a group of connected computers, people, or things | The school's computer [network] crashed. | web, system
+database | 🗃️ | noun | a large, organized collection of information on a computer | The library keeps a [database] of all its books.
+algorithm | 🔢 | noun | a set of step-by-step instructions to solve a problem | The computer used an [algorithm] to sort the names.
+simulation | 🎮 | noun | a computer model that imitates something real | Pilots practice in a flight [simulation]. | model
+encryption | 🔐 | noun | changing information into a secret code so others can't read it | [Encryption] keeps your passwords safe.
+interface | 🖥️ | noun | the part of a program or machine that people use to control it | The game has an easy [interface] with big buttons.
+@story The Robot Contest | lab
+🤖🏆 | {Name} and Ziggy entered a [robotics] contest. Their robot would sort recycling!
+💡✨ | Their [innovation] was a robot hand that could tell plastic from paper.
+🔢📋 | They wrote an [algorithm]: "If it's shiny, it's plastic. If it bends, it's paper."
+🗃️📸 | They built a [database] of a thousand pictures of trash.
+🧠🤖 | The robot used [artificial] intelligence to learn from the pictures.
+🎮🌍 | First, they tested it in a computer [simulation].
+🖥️👆 | They designed an [interface] with big, colorful buttons.
+📶📱 | They could control the robot with a [wireless] tablet.
+🕸️💻 | It connected to the school [network].
+🔐🔑 | They used [encryption] so no one could hack it. Their robot won first place—and sorted the whole school's recycling!
+
+@unit Protecting Our Planet
+renewable | ♻️ | adj | able to be replaced naturally, like sunlight or wind | Solar power is a [renewable] energy source.
+sustainable | 🌱 | adj | able to continue for a long time without harming the environment | We need [sustainable] ways to farm.
+emissions | 💨 | noun | gases and particles sent into the air, like from cars and factories | Electric cars have no tailpipe [emissions].
+carbon | ⚫ | noun | a chemical element found in all living things, coal, and diamonds; also in a gas that warms the planet | Trees take in [carbon] from the air.
+deforestation | 🪓 | noun | cutting down large areas of forest | [Deforestation] destroys animal habitats.
+biodegradable | 🍂 | adj | able to break down naturally and safely | Banana peels are [biodegradable].
+conserve | 💧 | verb | to protect something and not waste it | Turn off the tap to [conserve] water. | save, preserve
+ecology | 🌍 | noun | the study of how living things relate to each other and their environment | We learned about pond [ecology]. 
+landfill | 🗑️ | noun | a huge pit where garbage is buried | Most trash ends up in a [landfill]. | dump
+pollutant | ☠️ | noun | something that makes air, water, or land dirty and harmful | Oil spills are a terrible ocean [pollutant]. | contaminant
+@story The Green Team | school
+🌍🌱 | {Name} started the Green Team at school to help the planet.
+🌍📚 | First, they studied [ecology] to understand how nature works together.
+🪓🌳 | They learned that [deforestation] destroys homes for animals.
+💨🚗 | They learned that car [emissions] warm the planet.
+⚫🌳 | "Trees soak up [carbon]," said the teacher, "so let's plant more!"
+☠️🌊 | They learned how a [pollutant] like oil can hurt sea life.
+🗑️📦 | They visited a [landfill]. It was enormous—and smelly!
+🍂🥤 | So they switched to [biodegradable] cups made from plants.
+💧🚿 | They put up signs to [conserve] water and electricity.
+♻️☀️ | They convinced the school to use [renewable] solar power. "Now our school is [sustainable]!" cheered {Name}.
+
+@unit Wild Behaviors
+territorial | 🦁 | adj | protecting an area from others | Male lions are very [territorial].
+migratory | 🦢 | adj | moving from one place to another with the seasons | Geese are [migratory] birds.
+solitary | 🐅 | adj | living or spending time alone | Tigers are [solitary] animals. | lone, alone
+docile | 🐑 | adj | calm and easy to control | The [docile] sheep followed the farmer. | gentle, tame
+ferocious | 🐺 | adj | fierce, wild, and dangerous | The [ferocious] wolf bared its teeth. | fierce, savage
+domesticated | 🐕 | adj | tamed to live with or work for people | Dogs were [domesticated] thousands of years ago. | tame
+feral | 🐈 | adj | wild, especially an animal that was once tame | The [feral] cats lived in the old barn. | wild
+predatory | 🦈 | adj | living by hunting other animals | Sharks are [predatory] fish.
+scavenger | 🦅 | noun | an animal that eats dead animals or leftovers | The vulture is a [scavenger].
+venomous | 🐍 | adj | able to inject poison by biting or stinging | Some spiders are [venomous]. | poisonous
+@story The Animal Kingdom Quiz | museum
+🦁🏆 | At the museum, {Name} and Ziggy took the Animal Kingdom Quiz.
+🦁🌍 | "Lions are [territorial]. They protect their land."
+🦢✈️ | "Geese are [migratory]. They fly south in winter."
+🐅🌙 | "Tigers are [solitary]. They live alone."
+🐑🌾 | "Sheep are [docile] and easy to herd."
+🐺😬 | "A wolf can be [ferocious] when it's hungry."
+🐕🏠 | "Dogs are [domesticated]. They live with people."
+🐈🏚️ | "But some cats are [feral] and live in the wild."
+🦈🐟 | "Sharks are [predatory] fish."
+🦅🦴 | "A vulture is a [scavenger]."
+🐍⚠️ | "And some snakes are [venomous]." They got every answer right! "What about dragons?" asked Ziggy. "Friendly, fireproof, and fond of cookies," said {Name}.
+
+@unit The Voyager's Heart
+aspiration | 🌟 | noun | a strong hope or goal | Her [aspiration] is to become an astronaut. | dream, ambition, goal
+ambition | 🚀 | noun | a strong wish to succeed or achieve something | His [ambition] was to win an Olympic medal. | drive, aspiration
+destiny | 🌌 | noun | what is meant to happen to someone in the future | She believed it was her [destiny] to become a doctor. | fate
+fate | 🎲 | noun | a power that some believe decides what will happen | By [fate], the two old friends met again in a faraway city. | destiny, fortune
+purpose | 🎯 | noun | the reason something is done or exists | The [purpose] of the trip was to see the whales. | reason, aim
+fulfill | ✅ | verb | to make a dream, promise, or wish come true | She worked hard to [fulfill] her dream. | achieve, accomplish
+pursuit | 🏃 | noun | chasing or working toward something | He moved to the city in [pursuit] of his dream. | quest, chase
+optimism | ☀️ | noun | a hopeful feeling that good things will happen | Her [optimism] kept everyone going. | hope, positivity
+wanderlust | 🌍 | noun | a strong desire to travel and explore | Her [wanderlust] took her to thirty countries.
+voyager | ⛵ | noun | a person who goes on a long journey, especially by sea or into space | The brave [voyager] sailed across the ocean alone. | traveler, explorer
+@story The Voyager's Promise | ocean
+⛵🌅 | On the last night of their great sea voyage, {Name} and Ziggy sat on the deck under the stars.
+🌍💭 | "I have so much [wanderlust]," said {Name}. "I want to see every corner of the world."
+🌟🚀 | "My biggest [aspiration] is to be an explorer," she said.
+🎯🗺️ | "What's the [purpose] of exploring?" asked Ziggy. "To learn, and to help," she said.
+🏃📚 | "Every [voyager] needs a dream to chase," said the old captain. "Life is the [pursuit] of that dream."
+🚀💪 | "I have [ambition] too," said Ziggy. "I want to be the first dragon on the moon!"
+🌌⭐ | "Maybe it's your [destiny]," laughed {Name}.
+🎲🍀 | "Or maybe [fate] will surprise us," said the captain.
+☀️💛 | "Whatever happens, keep your [optimism]," he said.
+✅🤝 | {Name} and Ziggy shook claws and hands. "We promise to [fulfill] our dreams—together." And the ship sailed on toward home.
