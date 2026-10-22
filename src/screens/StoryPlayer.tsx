@@ -59,7 +59,7 @@ export function StoryPlayer({ unit, onDone, onQuit }: Props) {
     const stars = starsFor((firstTry / Math.max(1, allBlanks.length)) * 100);
     return (
       <div className="screen story-screen">
-        <TopBar title={story.title} onBack={onQuit} />
+        <TopBar title={personalize(story.title, name)} onBack={onQuit} />
         <div className="story-body">
         <Scene theme={story.theme} className="story-scene end">
           <div className="story-art">📖✨</div>
@@ -127,7 +127,7 @@ export function StoryPlayer({ unit, onDone, onQuit }: Props) {
 
   return (
     <div className="screen story-screen">
-      <TopBar title={story.title} onBack={onQuit} right={<span className="pill">Page {page + 1} / {story.pages.length}</span>} />
+      <TopBar title={personalize(story.title, name)} onBack={onQuit} right={<span className="pill">Page {page + 1} / {story.pages.length}</span>} />
       <ProgressBar value={page} max={story.pages.length} />
       <div className="story-body">
       <Scene theme={story.theme} className="story-scene">

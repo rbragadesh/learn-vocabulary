@@ -68,8 +68,21 @@ function findBrackets(text: string): Bracket[] {
   return out;
 }
 
+/** Split on "|" but not inside [brackets], so [ran|run] stays in one field. */
 function splitFields(line: string): string[] {
-  return line.split('|').map((s) => s.trim());
+  const out: string[] = [];
+  let depth = 0;
+  let cur = '';
+  for (const ch of line) {
+    if (ch === '[') depth++;
+    if (ch === ']') depth = Math.max(0, depth - 1);
+    if (ch === '|' && depth === 0) {
+      out.push(cur.trim());
+      cur = '';
+    } else cur += ch;
+  }
+  out.push(cur.trim());
+  return out;
 }
 
 interface RawUnit {
