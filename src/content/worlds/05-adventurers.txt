@@ -1105,3 +1105,187 @@ durable | 🥾 | adj | strong and able to last a long time | These hiking boots 
 🌵💪 | "It's a [hardy] little thing," said the vet. "And now it's [robust] and healthy."
 🏃🧶 | Soon it was so [vigorous] that it chased Ziggy's tail all day.
 💪🐈 | A year later, it was a big, [muscular] cat that ruled the house. They named it Tiger.
+
+@unit Grow and Shrink
+expand | 🎈 | verb | to become bigger or wider | A balloon will [expand] when you blow air into it. | enlarge, grow
+contract | 🤏 | verb | to become smaller or tighter | Metal can [contract] when it gets cold. | shrink, tighten
+swell | 🦶 | verb | to become larger and rounder, often because of an injury | My ankle began to [swell] after I twisted it. | puff up
+shrink | 📉 | verb | to become smaller | My wool sweater will [shrink] if I wash it in hot water. | contract
+dwindle | 🕯️ | verb | to slowly become smaller or fewer | Our snack supply began to [dwindle] by the end of the trip. | diminish, decrease
+diminish | 🌗 | verb | to become less or smaller | The pain will [diminish] after you take the medicine. | dwindle, lessen
+enlarge | 🖼️ | verb | to make something bigger | We will [enlarge] the photo and hang it on the wall. | expand, magnify
+magnify | 🔍 | verb | to make something look bigger than it really is | A microscope can [magnify] a tiny bug. | enlarge
+amplify | 📢 | verb | to make a sound louder | A microphone can [amplify] your voice. | boost
+compress | 🗜️ | verb | to press something into a smaller space | We had to [compress] our clothes to fit them in the suitcase. | squeeze, squash
+@story Professor Ziggy's Size Ray | lab
+🔫✨ | Ziggy invented a Size Ray! "It can make things bigger or smaller," he announced.
+🖼️📸 | First, he zapped a tiny photo to [enlarge] it. Now it covered the whole wall!
+🔍🐜 | Then he zapped an ant to [magnify] it—it was as big as a puppy!
+🎈😮 | He zapped a balloon. It began to [expand] until it filled the room. POP!
+📢🎵 | He zapped the radio to [amplify] the music. The windows rattled!
+📉🧦 | Oops! He zapped {Name}'s sock, and it began to [shrink] to the size of a stamp.
+🤏🧲 | Then the ray started to [contract], squeezing itself smaller and smaller.
+🦶😖 | Ziggy dropped it on his toe, and his toe began to [swell].
+🗜️📦 | They had to [compress] the ray into a box so it couldn't zap anything else.
+🕯️🌗 | By the end of the day, Ziggy's excitement began to [dwindle], and his sore toe's pain began to [diminish]. "Maybe I'll invent a Normal-Size Ray next," he sighed.
+
+@unit Making a Case
+argument | 💬 | noun | a reason or set of reasons for believing something | She made a strong [argument] for a longer recess. | case, reasoning
+logic | 🧩 | noun | careful, clear thinking that makes sense | Use [logic] to solve the puzzle. | reasoning
+claim | ☝️ | noun | something someone says is true | His [claim] that he saw a ghost was hard to believe. | statement, assertion
+persuasive | 🗣️ | adj | good at making people believe or do something | Her [persuasive] speech won the election. | convincing
+valid | ✅ | adj | based on good reasons or facts; acceptable | That's a [valid] point—we should leave early. | sound, reasonable
+rebut | ↩️ | verb | to argue that something someone said is wrong | Each team gets a chance to [rebut] the other team's points. | counter, refute
+perspective | 👓 | noun | a way of thinking about or seeing something | From my sister's [perspective], the rules aren't fair. | point of view, viewpoint
+bias | ⚖️ | noun | an unfair preference for or against something | The judge must not show [bias] toward either side. | prejudice, favoritism
+objective | 🔬 | adj | based on facts, not personal feelings | Scientists try to be [objective]. | fair, neutral
+subjective | 💭 | adj | based on personal feelings or opinions | Whether a song is good is [subjective].
+@story The Great Homework Debate | school
+🎤🏫 | {Name}'s class held a debate: "Should kids have homework?"
+☝️📚 | Leo made a [claim]: "Homework helps us learn."
+💬🧑 | He gave a good [argument]: practice makes skills stronger.
+↩️👧 | Then {Name} stood up to [rebut]. "But kids also need time to play and rest!"
+🧩🤔 | She used [logic]: "If we're too tired, we can't learn well the next day."
+👓🐉 | Ziggy shared his [perspective]: "Dragons learn by exploring!"
+✅👩‍🏫 | The teacher said each side had a [valid] point.
+⚖️🙅 | "As the judge, I can't show any [bias]," she said.
+🔬📊 | "Let's be [objective] and look at the facts. Studies show a little homework helps, but too much doesn't."
+💭🎨 | "Whether homework is fun is [subjective]," said Leo. "Some people like it!" In the end, {Name}'s speech was so [persuasive] that the class voted for "homework-free Fridays."
+
+@unit Into the Rainforest
+canopy | 🌳 | noun | the top layer of a forest, where the treetops touch | Monkeys live high in the [canopy].
+toucan | 🦜 | noun | a tropical bird with a huge, colorful beak | The [toucan] cracked the fruit with its giant beak.
+jaguar | 🐆 | noun | a big spotted wild cat that lives in the rainforest | The [jaguar] crept along the riverbank.
+sloth | 🦥 | noun | a slow-moving animal that hangs upside down in trees | The [sloth] slept for fifteen hours.
+orchid | 🌸 | noun | a beautiful, often colorful flower that can grow on trees | A purple [orchid] grew on the tree trunk.
+tapir | 🐗 | noun | an animal like a pig with a short, bendy trunk | The [tapir] waded into the river.
+anaconda | 🐍 | noun | a huge snake that lives in South American rivers and swamps | The [anaconda] can be as long as a bus.
+macaw | 🦜 | noun | a large, brightly colored parrot with a long tail | A red and blue [macaw] flew over the river.
+tropical | 🌴 | adj | from the hot, wet parts of the world near the equator | Bananas are a [tropical] fruit.
+rainfall | 🌧️ | noun | the amount of rain that falls in a place | The rainforest gets lots of [rainfall] every year. | precipitation
+@story Rainforest Rescue | jungle
+🌴🐉 | {Name} and Ziggy flew to a [tropical] rainforest to help count animals.
+🌧️☔ | It rained every afternoon. The [rainfall] here is huge!
+🌳🐒 | They climbed up to the [canopy], where monkeys swung between the treetops.
+🦜🍌 | A [toucan] with a rainbow beak sat on a branch.
+🦜❤️ | A red and blue [macaw] squawked hello.
+🦥😴 | A [sloth] hung upside down, sleeping.
+🌸💜 | On a tree trunk grew a purple [orchid].
+🐗🌊 | Down by the river, a [tapir] splashed in the water.
+🐍😮 | A giant [anaconda] slid silently into the river.
+🐆👀 | And from the shadows, a [jaguar] watched them with golden eyes. "Every animal here is a treasure," whispered {Name}.
+
+@unit Desert and Savanna
+savanna | 🌾 | noun | a large, flat grassland with few trees, found in warm places like Africa | Lions and zebras roam the [savanna]. | grassland, plain
+mirage | 🏜️ | noun | something you think you see in the heat, like water, that isn't really there | The lake in the desert was just a [mirage]. | illusion
+cactus | 🌵 | noun | a desert plant with thick stems and sharp spines | The [cactus] stores water in its stem.
+jackal | 🐺 | noun | a wild dog that lives in Africa and Asia | A [jackal] howled in the night.
+hyena | 🐕 | noun | a wild animal like a dog that makes a sound like laughing | The [hyena] let out a strange laugh.
+antelope | 🦌 | noun | a fast animal with horns that looks like a deer | The [antelope] leaped away from the lion.
+wildebeest | 🐃 | noun | a large antelope with curved horns that travels in huge herds | Millions of [wildebeest] cross the river every year. | gnu
+baobab | 🌳 | noun | an African tree with a very thick trunk that stores water | The [baobab] tree is hundreds of years old.
+sandstorm | 💨 | noun | a strong wind that blows sand through the air | We waited inside the tent until the [sandstorm] passed.
+meerkat | 🦦 | noun | a small African animal that stands up on its back legs to look around | The [meerkat] stood on guard for its family.
+@story Safari Adventure | desert
+🚙🌍 | {Name} and Ziggy went on a safari across the African [savanna].
+🐃🐃 | A huge herd of [wildebeest] thundered across the plain.
+🦌💨 | A graceful [antelope] leaped over a bush.
+🌳🐘 | Under a giant [baobab] tree, elephants rested in the shade.
+🦦👀 | A [meerkat] stood up tall on its back legs, keeping watch.
+🐕😂 | At night, a [hyena] let out a giggling howl, and a [jackal] answered.
+🏜️🌵 | The next day, they drove into the desert, where a tall [cactus] stood alone.
+🏜️💧 | "Look, water!" shouted Ziggy. But it was only a [mirage].
+💨😮 | Then a [sandstorm] blew in! They hid in the jeep until it passed. "Africa is amazing," said {Name}, shaking sand out of her hair.
+
+@unit Mountain High
+altitude | ✈️ | noun | how high something is above the sea | At high [altitude], the air is thin and cold. | height, elevation
+elevation | ⛰️ | noun | the height of a place above sea level | The town is at an [elevation] of two thousand meters. | altitude, height
+plateau | 🏜️ | noun | a large, flat area of high land | We drove across a dry [plateau]. | tableland
+gorge | 🏞️ | noun | a deep, narrow valley with steep rocky sides | A river rushed through the [gorge]. | canyon, ravine
+crevice | 🪨 | noun | a narrow crack in rock | A lizard hid in a [crevice]. | crack, cleft
+ravine | ⛰️ | noun | a deep, narrow valley carved by running water | The hikers crossed the [ravine] on a rope bridge. | gorge, gully
+foothill | 🌄 | noun | a low hill at the bottom of a mountain | We camped in the [foothills] before the big climb.
+range | 🏔️ | noun | a line of mountains | The Rocky Mountains are a long mountain [range]. | chain
+crag | 🗻 | noun | a steep, rugged rock or cliff | An eagle nested on a high [crag].
+alpine | 🐐 | adj | having to do with high mountains | Mountain goats live in [alpine] meadows.
+@story The Mountain Climb | mountain
+🏔️🐉 | {Name}, Ziggy, and Uncle Jack set off to climb a peak in a great mountain [range].
+🌄⛺ | They camped in the [foothills] the first night.
+🏞️🌊 | The next day, they hiked along a deep [gorge] with a roaring river below.
+🌉😬 | They crossed a [ravine] on a wobbly rope bridge.
+🦎🪨 | A tiny lizard darted into a [crevice] in the rock.
+🏜️🌬️ | Higher up, they crossed a windy [plateau].
+🐐🌸 | In an [alpine] meadow, they saw mountain goats and wildflowers.
+🗻🦅 | An eagle flew from a nest on a rocky [crag].
+⛰️📏 | "What's the [elevation] here?" asked {Name}. "About four thousand meters!" said Uncle Jack.
+✈️😮‍💨 | At that [altitude], the air was thin, and they breathed hard. But the view from the top was worth every step.
+
+@unit Rivers and Lakes
+tributary | 🏞️ | noun | a smaller river that flows into a bigger river | The creek is a [tributary] of the Mississippi. | branch, stream
+delta | 🔺 | noun | the flat land where a river splits into smaller streams before reaching the sea | Many birds live in the river [delta].
+estuary | 🌊 | noun | the wide part of a river where it meets the sea and fresh water mixes with salt water | Crabs and fish live in the [estuary].
+reservoir | 💧 | noun | a large lake, often man-made, where water is stored | Our town's water comes from a [reservoir]. | lake, basin
+dam | 🧱 | noun | a wall built across a river to hold back water | The beavers built a [dam] across the stream.
+rapids | 🛶 | noun | a part of a river where the water flows very fast over rocks | We rode a raft through the [rapids].
+basin | 🥣 | noun | a low area of land shaped like a bowl, often where a river drains | The Amazon river [basin] is huge.
+lagoon | 🏝️ | noun | a shallow body of water separated from the sea by sand or reefs | We swam in a warm, calm [lagoon].
+channel | 〰️ | noun | a narrow stretch of water connecting two larger bodies of water | Boats sail through the [channel] between the two islands. | strait
+inlet | ⛵ | noun | a small, narrow bay where the sea reaches into the land | We anchored the boat in a quiet [inlet]. | cove, bay
+@story From Mountain to Sea | river
+🏔️💧 | Ziggy and {Name} followed a drop of water on its journey from the mountains to the sea.
+🏞️〰️ | First, it ran down a little [tributary] that joined a big river.
+🛶💨 | It splashed through the [rapids], where the water rushed over rocks.
+🧱🦫 | It reached a [dam], where beavers had built a wall of sticks.
+💧🏙️ | Then it flowed into a [reservoir] that gave the town its drinking water.
+🥣🌳 | The river wound through a wide green [basin].
+🔺🦩 | Near the coast, the river split into many streams in a muddy [delta] full of birds.
+🌊🦀 | Then it reached the [estuary], where fresh water met salty sea.
+⛵🌅 | It swirled past an [inlet] where fishing boats rested.
+〰️🏝️ | Finally, it flowed through a narrow [channel] into a warm blue [lagoon]. "What a journey for one little drop!" said {Name}.
+
+@unit On With the Show
+improvise | 🎭 | verb | to make something up on the spot without planning | When I forgot my lines, I had to [improvise]. | ad-lib, wing it
+recital | 🎹 | noun | a performance of music or dance by students | My piano [recital] is on Saturday. | concert, performance
+spotlight | 🔦 | noun | a strong beam of light on one person or place on stage | The singer stood in the [spotlight].
+ballet | 🩰 | noun | a graceful kind of dance that tells a story with music | We watched "The Nutcracker" [ballet].
+opera | 🎶 | noun | a play where the words are sung with music | The [opera] singer hit a very high note.
+solo | 🎤 | noun | a song or performance by one person alone | She sang a [solo] at the concert.
+duet | 👯 | noun | a song or performance by two people | My sister and I sang a [duet].
+chorus | 🎵 | noun | a group of singers, or the part of a song that repeats | Everyone joined in on the [chorus]. | choir, refrain
+intermission | ☕ | noun | a short break in the middle of a show | We bought snacks during the [intermission]. | break, interval
+choreograph | 💃 | verb | to plan the steps and moves of a dance | She will [choreograph] the dance for the school show.
+@story The Winter Show | school
+❄️🎭 | It was the night of the Winter Show, and {Name}'s family came to watch.
+💃🗓️ | Ms. Lane had taken weeks to [choreograph] the dances.
+🩰✨ | It started with a short [ballet] about snowflakes.
+🎤🌟 | Then {Name} stepped into the [spotlight] to sing her first [solo].
+👯🐉 | Next, she and Ziggy sang a [duet] about friendship.
+🎵👥 | The whole [chorus] joined in for the last song.
+☕🍪 | During the [intermission], everyone ate cookies.
+🎶😂 | In the second half, the teachers did a silly [opera] about lost homework.
+😬🎭 | When the curtain got stuck, Ziggy had to [improvise] a dance to fill the time. Everyone loved it!
+🎹👏 | "This was even better than my piano [recital]," said {Name}'s little brother.
+
+@unit Story Elements
+protagonist | 🦸 | noun | the main character in a story | Harry is the [protagonist] of the story. | hero, main character
+antagonist | 🦹 | noun | the character who works against the main character | The wolf is the [antagonist] in "Little Red Riding Hood." | villain, opponent
+theme | 💡 | noun | the main idea or lesson of a story | The [theme] of the story is friendship. | message, topic
+moral | 🙏 | noun | the lesson a story teaches about right and wrong | The [moral] of the story is "don't tell lies." | lesson
+metaphor | 🌊 | noun | a way of describing something by saying it IS something else, like "time is a river" | "Her smile was sunshine" is a [metaphor].
+simile | 🔄 | noun | a comparison using "like" or "as," like "as brave as a lion" | "He ran like the wind" is a [simile].
+rhyme | 🎵 | verb | to end with the same sound, like "cat" and "hat" | "Moon" and "spoon" [rhyme].
+stanza | 📃 | noun | a group of lines in a poem, like a paragraph | The poem has four [stanzas]. | verse
+verse | 📜 | noun | writing arranged in lines with rhythm; poetry | The story was written in [verse].
+genre | 📚 | noun | a kind or type of story, music, or art, like mystery or fantasy | My favorite [genre] is fantasy. | category, type
+@story Ziggy Writes a Poem | library
+✍️🐉 | Ziggy wanted to write a poem for {Name}'s birthday.
+📚🧚 | First, he picked a [genre]: a fairy tale!
+🦸🐉 | The [protagonist] would be a brave little dragon (guess who).
+🦹❄️ | The [antagonist] would be the Ice Queen, who wanted to freeze the world.
+💡🤝 | The [theme] was friendship: friends can melt even the coldest heart.
+📜🎶 | He decided to write it in [verse], with rhythm like a song.
+🎵🌙 | He wanted the lines to [rhyme]: "fire" and "higher," "night" and "light."
+📃📃 | The poem had four [stanzas], one for each season.
+🔄🌟 | He used a [simile]: "Her laugh was like a bell."
+🌊💛 | And a [metaphor]: "Friendship is a fire that never goes out."
+🙏🎂 | The [moral] at the end was: "Share your warmth with everyone." {Name} hugged him. "It's the best present ever."
