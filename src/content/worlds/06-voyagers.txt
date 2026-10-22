@@ -789,3 +789,211 @@ foremost | ⭐ | adj | the most important or first | She is the world's [foremos
 ⭐🌟 | The judge was the country's [foremost] dance teacher.
 🥈🎶 | {Name} danced in the [penultimate] spot—second to last.
 🏁🏆 | When the [final] dancer finished, the judge announced the winner: {Name}! Ziggy danced so wildly that he knocked over a chair.
+
+@unit Rise and Fall
+escalate | 📈 | verb | to become bigger, worse, or more serious | The argument began to [escalate] into shouting. | intensify, increase
+intensify | 🔥 | verb | to become stronger or more extreme | The storm will [intensify] tonight. | strengthen, escalate
+subside | 🌊 | verb | to become less strong or go back down | The flood waters began to [subside]. | ease, lessen
+wane | 🌘 | verb | to become smaller or weaker | Interest in the game began to [wane] after an hour. | fade, decrease
+decline | 📉 | verb | to become less or worse; or to politely say no | The number of bees has begun to [decline]. | decrease, drop
+recede | 🏖️ | verb | to move back or away | The tide began to [recede], leaving shells on the sand. | retreat, withdraw
+mount | ⛰️ | verb | to increase or build up; or to climb onto | Excitement began to [mount] as the show got closer. | grow, build
+heighten | 🔊 | verb | to make something stronger or greater | Spooky music can [heighten] the fear in a movie. | increase, intensify
+lessen | 🔉 | verb | to make or become less | Ice will [lessen] the swelling. | reduce, ease
+taper | 🕯️ | verb | to become gradually thinner or smaller toward one end | The candle's flame began to [taper] as it burned down. | narrow, dwindle
+@story The Big Storm Night | night
+🌩️🏠 | One night, a storm rolled toward {Name}'s town.
+🔥🌬️ | The wind began to [intensify].
+📈⛈️ | Thunder rumbled, and the storm began to [escalate].
+⛰️😰 | Worry began to [mount] as the lights flickered.
+🔊🐺 | The howling wind seemed to [heighten] everyone's fear.
+🫂🐉 | Ziggy curled up next to {Name} to [lessen] her worry.
+🌊🌧️ | After midnight, the rain began to [subside].
+🌘🌬️ | The wind began to [wane].
+📉⚡ | The thunder began to [decline] to a soft grumble.
+🏖️💧 | By morning, the puddles began to [recede].
+🕯️🌅 | The last bit of the storm began to [taper] into a gentle drizzle, and a rainbow appeared.
+
+@unit People and Places
+society | 🏙️ | noun | all the people living together in a country or community | In a fair [society], everyone has the same rights. | community
+public | 🏛️ | adj | open to or for everyone | The [public] library is free for all. | shared, open
+inhabitant | 🏘️ | noun | a person or animal that lives in a place | Every [inhabitant] of the island knew each other. | resident
+resident | 🏡 | noun | a person who lives in a place | Each [resident] of the building got a key. | inhabitant, local
+immigrant | 🧳 | noun | a person who comes to live in a new country | My great-grandpa was an [immigrant] from Italy.
+emigrate | ✈️ | verb | to leave your own country to live in another | Many families [emigrate] to find new opportunities. | relocate
+refugee | ⛺ | noun | a person who has to leave their home because of war or danger | The [refugee] family found a safe new home.
+ancestry | 🌳 | noun | the people in your family who lived before you; your family background | She has Irish and Mexican [ancestry]. | heritage, lineage
+ethnic | 🌍 | adj | having to do with a group of people who share a culture, language, or background | Our city has many [ethnic] restaurants.
+diverse | 🌈 | adj | made up of many different kinds | Our class is [diverse], with kids from ten countries. | varied, mixed
+@story The World Fair | school
+🌍🎪 | {Name}'s school held a World Fair. Their class was very [diverse]—kids came from twelve countries!
+🧳🇮🇹 | {Name}'s great-grandpa was an [immigrant] who came from Italy.
+✈️🇮🇳 | Priya's family decided to [emigrate] from India when she was a baby.
+⛺🏠 | Amir's family were each a [refugee] who had to leave their home because of war. Now they lived on {Name}'s street.
+🌳📜 | Each student made a poster about their [ancestry].
+🌍🍛 | The cafeteria served [ethnic] foods: pasta, curry, dumplings, and tacos.
+🏡👋 | Every [resident] of the town was invited.
+🏘️💛 | Even the oldest [inhabitant], Mrs. Gray, who was 100, came!
+🏛️🎶 | The fair was held in the [public] park, with music from around the world.
+🏙️🤝 | "This is what makes our [society] strong," said the mayor. "We're different, but we're one town."
+
+@unit Reading Strategies
+comprehension | 🧠 | noun | understanding what you read or hear | We had a reading [comprehension] test. | understanding
+vocabulary | 📚 | noun | all the words a person knows | Reading every day builds your [vocabulary]. | words
+context | 🔍 | noun | the words and situation around something that help explain its meaning | Use the [context] to figure out a new word. | setting, surroundings
+inference | 💡 | noun | a conclusion you reach by using clues | My [inference] was that the character was nervous. | deduction, conclusion
+summary | 📝 | noun | a short statement of the main points | Write a [summary] of the chapter. | recap, outline
+excerpt | ✂️ | noun | a short part taken from a longer piece of writing | We read an [excerpt] from a famous speech. | passage, extract
+annotate | ✏️ | verb | to add notes to a text to explain or comment | [Annotate] the poem by writing your thoughts in the margins.
+skim | 👀 | verb | to read something quickly to get the main idea | [Skim] the article before you read it carefully. | scan
+glossary | 📖 | noun | a list of hard words and their meanings at the back of a book | Look up the word in the [glossary].
+index | 🗂️ | noun | an alphabetical list at the back of a book showing where topics are found | Check the [index] to find the page about volcanoes.
+@story The Reading Detective | library
+📚🕵️ | {Name} loves to read like a detective. Here's how she does it.
+👀📰 | First, she would [skim] the pages to get the main idea.
+🗂️🌋 | If she wants a certain topic, she checks the [index].
+🔍❓ | When she finds a new word, she uses [context] to guess its meaning.
+📖✅ | Then she checks the [glossary] to be sure.
+✏️📄 | She likes to [annotate] the pages with sticky notes.
+💡🤔 | When a character trembles, her [inference] is that the character is scared.
+✂️🎤 | Sometimes she reads an [excerpt] out loud to Ziggy.
+📝📓 | After each chapter, she writes a short [summary].
+🧠🌟 | Her [comprehension] is excellent, and her [vocabulary] grows every day—just like yours!
+
+@unit Making a Change
+propaganda | 📢 | noun | information, often false or one-sided, spread to make people think a certain way | The posters were [propaganda] to make people support the war.
+advocate | 🙋 | verb | to publicly support an idea or cause | She likes to [advocate] for animal rights. | support, champion
+endorse | 👍 | verb | to say publicly that you support someone or something | The famous athlete agreed to [endorse] the new sneakers. | support, back
+slogan | 🪧 | noun | a short, catchy phrase used in advertising or politics | "Save the bees!" was their [slogan].
+petition | 📝 | noun | a written request signed by many people asking for something | We signed a [petition] to save the park.
+rally | 📣 | noun | a large gathering of people supporting a cause | Hundreds of people came to the [rally]. | demonstration
+boycott | 🙅 | verb | to refuse to buy or use something as a protest | People began to [boycott] the store that sold animal fur.
+lobby | 🏛️ | verb | to try to persuade lawmakers to support something | The group went to the capital to [lobby] for clean water laws.
+activist | ✊ | noun | a person who works hard to bring about change | The young [activist] spoke about climate change. | campaigner
+awareness | 💡 | noun | knowing about something | The walk raised [awareness] about kids who need food. | knowledge, understanding
+@story Save the Bees | park
+🐝📉 | {Name} learned that bees were disappearing. "We have to help!" she said. She became a young [activist].
+💡🎨 | First, she wanted to raise [awareness]. She made posters of bees.
+🪧🐝 | Her [slogan] was "No bees, no fruit!"
+📝✍️ | She started a [petition] asking the town to plant flowers in every park. Five hundred people signed!
+📣👥 | She held a [rally] at the town hall. Kids came dressed as bees.
+🙋🗣️ | She would [advocate] for bees in front of the town council.
+🏛️🧑‍⚖️ | Her parents helped her [lobby] the mayor.
+👍🧑‍🌾 | A famous farmer agreed to [endorse] her plan.
+🙅🧴 | People began to [boycott] a spray that hurt bees.
+📢🚫 | Someone put up [propaganda] saying bees were dangerous pests, but no one believed it. The town planted ten thousand flowers, and the bees came back!
+
+@unit Secret Agents
+elusive | 🦊 | adj | hard to find, catch, or understand | The [elusive] fox was never seen by the hunters. | slippery, hard to catch
+clandestine | 🌑 | adj | done secretly, often because it's not allowed | The spies had a [clandestine] meeting at midnight. | secret, covert
+covert | 🕵️ | adj | secret or hidden | The detectives went on a [covert] mission. | secret, undercover
+furtive | 👀 | adj | done secretly so others won't notice | The dog gave a [furtive] glance at the cake. | sneaky, sly
+stealthy | 🐈‍⬛ | adj | moving quietly and carefully so as not to be noticed | The [stealthy] cat crept toward the bird. | sneaky, silent
+conspiracy | 🤫 | noun | a secret plan by a group to do something, often harmful | The spies uncovered a [conspiracy] to steal the crown jewels. | plot, scheme
+intrigue | 🎭 | noun | secret plotting; or a feeling of curiosity | The castle was full of [intrigue] and secrets.
+espionage | 🔍 | noun | spying to get secret information | The movie was about [espionage] during a war. | spying
+alias | 📛 | noun | a false name someone uses to hide who they are | The spy used the [alias] "Mr. Smith." | false name, pseudonym
+decipher | 🔓 | verb | to figure out the meaning of a code or messy writing | Can you [decipher] this secret message? | decode, crack
+@story Agent Ziggy | city
+🕵️🐉 | Ziggy and {Name} became secret agents! Ziggy's [alias] was "Agent Smoke."
+📩🌑 | They received a [clandestine] message: "Meet at the fountain at midnight."
+🔓📜 | {Name} had to [decipher] the code in the note.
+🤫💎 | It revealed a [conspiracy]: someone was planning to steal the museum's diamond!
+🎭🏛️ | The museum was full of [intrigue]. Who could it be?
+🕵️🌙 | They went on a [covert] mission to the museum at night.
+🐈‍⬛👣 | They were [stealthy], tiptoeing past the guards.
+👀🖼️ | A man in a hat gave a [furtive] look around the room.
+🦊💨 | He was [elusive], slipping away every time they got close.
+🔍😮 | But {Name}'s [espionage] skills were too good. They caught him—it was the museum's cat, Whiskers, who loved shiny things!
+
+@unit Food Words
+delectable | 🍰 | adj | delicious and delightful | The bakery sold [delectable] pastries. | delicious, scrumptious
+succulent | 🍖 | adj | juicy and tender | The roast chicken was [succulent]. | juicy, tender
+palatable | 😋 | adj | pleasant enough to eat | The soup was [palatable], but not amazing. | edible, tasty
+insipid | 😐 | adj | having almost no flavor; dull | The plain noodles were [insipid]. | bland, tasteless
+nourishing | 🥣 | adj | full of the things your body needs to be healthy | Oatmeal is a [nourishing] breakfast. | nutritious, wholesome
+wholesome | 🥗 | adj | good for your health or well-being | We ate a [wholesome] meal of fish and vegetables. | healthy, nourishing
+perishable | 🥛 | adj | likely to spoil or go bad quickly | Milk is [perishable], so keep it cold.
+beverage | 🥤 | noun | a drink | What [beverage] would you like with dinner? | drink
+condiment | 🧂 | noun | something added to food for flavor, like ketchup or mustard | Ketchup is my favorite [condiment].
+garnish | 🌿 | noun | a small bit of food used to decorate a dish | The chef added a [garnish] of parsley.
+@story Restaurant Review | kitchen
+👨‍🍳🍽️ | {Name} and Ziggy were food critics for the school newspaper. They visited a new restaurant.
+🥤🍋 | First, they ordered a [beverage]: fresh lemonade.
+🥣🌾 | The soup was [nourishing], full of beans and vegetables.
+🥗🐟 | The fish dinner was [wholesome] and healthy.
+🍖🔥 | Ziggy's roasted chicken was [succulent] and juicy.
+😐🍝 | But the plain noodles were [insipid]. They needed salt!
+🧂🍅 | Ziggy added his favorite [condiment]: ketchup.
+😋👍 | "Now they're [palatable]," he said.
+🌿🍰 | For dessert, the chef put a [garnish] of mint leaves on a chocolate cake. It was [delectable]!
+🥛❄️ | "Keep the cream in the fridge—it's [perishable]," the chef reminded her helper. Their review: four and a half stars!
+
+@unit Remembering
+recollect | 💭 | verb | to remember something | I [recollect] meeting you at the park last summer. | recall, remember
+reminisce | 📸 | verb | to talk or think about happy times in the past | Grandpa loves to [reminisce] about his childhood. | look back
+nostalgia | 🎞️ | noun | a happy but slightly sad feeling when you think about the past | Old photos fill Mom with [nostalgia]. | longing, wistfulness
+memorize | 🧠 | verb | to learn something so well that you can remember it exactly | I need to [memorize] my lines for the play.
+forgetful | 🤔 | adj | often forgetting things | My [forgetful] uncle always loses his keys. | absent-minded
+amnesia | 😵‍💫 | noun | a condition where someone loses their memory | In the movie, the hero had [amnesia] and forgot his name.
+mnemonic | 🔤 | noun | a trick to help you remember something, like a rhyme | "My Very Eager Mother…" is a [mnemonic] for the planets.
+keepsake | 💝 | noun | a small thing you keep to remember someone or something | The locket was a [keepsake] from her grandmother. | memento, souvenir
+commemorate | 🎗️ | verb | to do something special to remember an important person or event | We [commemorate] the town's founding with a parade. | honor, celebrate
+memorial | 🗿 | noun | a statue or building that helps people remember someone or something | We visited the war [memorial] in the park. | monument
+@story Grandpa's Memory Box | home
+📦👴 | Grandpa brought out an old wooden box. "Let's [reminisce]," he said.
+🎞️💛 | Looking at old photos filled him with [nostalgia].
+💝🔑 | Inside was a [keepsake]: a tiny silver key from his first house.
+💭🏡 | "I [recollect] the day we moved in," he said. "It was snowing."
+🤔👓 | "Grandpa, you're so [forgetful]—you lost your glasses again!" laughed {Name}. They were on his head.
+😵‍💫🐉 | "I hope I don't get [amnesia] and forget you," said Ziggy. "Never," said Grandpa.
+🧠📜 | Grandpa showed them a poem he had to [memorize] as a boy.
+🔤🌍 | "I used a [mnemonic] to remember it: the first letter of each line spelled my dog's name!"
+🗿🌳 | They walked to the park [memorial], where Grandpa's grandfather's name was carved.
+🎗️🕯️ | "We [commemorate] the people who came before us," said Grandpa, "so we never forget them."
+
+@unit Kind Hearts
+altruism | 💗 | noun | caring about others and helping them without expecting anything back | Donating his birthday money was an act of [altruism]. | selflessness
+charitable | 🎁 | adj | generous in giving help to those in need | Our town is very [charitable] at the holidays. | generous, giving
+humanitarian | 🌍 | adj | working to help people and reduce suffering | The [humanitarian] group sent food to the flooded towns.
+compassion | 🫂 | noun | deep care and wanting to help someone who is suffering | The nurse treated every patient with [compassion]. | sympathy, kindness
+goodwill | 🤝 | noun | friendly and helpful feelings toward others | The two schools shared [goodwill] after the game.
+generosity | 🍪 | noun | the quality of giving freely | Thank you for your [generosity]. | kindness, giving
+mercy | 🕊️ | noun | kindness or forgiveness shown to someone who could be punished | The queen showed [mercy] to the thief. | forgiveness, pity
+forgiveness | 💞 | noun | stopping being angry at someone who hurt you | She asked for her sister's [forgiveness]. | pardon
+tolerance | ☮️ | noun | accepting people who are different from you | Our school teaches [tolerance] and respect. | acceptance, open-mindedness
+solidarity | ✊ | noun | standing together and supporting each other | The workers showed [solidarity] by marching together. | unity
+@story The Flood | city
+🌊🏘️ | A big flood hit the town next to {Name}'s. Many families lost their homes.
+🫂💔 | Everyone felt [compassion] for them.
+🌍🚚 | A [humanitarian] group brought blankets and food.
+🎁🧥 | {Name}'s town was [charitable] and gave clothes and toys.
+🍪🐉 | Ziggy showed his [generosity] by baking a thousand cookies.
+💗🪙 | {Name} gave her whole piggy bank. It was an act of pure [altruism].
+✊🤝 | The two towns showed [solidarity], working side by side to clean up.
+🕊️🦝 | When a raccoon was caught stealing the cookies, everyone showed [mercy] and let it go with one cookie.
+💞😢 | Two neighbors who had been arguing for years asked each other for [forgiveness].
+☮️🌈 | "Disasters teach [tolerance] and [goodwill]," said the mayor. "We're stronger together."
+
+@unit When People Are Unfair
+prejudice | 🚫 | noun | an unfair opinion about someone formed without knowing them | It's wrong to have [prejudice] against people because of how they look. | bias
+discrimination | ⚖️ | noun | treating people unfairly because of their group, like their race or religion | Laws protect people from [discrimination]. | unfairness, bias
+stereotype | 🏷️ | noun | an unfair, oversimplified idea about a whole group of people | The [stereotype] that girls can't do math is false.
+intolerance | 😠 | noun | unwillingness to accept people who are different | The story taught us about [intolerance] and kindness.
+injustice | 💔 | noun | unfairness; a situation that isn't fair | She fought against [injustice] her whole life. | unfairness
+ridicule | 😝 | verb | to make fun of someone in a mean way | It's cruel to [ridicule] someone for their accent. | mock, taunt
+exclude | 🚪 | verb | to keep someone out of a group or activity | Don't [exclude] anyone from the game. | leave out, shut out
+ostracize | 🙅 | verb | to refuse to let someone be part of a group | The other birds would [ostracize] the ugly duckling. | shun, reject
+humiliate | 😳 | verb | to make someone feel very embarrassed and ashamed | The bully tried to [humiliate] him in front of the class. | embarrass, shame
+belittle | 🤏 | verb | to make someone or something seem unimportant | Don't [belittle] your little sister's drawings. | put down, mock
+@story The Ugly Duckling, Retold | river
+🦢🐣 | In a pond, a mother duck had five ducklings. One was gray and bigger than the others.
+🏷️🦆 | The other ducks had a [stereotype]: "All pretty ducks are small and yellow."
+🚫😠 | Because of their [prejudice], they thought the gray duckling was strange.
+😝🗣️ | They would [ridicule] him for his big feet.
+🤏🐣 | They would [belittle] his swimming, even though he was the fastest.
+🚪🙅 | They would [exclude] him from games.
+🙅❄️ | All winter, they continued to [ostracize] him.
+😳💧 | One duck even tried to [humiliate] him by splashing mud on him in front of everyone.
+💔⚖️ | "This is an [injustice]," said a wise old turtle. "Their [intolerance] and [discrimination] are wrong."
+🦢✨ | In spring, the gray duckling grew into a beautiful swan. But the real lesson, said {Name} as she closed the book, "is that he was always worth loving, even before."
