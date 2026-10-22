@@ -1,0 +1,535 @@
+# World 4 — explorer words (about grades 3–4).
+
+@world explorers | Explorers | 🧭 | Words for brave thinkers and curious minds
+
+@unit Into the Wild
+expedition | 🗺️ | noun | a long, planned trip to explore a place | The [expedition] to the North Pole took months. | journey, voyage
+trek | 🥾 | noun | a long, hard walk, often over rough ground | The [trek] up the mountain took all day. | hike
+investigate | 🔍 | verb | to look closely at something to find out the truth | The scientists came to [investigate] the strange lights. | look into, explore
+inspect | 🧐 | verb | to look at something very carefully to check it | The guard will [inspect] your ticket. | check, examine
+navigate | 🧭 | verb | to find your way from one place to another | Sailors used the stars to [navigate] at night. | steer
+landmark | 🗼 | noun | something easy to see that helps you know where you are | The tall red tower is a famous [landmark].
+terrain | ⛰️ | noun | land and what it is like: hilly, flat, rocky, and so on | The bikes bounced over the rocky [terrain]. | ground, landscape
+courage | 🦁 | noun | the strength to do something even when you are scared | It took [courage] to jump off the high diving board. | bravery
+summit | 🏔️ | noun | the very top of a mountain | We reached the [summit] at noon. | peak, top
+wilderness | 🌲 | noun | wild land where no people live | Bears and wolves live in the [wilderness]. | wilds
+@story The Hidden Valley Expedition | mountain
+🗺️🐉 | {Name} and Ziggy planned an [expedition] to find the legendary Hidden Valley.
+🌲🐻 | It was far away in the [wilderness], where no roads went.
+🥾⛰️ | The [trek] took three days. Their legs ached.
+🪨🌋 | The [terrain] was rocky and steep, with loose stones that slid underfoot.
+🧭⭐ | At night, {Name} used the stars to [navigate].
+🗼🌳 | They looked for a [landmark] from the old map: a tree shaped like a giant hand.
+🔍👣 | When they found it, they stopped to [investigate]. There were strange footprints in the mud!
+🧐🦶 | Ziggy bent down to [inspect] them. "These are dragon tracks!"
+🦁💓 | It took all their [courage] to follow the tracks up the final cliff.
+🏔️🌈 | At the [summit], they looked down—and there was the Hidden Valley, full of baby dragons playing in the sun!
+
+@unit A Scary Night
+fierce | 🐯 | adj | wild, strong, and ready to attack | The [fierce] tiger showed its teeth. | ferocious, savage
+terror | 😱 | noun | very great fear | The children ran away in [terror]. | fright, horror
+tremble | 🫨 | verb | to shake because you are scared, cold, or excited | My hands began to [tremble] before the big test. | shake, quiver
+startle | 😲 | verb | to surprise someone suddenly so they jump | Don't [startle] the horse, or it might kick. | surprise, alarm
+panic | 😰 | noun | a sudden strong fear that makes you act without thinking | When the lights went out, people were in a [panic]. | alarm
+frantic | 😵 | adj | wild and rushed because you are scared or worried | We made a [frantic] search for the lost puppy. | frenzied
+eerie | 👻 | adj | strange and scary in a mysterious way | The empty house was quiet and [eerie]. | spooky, creepy
+huddle | 🫂 | verb | to crowd close together, often to keep warm or safe | The penguins [huddle] together in the cold wind.
+whimper | 🥺 | verb | to make small, soft crying sounds | The puppy began to [whimper] when we left. | whine
+cower | 🙈 | verb | to crouch down and shrink away because you are afraid | The kitten began to [cower] under the bed during the storm.
+@story The Night of the Strange Noise | camp
+🏕️🌙 | It was {Name}'s first night camping in the woods with Ziggy.
+👻🌲 | The forest was dark and [eerie]. The trees looked like tall, thin giants.
+😲💥 | Suddenly a loud CRACK seemed to [startle] them both.
+🫨🐉 | Ziggy began to [tremble]. "W-what was that?"
+🐯👀 | Two yellow eyes glowed in the bushes. Was it something [fierce]?
+😰🏃 | Ziggy was in a [panic]. He tried to run but tripped over the tent rope.
+🙈⛺ | Then he decided to [cower] inside his sleeping bag.
+😵🔦 | {Name} made a [frantic] search for her flashlight.
+🫂💛 | They began to [huddle] together, waiting.
+🥺🦝 | Then they heard a tiny sound, as if something began to [whimper]. {Name} turned on the light. It was a baby raccoon, lost and scared!
+😱➡️😄 | Their [terror] turned into giggles. They gave the raccoon a cracker, and it scampered home to its mom.
+
+@unit Making Faces
+scowl | 😠 | verb | to frown in an angry way | Dad began to [scowl] when he saw the mess. | glower
+frown | ☹️ | verb | to pull your eyebrows together because you are unhappy or thinking hard | Mom began to [frown] at the bill.
+smirk | 😏 | verb | to smile in a smug, rude way | He began to [smirk] when I dropped the ball.
+squint | 😑 | verb | to look with your eyes partly closed | I had to [squint] in the bright sun.
+wince | 😣 | verb | to make a quick face because of pain or something unpleasant | I [wince] when I get a shot. | flinch
+pout | 😗 | verb | to push out your lips to show you are sulking | My little sister likes to [pout] when she doesn't get her way. | sulk
+blush | 😊 | verb | to turn pink in the face because you are shy or embarrassed | She began to [blush] when everyone sang to her.
+grimace | 😬 | noun | an ugly twist of the face that shows pain or disgust | He made a [grimace] when he tasted the sour milk.
+sneer | 😒 | verb | to smile or speak in a way that shows you think someone is worthless | The bully began to [sneer] at the little kids.
+expression | 🎭 | noun | the look on someone's face that shows how they feel | Her happy [expression] told me she'd won. | look
+@story The Mirror Game | home
+🪞🐉 | On a rainy day, {Name} and Ziggy played the Mirror Game. One made a face, and the other had to copy it.
+😠🌧️ | First, {Name} began to [scowl] like a grumpy giant.
+☹️🤔 | Then Ziggy began to [frown] like he was thinking about a very hard math problem.
+😏😂 | {Name} began to [smirk] like a sneaky cat who ate the canary.
+😑☀️ | Ziggy began to [squint] like he was looking at the sun.
+😣🩹 | {Name} began to [wince] like she had just stubbed her toe.
+😗💔 | Ziggy began to [pout] like a baby who lost his rattle.
+😒👑 | {Name} began to [sneer] like a snooty queen.
+😬🍋 | Ziggy made a [grimace] like he had just bitten a lemon.
+😊💖 | Then Grandma walked in and said, "You two are the cutest!" They both began to [blush]. "That's my favorite [expression]," laughed Grandma.
+
+@unit How Amazing!
+magnificent | 🌄 | adj | very beautiful and impressive | The view from the mountain was [magnificent]. | splendid, glorious
+remarkable | 🌟 | adj | unusual or special enough to notice | It was [remarkable] that the tiny puppy found its way home. | extraordinary
+hilarious | 🤣 | adj | extremely funny | The clown's tricks were [hilarious]. | hysterical
+peculiar | 🤨 | adj | strange or unusual | The soup had a [peculiar] taste. | odd, bizarre
+mysterious | 🕵️ | adj | strange and hard to explain or understand | A [mysterious] package arrived with no name on it.
+obvious | 💡 | adj | easy to see or understand | It was [obvious] that the dog had eaten the cake—he had frosting on his nose! | clear, plain
+ridiculous | 🤪 | adj | so silly that it makes people laugh | Ziggy wore a [ridiculous] hat with a fish on top. | absurd, silly
+fascinating | 🤩 | adj | extremely interesting | The book about sharks was [fascinating]. | captivating
+dreadful | 😖 | adj | very bad or unpleasant | We had [dreadful] weather on our vacation. | awful, terrible
+bizarre | 👽 | adj | very strange and weird | It was [bizarre] to see a cow on the roof! | peculiar, weird
+@story The Strangest Zoo | city
+🦒🎟️ | {Name} and Ziggy visited a new zoo called "The World's Strangest Animals."
+🕵️🚪 | The gate was [mysterious]: no sign, just a big purple door.
+👽🦒 | Inside, there was a [bizarre] giraffe with polka dots instead of patches.
+🤨🐧 | There was a [peculiar] penguin that only walked backward.
+🤪🎩 | A monkey wore a [ridiculous] top hat and juggled bananas.
+🤣🦜 | A parrot told jokes, and they were [hilarious]!
+🤩🐙 | An octopus painted pictures with all eight arms. It was [fascinating] to watch.
+😖🦨 | A skunk sprayed by mistake, and the smell was [dreadful]. Phew!
+🌟🐢 | The most [remarkable] animal was a turtle who was two hundred years old.
+🌄🐉 | At the end, they saw a [magnificent] golden dragon. "That's my grandma!" said Ziggy. It was [obvious] where Ziggy got his good looks.
+
+@unit Look Again
+examine | 🔬 | verb | to look at something very closely and carefully | The doctor will [examine] your sore throat. | study, inspect
+peer | 👀 | verb | to look very hard at something that is difficult to see | We had to [peer] through the fog to find the path.
+scan | 📡 | verb | to look quickly over something to find something | [Scan] the page to find your name. | skim
+gawk | 😮 | verb | to stare at something in a rude or silly way | People stopped to [gawk] at the giant pumpkin. | gape
+recognize | 🧠 | verb | to know someone or something because you have seen it before | I didn't [recognize] my teacher in her swimsuit!
+identify | 🏷️ | verb | to say who or what someone or something is | Can you [identify] this bird from its song?
+gape | 😲 | verb | to stare with your mouth open in surprise | The crowd began to [gape] at the giant whale. | gawk
+behold | 🙌 | verb | to see or look at something amazing (an old word) | "[Behold] the magic castle!" said the wizard.
+survey | 🗺️ | verb | to look over a whole area carefully | From the hilltop, we could [survey] the whole valley.
+vision | 👓 | noun | the ability to see | Eagles have amazing [vision]. | eyesight, sight
+@story The Bird Watchers | forest
+🔭🐦 | {Name} and Ziggy joined a bird-watching club. Their teacher was Mr. Fern, who had the best [vision] of anyone.
+🌲🗺️ | From a hilltop, they began to [survey] the forest below.
+📡🌳 | "[Scan] the treetops for anything that moves," said Mr. Fern.
+👀🌫️ | It was misty. They had to [peer] through the fog.
+🏷️🎶 | "Can you [identify] that bird from its song?" asked Mr. Fern. "It's a robin!" said {Name}.
+🔬🪶 | Ziggy found a blue feather and began to [examine] it with a magnifying glass.
+🧠🦅 | Then {Name} saw a huge bird with a white head. "I [recognize] that! It's a bald eagle!"
+😲🦅 | Everyone began to [gape] as it swooped down to the lake.
+😮📸 | Some hikers stopped to [gawk] and take pictures.
+🙌🐉 | "[Behold]!" said Ziggy, puffing out his chest. "The second-best flier in the forest!"
+
+@unit Talk It Over
+mention | 💬 | verb | to say something briefly | Did I [mention] that Grandma is coming tomorrow?
+request | 🙋 | verb | to ask for something politely | You can [request] a song from the band. | ask for
+persuade | 🗣️ | verb | to get someone to agree or do something by giving good reasons | Can you [persuade] Mom to let us stay up late? | convince
+plead | 🙏 | verb | to ask for something in an urgent, emotional way | The kids began to [plead] for one more story. | beg
+scold | 😤 | verb | to speak angrily to someone because they did something wrong | Mom had to [scold] the puppy for chewing her shoe. | tell off
+debate | 🎤 | noun | a discussion where people share different opinions | Our class had a [debate] about whether cats or dogs are better. | discussion
+remark | 💭 | noun | something you say about something | Grandpa made a funny [remark] about my hair. | comment
+gossip | 🤭 | verb | to talk about other people's private business | It's unkind to [gossip] about your friends.
+admit | 🙋‍♂️ | verb | to say that something is true, even when you don't want to | I have to [admit] that I ate the last cookie. | confess
+interrupt | ✋ | verb | to stop someone while they are talking or doing something | Please don't [interrupt] when someone is speaking. | cut in
+@story The Great Pet Debate | school
+🐶🐱 | {Name}'s class had a [debate]: "Which pet is best, a dog or a cat?"
+🙋📝 | Leo wanted to [request] the first turn.
+🗣️🐶 | He tried to [persuade] everyone that dogs are best. "Dogs play fetch!"
+✋😤 | But Mia began to [interrupt]. "Cats are cleaner!"
+😤👩‍🏫 | The teacher had to [scold] her gently. "Wait your turn, please."
+💬🐉 | Then {Name} wanted to [mention] something. "We forgot about dragons!"
+🤭👂 | In the back, two kids began to [gossip] about who would win.
+💭😂 | Ziggy made a [remark]: "Dragons can play fetch AND they're clean. We bathe in fire!"
+🙏🐉 | Everyone began to [plead]: "Can we vote for dragons?"
+🙋‍♂️🏆 | The teacher had to [admit] it: "Okay, dragons win!"
+
+@unit Thinking Hard
+ponder | 🤔 | verb | to think about something carefully for a long time | I like to [ponder] the stars and wonder what's out there. | think about, consider
+consider | 💭 | verb | to think about something before you decide | Please [consider] my idea before you say no. | weigh, ponder
+recall | 🧠 | verb | to remember something | Can you [recall] where you left your shoes? | remember
+predict | 🔮 | verb | to say what you think will happen in the future | I [predict] it will rain tomorrow. | forecast
+prefer | 👍 | verb | to like one thing better than another | I [prefer] apples to oranges.
+assume | 🤷 | verb | to think something is true without checking | I [assumed] you were coming, so I saved you a seat. | suppose
+realize | 💡 | verb | to suddenly understand or notice something | Did you [realize] that your shoes don't match?
+suppose | 🤔 | verb | to think something is probably true | I [suppose] we could walk if the bus doesn't come. | guess, assume
+opinion | 🗨️ | noun | what you think or feel about something | In my [opinion], summer is the best season. | view, belief
+knowledge | 📚 | noun | the facts and information that you know | Grandpa has a lot of [knowledge] about birds.
+@story The Thinking Contest | library
+🧠🏆 | The library held a Thinking Contest. {Name} and Ziggy signed up.
+📚🦉 | The judge was Professor Owl, who had more [knowledge] than anyone in town.
+🔮🌦️ | "First question: can you [predict] tomorrow's weather by looking at the clouds?"
+🤔☁️ | {Name} stopped to [ponder]. "Fluffy white clouds mean sunny skies. I'd say sunny!"
+🧠📖 | "Next: can you [recall] the name of the first book you ever read?" Ziggy remembered: "Dragons Love Tacos!"
+💭🍕 | "Now [consider] this: pizza or pancakes for dinner? Give your [opinion]."
+👍🥞 | "I [prefer] pancakes," said Ziggy, "with syrup."
+🤷💡 | {Name} [assumed] the next question would be easy. Then she began to [realize] it was a riddle!
+🤔🏅 | "I [suppose] the answer is… a shadow?" It was right! They won the golden pencil.
+
+@unit Quick Moves
+scamper | 🐿️ | verb | to run with quick, light steps, like a small animal | The squirrels [scamper] up the tree. | scurry, scuttle
+scramble | 🧗 | verb | to move or climb quickly using your hands and feet | We had to [scramble] up the rocky hill.
+lunge | 🤺 | verb | to move forward suddenly to grab or reach something | The goalie began to [lunge] for the ball. | leap, spring
+hurtle | ☄️ | verb | to move very fast, often in a dangerous way | The rock began to [hurtle] down the mountain. | rush, speed
+lurch | 🚌 | verb | to make a sudden, jerky movement | The bus began to [lurch] forward, and I nearly fell. | jerk, jolt
+sprawl | 🛋️ | verb | to lie or sit with your arms and legs spread out | The tired kids [sprawl] on the couch after soccer.
+hover | 🚁 | verb | to stay in one place in the air | The hummingbird can [hover] beside a flower.
+dangle | 🕷️ | verb | to hang down and swing loosely | The spider began to [dangle] from a thread.
+linger | ⏳ | verb | to stay somewhere longer than usual because you don't want to leave | We wanted to [linger] at the beach until sunset. | stay, dawdle
+crouch | 🐱 | verb | to bend your knees and lower your body close to the ground | The cat began to [crouch] down, ready to pounce. | squat
+@story The Great Chase | park
+🌳🐿️ | At the park, a squirrel stole Ziggy's cookie and began to [scamper] away!
+🏃🐉 | Ziggy began to [scramble] after it, up the slide and down the ladder.
+🤺🍪 | He tried to [lunge] for the cookie, but missed!
+🐿️🌳 | The squirrel ran up a tree and began to [dangle] the cookie from a branch.
+🚁🐉 | Ziggy flew up to [hover] next to the branch.
+🐱🌿 | Below them, a cat began to [crouch] in the grass, watching.
+☄️💨 | Then the cookie slipped and began to [hurtle] toward the ground!
+🚌😮 | Ziggy dove down with a [lurch] and caught it just in time.
+🛋️😮‍💨 | He landed in the grass and began to [sprawl] out, exhausted. He broke the cookie in half and shared it with the squirrel.
+⏳🌅 | They wanted to [linger] in the park until the sun went down. "Best chase ever," said Ziggy.
+
+@unit Wild Earth
+avalanche | 🏔️ | noun | a huge amount of snow and ice sliding fast down a mountain | The skiers were warned about the danger of an [avalanche].
+landslide | ⛰️ | noun | a mass of earth and rocks sliding down a hill | The heavy rain caused a [landslide] that blocked the road. | mudslide
+wildfire | 🔥 | noun | a large fire that spreads quickly through forests or grassland | Firefighters worked for days to stop the [wildfire]. | brushfire
+tsunami | 🌊 | noun | a giant ocean wave caused by an earthquake under the sea | The [tsunami] washed over the beach towns.
+monsoon | 🌧️ | noun | a season of very heavy rain in some parts of the world | During the [monsoon], it rains almost every day.
+erosion | 🏜️ | noun | the slow wearing away of land by wind or water | [Erosion] carved the canyon over millions of years.
+rainforest | 🌴 | noun | a thick, warm forest where it rains almost every day | Thousands of kinds of animals live in the [rainforest]. | jungle
+tundra | 🧊 | noun | a cold, treeless land in the far north where the ground stays frozen | Reindeer roam across the [tundra].
+oasis | 🌴 | noun | a place in the desert with water and plants | The thirsty camels finally reached the [oasis].
+climate | 🌡️ | noun | the usual weather of a place over a long time | Florida has a warm [climate].
+@story Around the World with Ziggy | sky
+🌍🐉 | Ziggy and {Name} took a trip around the world on Ziggy's back to learn about our wild planet.
+🌡️🗺️ | "Every place has its own [climate]," said {Name}.
+🌴🦜 | First they flew over a hot, steamy [rainforest] full of parrots.
+🌧️☔ | In India, they got soaked by the [monsoon] rains.
+🏜️🌴 | In the desert, they found an [oasis] with palm trees and cool water.
+🏜️💨 | They saw how wind [erosion] had carved rocks into strange shapes.
+🧊🦌 | In the far north, they visited the frozen [tundra], where reindeer grazed.
+🏔️❄️ | On a mountain, they watched an [avalanche] thunder down from far away.
+⛰️🚧 | On a rainy hillside, they saw where a [landslide] had covered a road.
+🔥🚒 | They saw firefighters bravely fighting a [wildfire].
+🌊📢 | And they learned how scientists warn people when a [tsunami] might be coming. "Our Earth is amazing," said {Name}, "and powerful."
+
+@unit Deep Feelings
+grief | 😢 | noun | deep sadness, especially when someone dies | We felt [grief] when our old dog passed away. | sorrow, heartache
+sympathy | 🫂 | noun | feeling sorry for someone who is sad or hurt | I felt [sympathy] for the boy who lost his kitten. | compassion
+misery | 😫 | noun | great unhappiness or suffering | Having the flu was pure [misery]. | suffering, wretchedness
+envy | 😒 | noun | wanting what someone else has | I felt [envy] when my friend got a new bike. | jealousy
+regret | 😔 | verb | to feel sorry about something you did or didn't do | I [regret] yelling at my brother.
+guilt | 😞 | noun | the bad feeling you get when you know you did something wrong | She felt [guilt] after she broke the vase and hid it.
+pride | 🦁 | noun | a good feeling about something you or someone close to you did well | Dad smiled with [pride] at my report card.
+delight | 😄 | noun | great happiness | The kids shrieked with [delight] when they saw the snow. | joy, glee
+sorrow | 💧 | noun | a feeling of deep sadness | The sad song was full of [sorrow]. | grief, sadness
+relief | 😮‍💨 | noun | the good feeling when something bad or worrying is over | It was a [relief] to find my lost backpack. | comfort
+@story Goodbye, Goldie | home
+🐟💔 | One morning, {Name}'s goldfish, Goldie, didn't wake up. She had been very old.
+😢🌧️ | {Name} felt deep [grief]. She cried and cried.
+🫂🐉 | Ziggy felt [sympathy] for her. He gave her a long, warm hug.
+😫🛏️ | All day, she was in [misery]. She didn't even want to eat dessert.
+💧🎶 | They had a little funeral in the garden. Dad sang a song full of [sorrow].
+😔🍞 | "I [regret] that I forgot to feed her on Tuesday," said {Name}.
+😞💭 | "Don't feel [guilt]," said Mom. "Goldie had a long, happy life because of you."
+🦁🌸 | {Name} planted a flower for Goldie. She felt [pride] when it bloomed.
+😒🐠 | At school, she felt a little [envy] when Leo talked about his new fish.
+😄🐢 | But a week later, Grandma brought a surprise: a baby turtle! {Name} laughed with [delight].
+😮‍💨💛 | It was a [relief] to feel happy again. "Goldie would like you," she told the turtle.
+
+@unit People Are Different
+timid | 🐭 | adj | shy and easily frightened | The [timid] puppy hid behind my legs. | shy, fearful
+bashful | 🙈 | adj | shy around other people | The [bashful] boy hid his face when everyone looked at him. | shy
+sincere | 💖 | adj | honest and meaning what you say | She gave me a [sincere] apology. | genuine, heartfelt
+stern | 🧐 | adj | serious and strict | The [stern] teacher didn't allow talking during tests. | strict, severe
+solemn | 🕯️ | adj | very serious, not cheerful or smiling | The ceremony was quiet and [solemn]. | grave, serious
+jolly | 🎅 | adj | happy and cheerful | Santa is a [jolly] old man. | merry, cheerful
+nimble | 🐐 | adj | able to move quickly and easily | The [nimble] goat jumped from rock to rock. | agile, quick
+feeble | 👴 | adj | very weak | The sick bird was too [feeble] to fly. | weak, frail
+weary | 😩 | adj | very tired | After the long trip, we were all [weary]. | tired, exhausted
+fussy | 🙄 | adj | hard to please and very picky | My [fussy] little brother only eats white food. | picky
+@story The New Neighbors | city
+🏠📦 | A big moving truck came to {Name}'s street. A whole family of new neighbors was moving in!
+🎅😄 | First came Mr. Bell, a [jolly] man with a booming laugh.
+🧐👓 | His wife, Mrs. Bell, was a [stern] judge who wore little glasses.
+🐭👧 | Their daughter, Rosie, was [timid]. She hid behind the moving boxes.
+🙈👦 | Her twin brother, Sam, was [bashful] and blushed when {Name} said hi.
+🙄🥦 | Their baby was [fussy] and threw her broccoli on the ground.
+👴🐕 | Their old dog, Buster, was so [feeble] that he had to be carried inside.
+🐐🐈 | But their cat was [nimble]. She leaped from the truck to the roof in one jump!
+😩📦 | By evening, the whole family was [weary] from carrying boxes.
+🕯️🍲 | {Name} and Ziggy brought them soup. Mrs. Bell gave a [solemn] nod, then smiled. "Thank you. That's very kind." Rosie came out and gave {Name} a [sincere] hug. They were friends from then on.
+
+@unit Yes or No?
+avoid | 🚧 | verb | to stay away from someone or something | Try to [avoid] the puddles on your way to school. | dodge, steer clear of
+obey | 🫡 | verb | to do what you are told by someone in charge | Dogs learn to [obey] commands like "sit." | follow
+refuse | 🙅 | verb | to say no to something | I [refuse] to eat worms! | decline
+permit | 🎫 | verb | to let someone do something | The rules don't [permit] running in the hallway. | allow, let
+forbid | 🚫 | verb | to say that someone must not do something | My parents [forbid] me to play with matches. | ban, prohibit
+require | ❗ | verb | to need something, or to make it necessary | Plants [require] water and sunlight. | need
+accept | 🤝 | verb | to take something that is offered, or to agree to something | Please [accept] this gift. | take
+deny | 🙊 | verb | to say that something is not true | The cat couldn't [deny] eating the fish—it had a fishbone in its mouth!
+prevent | 🛡️ | verb | to stop something from happening | Brushing your teeth helps [prevent] cavities. | stop, avoid
+allow | ✅ | verb | to let something happen | Mom will [allow] us to have one cookie after dinner. | permit, let
+@story Ziggy and the Library Rules | library
+📚🐉 | Ziggy wanted to visit the town library, but there were rules.
+📋🚫 | "The rules [forbid] breathing fire near the books," said the librarian.
+❗🤫 | "They [require] everyone to whisper."
+🫡😇 | "I will [obey] every rule," Ziggy promised.
+🎫📖 | "Then I will [permit] you to come in," said the librarian.
+🚧🔥 | Ziggy was very careful to [avoid] the paper shelves.
+🛡️🧯 | He kept his mouth closed to [prevent] any sparks.
+🙅🍪 | When a boy offered him a cookie, he had to [refuse]. "No food allowed!"
+🙊📕 | Later, a book fell off a shelf. "Did you knock that over?" asked the librarian. Ziggy couldn't [deny] it. "Yes, with my tail. Sorry!"
+🤝🏅 | The librarian smiled. "Thank you for being honest. Please [accept] this library card. I'll [allow] you to borrow ten books!"
+
+@unit Build and Break
+construct | 🏗️ | verb | to build something | Workers will [construct] a new bridge over the river. | build
+demolish | 🏚️ | verb | to knock down a building completely | They had to [demolish] the old, unsafe house. | destroy, tear down
+collapse | 📉 | verb | to fall down suddenly | The old barn began to [collapse] in the storm. | cave in
+ruin | 😩 | verb | to badly damage or spoil something | The rain will [ruin] our picnic. | spoil, wreck
+wreck | 💥 | verb | to damage something so badly it can't be used | Don't [wreck] your new bike by riding it into walls! | ruin, smash
+restore | ✨ | verb | to fix something so it looks or works like it did before | They worked to [restore] the old painting. | repair, renew
+assemble | 🧩 | verb | to put the parts of something together | Dad had to [assemble] my new desk.
+destroy | 💣 | verb | to damage something so badly that it no longer exists | The fire could [destroy] the whole forest. | demolish
+foundation | 🧱 | noun | the solid base under a building that holds it up | The house was built on a strong stone [foundation]. | base
+structure | 🏛️ | noun | something built, like a building or bridge | The Eiffel Tower is a famous iron [structure].
+@story The Old Lighthouse | beach
+🗼🌊 | On the edge of town stood an old lighthouse. It was so old that it might [collapse] any day.
+🏚️🚜 | "We should [demolish] it," said some people. "It's too dangerous."
+😢🐉 | "No! That would [ruin] the beach!" said {Name}. "Let's save it."
+🌊💥 | A storm had tried to [wreck] the lighthouse, but it was still standing.
+🔦🧱 | {Name} and Ziggy checked the [foundation]. The stones at the bottom were still strong.
+✨🎨 | So the whole town came together to [restore] it.
+🧩🔩 | They had to [assemble] a new staircase, piece by piece.
+🏗️🪟 | Builders came to [construct] new windows at the top.
+💣🌪️ | "Nothing will [destroy] it now," said {Name}.
+🏛️🌟 | When it was finished, the lighthouse was the most beautiful [structure] in town. Its light shone across the sea once again.
+
+@unit Sizes and Spaces
+narrow | ↕️ | adj | not wide; small from side to side | We squeezed through a [narrow] gap between the rocks. | thin, slim
+jagged | 🏔️ | adj | having sharp, uneven points and edges | The broken glass had [jagged] edges. | rough, spiky
+lofty | 🏙️ | adj | very high and tall | Eagles nest on [lofty] cliffs. | towering, high
+immense | 🐋 | adj | extremely large | An [immense] ship sailed into the harbor. | huge, vast
+spacious | 🏟️ | adj | having lots of room | Our new house has a [spacious] kitchen. | roomy
+cramped | 📦 | adj | too small and crowded, without enough room | Five of us in the tiny car felt [cramped]. | crowded, tight
+hollow | 🪵 | adj | empty inside | The owl lived in a [hollow] tree trunk.
+steep | ⛰️ | adj | rising or falling sharply, hard to climb | The hill was so [steep] that we had to walk our bikes.
+shallow | 🏊 | adj | not deep | The little kids played in the [shallow] end of the pool.
+dense | 🌲 | adj | thick and crowded together | We got lost in the [dense] forest. | thick
+@story Ziggy's Cave Hunt | cave
+🔍🐉 | Ziggy wanted to find the perfect cave for a secret dragon clubhouse.
+⛰️😓 | First, they climbed a [steep] hill. Their legs burned!
+🏙️🦅 | Above them, eagles flew around [lofty] cliffs.
+🌲🌲 | They pushed through a [dense] forest where the trees grew close together.
+🏔️🪨 | They passed rocks with [jagged] edges like dragon teeth.
+↕️😬 | The cave entrance was so [narrow] that Ziggy had to suck in his tummy.
+📦😖 | The first room was [cramped]. They kept bumping their heads.
+🏊💧 | There was a [shallow] puddle on the floor that only came up to their ankles.
+🪵🦉 | In the corner was a [hollow] log where a family of mice lived.
+🐋✨ | But the next room was [immense]—as big as a gym!
+🏟️🎉 | "It's perfect!" said Ziggy. "It's so [spacious] that we can invite everyone!"
+
+@unit What a Place!
+cluttered | 🗃️ | adj | messy and full of too many things | Ziggy's desk was [cluttered] with papers and crayons. | messy, untidy
+tattered | 👕 | adj | old and torn | The pirate's flag was [tattered] from years of wind. | ragged, torn
+elegant | 💃 | adj | graceful and stylish | She wore an [elegant] gown to the ball. | stylish, graceful
+peaceful | 🕊️ | adj | calm and quiet | The lake was [peaceful] in the early morning. | calm, tranquil
+grand | 🏛️ | adj | large and very impressive | The hotel had a [grand] staircase made of marble. | magnificent
+luxurious | 💎 | adj | very comfortable and expensive | The queen slept in a [luxurious] bed with silk sheets. | lavish, fancy
+bare | 🪹 | adj | empty, or without its usual covering | The trees were [bare] in winter. | empty, naked
+abandoned | 🏚️ | adj | left behind and no longer used or cared for | We found an [abandoned] house in the woods. | deserted
+haunted | 👻 | adj | said to be visited by ghosts | People say the old mansion is [haunted].
+orderly | 📐 | adj | neat and well organized | The books were lined up in [orderly] rows. | neat, tidy
+@story The Mansion on the Hill | night
+🏚️🌙 | On top of the hill stood an old mansion. It had been [abandoned] for fifty years.
+👻😨 | Everyone said it was [haunted].
+🏛️🚪 | {Name} and Ziggy pushed open the [grand] front doors.
+🗃️🕸️ | Inside, the hall was [cluttered] with dusty boxes and broken chairs.
+👕🪟 | [Tattered] curtains flapped in the broken windows.
+🪹🍽️ | The kitchen shelves were [bare].
+💎🛏️ | Upstairs was a [luxurious] bedroom with a gold bed and velvet pillows.
+💃🖼️ | A painting showed an [elegant] lady in a blue gown.
+📐📚 | In the library, every book was in an [orderly] row—as if someone still dusted them!
+🕊️👵 | Then they met the "ghost": a kind old lady named Mrs. Pell, who lived there with fourteen cats. "It's [peaceful] up here," she said, pouring them tea.
+
+@unit Hungry and Thirsty
+gobble | 🦃 | verb | to eat something very quickly and greedily | Don't [gobble] your food—slow down! | wolf down, devour
+crave | 🍫 | verb | to want something very much | I always [crave] chocolate after school. | long for, desire
+starving | 😫 | adj | extremely hungry | After soccer practice, I was [starving]! | famished, ravenous
+thirsty | 🥤 | adj | needing or wanting to drink | The hot sun made us very [thirsty].
+chomp | 🦈 | verb | to bite or chew noisily | The horse began to [chomp] on a carrot. | munch
+slurp | 🍜 | verb | to eat or drink noisily | It's rude to [slurp] your soup.
+savor | 😌 | verb | to eat or enjoy something slowly to get the most out of it | [Savor] each bite of this special cake. | relish
+nutritious | 🥗 | adj | full of the good things your body needs to grow and be healthy | Vegetables are very [nutritious]. | healthy, wholesome
+banquet | 🍽️ | noun | a large, fancy meal for many people | The king held a [banquet] for his birthday. | feast
+appetizing | 😋 | adj | looking or smelling good enough to make you want to eat it | The pie looked very [appetizing]. | tempting, tasty
+@story The Dragon Banquet | castle
+🍽️👑 | The queen held a [banquet] to thank Ziggy for saving the kingdom.
+😫🐉 | Ziggy had been flying all day, and he was [starving].
+🥤☀️ | He was [thirsty] too, so he drank three pitchers of lemonade.
+😋🍗 | The food looked so [appetizing] that his mouth watered.
+🦃🍗 | He began to [gobble] a whole turkey leg.
+🦈🥕 | Then he began to [chomp] on a bowl of crunchy carrots.
+🍜😆 | Then he began to [slurp] his noodle soup so loudly that the queen laughed.
+🥗🥦 | "Eat your vegetables too," said {Name}. "They're [nutritious]."
+🍫🍰 | "But I [crave] chocolate cake!" said Ziggy.
+😌🍰 | When the cake came, he ate it slowly to [savor] every bite. "This is the best day ever."
+
+@unit Animal Noises
+snarl | 🐺 | verb | to growl angrily and show your teeth | The angry wolf began to [snarl]. | growl
+growl | 🐻 | verb | to make a deep, rough sound in the throat, like an angry dog | The dog began to [growl] at the stranger. | snarl
+wheeze | 😮‍💨 | verb | to breathe with a whistling sound because it's hard to breathe | The old cat began to [wheeze] after climbing the stairs.
+squeal | 🐷 | verb | to make a long, high-pitched sound | The piglets [squeal] when they see their food. | shriek, squeak
+snort | 🐴 | verb | to make a sudden rough sound by pushing air through your nose | The horse began to [snort] and stamp its hoof.
+hiccup | 😵 | verb | to make a sudden "hic" sound you can't control | I always [hiccup] when I drink soda too fast.
+chirp | 🐦 | verb | to make a short, high sound, like a small bird | Birds [chirp] outside my window every morning. | tweet, cheep
+cackle | 🧙‍♀️ | verb | to laugh in a loud, harsh way | The witch began to [cackle] over her bubbling pot.
+holler | 🤠 | verb | to shout or yell loudly | You don't have to [holler]—I'm right here! | shout, yell
+yowl | 🐈 | verb | to make a long, loud cry, like an unhappy cat | The cats began to [yowl] on the fence at night. | howl, wail
+@story Ziggy's Animal Orchestra | farm
+🎼🐉 | Ziggy wanted to start an animal orchestra on Grandpa's farm.
+🐦🎶 | The birds began to [chirp] the high notes.
+🐷🎵 | The piglets began to [squeal] like trumpets.
+🐴💨 | The horse began to [snort] in time with the beat.
+🐻🥁 | Old Buster the dog began to [growl] the low notes.
+🐺😬 | But then a wolf heard the music and began to [snarl] at the window!
+🐈😱 | The barn cats began to [yowl] in fear.
+🤠📢 | Grandpa came running out to [holler], "Shoo, wolf! Shoo!" And the wolf ran off.
+😮‍💨🐢 | The old turtle began to [wheeze]. "That was too exciting for me."
+😵🐉 | Ziggy got so nervous that he began to [hiccup]—hic! hic!—and puffs of smoke popped out with each one.
+🧙‍♀️😂 | Grandma began to [cackle] with laughter. "Best concert ever!"
+
+@unit How Often? How Long?
+brief | ⏱️ | adj | lasting only a short time | We had a [brief] visit with Grandma before the train left. | short, quick
+previous | ⏮️ | adj | coming before; the one before | I liked the [previous] book in the series better. | earlier, former
+occasional | 🌦️ | adj | happening now and then, but not often | We get an [occasional] snow day in winter.
+seldom | 🦄 | adv | not often | My cat [seldom] goes outside. | rarely
+frequent | 🔁 | adj | happening often | We make [frequent] trips to the library. | regular, common
+constant | ♾️ | adj | happening all the time without stopping | The [constant] noise from the street kept me awake. | nonstop, endless
+temporary | ⏳ | adj | lasting only for a short time | The bandage is just a [temporary] fix. | short-term
+permanent | 🪨 | adj | lasting forever or for a very long time | Markers can leave [permanent] stains. | lasting
+annual | 📅 | adj | happening once a year | The [annual] school fair is in May. | yearly
+daily | ☀️ | adj | happening every day | Feeding the cat is one of my [daily] jobs. | everyday
+@story The Lighthouse Keeper | beach
+🗼👴 | Old Captain Joe was the keeper of the lighthouse. Lighting the lamp was his [daily] job.
+🌊🌬️ | Out by the sea, the wind was [constant]. It never stopped blowing.
+🐋📅 | He had a [frequent] visitor: a whale who swam by every week.
+⛵🌦️ | Boats came by only once in a while—just the [occasional] fishing boat.
+🧊⏳ | One winter, Joe broke his arm. He wore a cast, but it was only [temporary].
+👧🐉 | {Name} and Ziggy came to help. It was supposed to be a [brief] visit, just one day.
+⏮️📖 | Joe showed them his logbook. "The [previous] keeper was my father," he said.
+🦄🌟 | "Ships [seldom] crash here, because of our light."
+🎉🗓️ | They stayed for the town's [annual] Lighthouse Festival.
+🪨❤️ | Before they left, Joe carved their names into the stone wall. "Now you're a [permanent] part of this lighthouse."
+
+@unit Deep Sea Explorers
+submarine | 🚢 | noun | a ship that can travel deep under the water | The [submarine] dove to the bottom of the ocean. | sub
+diver | 🤿 | noun | a person who swims underwater, often with special equipment | The [diver] found a sunken ship.
+depth | 📏 | noun | how deep something is | The [depth] of the lake is fifty feet.
+surface | 🌊 | noun | the top or outside layer of something | The whale came up to the [surface] to breathe.
+pressure | 🫸 | noun | the force of something pushing on something else | Deep in the ocean, the water [pressure] is very strong. | force
+marine | 🐠 | adj | having to do with the sea | Dolphins are [marine] mammals.
+species | 🦋 | noun | a group of animals or plants that are alike and can have babies together | There are thousands of [species] of fish in the ocean. | kind, type
+tentacle | 🐙 | noun | a long, bendy arm of an animal like an octopus or squid | The octopus wrapped a [tentacle] around the rock.
+sonar | 📡 | noun | a way of finding things underwater by sending out sounds and listening for echoes | The ship used [sonar] to find the whale.
+abyss | 🕳️ | noun | a very deep hole or the deepest part of the ocean | The tiny submarine sank into the dark [abyss]. | chasm, depths
+@story The Deepest Dive | underwater
+🚢🐉 | {Name} and Ziggy climbed into a yellow [submarine] with Dr. Sea, a [marine] scientist.
+🌊⬇️ | They left the bright [surface] and sank down, down, down.
+🤿🐢 | A [diver] waved at them through the window as she swam past a turtle.
+📏📟 | "The [depth] here is one hundred meters," said Dr. Sea.
+📡🔊 | The [sonar] went ping… ping… "Something big is down there!"
+🫸💥 | The deeper they went, the stronger the water [pressure] pushed on the submarine. Creak!
+🕳️🌑 | Finally they reached the [abyss], where no sunlight could reach.
+🐙✨ | A glowing [tentacle] floated past the window!
+🦋📝 | It was a giant squid—a [species] that no one had ever filmed before. "We just made history!" said Dr. Sea.
+
+@unit How My Body Feels
+itchy | 🦟 | adj | making you want to scratch | The mosquito bite was so [itchy]!
+ache | 🤕 | verb | to hurt with a dull, steady pain | My tummy will [ache] if I eat too much candy. | hurt
+throb | 💓 | verb | to beat or hurt with a strong, steady rhythm | My stubbed toe began to [throb]. | pound, pulse
+tingle | ✨ | verb | to feel a light prickly or stinging feeling | My fingers began to [tingle] in the cold. | prickle
+dizzy | 😵‍💫 | adj | feeling like everything is spinning | Spinning in circles made me [dizzy]. | lightheaded, woozy
+sting | 🐝 | verb | to cause a sharp, burning pain | Soap will [sting] if it gets in your eyes.
+sweat | 💦 | verb | to have water come out of your skin when you are hot | We began to [sweat] in the hot sun. | perspire
+stiff | 🧍 | adj | hard to bend or move | My legs were [stiff] after the long car ride. | rigid
+flinch | 😖 | verb | to make a quick, nervous movement away from something | I didn't [flinch] when the nurse gave me a shot. | wince
+faint | 😵 | verb | to suddenly pass out for a short time | Some people [faint] when they see blood. | pass out, black out
+@story The Long Hike | mountain
+🥾☀️ | {Name} and Ziggy went on a long hike on a hot summer day.
+💦😓 | Soon they began to [sweat] in the heat.
+🦟😣 | A mosquito bit {Name}'s arm. Her skin was [itchy].
+🐝😖 | Then a bee flew by. "Don't move or it might [sting]!" But Ziggy jumped and tried not to [flinch].
+🪨🦶 | {Name} tripped on a rock, and her foot began to [throb].
+🤕🎒 | Her back began to [ache] from her heavy backpack.
+😵‍💫🌀 | Ziggy spun around in circles to cool off and got [dizzy].
+😵🌡️ | "Drink water, or you might [faint]," said Mom.
+❄️✨ | They dipped their feet in a cold stream. Their toes began to [tingle].
+🧍😴 | The next morning, their legs were so [stiff] that they walked like robots. "Worth it!" said Ziggy.
+
+@unit Kind and Unkind Words
+soothe | 😌 | verb | to make someone feel calmer or less upset | Mom sang to [soothe] the crying baby. | calm, comfort
+insult | 😤 | verb | to say something rude that hurts someone's feelings | Don't [insult] your sister's drawing.
+mock | 😜 | verb | to laugh at someone in a mean way, often by copying them | It's unkind to [mock] the way someone talks. | ridicule, tease
+praise | 👏 | verb | to say good things about someone or something | The coach will [praise] us when we play well. | compliment
+admire | 🤩 | verb | to like and respect someone or something very much | I [admire] my grandma for her courage. | look up to
+apology | 🙇 | noun | words that say you are sorry | Leo gave me an [apology] for breaking my pencil.
+reassure | 🤗 | verb | to make someone feel less worried | The pilot tried to [reassure] the passengers during the bumpy flight. | comfort, soothe
+criticize | 👎 | verb | to say what you think is wrong with someone or something | It's easy to [criticize], but it's harder to help.
+gratitude | 🙏 | noun | the feeling of being thankful | We wrote a note to show our [gratitude] to the firefighters. | thankfulness
+compliment | 💐 | noun | a nice thing said about someone | Grandma gave me a [compliment] on my singing. | praise
+@story The Talent Show | school
+🎤🏫 | It was the school talent show. {Name} was going to sing, and she was nervous.
+😜👦 | A boy named Kyle began to [mock] her. "La la la!" he sang in a squeaky voice.
+😤💔 | Then he decided to [insult] her dress. "That looks like pajamas!"
+🤗🐉 | Ziggy tried to [reassure] her. "You're going to be great."
+😌💛 | Her mom gave her a hug to [soothe] her nerves.
+🎶✨ | {Name} sang beautifully. Everyone stood up to [praise] her.
+💐😊 | The principal gave her a [compliment]: "That was wonderful!"
+🤩👏 | Even Kyle had to [admire] her singing.
+🙇😔 | After the show, Kyle gave her an [apology]. "I'm sorry. I was just jealous."
+👎➡️👍 | "Next time, don't [criticize]," said {Name}. "Just cheer!" Kyle smiled and nodded.
+🙏🌸 | {Name} gave Ziggy a flower to show her [gratitude]. "Thanks for believing in me."
+
+@unit Shining Lights
+glimmer | 🕯️ | noun | a faint, flickering light | We saw a [glimmer] of light at the end of the tunnel. | flicker, gleam
+glint | ✨ | verb | to shine with small, quick flashes | The diamond ring began to [glint] in the sunlight. | sparkle, flash
+flare | 🎇 | noun | a bright light used as a signal, or a sudden burst of flame | The lost hikers set off a [flare] so the helicopter could find them.
+beacon | 🗼 | noun | a light or fire that guides people or warns them | The lighthouse was a [beacon] for ships at sea.
+headlight | 🚗 | noun | one of the bright lights at the front of a car | One [headlight] on our car is broken.
+reflection | 🪞 | noun | an image you see in a mirror or in water | I saw my [reflection] in the pond.
+silhouette | 👤 | noun | the dark outline of something against a bright background | We saw the [silhouette] of a cat against the moon. | outline
+lamplight | 💡 | noun | the light from a lamp | We read stories by [lamplight].
+prism | 🔺 | noun | a clear block of glass that splits light into a rainbow | The [prism] made rainbows on the wall.
+luster | 💎 | noun | a soft, shiny glow on a surface | The pearls had a beautiful [luster]. | sheen, shine
+@story Lost in the Fog | ocean
+🌫️⛵ | {Name}, Dad, and Ziggy were sailing home when a thick fog rolled in.
+🪞🌊 | They couldn't even see their [reflection] in the water.
+🕯️👀 | Far away, there was a tiny [glimmer] of light.
+🗼✨ | "It's the lighthouse!" said Dad. "It's a [beacon] that will guide us home."
+🎇🆘 | Dad set off a red [flare] so other boats would know where they were.
+👤🌕 | They saw the dark [silhouette] of another boat against the moon.
+✨💎 | Waves began to [glint] in the moonlight with a silvery [luster].
+🚗🏖️ | When they reached the dock, Mom was waiting with the car. Its [headlight] beams cut through the fog.
+💡🔺 | At home, by soft [lamplight], {Name} held up her glass [prism]. It made a tiny rainbow on the wall. "Even in fog," she said, "there's always light somewhere."
+
+@unit Money Smarts
+purchase | 🛒 | verb | to buy something | We need to [purchase] tickets before the show. | buy
+budget | 📊 | noun | a plan for how to spend and save your money | Our family [budget] includes money for food and fun.
+savings | 🐷 | noun | money that you have saved | I used my [savings] to buy a new bike.
+profit | 📈 | noun | money you earn after paying for what you used | Our lemonade stand made a ten-dollar [profit]. | earnings, gain
+allowance | 💵 | noun | money given to a child regularly, often for doing chores | I get five dollars a week for my [allowance].
+debt | 📉 | noun | money that you owe to someone | He paid off his [debt] to his sister.
+loan | 🤝 | noun | money or something else that you borrow and must give back | The bank gave Dad a [loan] to buy a car.
+value | 💎 | noun | how much something is worth | The old coin has a high [value]. | worth
+worth | ⚖️ | adj | having a value of a certain amount | This painting is [worth] a million dollars!
+invest | 🌱 | verb | to put money into something hoping to get more back later | Grandma likes to [invest] in companies that help the planet.
+@story Ziggy's Shop | market
+💵🐉 | Every week, Ziggy got two dollars for his [allowance].
+🐷💰 | He put most of it in a piggy bank. His [savings] grew and grew.
+📊📝 | {Name} helped him make a [budget]: some money to spend, some to save, and some to give away.
+🌱💡 | "If you [invest] in supplies, you can start a business," said {Name}.
+🛒🍋 | So Ziggy used his money to [purchase] lemons, sugar, and cups.
+🤝🪙 | He needed one more dollar, so {Name} gave him a [loan].
+📉😬 | "Now I have a [debt]," said Ziggy. "I'll pay you back."
+💎🍋 | His dragon-fire-heated lemonade was special. People said its [value] was more than a dollar.
+⚖️🥤 | "This lemonade is [worth] five dollars!" said one customer.
+📈🎉 | By the end of the day, Ziggy had made a big [profit]. He paid back {Name}'s loan first.
