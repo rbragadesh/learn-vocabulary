@@ -465,3 +465,229 @@ humidity | 💦 | noun | the amount of water in the air | High [humidity] makes 
 🌀🏝️ | "And this [cyclone] is heading toward an island. We've warned the people to stay safe."
 ⛈️🌊 | That night, the rain came down in a [deluge].
 🌊🌉 | The creek behind the lab became a roaring [torrent]. "Being a storm chaser is exciting," said Ziggy, "but I think I'll chase rainbows instead."
+
+@unit Secrets
+conceal | 🙈 | verb | to hide something or keep it secret | The squirrel tried to [conceal] its nuts under the leaves. | hide
+confide | 🤫 | verb | to tell someone a secret because you trust them | I [confide] in my best friend. | trust, tell
+disclose | 📢 | verb | to make something known that was secret | The magician refused to [disclose] how the trick worked. | reveal, tell
+expose | 🔦 | verb | to show or reveal something hidden, often something bad | The reporter wanted to [expose] the truth. | uncover, reveal
+rumor | 🗣️ | noun | a story passed around that may not be true | There's a [rumor] that school will close for a week. | gossip
+confidential | 🔒 | adj | meant to be kept secret | The spy's message was [confidential]. | secret, private
+discreet | 🤐 | adj | careful about what you say so you don't upset or embarrass anyone | Please be [discreet] about the surprise party. | tactful, careful
+eavesdrop | 👂 | verb | to secretly listen to other people's conversation | It's rude to [eavesdrop] on your parents. | listen in, snoop
+decode | 🔓 | verb | to figure out the meaning of a secret code | Can you [decode] this secret message? | decipher, crack
+cipher | 🔐 | noun | a secret code | The spies wrote their notes in a [cipher]. | code
+@story The Secret Code | school
+🗣️🏫 | There was a [rumor] at school that someone was planning a surprise for the principal's birthday.
+🤫👧 | Mia decided to [confide] in {Name}. "It's me! But it's [confidential]."
+🔐📝 | Mia gave her a note written in a [cipher]: "KDSSB ELUWKGDB!"
+🔓🐉 | Ziggy helped [decode] it. Each letter had moved three places. It said "HAPPY BIRTHDAY!"
+👂🚪 | Then they saw Tom trying to [eavesdrop] outside the classroom door.
+🤐😅 | "Be [discreet]," whispered {Name}. "Don't let him hear!"
+🙈🎂 | They worked hard to [conceal] the cake in the art closet.
+🔦😬 | But Tom tried to [expose] the secret by shining a flashlight into the closet!
+📢🙅 | "Please don't [disclose] the surprise!" begged Mia. Tom grinned. "Only if I can help." On the big day, the principal was completely surprised.
+
+@unit Truth and Tricks
+deceive | 🎭 | verb | to make someone believe something that is not true | The fox tried to [deceive] the hens. | trick, fool
+exaggerate | 🎈 | verb | to make something seem bigger or more important than it really is | Don't [exaggerate]—you didn't catch a fish as big as a car! | overstate
+genuine | 💯 | adj | real and true, not fake | This is a [genuine] dinosaur bone. | real, authentic
+authentic | ✅ | adj | real and not a copy | The museum has an [authentic] Viking sword. | genuine, real
+counterfeit | 💵 | adj | fake but made to look real, to trick people | The store refused the [counterfeit] money. | fake, forged
+hoax | 👽 | noun | a trick meant to make people believe something that isn't true | The alien photo turned out to be a [hoax]. | trick, prank
+gullible | 🐑 | adj | easily tricked because you believe whatever you're told | The [gullible] kid believed the moon was made of cheese. | naive, trusting
+skeptical | 🤨 | adj | doubting that something is true | I'm [skeptical] about that "magic" diet. | doubtful
+fabricate | 🧵 | verb | to make up a story or lie | He tried to [fabricate] an excuse for being late. | make up, invent
+fraud | 🦹 | noun | a trick to get money or something valuable from people | Selling fake tickets is [fraud]. | scam, cheat
+@story The Loch Ness Hoax | river
+📰🦕 | The town newspaper printed a photo of a lake monster! "Is it [genuine]?" asked {Name}.
+🐑😮 | Some people were [gullible] and believed it right away.
+🤨🔍 | But {Name} was [skeptical]. "Let's look closer."
+🎈📣 | A man named Mr. Slick began to [exaggerate]: "The monster is as big as a bus! Buy a ticket to see it!"
+🎭💰 | He wanted to [deceive] people and take their money.
+💵🎟️ | His tickets were [counterfeit] too—they were just colored paper.
+🧵🗣️ | When people asked questions, he would [fabricate] wild stories.
+✅🔬 | Ziggy flew over the lake and found the "monster": a plastic toy on a string! It wasn't an [authentic] creature at all.
+👽📸 | "It's a [hoax]!" said {Name}.
+🦹🚔 | The police arrested Mr. Slick for [fraud]. The town gave everyone their money back—and Ziggy got his photo in the newspaper instead.
+
+@unit What Matters Most
+crucial | 🗝️ | adj | extremely important | It's [crucial] to wear a helmet when you ride. | vital, essential, critical
+essential | 💧 | adj | absolutely needed | Water is [essential] for life. | necessary, vital, crucial
+vital | ❤️ | adj | very important and necessary | Sleep is [vital] for growing kids. | essential, crucial
+significant | 📈 | adj | important or large enough to notice | There was a [significant] drop in temperature overnight. | important, notable
+trivial | 🤏 | adj | small and not important | Don't worry about such a [trivial] mistake. | minor, unimportant
+urgent | 🚨 | adj | needing attention right away | The doctor got an [urgent] call. | pressing
+priority | 🥇 | noun | something that is more important than other things | My top [priority] is finishing my homework.
+minor | 🔹 | adj | small and not very important | I have a [minor] scratch on my arm. | small, slight
+major | 🔷 | adj | big and important | The storm caused [major] damage. | big, serious
+secondary | 🥈 | adj | less important than something else | Winning is [secondary]—having fun comes first.
+@story Packing for the Moon | space
+🚀🌙 | {Name} and Ziggy were packing for a trip to the moon (in their cardboard rocket).
+🥇📋 | "Our first [priority] is air," said {Name}. "It's [essential] up there."
+💧❤️ | "Water is [vital] too," said Ziggy.
+🗝️🧑‍🚀 | "And it's [crucial] that we wear our space helmets."
+🧸🤏 | "My teddy bear is [secondary]," said Ziggy, "but I'm bringing him anyway."
+🍪🔹 | "Forgetting cookies is a [minor] problem," said {Name}. "Forgetting the map is a [major] one!"
+🎨🤏 | Ziggy worried that his space suit was the wrong color. "That's [trivial]," laughed {Name}.
+🚨📞 | Then came an [urgent] message from Mom: "Dinner is ready!"
+📈😋 | That was a [significant] change of plans. The moon would have to wait until after dessert.
+
+@unit Changing Things
+alter | ✂️ | verb | to change something a little | The tailor will [alter] my pants so they fit. | modify, change
+modify | 🔧 | verb | to make small changes to something to improve it | We had to [modify] our plan when it started to rain. | alter, adjust
+adjust | 🎚️ | verb | to change something slightly so it works or fits better | [Adjust] your seat so you can reach the pedals. | tweak
+convert | 🔄 | verb | to change something into something else | We plan to [convert] the garage into a playroom. | transform, turn into
+evolve | 🐒 | verb | to change slowly over a long time | Animals [evolve] to survive in their environments. | develop
+vary | 🎨 | verb | to be different or change | The weather can [vary] from day to day. | differ, change
+fluctuate | 📊 | verb | to go up and down again and again | Prices [fluctuate] during the year.
+revert | ↩️ | verb | to go back to how something was before | After the holiday, we [revert] to our normal bedtime. | return
+alternate | 🔁 | verb | to take turns, doing one thing and then another | We [alternate] who walks the dog each day. | take turns
+transition | 🌉 | noun | a change from one stage or state to another | Moving to a new school is a big [transition]. | change, shift
+@story Ziggy's New Room | home
+🏠🐉 | Ziggy was getting bigger, so the family decided to [convert] the attic into his new bedroom.
+🔄📏 | First, they had to [alter] the door so it was taller.
+🔧🪟 | They had to [modify] the window so Ziggy could fly in and out.
+🎚️🛏️ | Dad had to [adjust] the bed frame to fit a dragon tail.
+📊🌡️ | Up in the attic, the temperature would [fluctuate]—hot in the day, cold at night—so they added a fan.
+🎨🖌️ | Ziggy wanted the walls to [vary] in color: one red, one blue, one gold.
+🔁🧹 | {Name} and Ziggy would [alternate] cleaning days.
+🌉😟 | The [transition] was hard at first. On the first night, Ziggy missed his old room.
+↩️🛌 | He wanted to [revert] to sleeping in {Name}'s room.
+🐒🌟 | But slowly, his feelings began to [evolve]. Soon he loved his new attic room and its view of the stars.
+
+@unit How Much? 2
+surplus | 📦 | noun | an extra amount, more than is needed | We had a [surplus] of apples, so we made pies. | excess, extra
+shortage | 📉 | noun | not having enough of something | There was a water [shortage] during the drought. | lack, scarcity
+ration | 🍞 | verb | to give out only a small, fair amount of something | During the long trip, we had to [ration] our snacks.
+sufficient | ✅ | adj | enough for what is needed | We have [sufficient] food for the camping trip. | enough, adequate
+adequate | 👌 | adj | good enough, but not great | The tent was small but [adequate] for two people. | sufficient, enough
+quota | 🎯 | noun | a fixed amount that is expected or allowed | Each kid had a [quota] of two cookies. | share, limit
+increase | ⬆️ | verb | to become bigger in number or amount | The number of birds will [increase] in spring. | grow, rise
+decrease | ⬇️ | verb | to become smaller in number or amount | The noise began to [decrease] as the party ended. | reduce, drop
+maximum | 🔝 | noun | the largest amount possible or allowed | The elevator holds a [maximum] of ten people. | most, limit
+minimum | 🔻 | noun | the smallest amount possible or needed | You need a [minimum] of five players for the game. | least
+@story The Island Supplies | island
+🏝️⛵ | {Name}, Ziggy, and their friends sailed to a little island for a week-long camping trip.
+✅📦 | They packed what they thought was a [sufficient] amount of food.
+⬇️🍎 | But each day, their pile of food began to [decrease].
+📉😟 | By Thursday, there was a [shortage] of bread!
+🍞✂️ | "We need to [ration] what's left," said {Name}. "Everyone gets a [quota] of two slices a day."
+👌🥥 | They found coconuts and berries. It wasn't fancy, but it was [adequate].
+⬆️🐟 | Ziggy taught them to fish, and their food supply began to [increase].
+🔝🎣 | "The boat can carry a [maximum] of six people and four boxes," said the captain when he came back.
+🔻😮 | "We need a [minimum] of one box for the trip home."
+📦🎉 | By Sunday, they had a [surplus] of fish and berries! They shared them with the captain on the way home.
+
+@unit Strange and Unexplained
+enigma | ❓ | noun | something or someone that is very mysterious and hard to understand | The ancient stone circle is an [enigma]. | mystery, puzzle
+cryptic | 🔣 | adj | mysterious and hard to understand | The note had a [cryptic] message: "Look where the moon sleeps." | puzzling, mysterious
+obscure | 🌫️ | adj | not well known, or hard to see or understand | The book was written by an [obscure] author. | unknown, unclear
+inexplicable | 🤷 | adj | impossible to explain | The [inexplicable] lights in the sky puzzled everyone. | unexplainable, baffling
+uncanny | 👁️ | adj | strange in a way that is hard to explain | She had an [uncanny] ability to guess what I was thinking. | eerie, weird
+sinister | 🦹 | adj | seeming evil or dangerous | The villain had a [sinister] laugh. | menacing, evil, ominous
+ominous | 🌩️ | adj | seeming to show that something bad will happen | Dark, [ominous] clouds gathered in the sky. | threatening, foreboding, sinister
+foreboding | 🌑 | noun | a feeling that something bad is going to happen | I had a sense of [foreboding] before the test. | dread, ominous
+phenomenon | 🌌 | noun | something unusual that can be seen or experienced | The northern lights are an amazing [phenomenon]. | marvel, wonder
+supernatural | 👻 | adj | beyond what can be explained by science or nature | Ghosts are [supernatural] creatures in stories. | magical, paranormal
+@story The Lights Over the Lake | night
+🌌🏞️ | Every night that week, strange green lights danced over the lake. It was an [enigma].
+🤷😮 | The lights were [inexplicable]. Nobody knew where they came from.
+👻🗣️ | "They're [supernatural]!" said some people. "Ghosts!"
+🌩️☁️ | One night, [ominous] clouds rolled in.
+🌑😰 | {Name} had a feeling of [foreboding], but Ziggy wanted to investigate.
+🔣📜 | On the shore, they found a [cryptic] note: "The lights belong to the sleepers."
+🦹🏚️ | Near the old boathouse, they heard a [sinister] laugh. They froze.
+👁️🧓 | It was just Old Mr. Finch, who had an [uncanny] way of popping up.
+🌫️📚 | He showed them an [obscure] book about glowing creatures. "The 'sleepers' are tiny glowing bugs that wake up once every ten years!"
+✨🐛 | It wasn't magic—it was a natural [phenomenon]! Fireflies of the lake. "Nature is the best magic," said {Name}.
+
+@unit Smart Minds
+curiosity | 🐱 | noun | the strong wish to know or learn something | [Curiosity] led the kitten into the box. | inquisitiveness
+wisdom | 🦉 | noun | good judgment that comes from knowledge and experience | Grandma's [wisdom] helped me solve my problem.
+intelligence | 🧠 | noun | the ability to learn, understand, and think | Dolphins are known for their [intelligence]. | smarts
+genius | 💡 | noun | a person who is extremely intelligent or talented | Einstein was a [genius]. | mastermind, prodigy
+expert | 🎓 | noun | a person who knows a lot about something | My uncle is an [expert] on snakes. | specialist, authority
+novice | 🐣 | noun | a person who is new to something | I'm a [novice] at chess, but I'm learning. | beginner, amateur
+amateur | 🎨 | noun | a person who does something for fun, not as a job | My dad is an [amateur] photographer. | hobbyist, novice
+scholar | 📚 | noun | a person who studies a subject very deeply | The [scholar] spent years studying ancient Egypt. | academic
+pupil | 🧒 | noun | a student, especially a young one | The teacher had twenty [pupils] in her class. | student
+prodigy | 🌟 | noun | a young person with an amazing talent | The six-year-old piano [prodigy] played at the concert hall. | genius, whiz
+@story The Chess Club | school
+♟️🏫 | {Name} joined the school chess club. She was a [novice]—she had only played twice.
+🧒👩‍🏫 | She was a [pupil] of Mr. Kent, who was a chess [expert].
+🦉🗣️ | Mr. Kent shared his [wisdom]: "Think three moves ahead."
+🐱❓ | {Name} was full of [curiosity]. She asked a hundred questions.
+🎨🐉 | Ziggy played too, but he was just an [amateur]—he played for fun and snacks.
+🌟👦 | The best player was a boy named Kai. He was a [prodigy] who had won the state championship at age eight!
+💡🧠 | "Is Kai a [genius]?" asked {Name}. "He has great [intelligence]," said Mr. Kent, "but he also practices every day."
+📚📖 | A chess [scholar] from the university came to visit and played everyone at once.
+🏆😄 | At the end of the year, {Name} won her first tournament game. "Practice beats talent when talent doesn't practice!" said Mr. Kent.
+
+@unit School Life
+assignment | 📝 | noun | a job or piece of work you are given to do | Our [assignment] is to read chapter five. | task, homework
+essay | 📄 | noun | a short piece of writing about one topic | I wrote an [essay] about my favorite animal. | composition
+lecture | 🎤 | noun | a talk given to teach people about something | The professor gave a [lecture] about volcanoes. | talk, speech
+exam | ✍️ | noun | a test of what you know | We have a math [exam] on Friday. | test
+grade | 🅰️ | noun | a mark that shows how well you did, or a year of school | I got a good [grade] on my spelling test.
+diploma | 📜 | noun | a document you get when you finish school | My sister got her high school [diploma].
+graduate | 🎓 | verb | to finish school and receive a diploma | My cousin will [graduate] from college in May.
+semester | 📅 | noun | one of the two halves of a school year | We start a new [semester] in January. | term
+tutor | 🧑‍🏫 | noun | a private teacher who helps one student | A [tutor] helps me with my reading. | teacher, coach
+campus | 🏫 | noun | the land and buildings of a school or college | The college [campus] has a big library and a lake.
+@story A Visit to College | school
+🏫🌳 | {Name} and Ziggy visited her cousin Leah at college. The [campus] was huge!
+🎤📚 | They sat in on a [lecture] about dinosaurs. The professor used a giant skeleton.
+📝✏️ | Leah showed them her [assignment]: building a model of a T. rex.
+📄💻 | She also had to write an [essay] about why dinosaurs went extinct.
+✍️😰 | "Next week I have a big [exam]," she said. "It's the last one of the [semester]."
+🧑‍🏫📖 | "Do you have a [tutor]?" asked {Name}. "Yes, she helps me with science."
+🅰️😊 | Leah showed them her report card. She had a top [grade] in every class.
+🎓🎉 | "Next spring, I'll [graduate]," said Leah. "Then I'll get my [diploma]."
+💭🐉 | On the way home, Ziggy said, "When I grow up, I'm going to Dragon College." "Is that real?" asked {Name}. "It will be," said Ziggy, "after I build it."
+
+@unit Ship Shape
+hull | 🚢 | noun | the main body or frame of a ship | Barnacles stuck to the ship's [hull].
+mast | ⛵ | noun | a tall pole on a ship that holds up the sails | The sailor climbed to the top of the [mast].
+rudder | 🛞 | noun | a flat piece at the back of a boat that is turned to steer it | The captain moved the [rudder] to turn the ship.
+porthole | ⭕ | noun | a small round window in the side of a ship | I looked out the [porthole] and saw dolphins.
+helm | ☸️ | noun | the wheel or handle used to steer a ship | The captain stood at the [helm] during the storm. | wheel
+starboard | ➡️ | noun | the right side of a ship when you face forward | A whale swam past on the [starboard] side.
+buoy | 🛟 | noun | a floating marker in the water that guides or warns boats | The red [buoy] marked the rocks under the water.
+nautical | ⚓ | adj | having to do with ships, sailors, or the sea | The room was decorated with [nautical] maps and anchors. | maritime
+seafarer | 🧑‍✈️ | noun | a sailor or someone who travels by sea | The old [seafarer] told stories about his voyages. | sailor, mariner
+cove | 🏖️ | noun | a small, sheltered bay | We anchored our boat in a quiet [cove]. | inlet, bay
+@story Grandpa's Old Ship | ocean
+⚓👴 | Grandpa was an old [seafarer]. He took {Name} and Ziggy out on his wooden sailboat.
+🚢🔨 | "This [hull] is fifty years old," he said proudly, patting its side.
+⛵🪢 | {Name} helped raise the sail on the tall [mast].
+☸️🐉 | Ziggy got to stand at the [helm] and steer!
+🛞⬅️ | Grandpa showed him how the [rudder] turned the boat.
+➡️🐬 | "Dolphins on the [starboard] side!" called {Name}.
+⭕👀 | Down below, they watched fish through a round [porthole].
+🛟🪨 | "Steer around the red [buoy]," said Grandpa. "There are rocks there."
+🏖️🌅 | They anchored in a hidden [cove] and swam until sunset.
+🗺️📖 | At home, Grandpa gave {Name} his old [nautical] map. "Someday you'll be captain," he said.
+
+@unit Star Gazers
+astronomer | 🔭 | noun | a scientist who studies stars, planets, and space | The [astronomer] discovered a new moon around Jupiter.
+asteroid | 🪨 | noun | a large rock that travels through space around the sun | An [asteroid] is smaller than a planet.
+lunar | 🌙 | adj | having to do with the moon | The astronauts drove a [lunar] buggy on the moon.
+nebula | 🌌 | noun | a giant cloud of gas and dust in space where stars are born | The telescope showed a glowing pink [nebula].
+rover | 🛻 | noun | a vehicle that explores the surface of a planet or moon | The [rover] took pictures of the rocks on Mars.
+observatory | 🏛️ | noun | a building with large telescopes for studying the sky | We visited an [observatory] on top of a mountain.
+atmosphere | 🌍 | noun | the layer of air around a planet | Earth's [atmosphere] protects us from the sun's harmful rays.
+supernova | 💥 | noun | the huge, bright explosion of a dying star | A [supernova] can shine brighter than a whole galaxy.
+planetarium | 🪐 | noun | a building with a domed ceiling where images of the night sky are shown | At the [planetarium], stars appeared all over the ceiling.
+galactic | ✨ | adj | having to do with a galaxy | The spaceship went on a [galactic] journey across the Milky Way.
+@story A Night at the Observatory | space
+🏛️🌄 | {Name} and Ziggy drove up a mountain to visit an [observatory] with a giant telescope.
+🔭👩‍🔬 | An [astronomer] named Dr. Star showed them around.
+🌙🔍 | First, they looked at [lunar] craters on the moon.
+🪨☄️ | Then she pointed out an [asteroid] zooming past Mars.
+🛻🔴 | "Our [rover] is exploring Mars right now," she said, showing them photos.
+🌌💗 | Through the telescope, they saw a glowing [nebula]. "That's where new stars are born," said Dr. Star.
+💥⭐ | "And far away, a [supernova] exploded thousands of years ago. Its light is just reaching us now!"
+🌍💙 | "Earth's [atmosphere] makes stars twinkle," she said. "Up here, there's less air in the way."
+🪐🏫 | The next day, they went to the [planetarium] in town, where the whole ceiling turned into the night sky.
+✨🐉 | "Someday, I'll go on a [galactic] adventure," said Ziggy. "Can dragons breathe in space?" "Not without a helmet," laughed {Name}.
