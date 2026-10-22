@@ -486,3 +486,262 @@ vengeful | 🔥 | adj | wanting to get revenge | The [vengeful] pirate swore to 
 💔🐦 | The queen was so [heartless] that she froze a bird's nest.
 😠🔥 | When the villagers fought back, she became [vindictive].
 🔥🐉 | Then Ziggy arrived. "You're not the only [vengeful] one here!" he joked—then he melted the ice with a warm, gentle breath, and the Snow Queen's frozen heart melted too.
+
+@unit The Living Cell
+cell | 🔬 | noun | the smallest living unit; all living things are made of them | Your body is made of trillions of tiny units, and each [cell] is alive.
+nucleus | 🟣 | noun | the control center of a cell that holds its instructions | The [nucleus] tells the cell what to do.
+membrane | 🫧 | noun | a thin layer that covers or lines something, like the outside of a cell | The cell [membrane] lets food in and waste out.
+tissue | 🧻 | noun | a group of similar cells that work together | Muscle [tissue] helps you move.
+bacteria | 🦠 | noun | tiny living things with one cell; some are helpful, some cause disease | Some [bacteria] help us digest food.
+microorganism | 🔬 | noun | a living thing too small to see without a microscope | A [microorganism] can live in a single drop of water. | microbe
+gene | 🧬 | noun | a tiny part of a cell that passes traits from parents to children | You got a [gene] for brown eyes from your mom.
+chromosome | 🧬 | noun | a thread-like structure in a cell that carries genes | Humans have forty-six of them; each [chromosome] holds many genes.
+heredity | 👨‍👩‍👧 | noun | the passing of traits from parents to children | Your eye color comes from [heredity].
+mutation | 🌀 | noun | a change in a gene | A [mutation] gave the butterfly unusual wings.
+@story The Shrinking Machine | lab
+🔬🐉 | Professor Pickles invented a shrinking machine, and {Name} and Ziggy shrank small enough to explore a single leaf!
+🔬🟩 | They walked up to a giant green [cell]—as big as a house!
+🫧🚪 | Its outer [membrane] was like a soft, bouncy wall. They slipped through.
+🟣🏛️ | In the middle was the [nucleus], the cell's control center.
+🧬📜 | Inside it were twisty threads. Each [chromosome] held instructions.
+🧬🔑 | "Each [gene] is like a recipe," said {Name}, "for color, shape, everything."
+👨‍👩‍👧🍃 | "That's [heredity]—parent plants pass their genes to baby plants."
+🌀🍂 | They saw a gene with a small change—a [mutation] that made one leaf yellow.
+🧻🌿 | Lots of cells together made the leaf's [tissue].
+🦠😮 | On the way out, they met friendly [bacteria] and a tiny swimming [microorganism] that waved. "Biology is amazing!" said Ziggy as they grew back to normal.
+
+@unit How Life Changes
+evolution | 🐒 | noun | the slow change of living things over many generations | [Evolution] explains how whales came from land animals.
+trait | 👁️ | noun | a quality or feature, like eye color or height | Curly hair is a family [trait]. | characteristic, feature
+inherit | 🎁 | verb | to receive traits from your parents, or things from someone who has died | I [inherit] my dad's big smile. | receive, get
+extinction | 🦤 | noun | when a kind of living thing dies out completely | The dodo bird is a famous example of [extinction].
+survival | 🌵 | noun | continuing to live, especially in hard conditions | A camel's hump helps its [survival] in the desert.
+variation | 🌈 | noun | a difference between things of the same kind | There is great [variation] in the colors of tulips. | difference, diversity
+classification | 🗂️ | noun | sorting living things into groups | [Classification] puts sharks and goldfish in the fish group.
+genus | 🐱 | noun | a group of closely related species | Lions and tigers belong to the same [genus].
+lineage | 🌳 | noun | a line of ancestors and descendants | The horse's [lineage] goes back to famous racehorses. | ancestry, descent
+naturalist | 🔭 | noun | a person who studies plants and animals in nature | The [naturalist] wrote about birds of the Galápagos.
+@story Darwin's Islands | island
+⛵🏝️ | {Name} and Ziggy read about Charles Darwin, a [naturalist] who sailed to the Galápagos Islands.
+🐦👁️ | He noticed that finches on each island had a different beak shape—a different [trait].
+🌈🐦 | There was [variation] even among birds of the same kind.
+🌵🥜 | Birds with strong beaks could crack seeds, which helped their [survival].
+🎁🐣 | Baby birds would [inherit] their parents' beaks.
+🐒⏳ | Over many generations, this led to [evolution].
+🌳📜 | Each finch's [lineage] traced back to one ancestor that flew from the mainland.
+🗂️🐱 | Darwin helped with the [classification] of many animals, sorting them into groups like a [genus].
+🦤😢 | They also learned about [extinction]—the dodo bird disappeared forever.
+🐉💭 | "What if dragons evolved too?" asked Ziggy. "Maybe that's why you love cookies," laughed {Name}.
+
+@unit Chemistry Lab
+reaction | 💥 | noun | a change that happens when substances mix and form something new | Mixing baking soda and vinegar causes a fizzy [reaction].
+solute | 🍬 | noun | a substance that is dissolved in a liquid, like sugar in water | In sweet tea, the sugar is the [solute].
+acid | 🍋 | noun | a sour substance that can burn or eat away materials | Lemon juice contains a weak [acid].
+alkaline | 🧼 | adj | having the opposite qualities of an acid, like soap or baking soda | Soap is [alkaline]. | basic
+combustion | 🔥 | noun | the process of burning | [Combustion] of wood gives off heat and light. | burning
+oxidize | 🔩 | verb | to combine with oxygen, like iron rusting | Iron will [oxidize] and turn into rust.
+corrosive | ☠️ | adj | able to slowly destroy or eat away materials | Some cleaners are [corrosive], so wear gloves.
+volatile | 💨 | adj | quickly turning into gas; or likely to change suddenly | Gasoline is [volatile]. | unstable, explosive
+inert | 🪨 | adj | not reacting with other substances; not moving | Gold is fairly [inert], so it doesn't rust. | inactive, still
+residue | 🧂 | noun | what is left after something has been used or removed | A white [residue] was left after the water evaporated. | remains, leftovers
+@story The Volcano Experiment, Upgraded | lab
+🧪🐉 | {Name} and Ziggy wanted to make the best volcano experiment ever, with help from Dr. Patel.
+🍋🧼 | "Vinegar is an [acid]," said Dr. Patel. "Baking soda is [alkaline]."
+💥🌋 | When they mixed them, the fizzy [reaction] made foam shoot out!
+💧🍬 | Next, they stirred sugar into water until it disappeared. The sugar was the [solute].
+🧂🍽️ | When the water evaporated, sugar [residue] was left on the plate.
+🔥🕯️ | They watched a candle to learn about [combustion].
+🔩🟤 | They saw an old nail [oxidize] into rust.
+☠️🧤 | "Some chemicals are [corrosive]," said Dr. Patel. "Always wear gloves."
+💨⚠️ | "And gasoline is [volatile]—never play with it."
+🪨🥇 | Last, they tested gold. Nothing happened. "Gold is [inert]," she said. "That's why ancient gold still shines." Ziggy tried to breathe fire on it—still shining!
+
+@unit Forces and Waves
+mass | ⚖️ | noun | the amount of matter in an object | A bowling ball has more [mass] than a beach ball.
+weight | 🏋️ | noun | how heavy something is, caused by gravity pulling on its mass | On the Moon, your [weight] is much less than on Earth.
+acceleration | 🏎️ | noun | the rate at which something speeds up | The race car's [acceleration] pushed us back in our seats.
+kinetic | 🏃 | adj | having to do with movement | A rolling ball has [kinetic] energy.
+frequency | 📶 | noun | how often something happens, or how many waves pass a point each second | High-[frequency] sounds are high-pitched.
+wavelength | 〰️ | noun | the distance from the top of one wave to the top of the next | Red light has a longer [wavelength] than blue light.
+vibration | 📳 | noun | a quick shaking movement back and forth | Sound is made by [vibration].
+refraction | 🌈 | noun | the bending of light as it passes from one material into another | [Refraction] makes a straw look bent in a glass of water.
+spectrum | 🌈 | noun | the full range of colors in light, like a rainbow | A prism splits light into a [spectrum] of colors. | range
+magnetic | 🧲 | adj | able to attract iron or steel | The Earth has a [magnetic] field.
+@story The Science Museum | museum
+🏛️🔬 | {Name} and Ziggy spent a day at the science museum.
+⚖️🎳 | First, they compared the [mass] of a bowling ball and a balloon.
+🏋️🌙 | On a special scale, they saw what their [weight] would be on the Moon. Ziggy weighed as much as a cat!
+🏎️💨 | They rode a simulator to feel [acceleration].
+🏃🎢 | A roller coaster model showed how [kinetic] energy builds as you go downhill.
+📳🥁 | They hit a drum and watched the [vibration] make sand dance.
+📶🎵 | A machine played sounds of different [frequency], from low hums to high squeaks.
+〰️🌊 | A wave machine showed short and long [wavelength] waves.
+🌈🥤 | A straw in water looked bent because of [refraction].
+🌈🔺 | A prism split light into a [spectrum] of colors.
+🧲🧭 | Last, they used a [magnetic] compass. "Even the Earth is a magnet!" said {Name}.
+
+@unit Body Systems
+respiratory | 🫁 | adj | having to do with breathing | The lungs are part of the [respiratory] system.
+digestive | 🍽️ | adj | having to do with breaking down food | The stomach is part of the [digestive] system.
+circulatory | 🩸 | adj | having to do with the flow of blood through the body | The heart pumps blood through the [circulatory] system.
+skeletal | 🦴 | adj | having to do with bones | The [skeletal] system holds you up.
+cardiovascular | ❤️ | adj | having to do with the heart and blood vessels | Running is good [cardiovascular] exercise.
+hormone | 🧪 | noun | a chemical made in the body that controls growth and other processes | A growth [hormone] helps children grow taller.
+metabolism | 🔥 | noun | the way your body turns food into energy | Hummingbirds have a very fast [metabolism].
+reflex | ⚡ | noun | an automatic movement your body makes without thinking | The doctor tapped my knee to test my [reflex].
+cartilage | 👂 | noun | strong, bendy tissue, like the kind in your ears and nose | Your ears are made of [cartilage], not bone.
+ligament | 🦵 | noun | a tough band that connects bones at a joint | She tore a [ligament] in her knee playing soccer.
+@story Ziggy's Check-Up | city
+🩺🐉 | Ziggy went to the doctor for his yearly check-up. {Name} came along.
+🫁🌬️ | "Take a deep breath," said Dr. Kim, checking his [respiratory] system.
+❤️🏃 | "Your [cardiovascular] health is great. All that flying is good exercise!"
+🩸🔄 | "Your [circulatory] system pumps blood everywhere, even to your tail."
+🍽️🍕 | "And your [digestive] system handles a lot of pizza," she joked.
+🔥⚡ | "Dragons have a fast [metabolism]—that's why you're always hungry!"
+⚡🦵 | She tapped his knee with a little hammer. His leg kicked—a [reflex]!
+🦴📸 | An X-ray showed his [skeletal] system was strong.
+👂😊 | "Your ears are made of [cartilage], so they're bendy."
+🦵💪 | "And every [ligament] in your wings is healthy."
+🧪📏 | "A growth [hormone] is making you bigger every year," said Dr. Kim. "Soon you'll need a bigger door!"
+
+@unit The Moving Earth
+tectonic | 🌍 | adj | having to do with the huge plates of rock that make up the Earth's surface | [Tectonic] plates move a few centimeters a year.
+continental | 🗺️ | adj | having to do with a continent | Long ago, the continents were joined in one [continental] landmass.
+volcanic | 🌋 | adj | caused by or coming from a volcano | Hawaii is made of [volcanic] rock.
+seismic | 📈 | adj | having to do with earthquakes | Scientists measure [seismic] waves to study earthquakes.
+weathering | 🪨 | noun | the breaking down of rocks by wind, water, and ice | [Weathering] turned the sharp rocks into smooth pebbles.
+glacial | 🧊 | adj | having to do with glaciers or ice; or extremely slow or cold | The lake was carved by [glacial] ice long ago.
+aquifer | 💧 | noun | an underground layer of rock that holds water | The town's wells pump water from an [aquifer].
+watershed | 🏞️ | noun | an area of land where all the water drains into the same river or lake | Our town is in the river's [watershed].
+groundwater | 🚰 | noun | water held underground in soil and rock | Wells bring [groundwater] up to the surface.
+permafrost | ❄️ | noun | ground that stays frozen all year | In the Arctic, the [permafrost] never melts.
+@story The Earth Is Always Moving | mountain
+🌍🐉 | "Did you know the ground is always moving?" said {Name}. Ziggy looked down nervously.
+🌍🧩 | "The Earth's surface is made of [tectonic] plates, like puzzle pieces."
+🗺️🌊 | "Long ago, all the land was one [continental] piece called Pangaea."
+📈🫨 | "When plates slip, [seismic] waves shake the ground—that's an earthquake."
+🌋🏝️ | "Hawaii was built by [volcanic] eruptions."
+🧊🏞️ | "[Glacial] ice carved many lakes and valleys."
+🪨💨 | "[Weathering] by wind and rain turns mountains into sand."
+🏞️💧 | "All the rain on these hills flows into the same river. That's its [watershed]."
+🚰💧 | "Some of the water soaks in and becomes [groundwater]."
+💧🪨 | "It's stored in an [aquifer] deep underground."
+❄️🦊 | "And in the far north, there's [permafrost] that stays frozen all year." "I'm glad I live where it's warm," said Ziggy.
+
+@unit Nature's Partnerships
+symbiosis | 🤝 | noun | a close relationship between two different living things | Bees and flowers live in [symbiosis].
+parasite | 🦟 | noun | a living thing that lives on or in another and harms it | A tick is a [parasite] that feeds on blood.
+mutualism | 🐠 | noun | a relationship where both living things benefit | The clownfish and anemone show [mutualism].
+predation | 🦁 | noun | one animal hunting and eating another | [Predation] keeps the number of rabbits in check.
+niche | 🧩 | noun | the special role or place a living thing has in its environment | Every animal fills a [niche] in its habitat.
+decomposer | 🍄 | noun | a living thing, like a mushroom or worm, that breaks down dead material | A mushroom is a [decomposer].
+carnivorous | 🥩 | adj | eating meat | The Venus flytrap is a [carnivorous] plant!
+herbivorous | 🥬 | adj | eating only plants | Cows are [herbivorous].
+equilibrium | ⚖️ | noun | a state of balance | The pond's ecosystem was in [equilibrium]. | balance
+interdependent | 🕸️ | adj | depending on each other | Plants and animals are [interdependent].
+@story The Pond's Secret Partners | river
+🏞️🔬 | {Name} and Ziggy studied the pond behind their school.
+🕸️🌿 | "All the living things here are [interdependent]," said their teacher.
+🤝🐝 | "Bees and flowers live in [symbiosis]—bees get nectar, flowers get pollinated."
+🐠🌸 | "When both partners help each other, it's called [mutualism]."
+🦟🐸 | "But a leech is a [parasite]—it takes blood and gives nothing back."
+🦁🐟 | "Herons catching fish is an example of [predation]."
+🥬🦆 | "Ducks that eat only plants are [herbivorous]."
+🥩🐢 | "Snapping turtles are [carnivorous]."
+🍄🍂 | "Mushrooms are a [decomposer]—they break down dead leaves."
+🧩🐸 | "Every creature has its own [niche]."
+⚖️💚 | "When everything works together, the pond stays in [equilibrium]." Ziggy nodded. "So I'm the pond's official snack-eater?" "That's not a niche," laughed {Name}.
+
+@unit History's Big Changes
+feudalism | 🏰 | noun | a system in the Middle Ages where lords gave land to people in return for work and loyalty | Under [feudalism], peasants farmed the lord's land.
+industrial | 🏭 | adj | having to do with factories and making things with machines | The [industrial] age brought trains and factories.
+colonization | 🚢 | noun | when one country takes control of another land and settles there | The [colonization] of the Americas changed the world.
+imperialism | 👑 | noun | when a powerful country takes control of other countries | [Imperialism] built huge empires.
+nationalism | 🏳️ | noun | strong pride in your own country | [Nationalism] can unite a country—or divide people.
+exploration | 🧭 | noun | traveling to unknown places to learn about them | The age of [exploration] mapped the world's oceans.
+conquest | ⚔️ | noun | taking control of a place by force | The [conquest] of the kingdom took ten years.
+migration | 🦢 | noun | moving from one place to another, often in large groups | The great [migration] brought millions of people to cities.
+pilgrimage | 🚶 | noun | a journey to a holy or special place | They made a [pilgrimage] to the ancient temple.
+sovereignty | 👑 | noun | a country's power to govern itself | The nation fought for its [sovereignty]. | independence, autonomy
+@story The Time Traveler's Report | museum
+⏳🏛️ | For history class, {Name} and Ziggy imagined traveling through time.
+🏰🧑‍🌾 | First stop: the Middle Ages, where [feudalism] meant peasants farmed for lords.
+🚶⛪ | They followed travelers on a [pilgrimage] to a cathedral.
+🧭⛵ | Next, the age of [exploration], when sailors crossed unknown oceans.
+⚔️🏴 | They saw the [conquest] of new lands—and the suffering it caused.
+🚢🌎 | They learned about the [colonization] of faraway places.
+👑🗺️ | They saw [imperialism] build empires that covered the globe.
+🏭🚂 | Then came the [industrial] age, with factories and steam trains.
+🦢🏙️ | A great [migration] brought farm families to the cities.
+🏳️🎉 | They saw how [nationalism] stirred people to fight for their own countries.
+👑🗳️ | Finally, they watched nations win [sovereignty] and govern themselves. "History is a big story," said {Name}, "and we're in the next chapter."
+
+@unit How Money Works
+supply | 📦 | noun | the amount of something available | The [supply] of pumpkins was low after the storm.
+scarcity | 🏜️ | noun | a shortage; when there isn't enough of something | The [scarcity] of water made the farmers worried. | shortage, lack
+investment | 🌱 | noun | money put into something to make more money later | Buying the lemonade stand was a smart [investment].
+entrepreneur | 💡 | noun | a person who starts a business | The young [entrepreneur] started a dog-walking company.
+capitalism | 🏪 | noun | an economic system where businesses are owned by people, not the government | In [capitalism], people can start their own companies.
+interest | 🏦 | noun | extra money paid for borrowing money, or earned on savings | The bank pays [interest] on my savings.
+stock | 📈 | noun | a small share of ownership in a company | Grandpa owns [stock] in a toy company.
+commodity | 🌾 | noun | a basic product that is bought and sold, like wheat, oil, or coffee | Coffee is a valuable [commodity].
+monopoly | 🎩 | noun | when only one company controls the selling of something | The railroad had a [monopoly] on travel to the town.
+recession | 📉 | noun | a time when a country's economy gets weaker and businesses struggle | During the [recession], many people lost their jobs. | downturn
+@story Ziggy's Cookie Company | market
+💡🍪 | Ziggy became an [entrepreneur]. He started a cookie company!
+🌱💰 | His first [investment] was buying flour, sugar, and a cookie cutter.
+🏪🇺🇸 | "In [capitalism], anyone can start a business," said {Name}.
+🙋🍪 | His dragon-fire cookies were so popular that there was a [scarcity]—they sold out every morning!
+📦😬 | But the [supply] was low—Ziggy could only bake fifty a day.
+🌾☕ | The price of chocolate, a [commodity], went up.
+🏦🪙 | He borrowed money from the bank and had to pay [interest].
+📈🤝 | Soon, people wanted to buy [stock] in his company.
+🎩🍪 | Then a big company tried to create a [monopoly] by buying every bakery in town!
+📉💪 | Even during a [recession], Ziggy's company survived. "People always need cookies," he said.
+
+@unit Kinds of Writing
+allegory | 🦁 | noun | a story where characters and events stand for bigger ideas | "The Lion, the Witch and the Wardrobe" is an [allegory].
+satire | 🤡 | noun | writing that uses humor to criticize people or ideas | The cartoon was a [satire] of silly rules.
+irony | 🙃 | noun | when what happens is the opposite of what you expect | The [irony] was that the fire station burned down.
+parody | 🎭 | noun | a funny copy of something, made to make fun of it | The show did a [parody] of a famous song. | spoof
+comedy | 😂 | noun | a funny story, play, or movie | We watched a [comedy] that made us laugh all night.
+epic | ⚔️ | noun | a long poem or story about heroes and great adventures | "The Odyssey" is an ancient Greek [epic]. | saga
+sonnet | 📜 | noun | a poem with fourteen lines that rhyme in a special pattern | Shakespeare wrote many a [sonnet] about love.
+haiku | 🌸 | noun | a short Japanese poem with three lines of five, seven, and five syllables | She wrote a [haiku] about the first snow.
+limerick | 😆 | noun | a funny five-line poem with a bouncy rhythm | Ziggy wrote a silly [limerick] about a frog.
+ode | 🎶 | noun | a poem that praises someone or something | He wrote an [ode] to his favorite pizza.
+@story The Poetry Café | library
+☕📚 | The library hosted a Poetry Café. Everyone shared something they'd written.
+🌸❄️ | {Name} read a [haiku]: "Soft snow on the roof / Ziggy breathes a little puff / Now it's rain instead."
+😆🐸 | Ziggy read a [limerick]: "There once was a frog named Lou, who wanted a pair of new shoes…"
+🎶🍕 | Grandpa read an [ode] to pizza. Everyone cheered.
+📜❤️ | Grandma read a [sonnet] she wrote for Grandpa fifty years ago. He cried.
+⚔️🐉 | Mr. Moss read part of an [epic] about a dragon hero.
+🤡🏫 | A teenager read a funny [satire] about homework rules.
+🎭🎤 | Another did a [parody] of a famous song with silly words.
+🦁📖 | The librarian explained that some stories are an [allegory], where characters stand for ideas.
+🙃🔥 | The [irony]? The café's coffee machine broke during the "hot drinks" poem.
+😂🎉 | It was the funniest [comedy] of a night anyone could remember.
+
+@unit The Language of Art
+composition | 🖼️ | noun | the way parts of a picture are arranged | The painting's [composition] led your eye to the boat. | arrangement, layout
+contrast | ⚫⚪ | noun | a strong difference between things, like dark and light | The black cat stood out in [contrast] to the white snow.
+hue | 🎨 | noun | a color or shade of color | The sky was a soft pink [hue]. | color, shade
+tint | 🩷 | noun | a lighter version of a color, made by adding white | She painted the room a [tint] of blue. | shade, tone
+proportion | 📐 | noun | the size of one part compared to another | The head was too big in [proportion] to the body. | ratio, scale
+medium | 🖌️ | noun | the material an artist uses, like paint, clay, or pencil | Watercolor is her favorite [medium].
+aesthetic | ✨ | adj | having to do with beauty and art | The garden was designed for [aesthetic] pleasure. | artistic
+realism | 📸 | noun | art that shows things as they really look | His paintings were known for their [realism].
+impressionism | 🌅 | noun | a style of painting that shows light and color with quick brushstrokes | Monet's water lilies are famous examples of [impressionism].
+depict | 🖼️ | verb | to show or describe something in a picture or words | The mural will [depict] the history of our town. | portray, show
+@story The Art Class | school
+🎨🏫 | In art class, {Name} and Ziggy painted pictures of the school garden.
+🖌️💧 | Their [medium] was watercolor.
+🖼️📐 | The teacher talked about [composition]: "Put the big tree on one side, and the bench on the other."
+⚫⚪ | "Use [contrast]—dark shadows next to bright flowers."
+🎨🌸 | {Name} mixed a pink [hue] for the roses.
+🩷☁️ | Then she added white to make a soft [tint] for the clouds.
+📐🐉 | Ziggy painted himself, but his head was too big in [proportion] to his body. Everyone giggled.
+📸🍎 | One student painted an apple with so much [realism] that it looked real.
+🌅🖌️ | Another used quick dabs of color, in the style of [impressionism].
+✨🖼️ | "Art has [aesthetic] value," said the teacher. "It can also [depict] how we feel." Ziggy's painting showed exactly how he felt: hungry for lunch.
