@@ -234,3 +234,279 @@ misleading | 🌀 | adj | giving the wrong idea | The ad was [misleading]—the 
 👍🐻 | The ranger was able to [confirm] that a bear had wandered through.
 🚫📰 | The website's report was [erroneous].
 🌀😅 | "And that headline was [misleading]," said {Name}. "But a bear in the park is still pretty exciting!"
+
+@unit Deep Emotions
+anguish | 😖 | noun | very great pain or sorrow | The mother cried out in [anguish] when her child was hurt. | agony, torment
+remorse | 😔 | noun | deep regret for something wrong you did | He felt [remorse] for breaking his friend's toy. | regret, guilt
+elation | 🥳 | noun | great happiness and excitement | The team was filled with [elation] after their win. | joy, euphoria
+trepidation | 😰 | noun | fear or worry about something that is going to happen | She opened the envelope with [trepidation]. | dread, anxiety
+euphoria | 🤩 | noun | a feeling of intense happiness and excitement | Reaching the summit filled the climbers with [euphoria]. | elation, bliss
+apathy | 😑 | noun | not caring about anything | His [apathy] about the game annoyed his teammates. | indifference
+despair | 😞 | noun | the complete loss of hope | The lost hikers were filled with [despair]. | hopelessness
+serenity | 🧘 | noun | a state of calm and peace | The quiet garden was full of [serenity]. | calm, peace
+frustration | 😤 | noun | the feeling of being upset because you can't do something | He threw his pencil down in [frustration]. | annoyance
+exhilaration | 🎢 | noun | a feeling of great excitement and energy | The roller coaster gave me a rush of [exhilaration]. | thrill, excitement
+@story The Lost Kite | park
+🪁🌬️ | {Name} flew her new kite, a gift from Grandpa. The wind tugged it high—what [exhilaration]!
+🌳😱 | Then the string snapped, and the kite flew into a tall tree.
+😖💔 | {Name} felt [anguish]. It was her favorite present.
+😔🐉 | Ziggy felt [remorse]—he had tugged the string too hard. "I'm so sorry."
+😤🪜 | They tried to reach it with a stick, but it was too high. {Name} stamped her foot in [frustration].
+😞🌧️ | When it started to rain, she sank into [despair].
+😑🧒 | A boy walking by shrugged with total [apathy]. "It's just a kite."
+😰🐉 | Ziggy looked at the tall branch with [trepidation]. He had never flown that high.
+🤩🪁 | But he spread his wings, flew up, and grabbed it! {Name} felt pure [euphoria].
+🥳💛 | Her [elation] lasted all day. That night, she fell asleep holding the kite, full of [serenity].
+
+@unit People Persons
+gregarious | 🥳 | adj | loving to be with other people | Our [gregarious] neighbor knows everyone on the street. | sociable, outgoing
+aloof | 🧊 | adj | not friendly; keeping your distance from others | The new cat was [aloof] and wouldn't come near us. | distant, cool
+amiable | 😊 | adj | friendly and pleasant | Our [amiable] bus driver greets everyone with a smile. | friendly, pleasant
+cordial | 🤝 | adj | warm and polite | The neighbors gave us a [cordial] welcome. | friendly, warm
+reticent | 🤐 | adj | quiet and not willing to share your thoughts | He was [reticent] about his past. | reserved, quiet
+introvert | 📖 | noun | a person who enjoys quiet time alone and feels tired by big crowds | As an [introvert], I like reading by myself.
+extrovert | 🎤 | noun | a person who gets energy from being with lots of people | My sister is an [extrovert] who loves parties.
+sociable | 💬 | adj | liking to talk and spend time with others | Dolphins are very [sociable] animals. | friendly, gregarious
+hospitable | 🏡 | adj | friendly and welcoming to guests | Our [hospitable] hosts made us feel at home. | welcoming
+withdrawn | 🐢 | adj | very shy and quiet, not wanting to talk | After the move, the boy was [withdrawn] for a while. | shy, reserved
+@story The New Neighbor | home
+🏠📦 | A girl named Hana moved in next door. At first, she seemed [aloof].
+🐢🌧️ | She was [withdrawn] and stayed inside most days.
+🤐📚 | When {Name} said hi, Hana was [reticent]. She just nodded.
+🥳🐉 | Ziggy was [gregarious] and wanted to throw her a welcome party right away.
+💬🍪 | {Name} was [sociable] too, but she had a better idea.
+📖🤫 | "Maybe Hana is an [introvert]," she said. "She might like something quiet."
+🏡🍵 | So {Name}'s mom invited Hana's family for tea. They were [hospitable] and kind.
+🤝😊 | Hana's parents were [cordial] and friendly.
+🎤😂 | Ziggy, a true [extrovert], did a silly magic show. Hana laughed for the first time.
+😊💛 | Soon Hana was [amiable] and chatty. She and {Name} started a book club for two.
+
+@unit Careful Thinking
+discern | 👁️ | verb | to notice or understand something that is not obvious | It was hard to [discern] the path in the dark. | detect, perceive
+ascertain | 🔍 | verb | to find out for certain | The detective tried to [ascertain] who was at the scene. | determine, find out
+scrutinize | 🔬 | verb | to examine something very closely and carefully | The judge will [scrutinize] every painting. | inspect, examine
+assess | 📊 | verb | to judge the quality, size, or value of something | The teacher will [assess] our reading skills. | evaluate, judge
+deliberate | ⚖️ | verb | to think about something carefully before deciding | The jury will [deliberate] for hours. | ponder, consider
+intuition | 💫 | noun | knowing something without having to think it through | My [intuition] told me something was wrong. | instinct, gut feeling
+insight | 💡 | noun | a deep understanding of something | Grandma's [insight] helped me understand my friend. | understanding
+rational | 🧠 | adj | based on clear thinking and reason | Let's make a [rational] decision, not a scared one. | logical, reasonable
+reasoning | 🧩 | noun | the process of thinking through something logically | Explain the [reasoning] behind your answer. | logic
+judgment | 🧑‍⚖️ | noun | the ability to make good decisions | Use good [judgment] when crossing the street. | wisdom, sense
+@story The Missing Bracelet | home
+💎❓ | Grandma's gold bracelet was missing! {Name} decided to [ascertain] what happened.
+🔬🛋️ | She began to [scrutinize] every corner of the living room.
+👁️🐾 | Under the couch, it was hard to [discern] anything in the shadows.
+💫🐈 | Her [intuition] told her the cat knew something.
+⚖️🤔 | She sat down to [deliberate]. "Who was in this room today?"
+🧩📝 | She wrote down her [reasoning]: "Grandma took off the bracelet to wash dishes. The cat loves shiny things."
+🧠🐈 | It was a [rational] conclusion: check the cat's favorite hiding spot.
+📊🧺 | She began to [assess] each possible hiding place. The laundry basket was most likely.
+💡😮 | Inside, she found the bracelet tangled in a sock! Grandma said, "What [insight]!"
+🧑‍⚖️🏅 | "You have good [judgment], {Name}," said Grandma. "You'd make a great detective."
+
+@unit How Important?
+substantial | 🏗️ | adj | large in size, amount, or importance | She won a [substantial] prize: one thousand dollars! | considerable, significant
+negligible | 🤏 | adj | so small that it doesn't matter | The scratch on the car was [negligible]. | tiny, insignificant
+extensive | 🗺️ | adj | covering a large area or including many things | The library has an [extensive] collection of maps. | broad, wide-ranging
+comprehensive | 📚 | adj | including everything; complete | We took a [comprehensive] test on the whole year. | complete, thorough
+momentous | 🌟 | adj | very important and having a big effect | The moon landing was a [momentous] event. | historic, significant
+pivotal | 🔑 | adj | extremely important; everything depends on it | The last goal was a [pivotal] moment in the game. | crucial, key
+marginal | ➖ | adj | small and not very important | The new rule made only a [marginal] difference. | slight, minor
+considerable | ➕ | adj | large in size or amount | We spent a [considerable] amount of time on the project. | substantial, sizable
+monumental | 🗽 | adj | very great or important | Building the pyramids was a [monumental] task. | enormous, historic
+incidental | 🎈 | adj | happening as a small, extra part of something bigger | The free cookie was an [incidental] bonus. | minor, secondary
+@story The Big Science Prize | lab
+🏆🔬 | Every year, the city gave a [substantial] science prize to one young inventor.
+🗺️📋 | The rules were [extensive]: ten pages long!
+📚✅ | Each project got a [comprehensive] review by five judges.
+💧🌱 | {Name}'s project was a solar water filter for villages without clean water.
+🔑🧪 | The [pivotal] moment came when her filter turned muddy water clear.
+➕⏰ | It had taken a [considerable] amount of time—six months of work!
+🤏💧 | A tiny leak was [negligible]—it didn't affect the results.
+🎈🍪 | The free cookies at the fair were an [incidental] perk that Ziggy enjoyed very much.
+➖🏅 | Other projects made only a [marginal] difference, but {Name}'s could help thousands of people.
+🗽🌟 | When she won, the mayor called it a [monumental] achievement. "This is a [momentous] day for our city!"
+
+@unit Where Exactly?
+adjacent | 🏠🏠 | adj | next to or very near | Our house is [adjacent] to the park. | next to, neighboring
+proximity | 📍 | noun | nearness in space or time | The [proximity] of the school means I can walk there. | closeness, nearness
+periphery | ⭕ | noun | the outer edge of an area | Houses lined the [periphery] of the lake. | edge, outskirts
+vicinity | 🗺️ | noun | the area near a place | Is there a pharmacy in the [vicinity]? | neighborhood, area
+interior | 🏠 | noun | the inside of something | The [interior] of the castle was dark and cold. | inside
+exterior | 🧱 | noun | the outside of something | We painted the [exterior] of the house blue. | outside
+horizontal | ➖ | adj | flat and level, going side to side | Draw a [horizontal] line across the page. | level, flat
+vertical | ↕️ | adj | straight up and down | The climber went up the [vertical] cliff. | upright
+elevated | 🛤️ | adj | raised above the ground | We took an [elevated] train above the city streets. | raised, lifted
+submerged | 🌊 | adj | under the surface of water | The [submerged] ship lay at the bottom of the lake. | underwater, sunken
+@story The Treasure Map | island
+🗺️🏝️ | {Name} and Ziggy found an old treasure map of an island in the [vicinity] of their town.
+⭕🌴 | They started at the [periphery] of the island, walking along the beach.
+📍🪨 | The map said: "The treasure is in [proximity] to the big rock."
+🏠🏚️ | Next to the rock was an old hut. The [exterior] was covered in vines.
+🕸️🔦 | The [interior] was dusty and dark.
+🏠🏠 | In the room [adjacent] to the kitchen, they found a trapdoor.
+↕️🪜 | A [vertical] ladder led down into a tunnel.
+➖🚶 | The tunnel was long and [horizontal], stretching under the island.
+🛤️🌊 | It came out on an [elevated] platform above a lagoon.
+🌊💰 | Below, a [submerged] chest glittered in the water. Ziggy dove in and brought it up. Inside: chocolate coins and a note: "Happy birthday, {Name}! Love, Grandpa."
+
+@unit Cause and Effect
+cause | ➡️ | noun | the thing that makes something happen | The [cause] of the fire was a candle left burning. | reason, source
+effect | 💥 | noun | a change that happens because of something else | One [effect] of the rain was a muddy field. | result, consequence
+impact | 🎯 | noun | a strong effect, or the force of one thing hitting another | Recycling has a big [impact] on the planet. | effect, influence
+trigger | 🔫 | verb | to cause something to start happening | Dust can [trigger] my sneezing. | set off, cause
+outcome | 🏁 | noun | the way something turns out; the result | What was the [outcome] of the game? | result
+factor | 🧩 | noun | one of the things that causes or affects something | Rain was a big [factor] in our team's loss.
+derive | 🌱 | verb | to get something from a source | Many medicines [derive] from plants. | come from, obtain
+induce | 💤 | verb | to cause or bring about | Warm milk can [induce] sleep. | bring about, cause
+catalyst | ⚡ | noun | something that makes a change happen faster | Her speech was the [catalyst] for the new park. | spark, trigger
+repercussion | 🌊 | noun | an effect of an action, usually an unpleasant one that comes later | Skipping practice had [repercussions] on game day. | consequence
+@story The Domino Effect | home
+🁢🐉 | Ziggy set up a thousand dominoes in a long, winding line across the living room.
+🔫👆 | One tiny push would [trigger] the whole chain.
+➡️🐈 | But the [cause] of the first fall wasn't Ziggy—it was the cat!
+💥🁢 | The [effect] was amazing: clack-clack-clack, all the way to the kitchen.
+🧩🐾 | The cat's tail was the main [factor] in the early fall.
+⚡🎉 | The cat was the [catalyst] for the most exciting day of the week.
+🎯🍝 | The last domino had a big [impact]: it knocked over a bowl of spaghetti!
+🌊😬 | The [repercussions] were messy. Mom was not happy.
+💤🛋️ | All that excitement seemed to [induce] a long nap for everyone.
+🌱📚 | The [outcome]? Ziggy learned a lesson he could [derive] from the whole mess: "Keep the cat in another room!"
+
+@unit Order and Chaos
+chaotic | 🌪️ | adj | completely confused and disorganized | The kitchen was [chaotic] during the big dinner. | wild, disorderly
+haphazard | 🎲 | adj | done without planning or order | The books were stacked in a [haphazard] way. | random, careless
+systematic | 📐 | adj | done according to a careful plan, step by step | The scientist used a [systematic] method. | organized, methodical
+methodical | 🧮 | adj | careful and orderly | She was [methodical] about cleaning her room, one shelf at a time. | systematic, orderly
+random | 🔀 | adj | happening by chance, without a pattern | We picked names in [random] order from a hat. | chance, arbitrary
+sequence | 🔢 | noun | the order in which things happen | Follow the steps in the right [sequence]. | order, series
+hierarchy | 🔺 | noun | a system where people or things are ranked from top to bottom | In the wolf pack's [hierarchy], the leader eats first. | ranking, chain of command
+category | 🗂️ | noun | a group of things that are alike in some way | Apples and bananas belong in the fruit [category]. | group, class
+classify | 🏷️ | verb | to sort things into groups | Scientists [classify] animals by their features. | sort, categorize
+arbitrary | 🎯 | adj | chosen by chance or whim, not for a good reason | The rule seemed [arbitrary]—why no green shirts on Tuesday? | random
+@story The Messy Museum | museum
+🏛️🌪️ | After a big storm, the town museum was [chaotic]. Fossils, paintings, and rocks were all mixed up!
+🎲📦 | Workers had stacked everything in a [haphazard] pile.
+🙋🐉 | {Name} and Ziggy volunteered to help.
+🔀🦴 | At first, Ziggy just put things back in [random] places. "This dinosaur bone goes… here?"
+📐📋 | "We need a [systematic] plan," said {Name}.
+🧮✅ | She was [methodical], checking each item's label.
+🏷️🗂️ | They began to [classify] everything: rocks in one [category], fossils in another.
+🔢🦕 | They arranged the dinosaur bones in the right [sequence], from head to tail.
+🔺👑 | In the painting room, they hung the most famous paintings at the top of the [hierarchy].
+🎯😂 | "Can we hang my drawing too?" asked Ziggy. "That would be a bit [arbitrary]," laughed {Name}. But the curator said yes!
+
+@unit Weather Science
+evaporation | ♨️ | noun | when a liquid turns into a gas, like water drying up in the sun | [Evaporation] dried the puddles by afternoon.
+condensation | 💧 | noun | when gas cools and turns into liquid, like water drops on a cold glass | [Condensation] formed on the outside of my cold lemonade.
+barometer | 📟 | noun | a tool that measures air pressure to help predict weather | The [barometer] showed that a storm was coming.
+thermometer | 🌡️ | noun | a tool that measures temperature | The [thermometer] said it was ninety degrees.
+anemometer | 🌬️ | noun | a tool that measures how fast the wind blows | The [anemometer] spun quickly in the storm.
+polar | 🐻‍❄️ | adj | having to do with the North or South Pole | [Polar] bears live in the Arctic.
+arid | 🏜️ | adj | very dry, with little rain | Cactuses grow well in [arid] places. | dry, parched
+Celsius | 🌡️ | noun | a temperature scale where water freezes at 0 degrees and boils at 100 | It's twenty degrees [Celsius] today—nice and warm.
+Fahrenheit | 🌡️ | noun | a temperature scale where water freezes at 32 degrees and boils at 212 | In the United States, we measure temperature in [Fahrenheit].
+atmospheric | ☁️ | adj | having to do with the air around the Earth | [Atmospheric] pressure drops before a storm.
+@story The Weather Station | school
+🏫🌦️ | {Name}'s class built a weather station on the school roof.
+🌡️📏 | First, they put up a [thermometer] to measure the temperature.
+🇺🇸🌡️ | It read 68 degrees [Fahrenheit].
+🌍🌡️ | "That's 20 degrees [Celsius]," said {Name}, who had learned both scales.
+📟📉 | Next, they added a [barometer] to measure [atmospheric] pressure.
+🌬️🔄 | An [anemometer] spun in the wind to measure its speed.
+♨️☀️ | They learned how [evaporation] lifts water into the sky.
+💧❄️ | "And [condensation] turns it back into drops that make clouds," said the teacher.
+🐻‍❄️🏜️ | They compared their weather to the cold [polar] regions and the dry, [arid] deserts.
+🐉☁️ | Ziggy breathed warm air onto a cold window. Drops formed. "Look—I made condensation!"
+
+@unit Plant Science
+photosynthesis | 🌞 | noun | the way plants use sunlight, water, and air to make their own food | Leaves use [photosynthesis] to turn sunlight into food.
+chlorophyll | 🍃 | noun | the green substance in plants that captures sunlight | [Chlorophyll] makes leaves green.
+pollinate | 🐝 | verb | to carry pollen from one flower to another so seeds can grow | Bees [pollinate] the apple blossoms.
+germinate | 🌱 | verb | to begin to grow from a seed | The bean seeds will [germinate] in a few days. | sprout
+spore | 🍄 | noun | a tiny cell made by mushrooms, ferns, and mosses that can grow into a new plant | A mushroom releases millions of [spores].
+fungus | 🍄 | noun | a living thing like a mushroom or mold that feeds on other things | A [fungus] grew on the old log.
+algae | 🟢 | noun | simple green plant-like living things that grow in water | Green [algae] covered the top of the pond.
+deciduous | 🍂 | adj | losing its leaves every fall | Oak trees are [deciduous].
+evergreen | 🌲 | adj | keeping its green leaves all year | Pine trees are [evergreen].
+perennial | 🌷 | adj | living for many years, coming back every season | Tulips are [perennial] flowers that bloom every spring.
+@story Ziggy's Plant Lab | garden
+🌱🔬 | {Name} and Ziggy set up a plant lab in the garden.
+🌱💧 | They planted bean seeds and waited for them to [germinate]. In three days, tiny shoots appeared!
+🌞🍃 | "Plants make their own food through [photosynthesis]," said {Name}.
+🍃💚 | "[Chlorophyll] is what makes leaves green and catches the sunlight."
+🐝🌸 | Bees came to [pollinate] the flowers, carrying pollen from bloom to bloom.
+🍄🪵 | On an old log, a [fungus] was growing.
+🍄💨 | When Ziggy poked it, a cloud of tiny [spores] puffed out. "Achoo!"
+🟢💧 | In the birdbath, green [algae] floated on the water.
+🍂🌲 | In the fall, the [deciduous] maple dropped its leaves, but the [evergreen] pine stayed green all winter.
+🌷🌸 | In spring, the [perennial] tulips came back all by themselves. "Plants are smarter than they look," said Ziggy.
+
+@unit Animal Science
+vertebrate | 🐟 | noun | an animal with a backbone | Fish, birds, and people are all a kind of [vertebrate].
+invertebrate | 🪱 | noun | an animal without a backbone | A worm is an [invertebrate].
+mammal | 🐄 | noun | a warm-blooded animal with hair or fur that feeds its babies milk | A whale is a [mammal], not a fish.
+amphibian | 🐸 | noun | an animal that lives part of its life in water and part on land, like a frog | A frog is an [amphibian].
+marsupial | 🦘 | noun | a mammal whose mother carries her baby in a pouch | A koala is a [marsupial].
+metamorphosis | 🦋 | noun | a complete change of form, like a caterpillar becoming a butterfly | Tadpoles go through [metamorphosis] to become frogs. | transformation
+offspring | 🐣 | noun | the young or babies of a person, animal, or plant | The cat cared for her four [offspring]. | young, babies
+adaptation | 🔄 | noun | a body part or behavior that helps a living thing survive | A camel's hump is an [adaptation] for desert life.
+gill | 🐠 | noun | the part of a fish's body that takes oxygen from water | A fish breathes through each [gill].
+primate | 🐒 | noun | a group of mammals that includes monkeys, apes, and humans | A gorilla is a [primate].
+@story Classify the Animals | museum
+🏛️🦴 | At the natural history museum, {Name} and Ziggy played "Classify the Animals."
+🐟🦴 | "A fish has a backbone, so it's a [vertebrate]," said {Name}.
+🪱🐌 | "A snail and a worm have no backbone. Each one is an [invertebrate]."
+🐄🍼 | "A cow has fur and feeds her babies milk. She's a [mammal]."
+🐸💧 | "A frog lives in water and on land. It's an [amphibian]."
+🦋🐛 | "And it goes through [metamorphosis], just like a butterfly!"
+🦘👶 | "A kangaroo is a [marsupial]—it carries its [offspring] in a pouch."
+🐠🌊 | "A shark breathes through a [gill] on each side of its head."
+🐒🍌 | "A chimpanzee is a [primate], like us!"
+🔄🐉 | "What [adaptation] do dragons have?" asked Ziggy. "Fireproof scales!" said {Name}. "And a love of cookies."
+
+@unit Inside the Earth
+crust | 🥧 | noun | the hard, outer layer of the Earth | We live on the Earth's [crust].
+mantle | 🔥 | noun | the thick, hot layer of the Earth under the crust | The [mantle] is made of hot, slowly moving rock.
+core | 🟠 | noun | the center of something, like the Earth or an apple | The Earth's [core] is made of hot metal. | center, heart
+magma | 🌋 | noun | hot, melted rock under the Earth's surface | [Magma] rises up through a volcano.
+sediment | 🏖️ | noun | sand, mud, and tiny rocks that settle at the bottom of water | Rivers carry [sediment] to the sea.
+geology | 🪨 | noun | the study of rocks and how the Earth is made | My aunt studied [geology] in college.
+igneous | 🌋 | adj | made when hot, melted rock cools and hardens | Granite is an [igneous] rock.
+sedimentary | 🟫 | adj | made from layers of sand and mud pressed together over time | Sandstone is a [sedimentary] rock.
+metamorphic | 💎 | adj | changed by heat and pressure deep underground | Marble is a [metamorphic] rock.
+fault | ⚡ | noun | a crack in the Earth's crust where rocks can move and cause earthquakes | The town is built near a [fault] line.
+@story Journey to the Center of the Earth | cave
+🕳️🐉 | In their imagination, {Name} and Ziggy dug a tunnel straight down into the Earth!
+🥧🌍 | First, they dug through the [crust], the thin outer layer.
+⚡🫨 | They passed a [fault] where two giant slabs of rock rubbed together.
+🏖️🟫 | They saw layers of [sediment] pressed into [sedimentary] rock, like a giant layer cake.
+💎🔥 | Deeper down, heat and pressure had made shiny [metamorphic] rock.
+🔥🌊 | Then they reached the [mantle], where the rock was so hot it moved like thick syrup.
+🌋🔴 | Bubbles of [magma] glowed orange around them.
+🌋🪨 | "When magma cools, it becomes [igneous] rock," said {Name}.
+🟠☀️ | At last they reached the [core], the burning-hot metal center of the Earth.
+🪨📚 | "This is why I love [geology]!" said Ziggy, as they climbed back up for lunch.
+
+@unit Earth and Sky
+rotation | 🔄 | noun | spinning around a center line | The Earth's [rotation] gives us day and night. | spin
+revolution | 🪐 | noun | one complete trip around something, like the Earth around the Sun | One [revolution] of the Earth around the Sun takes a year. | orbit
+planetary | 🌍 | adj | having to do with planets | The museum showed a [planetary] model of the solar system.
+axis | 📍 | noun | an imaginary line that something spins around | The Earth spins on a tilted [axis].
+equinox | ⚖️ | noun | one of two days a year when day and night are about the same length | The spring [equinox] is in March.
+solstice | ☀️ | noun | the longest or shortest day of the year | The summer [solstice] is the longest day of the year.
+meteorite | 🪨 | noun | a rock from space that lands on Earth | The museum has a [meteorite] that fell in a farmer's field.
+celestial | ✨ | adj | having to do with the sky or outer space | Stars and planets are [celestial] objects. | heavenly
+cosmic | 🌌 | adj | having to do with the universe | The telescope showed [cosmic] clouds of dust. | universal
+phase | 🌗 | noun | one of the shapes of the Moon as we see it, or a stage in a process | Tonight the Moon is in its full [phase]. | stage
+@story The Longest Day | meadow
+☀️📅 | It was June 21st, the summer [solstice]—the longest day of the year!
+🔄🌍 | "Why is the day so long?" asked Ziggy. "Because of the Earth's tilted [axis]," said {Name}.
+🔄🌙 | "The Earth's [rotation] gives us day and night."
+🪐📆 | "And one [revolution] around the Sun takes a whole year."
+⚖️🌸 | "In March and September, we have an [equinox], when day and night are equal."
+🌍🪐 | They built a [planetary] model with balls and string.
+🌗🌕 | That night, the Moon was in its full [phase].
+✨⭐ | They lay on the grass and watched [celestial] objects twinkle.
+🪨☄️ | A shooting star streaked by. "If it lands, it's a [meteorite]!" said {Name}.
+🌌💭 | "The universe is so big," whispered Ziggy. "It's [cosmic]!"
