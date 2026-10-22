@@ -653,3 +653,410 @@ quantitative | 🔢 | adj | measured with numbers | The scientist collected [qua
 🔗😴 | They found a [correlation]: kids who slept more had more energy at recess.
 📈🚲 | They noticed a [trend]: more kids were biking to school each year.
 ❓🧪 | For their next experiment, the [variable] would be how much Ziggy ate. (A lot.)
+
+@unit Social Sciences
+anthropology | 🗿 | noun | the study of human beings, their cultures, and how they live | She studied [anthropology] to learn how people in different places live.
+sociology | 👥 | noun | the study of how people live and act together in groups | In [sociology], we learned how families and towns work together.
+psychology | 🧠 | noun | the study of the mind and how people think and feel | Learning [psychology] helped him understand why people get nervous.
+linguistics | 🗣️ | noun | the scientific study of language and how it works | My aunt loves [linguistics]; she knows how hundreds of languages are built.
+demographics | 📊 | noun | facts about the people who live in a place, like their ages and numbers | The town's [demographics] showed lots of young families.
+urbanization | 🏙️ | noun | the growth of cities as more people move into them | [Urbanization] turned the small village into a busy city.
+globalization | 🌐 | noun | the way countries around the world become more connected through trade and ideas | Because of [globalization], you can buy mangoes from far away in winter.
+diplomacy | 🤝 | noun | the skill of handling talks between countries or people politely and wisely | With careful [diplomacy], the two kingdoms avoided a war. | tact
+archaeology | ⛏️ | noun | the study of the past by digging up old objects and buildings | [Archaeology] helped us learn how ancient Egyptians lived.
+civics | 🏛️ | noun | the study of how government works and the rights and duties of citizens | In [civics] class, we learned how laws are made.
+@story The Great Human Puzzle | museum
+🏛️🐉 | {Name} and Ziggy visited a museum all about people—the biggest puzzle of all.
+⛏️🏺 | The first room was about [archaeology]: old pots and tools dug from the ground.
+🗿🌍 | The next room showed [anthropology]—how people around the world eat, dress, and celebrate.
+🗣️📖 | A talking wall explained [linguistics]: "Every language has its own rules and sounds!"
+🧠💭 | In the [psychology] room, they took a quiz about how their minds made choices.
+👥🏘️ | The [sociology] exhibit showed how neighbors help each other.
+📊👶 | A chart of [demographics] showed how many babies, kids, and grown-ups lived in each city.
+🏙️🚧 | A model showed [urbanization]: farms slowly turning into tall buildings.
+🌐🚢 | A giant globe with ships showed [globalization]—goods traveling everywhere.
+🤝👑 | A puppet show taught [diplomacy]: two kings solving a fight with words, not swords.
+🏛️🗳️ | The last room was [civics]. {Name} practiced voting—Ziggy voted for more snacks.
+
+@unit Literature: Stagecraft
+soliloquy | 🎭 | noun | a speech in a play where a character talks their thoughts aloud while alone | Hamlet's famous [soliloquy] begins, "To be or not to be."
+monologue | 🎤 | noun | a long speech by one person | The actor gave a dramatic [monologue] that lasted five minutes.
+symbolism | 🕊️ | noun | the use of objects or images to stand for bigger ideas | The dove's [symbolism] stands for peace.
+motif | 🔁 | noun | an idea, image, or pattern that repeats through a story or artwork | Light is a [motif] that keeps showing up in the book.
+archetype | 🦸 | noun | a typical kind of character or story that appears again and again | The wise old mentor is a classic [archetype].
+foil | 🪞 | noun | a character who is very different from another, making the other stand out | The lazy cousin is a [foil] to the hard-working hero.
+exposition | 📜 | noun | the beginning part of a story that introduces the characters and setting | The [exposition] tells us the story takes place in a snowy village.
+epilogue | 🔚 | noun | a short section at the end of a book that tells what happened later | In the [epilogue], we learn the heroes grew up and opened a bakery.
+prologue | 🎬 | noun | a short introduction before the main part of a story | The [prologue] describes a mysterious storm years earlier. | preface
+anthology | 📚 | noun | a book that collects stories, poems, or songs by different writers | Our class made an [anthology] of everyone's poems. | collection
+@story Ziggy's Big Play | castle
+🎬🐉 | {Name} wrote a play. It began with a [prologue] about a dragon egg hatching long ago.
+📜🏰 | Then came the [exposition]: a castle, a princess, and a very hungry dragon.
+🦸👵 | {Name} added a wise old wizard—a classic [archetype].
+🪞🦁 | The brave knight had a cowardly brother who was his [foil].
+🔁🌙 | The moon was a [motif]; it appeared in every scene.
+🕊️💛 | The golden key was full of [symbolism]—it stood for friendship.
+🎤🐉 | Ziggy got to perform a dramatic [monologue] in front of the whole cast.
+🎭🕯️ | Later, alone on the stage, the princess spoke her secret fears in a [soliloquy].
+🔚🍰 | In the [epilogue], everyone shared cake ten years later.
+📚✨ | The play was so good that it was printed in the school [anthology].
+
+@unit Art History
+baroque | 🎻 | adj | a fancy, dramatic style of art and music from the 1600s, full of detail and movement | The palace's [baroque] ceiling was covered with golden swirls.
+gothic | 🏰 | adj | a style of building with pointed arches, tall towers, and colored windows | The [gothic] cathedral had towers that reached the clouds.
+romanticism | 🌄 | noun | an art movement that celebrated strong feelings, nature, and imagination | [Romanticism] painters loved stormy seas and wild mountains.
+classical | 🏛️ | adj | in the style of ancient Greece and Rome; or traditional and admired for a long time | The museum had [classical] statues of Greek gods.
+modernism | 🔷 | noun | an art movement of the early 1900s that tried bold, new ways of making things | [Modernism] broke the old rules of painting.
+surrealism | 🫠 | noun | an art style that shows strange, dreamlike scenes | In a famous work of [surrealism], clocks melt over a tree branch.
+cubism | 🧊 | noun | an art style that shows objects as shapes like cubes, seen from many sides at once | Picasso used [cubism] to paint faces from the front and side at once.
+fresco | 🖌️ | noun | a painting made on wet plaster on a wall or ceiling | Michelangelo painted a huge [fresco] on the chapel ceiling.
+tapestry | 🧶 | noun | a heavy cloth with pictures or designs woven into it | A giant [tapestry] showing a battle hung in the castle.
+patron | 💰 | noun | a person who gives money or support to an artist | The rich [patron] paid the painter to make portraits. | sponsor, supporter
+@story The Magic Gallery | museum
+🖼️🐉 | {Name} and Ziggy stepped into a magic art gallery. Each painting was a door!
+💰👑 | A kind [patron] in a velvet hat welcomed them. "I pay artists to create wonders."
+🏛️🗿 | The first room held [classical] statues of Greek heroes.
+🏰🌈 | Next was a [gothic] church with tall towers and rainbow windows.
+🖌️🎨 | On the ceiling, a painter was working on a wet [fresco].
+🎻✨ | They entered a [baroque] palace where everything swirled with gold.
+🧶⚔️ | A long [tapestry] told the story of a knight, stitch by stitch.
+🌄⛈️ | A painting of a stormy cliff showed [romanticism] at its wildest.
+🔷🆕 | In the [modernism] hall, artists painted things in bold new ways.
+🧊😵 | A [cubism] portrait showed Ziggy's face from three sides at once!
+🫠⏰ | The last door led to [surrealism]: melting clocks and floating fish. "Time to go home," said {Name}.
+
+@unit Law: The Courtroom
+precedent | 📏 | noun | an earlier event or decision used as an example for later ones | The judge followed the [precedent] set by an older case.
+affidavit | 📝 | noun | a written statement that a person swears is true | She signed an [affidavit] describing what she saw.
+subpoena | 📨 | noun | an official order to come to court | The witness received a [subpoena] to appear on Monday. | summons
+perjury | 🤥 | noun | the crime of lying after promising to tell the truth in court | Lying on the witness stand is [perjury].
+litigation | ⚖️ | noun | the process of taking an argument to court | The two companies were in [litigation] for three years. | lawsuit
+arbitration | 🤝 | noun | settling an argument by having a neutral person decide | They chose [arbitration] instead of a long court case.
+injunction | 🛑 | noun | an official court order telling someone to do or stop doing something | The judge issued an [injunction] to stop the factory from polluting.
+tribunal | 🏛️ | noun | a special court or group of judges that decides a case | The [tribunal] listened to both sides.
+magistrate | 👩‍⚖️ | noun | a judge who handles smaller cases | The [magistrate] decided the parking case quickly.
+counsel | 💼 | noun | a lawyer or lawyers who give legal advice; or advice itself | The [counsel] for the defense stood up to speak. | attorney, lawyer
+@story The Case of the Missing Cookies | city
+🍪❌ | The cookie jar was empty! The baker blamed Ziggy, and the case went to court.
+📨🐉 | Ziggy got a [subpoena] ordering him to come to court.
+💼👧 | {Name} offered to be his [counsel]. "I'll speak for you, Ziggy."
+🏛️👥 | A [tribunal] of three wise owls would decide the case.
+👩‍⚖️🦉 | The head owl was a [magistrate] who usually judged small cases.
+📝✍️ | The baker had signed an [affidavit] saying he saw a green tail near the jar.
+🤥⚠️ | "Remember, lying here is [perjury]," the owl warned everyone.
+⚖️⏳ | {Name} hoped the [litigation] wouldn't take all day.
+📏📚 | She pointed to a [precedent]: "Last year, a green tail turned out to belong to a lizard!"
+🦎🍪 | Sure enough, a lizard with crumbs on his chin was found. Ziggy was free!
+🛑🦎 | The owls issued an [injunction]: the lizard must stay away from the cookie jar.
+🤝🍪 | Instead of more fighting, they used [arbitration]—the lizard would help bake new cookies.
+
+@unit Economy: Money Matters
+fiscal | 🏦 | adj | having to do with government money, taxes, and spending | The country made a careful [fiscal] plan for the year.
+deficit | 📉 | noun | the amount by which money spent is more than money received | The city had a [deficit] because it spent more than it earned. | shortfall
+tariff | 🚢 | noun | a tax on goods brought in from another country | A [tariff] made imported toys more expensive.
+subsidy | 💵 | noun | money given by the government to help pay for something | Farmers got a [subsidy] to help grow more wheat.
+dividend | 🪙 | noun | a share of a company's profits paid to people who own part of it | Grandpa got a [dividend] from the company he invested in.
+asset | 💎 | noun | something valuable that a person or company owns | Her best [asset] was her kindness. Her second best was her bike.
+liability | ⚠️ | noun | a debt or something that causes trouble or costs money | The broken truck was a [liability], not a help. | burden
+mortgage | 🏠 | noun | a loan used to buy a house, paid back over many years | My parents pay the [mortgage] on our house every month.
+collateral | 🔐 | noun | something valuable promised to a lender in case a loan isn't paid back | He used his car as [collateral] for the loan.
+equity | 🥧 | noun | the value of something you own after debts are paid; or fairness | They built [equity] in their home by paying off the loan.
+@story Ziggy's Lemonade Empire | market
+🍋🐉 | Ziggy's lemonade stand grew so big that {Name} had to teach him about money.
+💎🍋 | "Your lemon tree is an [asset]," she said. "It's valuable and it's yours."
+⚠️🛻 | "But your leaky wagon is a [liability]. It keeps costing money to fix."
+📉🍬 | Ziggy spent more on candy than he earned. "That's a [deficit]," said {Name}.
+🏠🏦 | He wanted a lemonade house, so he got a [mortgage] from the bank.
+🔐🌳 | The bank asked for [collateral]. Ziggy promised his lemon tree.
+🥧📈 | Every payment gave him more [equity] in the lemonade house.
+🪙👫 | Ziggy sold shares to friends and paid each one a [dividend] from his profits.
+🚢🍋 | When the queen added a [tariff] on foreign lemons, Ziggy's local lemons sold even better.
+💵🌾 | The kingdom gave lemon farmers a [subsidy] to grow more fruit.
+🏦📋 | At the end of the year, the queen shared her [fiscal] plan: low taxes for little lemonade stands!
+
+@unit Academic Verbs
+assimilate | 🧽 | verb | to take in and fully understand information; or to become part of a group | It took weeks to [assimilate] all the new facts about volcanoes. | absorb
+attribute | 🏷️ | verb | to say that something was caused by or belongs to someone or something | She [attributed] her success to hard work.
+compensate | 💸 | verb | to make up for something lost or missing; or to pay for work | He worked extra hours to [compensate] for the day he missed.
+complement | 🧩 | verb | to go well with something and make it better or complete | The red scarf [complemented] her green coat.
+disseminate | 📣 | verb | to spread information widely | The scientists [disseminated] their findings around the world. | circulate
+enumerate | 🔢 | verb | to name things one by one in a list | She [enumerated] all the planets in order. | list
+incorporate | ➕ | verb | to include something as part of a whole | The chef [incorporated] fresh herbs into the soup.
+specify | 🎯 | verb | to say exactly or in detail | Please [specify] which color you want.
+undergo | 🔄 | verb | to go through or experience something, often a change or something hard | The caterpillar will [undergo] a great change.
+denote | 🔖 | verb | to stand for or be a sign of | A red flag on the beach [denotes] danger. | signify, indicate
+@story The Science Fair Report | school
+📋🐉 | {Name} and Ziggy were writing a report for the science fair.
+🔢🦋 | First, {Name} [enumerated] the steps of a butterfly's life: egg, caterpillar, pupa, adult.
+🔄🐛 | "A caterpillar must [undergo] a total change," she wrote.
+🔖➡️ | In their chart, an arrow would [denote] each change.
+🧽📚 | Ziggy read three books to [assimilate] all the facts.
+➕📸 | They [incorporated] photos of real butterflies into the poster.
+🧩🎨 | Purple paper [complemented] the orange butterfly pictures perfectly.
+🎯📏 | The rules [specified] that posters must be one meter tall.
+💸🖍️ | Ziggy had spilled juice on the first poster, so he [compensated] by making an even better one.
+🏷️📖 | They [attributed] each fact to the book where they found it.
+📣🌍 | They won first prize! The school [disseminated] their report to every class.
+
+@unit Academic Nouns
+aggregate | 🧮 | noun | a total made by adding many parts together | The [aggregate] of all the class scores was 950. | total, sum
+analogy | 🔗 | noun | a comparison that explains something by showing how it is like something else | The teacher used an [analogy]: "The heart is like a pump."
+apex | 🔺 | noun | the highest point or top of something | They climbed to the [apex] of the pyramid. | peak, summit
+autonomy | 🗽 | noun | the freedom to make your own choices and govern yourself | The teens wanted more [autonomy] to plan their own day. | independence
+benchmark | 📍 | noun | a standard used to measure or compare other things | Running a mile in ten minutes was her [benchmark].
+capacity | 🥛 | noun | the most something can hold; or the ability to do something | The stadium has a [capacity] of 50,000 people.
+constraint | ⛓️ | noun | a limit or rule that holds something back | Time was the biggest [constraint] on our project. | limitation
+dimension | 📐 | noun | a measurement like length, width, or height; or one part or side of something | Measure each [dimension] of the box before you wrap it.
+domain | 🗺️ | noun | an area of knowledge, activity, or control | Cooking is my dad's [domain]. | realm
+facet | 💎 | noun | one side or part of something; or one flat side of a cut gem | Kindness is just one [facet] of her personality. | aspect
+@story The Dragon Olympics | park
+🏅🐉 | Ziggy entered the Dragon Olympics. {Name} was his coach.
+🗽🔥 | Each dragon had [autonomy] to choose their own events.
+📍⏱️ | {Name} set a [benchmark]: "Fly the lap in under one minute."
+⛓️🪽 | The biggest [constraint] was that Ziggy's wings got tired fast.
+🔗🚗 | She used an [analogy]: "Your wings are like a car. Don't use all your gas at the start!"
+🥛🍩 | Ziggy's stomach had a huge [capacity]. He won the donut-eating event easily.
+💎🎭 | Juggling was another [facet] of his talent.
+📐🧱 | In the building event, he measured each [dimension] of his tower carefully.
+🗺️🌊 | Swimming was not Ziggy's [domain]. He floated like a rock.
+🔺🏔️ | Still, in the climbing race, he reached the [apex] of the mountain first!
+🧮🥇 | When they added up the [aggregate] of all his points, Ziggy won the gold medal!
+
+@unit Academic Adjectives
+analogous | 🔄 | adj | similar in some way, so that two things can be compared | A camera is [analogous] to an eye. | comparable, similar
+cohesive | 🧲 | adj | joined together closely, working as a unit | The team was [cohesive]; everyone helped each other. | united
+discrete | 🔲 | adj | separate and different from other things | The project had three [discrete] parts. | distinct, separate
+empirical | 🔬 | adj | based on observation or experiment, not just ideas | Scientists look for [empirical] evidence.
+equivalent | 🟰 | adj | equal in value, amount, or meaning | One dollar is [equivalent] to one hundred cents. | equal
+finite | ⏳ | adj | having a limit or end | Earth has a [finite] amount of oil. | limited
+fundamental | 🧱 | adj | basic and very important; forming the base | Reading is a [fundamental] skill. | essential, basic
+integral | 🧩 | adj | necessary to make something whole | The engine is an [integral] part of the car.
+intrinsic | 💖 | adj | belonging naturally to something; part of what it really is | Music has [intrinsic] value; it's worth doing for its own sake. | inherent
+irrelevant | 🚫 | adj | not connected to what is being discussed | Her shoe size was [irrelevant] to the math problem.
+@story The Cookie Experiment | kitchen
+🍪🧪 | {Name} and Ziggy wanted to know: do cookies bake faster in a hot oven?
+🔬📝 | "We need [empirical] proof," said {Name}. "Let's test it!"
+🔲🍪 | They baked three [discrete] batches: one at low heat, one medium, one high.
+🧱🥚 | Flour, butter, and eggs were the [fundamental] ingredients.
+🧩🍫 | Chocolate chips were an [integral] part—without them, it's not a real cookie!
+🟰⚖️ | Each batch used [equivalent] amounts of dough.
+⏳🥛 | They had a [finite] supply of milk, so Ziggy couldn't drink it all.
+🔄🔥 | "An oven is [analogous] to a dragon's breath," Ziggy said. "Both are hot!"
+🚫🎩 | "Your hat color is [irrelevant] to the experiment," {Name} told Ziggy.
+🧲👫 | They were a [cohesive] team, measuring and mixing together.
+💖😋 | Hot cookies baked fastest—but the [intrinsic] joy of baking was the best result.
+
+@unit Academic Words: Big Ideas
+framework | 🏗️ | noun | a basic structure or set of ideas that holds something together | The [framework] of the house was made of wood.
+implication | 💭 | noun | a possible result or meaning that is not said directly | The [implication] of her frown was that she didn't like the plan.
+magnitude | 📏 | noun | great size or importance | We didn't realize the [magnitude] of the storm until we saw the damage. | scale
+methodology | 🗂️ | noun | a set of methods used to do or study something | The scientist explained the [methodology] of her research.
+notion | 💡 | noun | an idea or belief | He had a strange [notion] that cats could read. | idea, concept
+paradigm | 🔭 | noun | a model or typical example of how something is understood or done | Discovering that Earth orbits the sun changed the scientific [paradigm].
+parameter | 🎚️ | noun | a limit or rule that controls how something can be done | The teacher set the [parameter]: stories must be under one page.
+scope | 🔍 | noun | the range of what something covers or deals with | The [scope] of the project was just our town, not the whole country. | range, extent
+synthesis | 🧬 | noun | the combining of different ideas or parts to form a whole | Her essay was a [synthesis] of ideas from three books.
+terminology | 📘 | noun | the special words used in a subject | Doctors use medical [terminology] that can be hard to understand. | jargon
+@story Building a Robot | lab
+🤖🐉 | {Name} and Ziggy decided to build a robot for the science club.
+💡🧹 | It started with a [notion]: "What if a robot could clean my room?"
+🔍🏠 | They decided the [scope] would be just {Name}'s bedroom, not the whole house.
+🏗️🔩 | They built a metal [framework] for the robot's body.
+🎚️⚡ | One [parameter] was safety: the robot could never go faster than a turtle.
+🗂️📋 | Their [methodology] was simple: build, test, fix, repeat.
+📘🔧 | They learned new [terminology] like "sensor" and "servo motor."
+🧬🧠 | The robot's brain was a [synthesis] of ideas from three different books.
+📏🧸 | When they turned it on, they finally saw the [magnitude] of the mess it could clean.
+💭😮 | The [implication] was clear: {Name} would never have to tidy up again!
+🔭🌟 | "This robot changes the [paradigm] of chores forever!" said Ziggy.
+
+@unit Old-World Landscapes
+primeval | 🦕 | adj | from the earliest times of the world; ancient | The [primeval] forest had trees older than any castle. | prehistoric, ancient
+hoary | 👴 | adj | gray or white with age; very old | The [hoary] wizard stroked his long white beard.
+knoll | ⛰️ | noun | a small, rounded hill | We had a picnic on a grassy [knoll]. | hillock, mound
+moor | 🌾 | noun | a wide, open area of wild land covered with grass and low plants | The wind howled across the lonely [moor]. | heath
+rivulet | 💧 | noun | a very small stream | A [rivulet] trickled down the rocks. | brook, stream
+zephyr | 🌬️ | noun | a soft, gentle breeze | A warm [zephyr] made the flowers sway. | breeze
+gossamer | 🕸️ | adj | very light, thin, and delicate, like a spider's silk | The fairy had [gossamer] wings. | delicate, flimsy
+dell | 🌳 | noun | a small valley with trees | Rabbits hopped through the quiet [dell]. | hollow
+glen | 🏞️ | noun | a narrow, deep valley, especially in Scotland | Mist filled the [glen] each morning. | valley
+thicket | 🌿 | noun | a group of bushes or small trees growing close together | The fox hid in a [thicket] of blackberry bushes.
+@story The Map of the Old Kingdom | mountain
+🗺️🐉 | {Name} found an old map. "Let's follow it!" said Ziggy.
+⛰️🧺 | They started on a grassy [knoll] where the map began.
+🌬️🌸 | A soft [zephyr] carried the smell of wildflowers.
+🌾🌫️ | They crossed a wide, windy [moor] covered in purple heather.
+💧🪨 | They followed a tiny [rivulet] that splashed over stones.
+🏞️🌁 | It led them into a misty [glen] between two tall cliffs.
+🌳🐇 | Below was a peaceful [dell] full of rabbits and old oaks.
+🌿🦊 | Something rustled in a [thicket]. Out popped a curious fox!
+🦕🌲 | The fox led them to a [primeval] forest where giant ferns grew.
+👴🪄 | There they met a [hoary] old wizard with a beard down to his toes.
+🕸️👑 | He gave {Name} a crown made of [gossamer] threads that sparkled like dew.
+
+@unit Tiny Amounts
+modicum | 🤏 | noun | a small amount of something good | With a [modicum] of luck, we'll finish on time.
+iota | ⚛️ | noun | an extremely small amount | There's not one [iota] of truth in that rumor. | bit, scintilla
+smidgen | 🧂 | noun | a very small amount | Add just a [smidgen] of salt. | pinch, dash
+paucity | 🏜️ | noun | the state of having too little of something | There was a [paucity] of water in the desert town. | scarcity, shortage
+vestige | 👣 | noun | a small trace of something that once existed | A few stones are the last [vestige] of the old castle. | trace
+remnant | 🧵 | noun | a small piece or part left over | She made a doll dress from a [remnant] of fabric. | leftover
+infinitesimal | 🔬 | adj | so tiny it can barely be measured | The difference between the twins' heights was [infinitesimal].
+trifle | 🪶 | noun | something of little value or importance; or a small amount | Don't worry about it; it's only a [trifle].
+mote | 🌟 | noun | a tiny speck, especially of dust | A [mote] of dust floated in the sunbeam. | speck
+scintilla | ✨ | noun | a tiny trace or spark of something | There wasn't a [scintilla] of doubt in her mind. | trace, iota
+@story The Shrinking Potion | lab
+🧪🐉 | Ziggy found a bottle in the lab labeled "Shrinking Potion."
+🤏🧠 | "Use a [modicum] of common sense," warned {Name}. Too late—he drank it!
+🐜🐉 | Ziggy became as small as a [mote] of dust—smaller than an ant!
+🔬👀 | {Name} needed a microscope. His wings were [infinitesimal].
+🧂📏 | "Only a [smidgen] of the potion left," she said, checking the bottle.
+🏜️📚 | There was a [paucity] of instructions—just one smudged line.
+👣🍰 | She followed a [vestige] of cake crumbs to find Ziggy.
+🍰😎 | He was sitting on a cake crumb without a [scintilla] of worry.
+🧵🛏️ | She made him a tiny bed from a [remnant] of ribbon.
+🪶💬 | "Being small is a [trifle]," Ziggy squeaked. "I can eat crumbs forever!"
+⚛️🔄 | But {Name} found the cure. Not one [iota] of the shrinking stayed—Ziggy was big again!
+
+@unit Plenty and Too Much
+plethora | 🎁 | noun | a very large amount, often more than needed | The store had a [plethora] of toys. | abundance, excess
+profuse | 💐 | adj | given or produced in large amounts | She gave [profuse] thanks for the gift. | abundant, lavish
+replete | 🍽️ | adj | well filled or supplied; full | The book was [replete] with pictures. | full
+teeming | 🐟 | adj | full of moving living things; crowded | The pond was [teeming] with frogs. | swarming, crawling
+inundate | 🌊 | verb | to flood; or to give someone more than they can handle | Fans [inundated] the singer with letters. | flood, overwhelm
+proliferate | 🐰 | verb | to grow or multiply quickly | Weeds [proliferated] in the garden after the rain. | multiply
+glut | 🍎 | noun | too much of something, more than is needed | After the harvest, there was a [glut] of apples. | surplus
+surfeit | 🤢 | noun | an amount that is too much, especially of food | A [surfeit] of candy made him feel sick. | excess
+cornucopia | 🌽 | noun | a horn-shaped basket overflowing with food; or a great supply of good things | The library was a [cornucopia] of stories.
+bountiful | 🌻 | adj | large in amount; generous | We had a [bountiful] harvest this year. | plentiful, generous
+@story The Garden That Grew Too Much | garden
+🌱🐉 | Ziggy sprinkled magic plant food on {Name}'s garden. Oops—way too much!
+🐰🌿 | Overnight, the plants began to [proliferate] like crazy.
+🌻🍅 | At first, the harvest was [bountiful]: tomatoes, beans, and corn galore!
+🌽🎉 | The garden became a [cornucopia] of fruits and vegetables.
+🐟🐝 | The pond was [teeming] with frogs and the air with bees.
+🎁🥕 | There was a [plethora] of carrots—more than anyone could count.
+🍎📦 | A [glut] of apples piled up in the street.
+🌊🏠 | Pumpkins rolled down and [inundated] the neighbor's yard!
+🤢🍓 | Ziggy ate a [surfeit] of strawberries and had a tummy ache.
+🍽️🏘️ | {Name} gave food to everyone in town. Every home was [replete] with veggies.
+💐🙏 | The neighbors sent [profuse] thanks—and asked Ziggy to never use magic plant food again.
+
+@unit Before and After
+antecedent | ⏪ | noun | something that came before and led to something else | The horse-drawn cart was an [antecedent] of the car. | forerunner, precursor
+precursor | 🚂 | noun | something that comes before and leads the way for something else | The first telephones were the [precursor] to smartphones. | forerunner, antecedent, harbinger
+harbinger | 🐦 | noun | a sign that something is coming soon | The robin is a [harbinger] of spring. | omen, sign, precursor
+advent | 🌅 | noun | the arrival or beginning of something important | The [advent] of the internet changed how we learn. | arrival, coming
+onset | ⏱️ | noun | the beginning of something, especially something unpleasant | At the [onset] of winter, the bears went to sleep. | outset, start
+outset | 🏁 | noun | the start or beginning | At the [outset], the race seemed easy. | onset, start
+aftermath | 🌪️ | noun | the time right after a bad event, and its effects | In the [aftermath] of the storm, neighbors helped clean up.
+posterity | 👶 | noun | all the people who will live in the future | We planted trees for [posterity] to enjoy. | future generations
+premonition | 🔮 | noun | a strong feeling that something is going to happen | She had a [premonition] that it would rain, so she brought an umbrella. | hunch, foreboding
+prelude | 🎼 | noun | an event or piece of music that comes before something more important | The drumroll was a [prelude] to the big announcement. | introduction, overture
+@story The Time Capsule | camp
+⏳🐉 | {Name} and Ziggy decided to bury a time capsule at summer camp.
+🏁📦 | At the [outset], they had to choose what to put inside.
+⏪✉️ | {Name} added a letter, an [antecedent] of the emails people send today.
+🚂📸 | Ziggy added an old film camera, the [precursor] to phone cameras.
+👶💌 | "This is for [posterity]," she said. "Kids in 100 years will open it!"
+🎼🥁 | Ziggy played a drumroll as a [prelude] to the big burial.
+🐦🍂 | A flock of geese flew south—a [harbinger] of autumn.
+🔮⛈️ | {Name} had a [premonition] that a storm was coming. She was right!
+⏱️🌧️ | At the [onset] of the rain, they quickly buried the box.
+🌪️🧹 | In the [aftermath] of the storm, they found the spot safe and dry.
+🌅🚀 | "Maybe at the [advent] of flying cars, someone will dig it up," said Ziggy.
+
+@unit Pauses and Endings
+culminate | 🏆 | verb | to reach the highest point or final result | The school year [culminated] in a big talent show. | climax, peak
+ensue | ➡️ | verb | to happen as a result, right after something else | When the dog saw the cat, a wild chase [ensued]. | follow, result
+dissipate | 🌫️ | verb | to slowly disappear or scatter | The fog [dissipated] as the sun came out. | disperse, vanish, abate
+abate | 📉 | verb | to become less strong or less intense | The storm finally [abated] after midnight. | subside, lessen, dissipate
+desist | ✋ | verb | to stop doing something | The judge ordered him to [desist] from shouting. | cease, stop
+perpetuate | ♾️ | verb | to make something continue for a long time | Telling the story every year [perpetuates] the family tradition. | continue, preserve
+interminable | 😩 | adj | seeming to go on forever, in a boring or annoying way | The car ride felt [interminable]. | endless, unending
+respite | 😌 | noun | a short break from something hard or unpleasant | The shade gave us a [respite] from the hot sun. | relief, break, reprieve, hiatus
+reprieve | 🕊️ | noun | a delay or cancellation of something bad that was going to happen | The snow day gave us a [reprieve] from the test. | respite, delay
+hiatus | ⏸️ | noun | a pause or break in an activity | The band took a [hiatus] for a year. | pause, break, respite
+@story The Endless Rainy Day | rain
+🌧️🐉 | It had been raining for days. The rain felt [interminable].
+😩📺 | {Name} and Ziggy were bored. A pillow fight soon [ensued].
+✋🛋️ | "Please [desist]!" called Mom. "You'll knock over the lamp!"
+⏸️🎲 | They took a [hiatus] from pillows and played board games instead.
+📉🌦️ | By lunch, the rain began to [abate]. Only a drizzle was left.
+🌫️☀️ | Then the clouds [dissipated] and the sun burst through.
+😌🌈 | The sunshine was a sweet [respite] after so many gray days.
+🕊️🧹 | Even better, the sunshine gave them a [reprieve] from cleaning their rooms.
+🏆🌈 | The day [culminated] in a giant double rainbow.
+♾️📖 | Every rainy day after that, they [perpetuated] the fun with a "pillow-and-games day."
+
+@unit Temperament
+stoic | 🗿 | adj | calm and not showing feelings, even during pain or trouble | The [stoic] soldier didn't complain, even in the freezing cold. | impassive, unflappable
+impassive | 😐 | adj | showing no feeling or emotion on the face | The guard's face stayed [impassive] while tourists made jokes. | expressionless, stoic, stolid
+stolid | 🐂 | adj | calm, steady, and not easily excited | The [stolid] old ox kept pulling the cart, rain or shine. | impassive, stoic
+sensitive | 🌸 | adj | quick to notice and care about other people's feelings; or easily hurt | He is [sensitive] and always notices when a friend is sad. | tenderhearted
+empathetic | 🫂 | adj | able to understand and share another person's feelings | The [empathetic] nurse held the scared boy's hand. | compassionate, understanding
+tenderhearted | 💗 | adj | kind and gentle, easily moved to love or pity | The [tenderhearted] girl rescued every lost kitten. | softhearted, sensitive
+hardhearted | 🧊 | adj | not feeling sympathy or kindness for others | Only a [hardhearted] person would kick a puppy. | callous, heartless
+unflappable | 🧘 | adj | staying calm in a crisis or difficult situation | The [unflappable] pilot landed the plane safely in the storm. | calm, composed, stoic
+temperamental | 🌦️ | adj | likely to change moods quickly and get upset easily | The [temperamental] chef yelled when his soup was too salty. | moody, mercurial
+mercurial | ⚡ | adj | changing moods or minds suddenly and often | His [mercurial] mood went from happy to grumpy in seconds. | changeable, fickle, temperamental
+@story The Feelings Zoo | school
+🦁🐉 | {Name}'s class visited the Feelings Zoo, where every animal had a different temperament.
+🐂🌾 | First, they met a [stolid] old ox that just kept chewing grass.
+🗿🐢 | A tortoise was [stoic]. Even when it rained, it never complained.
+😐🦩 | A flamingo stood on one leg, its face completely [impassive].
+🧘🐼 | A panda stayed [unflappable] even when a balloon popped right next to it.
+🌦️🦜 | But the parrot was [temperamental] and squawked when its seeds were late.
+⚡🐒 | A monkey was [mercurial]—giggling one moment and sulking the next.
+🌸🐰 | A bunny was very [sensitive] and hid when anyone spoke loudly.
+🫂🐘 | An [empathetic] elephant hugged the scared bunny with its trunk.
+🧊🦈 | A shark looked [hardhearted], but the zookeeper said it was just shy.
+💗🐉 | And Ziggy? He was so [tenderhearted] that he cried happy tears when he saw the baby animals.
+
+@unit Cleverness
+acumen | 🧠 | noun | the ability to make good judgments and quick decisions | Her business [acumen] helped her shop succeed. | shrewdness, insight
+discernment | 🔍 | noun | the ability to judge well and notice small differences | With great [discernment], she picked the ripest melon. | judgment, insight
+ingenuity | 💡 | noun | cleverness in inventing or solving problems | With [ingenuity], he turned an old box into a robot. | inventiveness, creativity
+resourceful | 🧰 | adj | good at finding clever ways to solve problems | The [resourceful] camper made a tent from a tarp and sticks. | inventive
+dexterity | 🤹 | noun | skill in using the hands or body quickly and easily | The juggler showed amazing [dexterity]. | nimbleness, agility
+aptitude | 📈 | noun | a natural ability to learn or do something well | She has an [aptitude] for music. | talent, gift
+forte | 💪 | noun | something a person does especially well | Drawing is my [forte]. | strength, specialty
+finesse | 🎻 | noun | great skill and delicate grace in handling something | The violinist played with [finesse]. | skill, delicacy
+knack | 🎯 | noun | a special skill or talent for doing something | He has a [knack] for making people laugh. | gift, flair
+brilliance | ✨ | noun | great intelligence or talent; or great brightness | Everyone admired the [brilliance] of her idea. | genius, intelligence
+@story The Escape Room | city
+🔐🐉 | {Name} and Ziggy were locked in an escape room. They had one hour to get out!
+🧠⏰ | {Name} used her [acumen] to decide which clue to solve first.
+🔍🖼️ | With [discernment], she noticed one painting was hung slightly crooked.
+🧰📎 | Being [resourceful], Ziggy used a paperclip to open a tiny box.
+🤹🔑 | With great [dexterity], {Name} caught a falling key before it slipped into a crack.
+📈🔢 | She had an [aptitude] for number puzzles and cracked the code fast.
+💪🎨 | Riddles were Ziggy's [forte]. He solved three in a row!
+🎻🪢 | He untied a tricky knot with real [finesse].
+💡🔦 | With [ingenuity], {Name} used a mirror to bounce light onto a hidden message.
+🎯🚪 | Ziggy had a [knack] for finding secret doors—and he found the exit!
+✨🏆 | They escaped with ten minutes to spare. "Pure [brilliance]!" said the game master.
+
+@unit Destruction
+annihilate | 💥 | verb | to destroy completely | The giant wave threatened to [annihilate] the sandcastle. | destroy, obliterate
+decimate | 📉 | verb | to destroy or kill a large part of something | The hungry bugs [decimated] the cabbage crop. | devastate
+obliterate | 🧽 | verb | to destroy or wipe out so nothing is left | The snowstorm [obliterated] our footprints. | erase, annihilate
+raze | 🚜 | verb | to tear down a building completely | The city decided to [raze] the old factory. | demolish, level
+eradicate | 🦠 | verb | to get rid of something completely | Doctors worked to [eradicate] the disease. | eliminate, wipe out
+pillage | 🏴‍☠️ | verb | to steal things violently from a place, especially in war | The pirates [pillaged] the village. | plunder, loot
+wreak | 🌪️ | verb | to cause a lot of damage or harm | The puppy [wreaked] havoc on the kitchen. | cause, inflict
+rupture | 💔 | verb | to break or burst open suddenly | The water pipe [ruptured] and flooded the basement. | burst, split
+wreckage | 🚢 | noun | the broken parts left after something is destroyed | Divers explored the [wreckage] of the old ship. | ruins, debris
+shambles | 🗑️ | noun | a state of total mess and disorder | After the party, the house was a [shambles]. | mess, chaos
+@story The Sandcastle Kingdom | beach
+🏰🐉 | {Name} and Ziggy built a huge sandcastle kingdom on the beach.
+🏴‍☠️🦀 | Suddenly, an army of crabs marched in to [pillage] the castle's seashell treasure!
+🌪️🦀 | The crabs [wreaked] havoc, knocking down walls.
+📉🐚 | They [decimated] the seashell collection, stealing most of it.
+🌊💥 | Then a giant wave rushed toward them. It could [annihilate] everything!
+💔🧱 | The castle wall [ruptured], and water poured in.
+🧽👣 | The wave [obliterated] every footprint on the beach.
+🗑️😱 | When the water left, the kingdom was a [shambles].
+🚢🪵 | {Name} found a tiny toy boat in the [wreckage].
+🚜🏗️ | "Let's [raze] what's left and start fresh," she said.
+🦠🏰 | Ziggy found a way to [eradicate] the crab problem: he built a moat! The new castle was even better.
