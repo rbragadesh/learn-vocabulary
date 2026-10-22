@@ -233,3 +233,235 @@ pristine | ✨ | adj | perfectly clean, as if brand new | The snow was [pristine
 🌟🌙 | The best piece was a [luminous] glass moon that glowed all night.
 🎨🌸 | They painted the workshop door with [vibrant] flowers.
 ✨😄 | When they were done, everything was [pristine]. The glassmaker gave {Name} a [radiant] smile. "Come back anytime!"
+
+@unit Then and Now
+obsolete | 📼 | adj | no longer used because something newer has replaced it | Video tapes are [obsolete] now. | outdated, old-fashioned
+contemporary | 🏙️ | adj | belonging to the present time; modern | The museum has a room of [contemporary] art. | modern, current
+simultaneous | 👯 | adj | happening at exactly the same time | There were two [simultaneous] goals at the buzzer!
+prior | ⏮️ | adj | coming before in time or order | You need [prior] experience to join the advanced class. | previous, earlier
+subsequent | ⏭️ | adj | coming after something else | The first book was good, but each [subsequent] book was even better. | following, later
+perpetual | ♾️ | adj | never ending or changing | The waterfall made a [perpetual] roar. | endless, constant
+momentary | ⚡ | adj | lasting only a very short time | There was a [momentary] silence before everyone cheered. | brief, fleeting
+overdue | 📚 | adj | late; not done or returned by the time it should be | My library book is two weeks [overdue].
+belated | 🎂 | adj | coming later than it should have | I sent Grandpa a [belated] birthday card. | late
+era | 🏛️ | noun | a long period of time in history marked by something special | The age of the dinosaurs was an amazing [era]. | age, period
+@story The Time Capsule | school
+📦🏫 | {Name}'s school dug up a time capsule buried fifty years ago, in a different [era].
+📼😮 | Inside was a video tape. "What's that?" asked a boy. "It's [obsolete] now," said the teacher. "We used it to watch movies."
+📚⏰ | There was also a library book that was fifty years [overdue]! Everyone laughed.
+🎂💌 | And a [belated] birthday card that was never sent.
+⏮️📸 | The [prior] class had left photos of themselves with funny haircuts.
+🏙️📱 | {Name}'s class decided to make a new capsule with [contemporary] things: a tablet, a toy, and a drawing of Ziggy.
+⚡🤫 | There was a [momentary] hush as they lowered it into the ground.
+👯🎉 | Then came two [simultaneous] cheers—from the kids and from the grandparents who had made the first capsule!
+♾️🌳 | "Time is [perpetual]," said the principal. "It just keeps going."
+⏭️💭 | "I wonder what every [subsequent] class will think of us," said {Name}.
+
+@unit Green and Growing
+fertile | 🌱 | adj | able to grow lots of healthy plants | The [fertile] soil near the river grew the best tomatoes. | rich, productive
+barren | 🏜️ | adj | too poor or dry for plants to grow | Nothing grew on the [barren] rocky hill. | bare, desolate
+lush | 🌿 | adj | full of thick, healthy, green plants | The jungle was [lush] and green. | verdant, green
+thrive | 🌻 | verb | to grow strongly and be healthy | Cactuses [thrive] in the hot desert. | flourish, prosper
+wither | 🥀 | verb | to dry up and shrink, often because of heat or no water | The flowers will [wither] if you don't water them. | wilt, shrivel
+flourish | 🌳 | verb | to grow very well and be successful | Our garden began to [flourish] after the spring rains. | thrive, bloom
+dormant | 😴 | adj | asleep or not active for a while | The volcano has been [dormant] for a thousand years. | inactive, sleeping
+decay | 🍂 | verb | to rot or break down slowly | Fallen leaves [decay] and turn into soil. | rot, decompose
+vegetation | 🌾 | noun | plants in general, especially in one area | The hills were covered in thick [vegetation]. | plants, greenery
+verdant | 💚 | adj | green with growing plants | The [verdant] valley was full of cows and wildflowers. | lush, green
+@story The Magic Seeds | garden
+🏜️🪨 | Behind {Name}'s school was a [barren] field. Nothing grew there but rocks and dust.
+🌱🎁 | One day, an old gardener gave {Name} and Ziggy a bag of seeds. "Plant these, and see what happens."
+😴🌰 | The seeds looked [dormant], like tiny sleeping stones.
+🍂♻️ | First, they spread leaves and old fruit to [decay] into rich compost.
+🌱💧 | Slowly, the soil became [fertile].
+🌻☀️ | The seeds sprouted and began to [thrive] in the sunshine.
+🥀😟 | During a hot week, some plants started to [wither]. Ziggy carried water every day to save them.
+🌳🌸 | By summer, the garden began to [flourish].
+🌿🦋 | The field was now [lush] and full of butterflies.
+💚🏫 | "The [verdant] garden makes our school beautiful," said the principal. Kids came to read among the [vegetation] every day.
+
+@unit Sound Waves
+clamor | 📢 | noun | a loud, continuous noise, often of many voices | The [clamor] of the crowd filled the stadium. | uproar, din, racket
+racket | 🥁 | noun | a loud, annoying noise | The kids made a [racket] with the pots and pans. | din, clamor
+audible | 👂 | adj | loud enough to be heard | Her whisper was barely [audible].
+inaudible | 🔇 | adj | too quiet to be heard | The mouse's squeak was almost [inaudible].
+resonate | 🔔 | verb | to make a deep, full sound that lasts | The church bells [resonate] across the valley. | ring, echo
+reverberate | 🌊 | verb | to echo again and again | The thunder seemed to [reverberate] through the mountains. | echo, resound
+crescendo | 📈 | noun | a gradual increase in loudness, or the loudest part | The music rose to a [crescendo]. | climax, peak
+lull | 😌 | noun | a short, quiet pause | During a [lull] in the storm, we ran to the car. | pause, break
+acoustics | 🎻 | noun | the way sound moves and sounds in a room | The concert hall has amazing [acoustics].
+decibel | 🔊 | noun | a unit for measuring how loud a sound is | A jet engine is more than a hundred [decibels]!
+@story The Echo Canyon Concert | mountain
+🏜️🎶 | {Name}, Ziggy, and the school band played a concert in Echo Canyon.
+🎻🏔️ | The canyon's [acoustics] were amazing. Every note sounded bigger.
+📢👥 | Before they began, the [clamor] of the crowd was loud and excited.
+😌🤫 | Then there was a [lull] as the conductor raised her arms.
+👂🎵 | The first notes were soft, barely [audible].
+🔇🐭 | A mouse squeaked, but it was [inaudible] over the flutes.
+📈🥁 | The music built and built into a huge [crescendo]!
+🔔⛰️ | The drums seemed to [resonate] off the red rocks.
+🌊💥 | Ziggy's cymbal crash began to [reverberate] through the whole canyon: crash-ash-ash-ash!
+🔊😂 | "How many [decibels] was that?" laughed {Name}. "Enough to wake every lizard in the desert!" The crowd made a happy [racket] of cheering.
+
+@unit Hungry Explorers
+ravenous | 🐺 | adj | extremely hungry | After the long hike, we were [ravenous]. | starving, famished
+famished | 😫 | adj | very, very hungry | I'm [famished]—when is dinner? | starving, ravenous
+quench | 💧 | verb | to satisfy thirst by drinking | Nothing can [quench] your thirst like cold water. | satisfy
+parched | 🏜️ | adj | very dry, especially very thirsty | My throat was [parched] after running in the sun. | dry, thirsty
+savory | 🧀 | adj | salty or spicy rather than sweet | I prefer [savory] snacks like cheese and crackers.
+tangy | 🍋 | adj | having a sharp, pleasant taste | The lemon sauce was [tangy]. | zesty, tart
+scrumptious | 🍰 | adj | extremely tasty | Grandma's apple pie is [scrumptious]. | delicious, yummy
+edible | 🍄 | adj | safe to eat | Some mushrooms are [edible], but others are poisonous.
+cuisine | 🍜 | noun | a style of cooking from a certain place | I love Italian [cuisine], especially pasta.
+gourmet | 👨‍🍳 | adj | very fancy and high-quality food | The restaurant served [gourmet] desserts.
+@story The Desert Picnic | desert
+🏜️☀️ | {Name} and Ziggy got lost on a long desert hike. The sun was blazing.
+🏜️💦 | Their mouths were [parched], and their water was gone.
+😫🍎 | They were [famished] too. They hadn't eaten since breakfast.
+🐺😩 | By sunset, Ziggy was [ravenous]. "I could eat a cactus!"
+🍄❓ | They found some mushrooms. "Are these [edible]?" asked Ziggy. "Don't risk it," said {Name}.
+💧🌴 | Then they found an oasis! They drank cool water to [quench] their thirst.
+🏕️👨‍🍳 | Beside the oasis was a tent. A chef named Omar invited them in for dinner.
+🍜🌶️ | He cooked food from his country's [cuisine]: spicy stew, flatbread, and rice.
+🧀🍋 | There were [savory] cheese pastries and a [tangy] lemon drink.
+🍰😋 | For dessert, he served [gourmet] honey cakes. "These are [scrumptious]!" said Ziggy, and he ate six.
+
+@unit Animal Survival
+forage | 🐿️ | verb | to search for food in the wild | Bears [forage] for berries in the forest. | search, hunt
+scavenge | 🦝 | verb | to search through garbage or leftovers for something useful | Raccoons [scavenge] in our trash cans at night.
+graze | 🐄 | verb | to eat grass in a field | Cows [graze] in the meadow all day.
+nocturnal | 🦉 | adj | active at night and asleep during the day | Owls are [nocturnal] birds.
+camouflage | 🦎 | noun | colors or patterns that help an animal blend into its surroundings | A chameleon's [camouflage] helps it hide from enemies. | disguise
+mimic | 🦜 | verb | to copy the way someone looks, sounds, or acts | Parrots can [mimic] human voices. | imitate, copy
+adapt | 🔄 | verb | to change to fit a new place or situation | Polar bears [adapt] to the freezing cold with thick fur. | adjust
+instinct | 🧠 | noun | a natural feeling that makes an animal act a certain way without learning it | Baby turtles crawl toward the sea by [instinct].
+territory | 🗺️ | noun | an area that an animal or group thinks of as its own | The lion roared to protect its [territory]. | domain, area
+venom | 🐍 | noun | poison made by some snakes, spiders, and insects | The snake's [venom] can make you very sick. | poison
+@story Ziggy's Nature Show | forest
+🎥🐉 | Ziggy made his own nature show called "Wild Survival with Ziggy!"
+🐿️🍂 | "Squirrels [forage] for nuts and hide them for winter," he said to the camera.
+🦝🗑️ | "Raccoons [scavenge] in trash cans when food is hard to find."
+🐄🌾 | "Deer and cows [graze] on grass."
+🦉🌙 | "Owls are [nocturnal]—they hunt at night and sleep all day."
+🦎🍃 | "This lizard uses [camouflage]. Can you find it on the leaf?"
+🦜🗣️ | "Some birds [mimic] other animals' calls to trick them!"
+🔄❄️ | "Arctic foxes [adapt] to winter by growing white fur."
+🐢🌊 | "Baby turtles find the ocean by [instinct]—no one teaches them!"
+🗺️🐺 | "Wolves guard their [territory] with howls."
+🐍⚠️ | "And snakes use [venom] to catch prey. Always keep your distance!" {Name} turned off the camera. "Best show ever!"
+
+@unit Places Near and Far
+remote | 🏔️ | adj | far away from towns and people | They lived in a [remote] cabin in the mountains. | isolated, distant
+isolated | 🏝️ | adj | far away from others; alone | The lighthouse stood on an [isolated] rock. | remote, secluded
+secluded | 🌲 | adj | quiet and hidden away from people | We found a [secluded] beach where no one else went. | private, hidden
+desolate | 🏜️ | adj | empty, lonely, and bleak | The old ghost town was [desolate]. | bleak, deserted
+bustling | 🏙️ | adj | full of busy, noisy activity | The [bustling] market was packed with shoppers. | busy, lively
+quaint | 🏡 | adj | charming in an old-fashioned way | We stayed in a [quaint] little cottage by the lake. | charming
+rural | 🚜 | adj | in the countryside, not the city | My grandparents live in a [rural] area with lots of farms. | country
+urban | 🏢 | adj | in or about a city | Many people live in [urban] areas with tall buildings.
+suburban | 🏘️ | adj | in an area of houses at the edge of a city | We live in a [suburban] neighborhood with big yards.
+metropolis | 🌃 | noun | a very large, busy city | New York is a huge [metropolis]. | big city
+@story The Letter Journey | city
+✉️🐉 | {Name} wrote a letter to her pen pal, and Ziggy offered to fly it there himself!
+🏘️🌳 | They started in her [suburban] neighborhood, with houses and green lawns.
+🚜🌾 | They flew over [rural] farmland full of cows.
+🏡🌷 | They stopped in a [quaint] village with flower boxes and a tiny bakery.
+🏙️🚕 | Then they flew into a [bustling] city where everyone was in a hurry.
+🌃🏙️ | Next came a giant [metropolis], glowing with a million lights.
+🏢🛗 | Ziggy rode an elevator to the top of an [urban] skyscraper to rest.
+🏜️💨 | They crossed a [desolate] desert with no one in sight.
+🌲🏞️ | They passed a [secluded] lake hidden in the woods.
+🏔️🏝️ | Finally they reached a [remote] mountain town and then an [isolated] little island, where her pen pal lived. "Special delivery!" said Ziggy.
+
+@unit Giving Back
+benefit | 🎁 | noun | something good or helpful that you get from something | One [benefit] of exercise is a strong heart. | advantage
+contribute | 🤲 | verb | to give something to help a group or cause | Everyone can [contribute] to the class project. | give, donate
+charity | 💝 | noun | a group that raises money to help people in need | We gave our old clothes to a [charity].
+beneficial | 👍 | adj | helpful or good for you | Sunlight is [beneficial] to plants. | helpful, useful
+collaborate | 🤝 | verb | to work together with others | The two classes will [collaborate] on a mural. | cooperate, team up
+sacrifice | 🙏 | verb | to give up something you value for someone else | She chose to [sacrifice] her free time to help at the shelter.
+devote | 💗 | verb | to give a lot of time and effort to something | Grandma likes to [devote] her weekends to gardening. | dedicate
+dedicate | 🎗️ | verb | to give your time and energy to something, or to name something in honor of someone | The town will [dedicate] the new park to the firefighters. | devote
+nurture | 🌱 | verb | to care for something and help it grow | Parents [nurture] their children. | care for, raise
+mentor | 🧑‍🏫 | noun | an experienced person who guides and teaches someone younger | My piano teacher is also my [mentor]. | guide, teacher
+@story The Animal Shelter | city
+🐶🏠 | {Name} and Ziggy wanted to help the town's animal shelter, which was a [charity] for lost pets.
+🧑‍🏫👵 | Mrs. Lopez, who ran the shelter, became their [mentor]. She taught them how to care for the animals.
+🌱🐱 | "We [nurture] each animal until it finds a home," she said.
+🤝🏫 | {Name}'s whole class decided to [collaborate] on a fundraiser.
+🤲🪙 | Every student wanted to [contribute] something: cookies, crafts, or a dollar.
+🙏⚽ | {Name} had to [sacrifice] her Saturday soccer game to work at the bake sale.
+💗🐕 | Ziggy chose to [devote] every afternoon to walking the dogs.
+👍🐾 | "Walking is [beneficial] for the dogs and for you," said Mrs. Lopez.
+🎁💰 | The fundraiser was a huge success. The [benefit] for the shelter was enough money for a new playroom!
+🎗️🏷️ | They chose to [dedicate] the playroom to Mrs. Lopez. A sign above the door said: "Lopez Playroom—For Every Pet Who Needs a Friend."
+
+@unit Clash!
+provoke | 😤 | verb | to make someone angry on purpose | Don't [provoke] the dog by pulling its tail. | annoy, taunt
+confront | 🧍 | verb | to face someone or something difficult directly | She decided to [confront] the bully. | face, challenge
+retaliate | 👊 | verb | to hurt someone back because they hurt you | It's better to talk than to [retaliate]. | strike back, get even
+dispute | 🗯️ | noun | a disagreement or argument | The neighbors had a [dispute] about the fence. | argument, quarrel
+rebel | ✊ | verb | to fight against someone in charge | The people began to [rebel] against the unfair king. | revolt, rise up
+resist | 🛡️ | verb | to fight against something or refuse to give in | I can't [resist] chocolate cake! | oppose, withstand
+surrender | 🏳️ | verb | to give up and stop fighting | The pirates had to [surrender] to the navy. | give up, yield
+oppose | 🙅 | verb | to disagree with something and try to stop it | Many parents [oppose] the plan to close the library. | resist, object to
+negotiate | 🤝 | verb | to discuss something to reach an agreement | The two sides met to [negotiate] a peace deal. | bargain
+reconcile | 💞 | verb | to become friends again after an argument | After the fight, the sisters began to [reconcile]. | make up
+@story The Fence War | home
+🏡🏡 | {Name}'s family and their neighbor, Mr. Grump, had a [dispute] about the fence between their yards.
+😤🌳 | Mr. Grump's dog liked to [provoke] Ziggy by barking at him all day.
+👊🔥 | Ziggy wanted to [retaliate] with a puff of smoke, but {Name} said no.
+🙅📋 | Mr. Grump wanted to build a tall wall. {Name}'s family began to [oppose] the plan.
+✊🪧 | The kids on the street began to [rebel] and made signs: "Fences, not walls!"
+🛡️😠 | Mr. Grump tried to [resist], but everyone was against him.
+🧍💬 | So {Name} decided to [confront] him—politely. "Can we talk?"
+🤝🍪 | They sat down to [negotiate] over cookies. They agreed on a low fence with a gate in the middle.
+🏳️😅 | Mr. Grump had to [surrender]. "Fine. A gate it is."
+💞🐕 | Soon the two families began to [reconcile]. Now Ziggy and the dog play together every day—through the gate.
+
+@unit Body Language
+gesture | 👋 | noun | a movement of your hands or head that shows a meaning | Waving is a friendly [gesture]. | signal, motion
+pose | 🤳 | verb | to hold your body still in a certain position, like for a photo | Let's [pose] for a picture by the fountain.
+shrug | 🤷 | verb | to lift your shoulders to show you don't know or don't care | When I asked where the cat was, my brother began to [shrug].
+beckon | 🫴 | verb | to make a gesture asking someone to come closer | The teacher began to [beckon] me to her desk. | signal, wave
+salute | 🫡 | verb | to raise your hand to your forehead to show respect | The soldiers [salute] the flag.
+slouch | 🧍 | verb | to sit or stand with your shoulders and head bent forward | Try not to [slouch] at the table. | slump, hunch
+kneel | 🧎 | verb | to go down on one or both knees | I had to [kneel] down to tie my little brother's shoe.
+stoop | 🙇 | verb | to bend your body forward and down | Grandpa had to [stoop] to get through the low door. | bend, crouch
+lounge | 🛋️ | verb | to sit or lie in a lazy, relaxed way | We like to [lounge] by the pool on Sundays. | relax, laze
+stance | 🧍‍♀️ | noun | the way someone stands, or their opinion on something | The batter took a wide [stance]. | posture
+@story The Photo Day | school
+📸🏫 | It was Picture Day at school. The photographer had lots of instructions.
+🧍😩 | "Don't [slouch]!" he told Ziggy. "Stand up tall!"
+🧍‍♀️💪 | "Take a strong [stance]," he told {Name}. "Feet apart, hands on hips!"
+🤳😄 | "Now [pose] with your best smile!"
+🧎🌸 | For the class picture, the front row had to [kneel] on the grass.
+🙇🚪 | The tall kids had to [stoop] so everyone would fit.
+🫴👋 | The photographer began to [beckon] the shy kids closer.
+🫡🇺🇸 | The principal stood at the side and gave a funny [salute] to make everyone laugh.
+🤷😂 | When asked why Ziggy's eyes were closed, Ziggy could only [shrug]. "I blinked!"
+👋💛 | At the end, everyone made a big friendly [gesture]: a wave to the camera.
+🛋️😮‍💨 | Afterward, the photographer went off to [lounge] on a bench. "What a day!"
+
+@unit Stormy Skies
+torrent | 🌊 | noun | a fast, powerful rush of water | The rain turned the creek into a raging [torrent]. | flood, rush
+deluge | ⛈️ | noun | a huge flood or a very heavy rain | The [deluge] flooded the streets for days. | downpour, flood
+squall | 🌬️ | noun | a sudden, short storm with strong wind | A [squall] tipped over our little sailboat.
+cyclone | 🌀 | noun | a huge storm with winds that spin in a circle | The [cyclone] destroyed many homes on the island. | hurricane, typhoon
+typhoon | 🌀 | noun | a hurricane that forms in the western Pacific Ocean | The [typhoon] brought heavy rain to Japan. | hurricane, cyclone
+haze | 🌫️ | noun | a thin mist, smoke, or dust in the air | A gray [haze] hung over the city.
+smog | 🏭 | noun | dirty air made of smoke and fog | The [smog] made it hard to see the mountains.
+precipitation | 🌧️ | noun | rain, snow, sleet, or hail that falls from the sky | The forecast calls for [precipitation] tomorrow.
+meteorologist | 👩‍🔬 | noun | a scientist who studies weather and makes forecasts | The [meteorologist] warned us about the storm.
+humidity | 💦 | noun | the amount of water in the air | High [humidity] makes summer feel hot and sticky. | dampness
+@story Ziggy the Storm Chaser | ocean
+📺🐉 | Ziggy wanted to be a storm chaser, so he and {Name} visited Dr. Gale, a [meteorologist].
+💦🌡️ | "Today's [humidity] is very high," said Dr. Gale. "A storm may be coming."
+🌧️📊 | "We measure [precipitation] to see how much rain falls."
+🌫️🏙️ | Over the city, there was a gray [haze].
+🏭😷 | "That's [smog]," said Dr. Gale. "Smoke mixed with fog."
+🌬️⛵ | Out at sea, a sudden [squall] made the waves leap.
+🌀🌏 | "Far away, a [typhoon] is spinning over the Pacific," she said, pointing at a map.
+🌀🏝️ | "And this [cyclone] is heading toward an island. We've warned the people to stay safe."
+⛈️🌊 | That night, the rain came down in a [deluge].
+🌊🌉 | The creek behind the lab became a roaring [torrent]. "Being a storm chaser is exciting," said Ziggy, "but I think I'll chase rainbows instead."
