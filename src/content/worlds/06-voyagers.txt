@@ -1,0 +1,236 @@
+# World 6 — voyager words (about grades 5–6).
+
+@world voyagers | Voyagers | 🚢 | Words for deep thinkers and wide horizons
+
+@unit Setting Sail
+embark | 🚢 | verb | to get on a ship or plane, or to start something new | We will [embark] on our cruise at noon. | board, begin
+traverse | 🥾 | verb | to travel across or through a place | The explorers had to [traverse] the icy mountains. | cross
+itinerary | 📋 | noun | a plan of a trip that lists the places you will visit | Our [itinerary] includes three cities in five days. | schedule, plan
+excursion | 🚌 | noun | a short trip, especially for fun | We went on an [excursion] to the waterfall. | outing, trip
+destination | 📍 | noun | the place you are traveling to | Our final [destination] was Grandma's farm. | goal
+transit | 🚇 | noun | the moving of people or things from one place to another | My package is still in [transit].
+commute | 🚆 | verb | to travel regularly between home and work or school | Dad likes to [commute] to the city by train.
+disembark | 🛬 | verb | to get off a ship or plane | Passengers will [disembark] at the front of the plane.
+terminal | 🏢 | noun | a building where passengers start or end a journey | Our flight leaves from [Terminal] B.
+odyssey | 🌊 | noun | a long, adventurous journey | Their trip across the country became an amazing [odyssey]. | epic journey, saga
+@story The Great Voyage | ocean
+🗺️🐉 | {Name}, her family, and Ziggy planned a summer [odyssey]: sailing around the world!
+📋✏️ | {Name} wrote the [itinerary]: Spain, Egypt, India, Japan, and home.
+🏢🧳 | At the harbor [terminal], they waited with their bags.
+🚢⚓ | Finally, they were ready to [embark] on a huge white ship.
+🌊🧭 | For weeks, they would [traverse] three oceans.
+🚇📦 | Their luggage was still in [transit] when they left, but it caught up in Spain!
+🚌🏛️ | In Egypt, they took an [excursion] to see the pyramids.
+🛬🐪 | When the ship docked, everyone had to [disembark] onto a crowded dock with camels.
+🚆🏙️ | In Japan, they saw people [commute] on trains so fast they looked like bullets.
+📍🏠 | When they finally reached their last [destination]—home—Ziggy said, "Can we do it again next year?"
+
+@unit Explain It
+illustrate | 🖼️ | verb | to explain something by giving examples or pictures | Let me [illustrate] my point with a story. | show, demonstrate
+elaborate | ➕ | verb | to explain something in more detail | Can you [elaborate] on your idea? | expand, explain
+demonstrate | 👩‍🏫 | verb | to show how something works or that something is true | The chef will [demonstrate] how to make pasta. | show
+explicit | 📢 | adj | stated clearly and directly, leaving nothing unclear | The teacher gave [explicit] instructions: "No phones." | clear, direct
+implicit | 🤫 | adj | suggested but not said directly | There was an [implicit] message in her smile: "Good job!" | implied, unspoken
+imply | 😉 | verb | to suggest something without saying it directly | Are you trying to [imply] that I ate the cookies? | hint, suggest
+infer | 🔍 | verb | to figure something out from clues rather than being told | From the wet umbrella, I [infer] that it's raining. | deduce, conclude
+indicate | 👉 | verb | to show or point out | The arrow will [indicate] which way to go. | show, signal
+paraphrase | 🔁 | verb | to say something again using different words | Can you [paraphrase] the poem in your own words? | reword
+clarity | 💎 | noun | the quality of being clear and easy to understand | Her speech had great [clarity]. | clearness
+@story Ziggy Teaches Class | school
+👩‍🏫🐉 | The teacher was sick, so Ziggy offered to help teach the class about volcanoes. (With a grown-up watching, of course.)
+👩‍🏫🌋 | First, he wanted to [demonstrate] how a volcano erupts with baking soda and vinegar.
+🖼️📊 | He drew pictures on the board to [illustrate] the layers inside the Earth.
+📢🚫 | He gave [explicit] safety rules: "Goggles on! No touching the lava (it's just red foam)."
+➕🤔 | When Mia asked how hot real lava gets, he had to [elaborate]: "Over a thousand degrees!"
+👉🔴 | He used a pointer to [indicate] where the magma comes from.
+🔁📝 | "Can someone [paraphrase] what I just said?" he asked. {Name} raised her hand.
+🔍🌫️ | "If we see smoke coming out of a mountain, we can [infer] that it might erupt soon," said {Name}.
+😉🍪 | Then Ziggy smiled at the cookie jar, as if to [imply] that it was snack time.
+🤫💛 | Everyone understood the [implicit] message. The class laughed and clapped for Ziggy, whose lesson had great [clarity].
+
+@unit Hard Work
+endeavor | 🎯 | noun | a serious effort to do something hard | Building the bridge was a huge [endeavor]. | effort, attempt
+arduous | ⛰️ | adj | needing a lot of hard work and effort | The climb was long and [arduous]. | grueling, strenuous, difficult
+grueling | 😓 | adj | extremely tiring and demanding | The marathon was a [grueling] race. | arduous, exhausting, punishing
+strenuous | 🏋️ | adj | needing great energy or effort | Moving furniture is [strenuous] work. | arduous, demanding
+tedious | 😴 | adj | long, slow, and boring | Sorting a thousand buttons was [tedious]. | boring, dull
+rigorous | 📏 | adj | very strict, careful, and thorough | Astronauts go through [rigorous] training. | demanding, strict
+effortless | 🕊️ | adj | seeming to need no effort | The dancer made the jump look [effortless]. | easy
+exert | 💪 | verb | to use strength, effort, or power | You'll have to [exert] yourself to push that heavy cart.
+ambitious | 🚀 | adj | having big goals and wanting to succeed | The [ambitious] student wanted to become a doctor. | driven, aspiring
+tenacious | 🐶 | adj | holding on firmly; not giving up | The [tenacious] terrier wouldn't let go of the rope. | persistent, determined
+@story The Sandcastle Contest | beach
+🏖️🏰 | The town held a giant sandcastle contest. {Name} and Ziggy were [ambitious]—they wanted to build the tallest castle ever.
+🎯🪣 | It would be a huge [endeavor].
+🏋️🪣 | Carrying buckets of wet sand was [strenuous].
+😓☀️ | Hours under the hot sun made it a [grueling] day.
+😴🐚 | Decorating every window with tiny shells was [tedious].
+⛰️🏗️ | Building the tall towers was [arduous]—they kept falling over!
+📏🔍 | The judges had [rigorous] rules: no buckets left on the beach, no plastic, no help from grown-ups.
+💪🐉 | Ziggy had to [exert] all his strength to carry the biggest bucket.
+🐶💪 | But they were [tenacious]. Every time a tower fell, they built it again.
+🕊️🏆 | By sunset, they had won first prize. "You make it look [effortless]!" said a judge. {Name} laughed. "It wasn't!"
+
+@unit Good Rulers
+benevolent | 👑 | adj | kind and wanting to do good for others | The [benevolent] queen built schools for every village. | kind, caring
+humane | 🕊️ | adj | showing kindness and mercy toward people and animals | The shelter treats animals in a [humane] way. | kind, compassionate
+virtuous | 😇 | adj | having high moral standards; good | The [virtuous] knight always told the truth. | good, righteous
+integrity | ⚖️ | noun | being honest and having strong moral principles | She showed [integrity] by returning the lost wallet. | honesty, honor
+ethical | 🤝 | adj | morally right and fair | It isn't [ethical] to copy someone's homework. | moral, fair
+principled | 🧭 | adj | acting according to strong beliefs about what is right | The [principled] judge couldn't be bribed.
+decent | 🙂 | adj | good, kind, and honest; or good enough | He's a [decent] person who helps his neighbors. | good, kind
+righteous | ✨ | adj | morally good and fair | The hero was angry at the unfair law, and his anger was [righteous]. | just, virtuous
+conscience | 💭 | noun | the inner voice that tells you right from wrong | My [conscience] told me to say sorry.
+morality | 📜 | noun | ideas about what is right and wrong | Stories often teach lessons about [morality]. | ethics
+@story Queen Rose's Decision | castle
+👑🌹 | Long ago, in the Valley Kingdom, there lived a [benevolent] queen named Rose.
+😇💛 | She was [virtuous] and always tried to do what was right.
+🕊️🐕 | She was [humane], too. No one in her kingdom was allowed to hurt animals.
+💰😈 | One day, a rich merchant offered her a chest of gold if she would let him cut down the royal forest.
+⚖️🙅 | But Rose had [integrity]. "The forest belongs to everyone," she said.
+🤝🌳 | "It wouldn't be [ethical] to sell it for my own gain."
+🧭🗣️ | Her [principled] answer surprised the merchant.
+💭😔 | That night, the merchant's [conscience] bothered him.
+🙂🌲 | He came back the next day. "I'm a [decent] man," he said. "I'd like to plant trees instead."
+✨📜 | The people cheered. "Our queen's choice was [righteous]," they said. Her story became a lesson in [morality] for every child in the kingdom.
+
+@unit Bad Rulers
+tyrant | 😈 | noun | a cruel and unfair ruler | The [tyrant] took away the people's freedom. | dictator, oppressor
+corrupt | 💰 | adj | dishonest, especially using power for money or gain | The [corrupt] mayor took bribes. | dishonest, crooked
+ruthless | 🗡️ | adj | cruel and not caring about others' pain | The [ruthless] pirate showed no mercy. | merciless, cruel
+malicious | 😠 | adj | wanting to harm others | The [malicious] rumor hurt her feelings. | spiteful, mean
+oppress | ⛓️ | verb | to treat people cruelly and unfairly, keeping them down | The king tried to [oppress] the poor villagers. | persecute
+exploit | 🪓 | verb | to use someone unfairly for your own advantage | The factory owner would [exploit] his workers by paying them too little. | take advantage of
+dictator | 🎖️ | noun | a ruler with total power who often rules cruelly | The [dictator] didn't allow elections. | tyrant, despot
+treacherous | 🐍 | adj | likely to betray others; or dangerous | The [treacherous] advisor was secretly helping the enemy. | disloyal, dangerous
+traitor | 🗡️ | noun | someone who betrays their friends or country | The [traitor] gave the castle's secrets to the enemy. | betrayer
+menace | ⚠️ | noun | a person or thing that is a danger | The wolf was a [menace] to the farmer's sheep. | threat, danger
+@story The Kingdom of Shadows | castle
+🌑🏰 | Long ago, a cruel [tyrant] named King Grim ruled the Kingdom of Shadows.
+🎖️🚫 | He was a [dictator] who let no one vote or speak freely.
+⛓️👥 | He would [oppress] the people with heavy taxes.
+💰🤑 | His advisors were [corrupt], stuffing their pockets with gold.
+🪓👷 | He would [exploit] the miners, making them dig all day for no pay.
+🗡️❄️ | He was so [ruthless] that he took the villagers' firewood in the middle of winter.
+😠🗣️ | He spread [malicious] lies about anyone who disagreed with him.
+🐍🤫 | His [treacherous] advisor secretly planned to steal the crown for himself.
+⚠️🐉 | But the biggest [menace] to the king was a brave girl named {Name} and her dragon, who led the people to stand together.
+🗡️👑 | In the end, the advisor turned [traitor] and ran away, and King Grim, alone, gave up his crown. The people chose a fair new leader.
+
+@unit Sure or Unsure?
+adamant | 🪨 | adj | refusing to change your mind | She was [adamant] that she had locked the door. | firm, insistent
+steadfast | ⚓ | adj | firm, loyal, and not changing | The [steadfast] dog waited for its owner every day. | loyal, unwavering
+obstinate | 🐂 | adj | stubbornly refusing to change, even when you should | The [obstinate] mule wouldn't move an inch. | stubborn, mulish
+decisive | ⚡ | adj | able to make decisions quickly and firmly | The [decisive] captain chose a new course right away. | firm, resolute
+hesitant | 🤔 | adj | slow to act or speak because you're unsure | She was [hesitant] to jump into the cold lake. | unsure, reluctant
+waver | 🌾 | verb | to be unsure and keep changing your mind | Don't [waver]—pick a flavor! | hesitate, falter
+doubtful | 🤨 | adj | not sure; probably not true | It's [doubtful] that it will snow in July. | unlikely, uncertain
+certain | ✅ | adj | completely sure | I'm [certain] I left my keys on the table. | sure, positive
+indecisive | 😵‍💫 | adj | not able to make decisions easily | My [indecisive] brother took an hour to choose a toy.
+uncertain | ❓ | adj | not sure; not known yet | The weather for the picnic is [uncertain]. | unsure, unclear
+@story The Ice Cream Problem | city
+🍦🏪 | {Name} and Ziggy went to a new ice cream shop with fifty flavors.
+😵‍💫🐉 | Ziggy was very [indecisive]. "Chocolate? Mango? Bubblegum?"
+🌾🤷 | He would [waver] between them for ten minutes.
+⚡👧 | {Name} was [decisive]. "Strawberry, please!"
+🤔🍓 | Then Ziggy was [hesitant] to try a strange flavor: pickle!
+🤨🥒 | "It's [doubtful] that pickle ice cream tastes good," he said.
+❓😬 | {Name} was [uncertain] too. She'd never tried it.
+🐂🙅 | The shop owner was [obstinate]: "You have to try it before you say no!"
+🪨😤 | Ziggy was [adamant]: "No way!" But then he tasted it… "It's AMAZING!"
+✅⚓ | Now he's [certain] it's his favorite, and he's been a [steadfast] pickle-ice-cream fan ever since.
+
+@unit Fast and Slow
+accelerate | 🏎️ | verb | to go faster | The car began to [accelerate] onto the highway. | speed up
+decelerate | 🛑 | verb | to slow down | The train will [decelerate] as it nears the station. | slow down
+hasten | 🏃 | verb | to hurry or make something happen faster | We must [hasten] home before the storm. | hurry, rush
+expedite | 📦 | verb | to make something happen more quickly | Paying extra will [expedite] your delivery. | speed up, hurry
+prolong | ⏳ | verb | to make something last longer | We wanted to [prolong] our vacation by one more day. | extend, lengthen
+postpone | 📅 | verb | to move something to a later time | The game will be [postponed] because of rain. | delay, put off
+procrastinate | 🛋️ | verb | to keep putting off something you should do | Don't [procrastinate]—do your homework now! | delay, stall
+dawdle | 🐌 | verb | to move slowly or waste time | Don't [dawdle] on the way to school! | linger, loiter
+velocity | 💨 | noun | speed in a certain direction | The rocket's [velocity] was thousands of miles per hour. | speed
+headway | ➡️ | noun | progress toward a goal | We made good [headway] on our project today. | progress
+@story Ziggy's Science Project | school
+📅😩 | Ziggy had a science project due Friday, but he liked to [procrastinate].
+🛋️📺 | On Monday, he watched cartoons. On Tuesday, he played video games.
+🐌🎮 | Even on the way home from school, he would [dawdle], kicking leaves.
+😰📆 | By Wednesday, he had made no [headway] at all!
+📅🙏 | "Can we [postpone] the deadline?" he asked the teacher. "No," she said.
+🏃🔬 | So he had to [hasten]. His project was about how cars speed up and slow down.
+🏎️⬆️ | He built a little ramp. The toy car would [accelerate] as it rolled down.
+🛑🧱 | At the bottom, a brick made it [decelerate].
+💨📏 | He measured the car's [velocity] with a stopwatch.
+📦⏰ | Mom helped [expedite] things by printing his charts. He finished just in time—and decided never to [prolong] the stress again.
+
+@unit Help or Hinder?
+facilitate | 🤝 | verb | to make something easier to do | A good map will [facilitate] our trip. | ease, help
+hinder | 🚧 | verb | to make it hard for someone to do something | The deep snow will [hinder] the rescue team. | hamper, impede, obstruct
+impede | 🪨 | verb | to slow down or block progress | Fallen trees [impede] traffic after the storm. | hinder, obstruct, block
+obstruct | 🚫 | verb | to block a path or get in the way | Don't park where you'll [obstruct] the driveway. | block, hinder, impede
+thwart | 🛡️ | verb | to stop someone from doing what they planned | The guard managed to [thwart] the robbery. | foil, prevent
+enable | 🔓 | verb | to make it possible for someone to do something | Glasses [enable] me to see clearly. | allow, empower
+foster | 🌱 | verb | to help something develop or grow; or to care for a child or pet for a while | Reading together can [foster] a love of books. | encourage, nurture
+bolster | 💪 | verb | to support or make stronger | Winning the first game seemed to [bolster] the team's confidence. | boost, strengthen
+sabotage | 💣 | verb | to secretly damage something to stop it from working | The villain tried to [sabotage] the race car. | undermine, wreck
+interfere | ✋ | verb | to get involved in something when you are not wanted | Please don't [interfere] while I'm working. | meddle
+@story The Rocket Race | lab
+🚀🏁 | {Name} and Ziggy built a model rocket for the school's Rocket Race.
+🤝👨‍🔬 | Their teacher helped [facilitate] the building by giving them good tools.
+🔓📚 | A book about rockets would [enable] them to understand how fuel works.
+🌱💡 | Their science club worked to [foster] a love of space in every student.
+💣😈 | But a jealous boy named Rex planned to [sabotage] their rocket by loosening the fins!
+✋🔧 | He tried to [interfere] while they were working.
+🛡️🐉 | Ziggy spotted him and managed to [thwart] his plan.
+🚧🌬️ | On race day, strong wind threatened to [hinder] every rocket.
+🪨🌳 | A tree on the field could [impede] their launch path.
+🚫🛤️ | So they moved the launch pad so nothing would [obstruct] it.
+💪🎉 | Their rocket flew highest! The win seemed to [bolster] everyone's spirits—even Rex said sorry.
+
+@unit More and Less
+accumulate | 📚 | verb | to gather or pile up over time | Dust tends to [accumulate] under the bed. | collect, build up
+deplete | 🔋 | verb | to use up a supply of something | Running all day can [deplete] your energy. | use up, drain
+replenish | 💧 | verb | to fill something up again | We need to [replenish] the bird feeder. | refill, restock
+augment | ➕ | verb | to make something bigger by adding to it | She took a job to [augment] her savings. | increase, boost
+supplement | 💊 | noun | something added to make something else complete | She takes a vitamin [supplement] every morning. | addition, extra
+abundance | 🍎 | noun | a very large amount of something | The garden produced an [abundance] of tomatoes. | plenty, wealth
+scarce | 🏜️ | adj | hard to find because there isn't much | Water is [scarce] in the desert. | rare, lacking
+dearth | 🍽️ | noun | a lack of something | There was a [dearth] of food during the long winter. | shortage, lack
+hoard | 🐿️ | verb | to collect and hide a large amount of something | Squirrels [hoard] nuts for winter. | stockpile, stash
+squander | 💸 | verb | to waste something, especially money or time | Don't [squander] your allowance on junk. | waste
+@story The Squirrel and the Ant | forest
+🐿️🌰 | In the autumn forest lived two friends: Scamper the squirrel and Tilly the ant.
+🍎🌳 | That fall there was an [abundance] of nuts and berries.
+🐜📦 | Tilly worked hard to [accumulate] seeds in her tunnel.
+🐿️🙈 | Scamper liked to [hoard] his nuts in secret places all over the forest.
+💸🎉 | But one rabbit chose to [squander] his food, eating everything in big feasts.
+❄️🏜️ | When winter came, food became [scarce].
+🍽️😢 | There was a [dearth] of berries, and the rabbit was hungry.
+🔋😓 | The cold began to [deplete] everyone's strength.
+➕🌰 | Scamper and Tilly shared their food to [augment] the rabbit's tiny supply.
+💊🍯 | Tilly even gave him some honey as a [supplement].
+💧🌸 | In spring, they all worked together to [replenish] the forest's stores. {Name} and Ziggy read the story at bedtime. "The moral is: share!" said Ziggy.
+
+@unit Fact or Fiction?
+credible | ✅ | adj | believable and trustworthy | The witness gave a [credible] account of what happened. | believable, reliable
+plausible | 🤔 | adj | seeming reasonable or likely to be true | It's [plausible] that the dog ate your homework—but unlikely! | believable, reasonable
+dubious | 🤨 | adj | doubtful or not trustworthy | The website made [dubious] claims about a magic diet. | questionable, suspicious
+verify | 🔍 | verb | to check that something is true or correct | Always [verify] facts before you share them. | confirm, check
+refute | ❌ | verb | to prove that something is wrong | The scientist managed to [refute] the old theory. | disprove
+contradict | ↔️ | verb | to say the opposite of something | Your story seems to [contradict] what you told me yesterday. | oppose, deny
+confirm | 👍 | verb | to show or say that something is definitely true | Can you [confirm] that the party starts at six? | verify
+accurate | 🎯 | adj | correct and exact | The map was [accurate] down to every street. | correct, precise
+erroneous | 🚫 | adj | wrong or mistaken | The news report had [erroneous] information. | wrong, incorrect
+misleading | 🌀 | adj | giving the wrong idea | The ad was [misleading]—the toy was much smaller in real life. | deceptive
+@story The Bigfoot Report | forest
+📰🦶 | A news website said: "Bigfoot spotted in our town park!" {Name} and Ziggy decided to investigate.
+🤨📸 | The photo looked [dubious]—it was blurry and dark.
+🤔🌲 | "Is it [plausible] that a giant ape lives in our little park?" asked {Name}.
+🔍📱 | "We need to [verify] the facts," said Ziggy.
+↔️🗣️ | Two witnesses told stories that seemed to [contradict] each other. One said it was brown; the other said it was white.
+✅👮 | But one witness seemed [credible]: the park ranger. "I saw something big," she said.
+👣📏 | They measured the footprints. They were [accurate] copies of… bear tracks!
+❌🐻 | The bear tracks helped [refute] the Bigfoot theory.
+👍🐻 | The ranger was able to [confirm] that a bear had wandered through.
+🚫📰 | The website's report was [erroneous].
+🌀😅 | "And that headline was [misleading]," said {Name}. "But a bear in the park is still pretty exciting!"
