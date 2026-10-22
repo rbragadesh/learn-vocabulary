@@ -1060,3 +1060,239 @@ shambles | 🗑️ | noun | a state of total mess and disorder | After the party
 🚢🪵 | {Name} found a tiny toy boat in the [wreckage].
 🚜🏗️ | "Let's [raze] what's left and start fresh," she said.
 🦠🏰 | Ziggy found a way to [eradicate] the crab problem: he built a moat! The new castle was even better.
+
+@unit Safe Places
+sanctuary | 🕊️ | noun | a holy place; or a safe place where people or animals are protected | The bird [sanctuary] protected rare parrots. | refuge, haven
+refuge | ⛰️ | noun | a place that gives shelter or protection from danger | The cave was a [refuge] from the storm. | shelter, sanctuary, haven
+haven | ⚓ | noun | a safe, peaceful place | The library was her [haven] on noisy days. | refuge, sanctuary
+bastion | 🛡️ | noun | a strong defense; or something that firmly protects an idea | The old library was a [bastion] of learning. | stronghold
+citadel | 🏯 | noun | a fortress on high ground that protects a city | The [citadel] sat on a hill above the town. | fortress
+stronghold | 🏰 | noun | a place that has been made very strong against attack | The knights retreated to their [stronghold]. | fortress, bastion
+sentinel | 💂 | noun | a soldier or guard who keeps watch | A [sentinel] stood at the gate all night. | guard, lookout
+vigil | 🕯️ | noun | a time of staying awake to keep watch or pray | They held a [vigil] by the sick puppy's bed. | watch
+rampart | 🧱 | noun | a wide wall of earth or stone built to protect a castle or city | Archers stood on the [rampart]. | wall, bulwark
+bulwark | 🌊 | noun | a strong wall or something that protects against danger | The sea wall is a [bulwark] against the waves. | defense, rampart
+@story Guardians of the Dragon Valley | castle
+🐉🏞️ | Long ago, baby dragons lived in a valley that was a [sanctuary] from hunters.
+🏯⛰️ | High on the hill stood the [citadel], keeping watch over the valley.
+🧱🏹 | Thick stone made a [rampart] all around it.
+🏰🔥 | Inside, the [stronghold] held food, water, and dragon eggs.
+💂👧 | {Name} was chosen as a [sentinel], guarding the gate with Ziggy.
+🕯️🌙 | One night, they kept a [vigil], staying awake until dawn.
+🌊🛡️ | A giant wall of magic was a [bulwark] against invaders.
+⛈️🕳️ | When a storm came, the dragons found [refuge] in a deep cave.
+⚓😌 | The cave was a warm, cozy [haven] filled with glowing crystals.
+🛡️📚 | The valley became a [bastion] of kindness, where all creatures were welcome.
+
+@unit Wanting
+yearning | 💭 | noun | a strong wish or longing for something | She felt a [yearning] to see the ocean again. | longing
+hanker | 🍕 | verb | to have a strong wish for something | I [hankered] for pizza all week. | crave, long, pine
+pine | 🥺 | verb | to long for something or someone, often sadly | The puppy [pined] for its owner while she was away. | long, yearn, hanker
+ardor | ❤️‍🔥 | noun | very strong feeling, especially of love or eagerness | He played the piano with great [ardor]. | passion, fervor
+fervor | 🔥 | noun | very strong and warm feeling | The fans cheered with [fervor]. | passion, ardor, zeal
+whim | 🎈 | noun | a sudden wish or idea, often without a reason | On a [whim], we drove to the beach. | impulse, fancy
+inclination | ↗️ | noun | a natural feeling of wanting to do something | My first [inclination] was to run away. | tendency, propensity
+predilection | 💜 | noun | a strong liking for something | She has a [predilection] for spicy food. | preference, penchant
+penchant | 🎨 | noun | a strong liking or habit of enjoying something | Grandpa has a [penchant] for telling long stories. | fondness, predilection
+propensity | 📊 | noun | a natural tendency to behave in a certain way | Cats have a [propensity] to sleep in sunny spots. | tendency, inclination
+@story Ziggy's Wish List | market
+📝🐉 | Ziggy made a list of everything he wanted. It was very long.
+🍕😋 | He [hankered] for a giant pizza with extra cheese.
+🥺🏝️ | He [pined] for the island where he was born.
+💭⭐ | He had a [yearning] to touch a real star.
+🎈🛍️ | On a [whim], he bought a balloon shaped like a taco.
+💜🌶️ | {Name} knew Ziggy had a [predilection] for spicy food.
+🎨🖍️ | He also had a [penchant] for drawing silly faces on bananas.
+📊😴 | And he had a [propensity] to fall asleep after lunch.
+↗️🏃 | {Name}'s first [inclination] was to laugh at the list.
+❤️‍🔥🎶 | But Ziggy read it aloud with such [ardor] that she listened.
+🔥🎉 | At the end, he shouted with [fervor], "But most of all, I want my best friend {Name}!"
+
+@unit Saying No
+rebuff | 🙅 | verb | to refuse an offer or friendly attempt in a rude way | She [rebuffed] his offer of help. | reject, snub, spurn
+spurn | 👎 | verb | to refuse or reject with dislike | The cat [spurned] the new food and walked away. | reject, scorn, rebuff
+repudiate | 🚫 | verb | to refuse to accept or support | The scientist [repudiated] the false claim. | reject, deny, disavow
+renounce | 👑 | verb | to formally give up a right, title, or belief | The prince [renounced] his claim to the throne. | give up, relinquish
+abstain | 🙊 | verb | to choose not to do something, especially something you enjoy | He [abstained] from candy for a whole month. | refrain, forgo
+eschew | 🍔 | verb | to stay away from something on purpose | She [eschewed] junk food to stay healthy. | avoid, shun
+shun | 🙈 | verb | to keep away from someone or something on purpose | The other birds [shunned] the noisy crow. | avoid, eschew
+forgo | ⏭️ | verb | to choose to go without something | We decided to [forgo] dessert. | give up, abstain
+disavow | 🤷 | verb | to say you are not connected with or responsible for something | The company [disavowed] the rude message. | deny, repudiate
+retract | ↩️ | verb | to take back something you said or offered | He [retracted] his mean comment and apologized. | withdraw, take back
+@story The Prince Who Said No | castle
+👑🤴 | Prince Pip lived in a castle and was tired of being a prince.
+🍰🙊 | He [abstained] from the royal feast and ate an apple instead.
+🍔🥗 | He [eschewed] fancy food and liked simple soup.
+👎💎 | When a duke offered him diamonds, Pip [spurned] them.
+🙅🎩 | When a lord tried to make him wear a tall hat, he [rebuffed] the lord.
+🙈🦚 | He [shunned] the proud peacocks in the garden.
+⏭️🐎 | He decided to [forgo] his golden carriage and ride a bike.
+🚫📜 | He [repudiated] the old rule that only princes could read books.
+👑➡️ | Finally, he [renounced] the crown and became a librarian!
+🤷😅 | His uncle [disavowed] the bike-riding prince, saying, "He's no relative of mine!"
+↩️🤗 | But when he saw how happy Pip was, the uncle [retracted] his words. {Name} cheered.
+
+@unit Fairness and Unfairness
+inequity | ⚖️ | noun | unfairness or lack of justice | The [inequity] of the rules made the kids upset. | unfairness, injustice, inequality
+persecution | 🏃 | noun | cruel or unfair treatment of people because of who they are or what they believe | Many people left their country to escape [persecution]. | oppression
+tyranny | 👹 | noun | cruel and unfair use of power by a ruler | The people rebelled against the king's [tyranny]. | oppression, dictatorship
+subjugate | ⛓️ | verb | to bring under control by force | The empire tried to [subjugate] its neighbors. | conquer, oppress
+disenfranchise | 🗳️ | verb | to take away someone's right to vote or other rights | Unfair laws tried to [disenfranchise] many citizens.
+marginalize | ↔️ | verb | to treat a person or group as unimportant and push them to the edge | No one should be [marginalized] because they are different. | exclude, sideline
+exploitation | 💰 | noun | unfairly using someone's work or resources for your own gain | Child [exploitation] in factories was finally banned. | abuse, misuse
+inequality | 📊 | noun | a situation where people are not treated equally or don't have the same chances | They worked to end [inequality] between rich and poor. | disparity, inequity
+oppression | 🪨 | noun | cruel and unfair treatment that keeps people from being free | The people sang songs of hope during years of [oppression]. | tyranny, persecution
+bigotry | 😠 | noun | being unfair and hateful to people who are different from you | We must stand up against [bigotry]. | prejudice, intolerance
+@story The Kingdom of Tall and Small | city
+🏰👑 | In the Kingdom of Spires, a greedy king ruled with [tyranny].
+📏🚫 | He said only tall people could vote. He wanted to [disenfranchise] all the short people.
+↔️🧒 | Short folks were [marginalized], pushed to the edge of town.
+💰⛏️ | The king's [exploitation] of short workers made him rich while they stayed poor.
+📊🏠 | The [inequality] was easy to see: tall people had big houses, short people had tiny huts.
+😠🗣️ | The king's [bigotry] made him say mean things about anyone who wasn't tall.
+🏃🌲 | Some short folks fled into the forest to escape [persecution].
+⛓️⚔️ | The king even tried to [subjugate] the neighboring kingdom of Pebbletown.
+🪨🎶 | But the people never gave up hope during the [oppression].
+⚖️🐉 | {Name} and Ziggy helped everyone—tall and short—speak up together against the [inequity].
+🗳️🎉 | The king had to step down, and everyone got to vote for a fair new leader.
+
+@unit States of Mind
+preoccupied | 🤔 | adj | thinking so much about one thing that you don't notice other things | He was [preoccupied] with his test and forgot his lunch. | absorbed, engrossed
+distracted | 📱 | adj | unable to pay attention because something else has drawn your mind away | The noise outside made me [distracted]. | inattentive
+absentminded | 🙃 | adj | often forgetting things because your mind is elsewhere | My [absentminded] uncle put his keys in the fridge. | forgetful
+rapt | 😍 | adj | so interested that you are completely focused | The children listened with [rapt] attention. | spellbound, engrossed
+reverie | ☁️ | noun | a state of pleasant dreamy thoughts | She was lost in a [reverie] about summer vacation. | daydream
+stupor | 😵 | noun | a state of being only half awake and unable to think clearly | After the long trip, he stumbled around in a [stupor]. | daze
+trance | 🌀 | noun | a state like sleep where a person seems awake but is not aware | The music put her in a peaceful [trance]. | daze, spell
+daydream | 💭 | noun | pleasant thoughts that take your mind away from what is happening around you | In my [daydream], I was flying over mountains. | reverie, fantasy
+lucid | 💎 | adj | clear and easy to understand; or thinking clearly | Her explanation was so [lucid] that everyone understood. | clear, coherent
+groggy | 🥱 | adj | weak, sleepy, and unable to think clearly | I felt [groggy] after my nap. | drowsy, dazed
+@story The Sleepy Monday | home
+⏰🥱 | On Monday morning, {Name} woke up feeling [groggy].
+😵🦷 | She brushed her teeth in a [stupor], using hair gel instead of toothpaste!
+🙃🧦 | Ziggy was [absentminded] too—he put on two different socks.
+🤔📚 | At breakfast, {Name} was [preoccupied] with her spelling test.
+📱🐦 | A bird outside made Ziggy [distracted], and he poured juice on his cereal.
+☁️🏖️ | On the bus, {Name} slipped into a [reverie] about the beach.
+💭🦄 | In her [daydream], she rode a unicorn across the waves.
+🌀🎵 | Soft music on the bus put Ziggy in a [trance].
+😍📖 | But at school, the teacher read a story, and everyone listened in [rapt] silence.
+💎✏️ | By test time, {Name}'s mind was [lucid]—and she got every word right!
+
+@unit Followers and Rebels
+figurehead | 🗿 | noun | a leader in name only, with no real power; or a carved figure on the front of a ship | The queen was just a [figurehead]; the council made the real decisions.
+protégé | 🧑‍🎓 | noun | a young person who is taught and guided by someone older and more experienced | The famous chef trained her [protégé] for years. | apprentice, disciple
+disciple | 📿 | noun | a follower who learns from and spreads the ideas of a teacher | The wise teacher had many [disciples]. | follower, protégé
+sycophant | 🙇 | noun | a person who praises powerful people too much to win their favor | The king was surrounded by [sycophants] who agreed with everything. | flatterer, toady, lackey
+lackey | 🧹 | noun | a servant, or someone who obeys another person without question | The villain sent his [lackey] to fetch the treasure. | servant, minion, sycophant
+minion | 🟡 | noun | a follower who does whatever a powerful person orders | The evil wizard's [minions] carried out his plans. | underling, lackey, henchman
+henchman | 🕴️ | noun | a loyal helper of a criminal or a villain | The thief's [henchman] guarded the door. | minion, sidekick
+entourage | 👯 | noun | a group of people who travel with an important person | The movie star arrived with her [entourage]. | retinue, followers
+maverick | 🐎 | noun | a person who thinks and acts independently, not following the group | The [maverick] scientist tried ideas no one else would. | rebel, nonconformist, iconoclast
+iconoclast | 🔨 | noun | a person who attacks or questions popular beliefs and traditions | The [iconoclast] painter broke every art rule. | rebel, maverick
+@story The Villain's Lair | cave
+🦹🏰 | Deep in a cave lived Count Grumble, who wanted to steal all the world's cookies.
+🟡🟡 | His [minions], small yellow creatures, ran around doing his chores.
+🕴️🚪 | His tall [henchman] guarded the door.
+🧹☕ | A tired [lackey] brought him tea every hour.
+🙇👏 | A [sycophant] clapped at every word he said. "Brilliant, sir!"
+🗿👑 | But Count Grumble was only a [figurehead]. His mother was really in charge!
+👯🎩 | When he traveled, his whole [entourage] came along with trumpets.
+🧑‍🎓🐉 | Count Grumble had a young [protégé]—a little dragon named Zippy.
+📿📚 | Zippy was supposed to be his loyal [disciple], learning to be evil.
+🐎✨ | But Zippy was a [maverick]. He thought for himself.
+🔨🍪 | Zippy became an [iconoclast], questioning the Count's rules. With {Name} and Ziggy's help, he gave the cookies back to everyone!
+
+@unit Luck and Fortune
+fortuitous | 🍀 | adj | happening by lucky chance | Finding a dollar on the sidewalk was [fortuitous]. | lucky, chance
+serendipity | 🌈 | noun | finding something good without looking for it | It was pure [serendipity] that we met our new neighbor at the zoo. | luck, chance
+auspicious | ⭐ | adj | showing signs that something will be successful | A sunny morning was an [auspicious] start to our trip. | promising, favorable
+inauspicious | ⛈️ | adj | showing signs that things will go badly | Spilling juice on my shirt was an [inauspicious] start to the day. | unpromising, ominous
+hapless | 😣 | adj | unlucky and often having bad things happen | The [hapless] cat got stuck in the tree again. | unlucky, unfortunate
+jinx | 🐈‍⬛ | noun | something or someone thought to bring bad luck | He thought the broken mirror was a [jinx]. | curse, hex
+windfall | 🍎 | noun | an unexpected piece of good luck, especially money | Winning the contest was a [windfall] for the family. | bonanza
+boon | 🎁 | noun | something helpful or good that you receive | The new bridge was a [boon] to the village. | blessing, benefit
+bane | 🐛 | noun | something that causes a lot of trouble or misery | Mosquitoes are the [bane] of summer camping. | curse, plague
+providence | 🙏 | noun | care and protection from God or nature; or wise planning for the future | They thanked [providence] for the safe journey. | fate, destiny
+@story Ziggy's Lucky Day | park
+🌅⭐ | The day began with an [auspicious] sign: a double rainbow!
+🐈‍⬛😟 | But then a black cat crossed Ziggy's path. "It's a [jinx]!" he cried.
+⛈️🧦 | It was an [inauspicious] start when Ziggy stepped in a puddle with his new socks.
+😣🍦 | The [hapless] dragon dropped his ice cream on the ground.
+🐛🦟 | Mosquitoes, the [bane] of the park, kept biting his tail.
+🍀🪙 | Then something [fortuitous] happened: he found a shiny coin in the grass.
+🍎💰 | The coin was rare! Selling it gave Ziggy a [windfall] of money.
+🌈🐶 | By pure [serendipity], {Name} found a lost puppy behind the slide.
+🎁🏠 | The puppy's family was so happy. Their reward was a [boon]—free ice cream for a year!
+🙏✨ | "Maybe it was [providence]," said {Name}. "Or maybe black cats are lucky after all!"
+
+@unit Change and Direction
+mutate | 🧬 | verb | to change in form or nature, especially in living things | The virus [mutated] into a new kind. | change, evolve
+transfigure | ✨ | verb | to change into something more beautiful or glorious | Joy [transfigured] her tired face. | transform
+morph | 🫧 | verb | to change smoothly from one shape or thing into another | The cloud [morphed] into the shape of a rabbit. | transform, shift
+vacillate | 🔁 | verb | to keep changing your mind between choices | She [vacillated] between chocolate and vanilla for ten minutes. | waver, hesitate
+deviate | ↪️ | verb | to move away from a plan, path, or rule | The hikers [deviated] from the trail and got lost. | stray, depart, diverge
+diverge | 🔀 | verb | to split and go in different directions | The road [diverged] into two paths. | separate, split, deviate
+converge | 🎯 | verb | to come together from different directions | All the rivers [converged] at the lake. | meet, unite
+metamorphose | 🦋 | verb | to change completely into a different form | A tadpole will [metamorphose] into a frog. | transform
+reform | 🔧 | verb | to make something better by changing it; or to improve your behavior | The town [reformed] its school rules. | improve, revise, revamp
+revamp | 🛠️ | verb | to change something to make it new and better | We [revamped] the old treehouse with fresh paint. | renovate, redo, reform
+@story The Shape-Shifting Cloud | sky
+☁️🐉 | {Name} and Ziggy lay on a hill, watching a magical cloud.
+🫧🐰 | The cloud [morphed] into a fluffy rabbit.
+🔀🐇 | Then it [diverged] into two rabbits floating apart.
+🎯☁️ | Soon the two clouds [converged] again into one big cloud.
+🧬🐲 | It [mutated] into a wild creature with six legs and three tails!
+🦋✨ | Then it began to [metamorphose] into a giant butterfly.
+🌅💖 | The sunset [transfigured] it into a glowing pink and gold dream.
+↪️🌬️ | A gust of wind made it [deviate] from its path and drift toward the sea.
+🔁🤔 | Ziggy [vacillated]: should they follow it or go home for dinner?
+🛠️🏠 | At home, they [revamped] their fort to look like a cloud castle.
+🔧📋 | They even [reformed] their fort rules: "Rule one: always watch the clouds."
+
+@unit Virtue and Vice
+virtue | 😇 | noun | a good quality in a person, like honesty or kindness | Patience is a [virtue]. | goodness, merit
+vice | 😈 | noun | a bad habit or quality | His only [vice] was eating too many sweets. | fault, flaw
+egotism | 🪞 | noun | thinking too much about yourself and how important you are | His [egotism] made him talk only about himself. | vanity, conceit, arrogance
+hypocrisy | 🎭 | noun | pretending to have beliefs or good qualities that you do not really have | It is [hypocrisy] to tell others not to litter and then drop trash yourself. | insincerity
+sanctimonious | 😤 | adj | acting as if you are better or more moral than other people | His [sanctimonious] lecture about manners annoyed everyone. | self-righteous, preachy
+piety | 🙏 | noun | deep respect and devotion to religion or to what is good | The monk was known for his [piety]. | devotion, holiness
+scruple | 🤔 | noun | a feeling that stops you from doing something you think is wrong | He had no [scruple] about taking the last cookie. | qualm, conscience
+propriety | 🎩 | noun | behavior that is correct and polite | She acted with perfect [propriety] at the wedding. | decorum, manners, etiquette
+decorum | 🍵 | noun | polite and proper behavior suitable for a situation | The guests behaved with [decorum] at the royal tea. | propriety, dignity
+rectitude | 📏 | noun | honest and morally correct behavior | The judge was famous for her [rectitude]. | integrity, honesty, uprightness
+@story The Royal Tea Party | castle
+🍵👑 | {Name} and Ziggy were invited to the queen's royal tea party.
+🎩🙇 | Everyone had to act with [propriety]: no slurping, no burping.
+🍰🧁 | Ziggy tried hard to keep his [decorum], but the cakes smelled so good.
+😇🤝 | The queen said, "Kindness is the greatest [virtue] of all."
+🪞💬 | Duke Pompous was full of [egotism]. He talked only about his own fancy shoes.
+😤👆 | He gave a [sanctimonious] speech about table manners.
+🎭🍪 | Then he secretly stuffed his pockets with cookies. What [hypocrisy]!
+😈🍬 | Ziggy admitted his own [vice]: "I love sweets way too much."
+🤔🍪 | But he had a [scruple] about sneaking cookies, so he asked politely.
+🙏⛪ | A gentle bishop, known for his [piety], smiled at Ziggy's honesty.
+📏⚖️ | The queen praised Ziggy's [rectitude] and gave him the biggest cupcake!
+
+@unit The Wise Ones
+sage | 🦉 | noun | a very wise person, usually old and respected | People traveled far to ask the [sage] for advice. | wise person, mentor
+sagacious | 🧙 | adj | wise and showing good judgment | The [sagacious] owl knew the answer to every riddle. | wise, shrewd, insightful
+epiphany | 💡 | noun | a sudden moment of understanding something important | She had an [epiphany]: the key was under the mat all along! | revelation, realization
+insightful | 🔎 | adj | showing deep and clear understanding | His [insightful] question surprised the teacher. | perceptive, sagacious
+contemplative | 🧘 | adj | thinking deeply and quietly | The [contemplative] girl sat by the lake, lost in thought. | thoughtful, reflective
+profound | 🌊 | adj | very deep or intense in meaning or feeling | The book had a [profound] effect on me. | deep, meaningful
+equanimity | ⚖️ | noun | staying calm and balanced, especially in hard times | She faced the bad news with [equanimity]. | composure, calmness
+introspection | 🪞 | noun | looking inward and thinking about your own thoughts and feelings | After the argument, a moment of [introspection] helped him apologize. | self-reflection, soul-searching
+mindful | 🍃 | adj | aware of what you are doing, thinking, and feeling | Be [mindful] of others when you speak. | aware, attentive
+temperance | 🥛 | noun | the habit of not doing or having too much of something | Practicing [temperance], she ate only one slice of cake. | moderation, self-control
+@story The Sage on the Mountain | mountain
+⛰️🐉 | {Name} and Ziggy climbed a tall mountain to meet a famous [sage].
+🦉🏔️ | At the top sat an old owl. "I am the [sagacious] Owl of the Peaks," she hooted.
+🧘🌄 | The owl was [contemplative], gazing silently at the clouds.
+❓🐉 | Ziggy asked, "How can I be wise like you?" The owl smiled at his [insightful] question.
+🪞💭 | "Start with [introspection]," said the owl. "Look inside and know yourself."
+🍃👣 | "Be [mindful] of each step you take and each word you say."
+🥛🍰 | "Practice [temperance]: enough cake is better than too much cake."
+⚖️🌪️ | "And keep your [equanimity] when storms come. Stay calm inside."
+🌊❤️ | Her words were simple, but their meaning was [profound].
+💡✨ | Suddenly {Name} had an [epiphany]: "Every word we learned made us a little wiser!"
