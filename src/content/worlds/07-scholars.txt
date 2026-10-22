@@ -1029,3 +1029,214 @@ condense | 💦 | verb | to turn from a gas into a liquid; or to make shorter | 
 🌫️🍪 | Meanwhile, the smell of baking cookies began to [permeate] the castle—Ziggy's way of cheering everyone up.
 ♨️🐉 | Ziggy breathed warm air to make the water [evaporate].
 💦🪟 | The steam began to [condense] on the windows. By morning, the castle was dry—and everyone had cookies.
+
+@unit Light and Fire
+illuminate | 💡 | verb | to light up, or to make something clear | Lanterns [illuminate] the path at night. | light up, brighten
+radiate | ☀️ | verb | to send out light, heat, or a feeling in all directions | The fire began to [radiate] warmth. | give off, emit
+emit | 📡 | verb | to send out light, sound, heat, or gas | Fireflies [emit] a soft glow. | give off, release
+shroud | 🌫️ | verb | to cover or hide something completely | Fog began to [shroud] the castle. | cloak, veil
+veil | 👰 | noun | a thin covering that hides something | A [veil] of mist hung over the lake. | curtain, screen
+incandescent | 💡 | adj | glowing with heat; or very bright | The [incandescent] bulb grew hot. | glowing, radiant
+fluorescent | 🟢 | adj | giving off a bright glow, especially under special light | The [fluorescent] paint glowed in the dark.
+kindle | 🪵 | verb | to start a fire; or to stir up a feeling | We used dry leaves to [kindle] the campfire. | light, ignite
+smolder | 🔥 | verb | to burn slowly with smoke but no flame | The campfire began to [smolder] after the rain. | smoke
+ignite | 🧨 | verb | to catch fire or make something catch fire | A tiny spark can [ignite] dry grass. | light, kindle
+@story The Lantern Festival | night
+🏮🌙 | Every autumn, {Name}'s town held a Lantern Festival.
+🌫️🏰 | As night fell, fog began to [shroud] the old castle.
+👰🌊 | A [veil] of mist covered the lake.
+🪵🔥 | {Name} gathered twigs to [kindle] a small fire.
+🧨🐉 | Ziggy used a tiny puff to [ignite] each lantern's candle.
+💡🏮 | Hundreds of lanterns began to [illuminate] the streets.
+☀️💛 | The fires seemed to [radiate] warmth across the crowd.
+📡✨ | The lanterns would [emit] a soft golden glow.
+🟢🎨 | Kids painted pictures with [fluorescent] paint that glowed in the dark.
+💡🎉 | An old [incandescent] bulb hung over the stage.
+🔥🌌 | Late at night, the bonfire began to [smolder], sending up curls of smoke toward the stars.
+
+@unit Best of the Best
+surpass | 🏆 | verb | to be better or greater than | Her score will [surpass] last year's record. | exceed, outdo
+exceed | 📈 | verb | to go beyond a limit or amount | Don't [exceed] the speed limit. | surpass, go beyond
+outdo | 🥇 | verb | to do better than someone else | The twins always try to [outdo] each other. | beat, surpass
+outshine | 🌟 | verb | to be much better or brighter than others | The young singer managed to [outshine] the famous star. | eclipse, surpass
+transcend | 🚀 | verb | to go beyond the usual limits | Great music can [transcend] language. | rise above, surpass
+pinnacle | 🏔️ | noun | the highest point of success | Winning the gold medal was the [pinnacle] of her career. | peak, summit, height
+epitome | 💎 | noun | a perfect example of something | Ziggy is the [epitome] of a loyal friend. | embodiment, model
+unrivaled | 👑 | adj | better than all others | Her baking skills are [unrivaled]. | unmatched, peerless
+unparalleled | 🌈 | adj | having no equal; better than anything else | The view from the top was [unparalleled]. | unmatched, unequaled
+peerless | 🦅 | adj | so good that nobody else compares | He was a [peerless] storyteller. | unrivaled, matchless
+@story The Great Bake-Off | kitchen
+🧁🏆 | {Name}'s grandma entered the National Bake-Off. Her pies were [unrivaled].
+🥇😤 | Every year, the other bakers tried to [outdo] her.
+📈🍰 | This year, one baker made a cake that would [exceed] ten feet tall!
+🌟👩‍🍳 | A young chef tried to [outshine] everyone with a glittering chocolate tower.
+🏆🥧 | But Grandma hoped her new pie would [surpass] them all.
+💎🍎 | It was the [epitome] of a perfect apple pie: golden, flaky, and warm.
+🌈😋 | The judges said the taste was [unparalleled].
+🦅🎖️ | "Grandma is a [peerless] baker," said Ziggy proudly.
+🚀❤️ | "Good food can [transcend] language and bring people together," said the head judge.
+🏔️🎉 | Winning first place was the [pinnacle] of Grandma's baking career. She shared her pie with all the other bakers.
+
+@unit Busy or Lazy?
+sedentary | 🛋️ | adj | sitting a lot and not moving much | A [sedentary] life is not good for your health. | inactive, idle
+lethargic | 😴 | adj | very tired and without energy | I felt [lethargic] after the long flight. | sluggish, listless
+industrious | 🐝 | adj | hard-working | The [industrious] ants built a huge hill. | diligent, hardworking
+productive | 📈 | adj | getting a lot done | We had a [productive] day cleaning the garage. | effective, fruitful
+tireless | 🔋 | adj | working very hard without seeming to get tired | The [tireless] nurses worked all night. | untiring, energetic
+dynamic | ⚡ | adj | full of energy and new ideas | The [dynamic] coach made practice fun. | energetic, lively
+listless | 😑 | adj | without energy or interest | The sick puppy was [listless]. | lethargic, sluggish
+hectic | 🌪️ | adj | very busy and rushed | The morning was [hectic] with everyone getting ready. | frantic, busy
+leisurely | 🐢 | adj | slow and relaxed, without hurrying | We took a [leisurely] walk by the river. | relaxed, unhurried
+bustle | 🏃 | noun | busy, noisy activity | I love the [bustle] of the market on Saturdays. | activity, commotion
+@story The Busy Beehive | garden
+🐝🏠 | {Name} and Ziggy watched the beehive in Grandma's garden.
+🐝💪 | The bees were [industrious], flying back and forth all day.
+🔋🌸 | They were [tireless], visiting thousands of flowers.
+📈🍯 | Their work was [productive]—the hive filled with honey.
+⚡🐝 | The queen bee was [dynamic], keeping the whole hive organized.
+🌪️🐝 | Inside the hive, life was [hectic].
+🏃🌻 | {Name} loved watching the [bustle].
+🛋️🐉 | Ziggy, on the other hand, was [sedentary] that day, lying on the grass.
+😴☀️ | The hot sun made him [lethargic].
+😑🐝 | One little bee seemed [listless]. It was too tired to fly.
+🐢🌼 | {Name} gave it a drop of sugar water, and soon it took a [leisurely] flight back to the hive.
+
+@unit Running a City
+bureaucracy | 📁 | noun | a system of government with many offices, rules, and paperwork | The [bureaucracy] made it slow to get a permit. | red tape, administration
+municipal | 🏛️ | adj | having to do with a city or town government | The [municipal] pool is open to everyone. | city, civic
+jurisdiction | ⚖️ | noun | the official power to make decisions or enforce laws in an area | The case is outside the town's [jurisdiction]. | authority, control
+authority | 👮 | noun | the power to give orders; or a person or group with that power | The principal has the [authority] to cancel school. | power, control
+official | 📋 | noun | a person who holds a position of authority | A city [official] came to inspect the bridge.
+administer | 💼 | verb | to manage or run something; or to give medicine | The school will [administer] the tests. | manage, run
+census | 📊 | noun | an official count of the population | The [census] counts every person in the country.
+ordinance | 📜 | noun | a law made by a city or town | A city [ordinance] bans dogs on the beach. | law, rule
+constituent | 🧑‍🤝‍🧑 | noun | a voter who lives in a lawmaker's area | The mayor listened to every [constituent].
+referendum | 🗳️ | noun | a vote by all the people on one question | The town held a [referendum] on building a new library. | vote, ballot
+@story The New Library Vote | city
+📚🏛️ | {Name}'s town needed a new library, but it wasn't simple.
+📁😩 | The [bureaucracy] meant lots of forms and meetings.
+🏛️🏊 | The [municipal] government ran the parks, the pool, and the library.
+📊👥 | A [census] showed that the town had grown—there were twice as many kids!
+📜🗳️ | A city [ordinance] said big projects needed the people's vote.
+🗳️📅 | So the town held a [referendum].
+🧑‍🤝‍🧑🗣️ | {Name} and Ziggy wrote to the mayor. Every [constituent] had a voice!
+📋🔍 | A city [official] checked the voting.
+⚖️🏘️ | Only people within the town's [jurisdiction] could vote.
+👮✅ | The voting [authority] counted the ballots. The library won!
+💼📖 | Now the town would [administer] a brand-new library with a dragon-sized reading room.
+
+@unit Courtroom 2
+statute | 📜 | noun | a written law passed by a government | The [statute] says you must wear a seatbelt. | law, rule
+plaintiff | 🙋 | noun | the person who brings a case to court | The [plaintiff] said the company broke its promise.
+defendant | 🧑‍⚖️ | noun | the person accused in a court case | The [defendant] said he was innocent. | accused
+prosecute | ⚖️ | verb | to bring a legal case against someone in court | The state will [prosecute] the thief. | charge, try
+acquit | 🕊️ | verb | to decide in court that someone is not guilty | The jury may [acquit] the man. | clear, free
+lawsuit | 📂 | noun | a case brought to court by one person or group against another | The neighbors filed a [lawsuit] over the fence. | case, suit
+legitimate | ✅ | adj | allowed by law or rules; or reasonable | Being sick is a [legitimate] reason to miss school. | valid, lawful
+illicit | 🚫 | adj | not allowed by law or rules | The police stopped an [illicit] sale of fireworks. | illegal, forbidden
+liable | ⚠️ | adj | legally responsible for something | The driver is [liable] for the damage. | responsible, accountable
+exonerate | 🙌 | verb | to officially show that someone is not guilty | New evidence helped [exonerate] the prisoner. | clear, vindicate
+@story The Case of the Broken Fence | home
+🏡⚖️ | Mr. Lee and Mrs. Diaz went to court over a broken fence.
+📂🗂️ | Mrs. Diaz filed a [lawsuit].
+🙋👵 | As the [plaintiff], she said Mr. Lee's tree had knocked the fence down.
+🧑‍⚖️👨 | Mr. Lee, the [defendant], said it was the storm's fault.
+📜🔍 | The lawyer read a [statute]: "Owners must care for their trees."
+⚠️🌳 | "If the tree was weak, Mr. Lee is [liable]," said the lawyer.
+⚖️🚫 | "We won't [prosecute] anyone," said the judge. "This is about fairness."
+✅📸 | {Name} and Ziggy had a [legitimate] piece of evidence: a photo of the storm!
+🚫🎆 | It also showed something [illicit]: a teenager setting off fireworks that hit the fence!
+🙌🕊️ | The photo helped [exonerate] Mr. Lee. The judge decided to [acquit] him, and both neighbors fixed the fence together.
+
+@unit News and Truth
+censorship | 🚫 | noun | stopping people from seeing or hearing certain information | The book was banned because of [censorship].
+sensational | 📰 | adj | made to cause excitement, often by exaggerating | The [sensational] headline said aliens had landed! | dramatic, shocking
+editorial | ✍️ | noun | a newspaper article that gives the editor's opinion | The [editorial] argued for a new park.
+article | 📄 | noun | a piece of writing in a newspaper or magazine | I read an [article] about sharks.
+journalism | 🗞️ | noun | the work of collecting and reporting news | She studied [journalism] in college.
+tabloid | 📢 | noun | a newspaper with short, often sensational stories about famous people | The [tabloid] said a movie star was a vampire.
+misinformation | ❌ | noun | false or wrong information | The website was full of [misinformation].
+transparency | 🔍 | noun | being open and honest about what you do | The mayor promised [transparency] about the town's money. | openness, honesty
+accountability | ✅ | noun | being responsible for your actions and willing to explain them | Leaders need [accountability] to the people. | responsibility
+anonymous | 🎭 | adj | made or done by someone whose name is not known | An [anonymous] donor gave money to the school. | unnamed, unknown
+@story The School Newspaper | school
+🗞️👧 | {Name} became editor of the school newspaper. She loved [journalism].
+📄🦈 | Her first [article] was about the school's new fish tank.
+✍️🌳 | She wrote an [editorial] arguing for more trees on the playground.
+📢👽 | A rival paper, a [tabloid], claimed the principal was secretly an alien!
+📰😱 | It was [sensational], but it wasn't true.
+❌🧐 | {Name} made sure her paper never spread [misinformation].
+🎭💌 | One day she got an [anonymous] tip: "The cafeteria is wasting food."
+🔍📊 | She asked the principal for [transparency] about the lunch numbers.
+✅🍎 | The principal showed [accountability] and started a food-sharing program.
+🚫📚 | When someone tried to stop her story, {Name} said, "No [censorship]! People deserve the truth." Her story won a student journalism award.
+
+@unit Looking Ahead
+anticipate | 🔮 | verb | to expect something and prepare for it | We [anticipate] a big crowd at the game. | expect, foresee
+foresee | 👁️ | verb | to know or guess what will happen before it does | No one could [foresee] the snowstorm. | predict, anticipate
+envision | 🌈 | verb | to imagine something in the future | I [envision] a garden full of flowers here. | picture, imagine
+prospect | 🔭 | noun | the possibility that something will happen | The [prospect] of summer vacation made us smile. | possibility, chance
+outlook | 🌤️ | noun | what you expect will happen; or your attitude | The weather [outlook] for the weekend is sunny. | forecast, view
+contingency | 🛟 | noun | a possible future event that you plan for | We packed umbrellas as a [contingency] plan. | backup, possibility
+precaution | ⛑️ | noun | something you do to prevent danger | Wearing a helmet is a smart [precaution]. | safeguard
+foresight | 🦉 | noun | the ability to plan wisely for the future | She had the [foresight] to bring extra water. | wisdom, forethought
+prophecy | 📜 | noun | a prediction of the future, often in stories | The wizard's [prophecy] said a girl would save the kingdom. | prediction
+omen | 🐦‍⬛ | noun | a sign that something good or bad will happen | Some people think a black cat is a bad [omen]. | sign, warning
+@story The Camping Plan | camp
+⛺🗺️ | {Name}'s family planned a camping trip. {Name} wanted to [anticipate] every problem.
+🌤️☁️ | The weather [outlook] said sunny, but you never know.
+👁️⛈️ | "We can't [foresee] everything," said Dad.
+🛟☂️ | So they made a [contingency] plan: bring umbrellas and games.
+⛑️🔦 | As a [precaution], {Name} packed a flashlight and first-aid kit.
+🦉💧 | She had the [foresight] to bring extra water, too.
+🌈⛺ | "I [envision] a perfect weekend," said Ziggy.
+🔭🍡 | The [prospect] of roasting marshmallows made everyone happy.
+🐦‍⬛😬 | On the first night, a crow cawed. "Is that an [omen]?" asked Ziggy.
+📜😂 | "Here's my [prophecy]," said {Name}. "Ziggy will eat all the marshmallows." It came true!
+
+@unit Trust and Doubt
+cynical | 😒 | adj | believing that people are only interested in themselves | He was [cynical] about the mayor's promises. | distrustful, skeptical
+trusting | 🤗 | adj | believing that people are honest and good | The [trusting] puppy followed everyone. | believing, naive
+suspicious | 🤨 | adj | feeling that something is wrong or someone is dishonest | The cat was [suspicious] of the new vacuum. | wary, distrustful
+distrust | 🙅 | noun | a feeling that someone can't be trusted | There was [distrust] between the two teams. | suspicion, doubt
+faith | 🙏 | noun | strong belief or trust | I have [faith] in my best friend. | trust, belief
+conviction | 💪 | noun | a strong belief | She spoke with great [conviction]. | certainty, belief
+misgiving | 😟 | noun | a feeling of doubt or worry | I had [misgiving] about the old rope bridge. | doubt, worry
+qualm | 😬 | noun | a small worry or doubt, often about whether something is right | She had no [qualm] about telling the truth. | doubt, scruple
+reservation | ✋ | noun | a doubt; or a booking for a table or room | I have one [reservation] about the plan: it's too expensive. | doubt; booking
+assurance | 🤝 | noun | a promise that makes someone feel confident | The coach gave us her [assurance] that we'd play. | promise, guarantee
+@story The Rope Bridge | jungle
+🌉🌴 | Deep in the jungle, {Name} and Ziggy came to an old rope bridge over a river.
+😟🪢 | {Name} had a [misgiving]. The ropes looked old.
+😬🤔 | Ziggy had a [qualm] too. "What if it breaks?"
+🤨🔍 | {Name} was [suspicious] of a loose board.
+✋📝 | "I have one [reservation]," she said. "We should test it first."
+🤗🐒 | A [trusting] little monkey ran across without a care.
+😒🦜 | A [cynical] old parrot squawked, "It'll never hold you!"
+🤝🧑 | A park ranger came by and gave them her [assurance]: "I checked it this morning."
+🙏💛 | {Name} had [faith] in the ranger.
+💪🌉 | With [conviction], she stepped onto the bridge. It held! Ziggy flew beside her—just in case. Their [distrust] of the bridge was gone.
+
+@unit All About Words
+synonym | 🟰 | noun | a word that means the same or almost the same as another word | "Happy" is a [synonym] for "glad."
+antonym | ↔️ | noun | a word that means the opposite of another word | "Hot" is an [antonym] of "cold."
+homophone | 👂 | noun | a word that sounds like another word but has a different meaning and spelling | "Flower" and "flour" are a [homophone] pair.
+prefix | ⬅️ | noun | letters added to the beginning of a word to change its meaning | The [prefix] "un-" means "not."
+suffix | ➡️ | noun | letters added to the end of a word to change its meaning | The [suffix] "-ful" means "full of."
+etymology | 📜 | noun | the history of where a word came from | The [etymology] of "dinosaur" means "terrible lizard."
+idiom | 🌧️ | noun | a phrase whose meaning is different from the meanings of its words | "It's raining cats and dogs" is an [idiom].
+definition | 📖 | noun | an explanation of what a word means | Look up the [definition] in the dictionary. | meaning
+pronunciation | 🗣️ | noun | the way a word is said | The [pronunciation] of "colonel" is tricky!
+abbreviation | ✂️ | noun | a short form of a word or phrase | "Dr." is an [abbreviation] for "doctor."
+@story The Word Detective | library
+🔍📚 | {Name} loved words so much that she became a Word Detective.
+📖✏️ | For every new word, she wrote its [definition] in her notebook.
+🗣️😂 | She practiced the [pronunciation] of tricky words like "colonel" (it sounds like "kernel"!).
+🟰😊 | She found a [synonym] for every word: "big" and "huge," "fast" and "quick."
+↔️🌗 | She found each [antonym]: "light" and "dark," "up" and "down."
+👂🌸 | Her favorite [homophone] pair was "flower" and "flour."
+⬅️🙅 | She learned that the [prefix] "un-" turns "happy" into "unhappy."
+➡️💛 | And the [suffix] "-ful" turns "joy" into "joyful."
+✂️🩺 | "Dr." was an [abbreviation] for "doctor."
+🌧️🐈 | Ziggy learned an [idiom]: "It's raining cats and dogs." He ran to the window to look!
+📜🦖 | Her favorite discovery was the [etymology] of "dinosaur": it comes from Greek words meaning "terrible lizard." "That's my cousin," joked Ziggy.
