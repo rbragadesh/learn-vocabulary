@@ -745,3 +745,287 @@ depict | 🖼️ | verb | to show or describe something in a picture or words | 
 📸🍎 | One student painted an apple with so much [realism] that it looked real.
 🌅🖌️ | Another used quick dabs of color, in the style of [impressionism].
 ✨🖼️ | "Art has [aesthetic] value," said the teacher. "It can also [depict] how we feel." Ziggy's painting showed exactly how he felt: hungry for lunch.
+
+@unit Big Ideas
+paradox | 🔄 | noun | a statement that seems to contradict itself but may be true | "Less is more" is a [paradox].
+premise | 🧱 | noun | an idea that an argument or story is based on | The [premise] of the movie is that toys come alive at night. | basis, assumption
+fallacy | ❌ | noun | a mistaken belief or a flaw in reasoning | It's a [fallacy] that goldfish only remember three seconds. | myth, misconception
+principle | 🧭 | noun | a basic rule or belief that guides how you act | Honesty is an important [principle]. | value, rule
+concept | 💡 | noun | an idea or general understanding of something | The [concept] of zero was a huge invention in math. | idea, notion
+ethics | ⚖️ | noun | ideas about what is morally right and wrong | We discussed the [ethics] of keeping animals in zoos. | morals, morality
+philosophy | 🤔 | noun | the study of big questions about life, truth, and knowledge; or a set of beliefs | Grandpa's [philosophy] is "Always be kind." | beliefs, outlook
+rationale | 📋 | noun | the reasons behind a decision | What's the [rationale] for the new rule? | reasoning, justification
+assumption | 🤷 | noun | something you accept as true without proof | My [assumption] that the store was open was wrong. | guess, belief
+contradiction | ↔️ | noun | a statement that goes against another statement | Saying "I always lie" is a [contradiction]. | inconsistency
+@story The Philosophy Club | library
+🤔📚 | {Name} started a [philosophy] club at the library. Ziggy was the first member.
+💡❓ | "Today's big [concept]: what makes something fair?" she asked.
+🧭💛 | "My [principle] is to treat others how I want to be treated," said Mia.
+⚖️🦁 | They talked about the [ethics] of zoos: are they good for animals?
+🧱📖 | "The [premise] of a good zoo is that it protects endangered animals," said Leo.
+📋🙋 | "What's your [rationale]?" asked {Name}. "Some animals would go extinct otherwise."
+🤷🐒 | "But that's an [assumption]," said Mia. "Not all zoos help animals."
+❌🐟 | Ziggy said, "Goldfish forget everything in three seconds!" "That's a [fallacy]," said Tom.
+↔️😂 | Then Ziggy said, "I never say never!" "That's a [contradiction]!" everyone shouted.
+🔄🌟 | {Name} ended with a [paradox]: "The more I learn, the more I realize I don't know." Everyone sat quietly, thinking.
+
+@unit Inside Our Minds
+motivation | 🔥 | noun | the reason or desire to do something | Her [motivation] to practice was winning the contest. | drive, incentive
+emotion | 😊 | noun | a strong feeling, like joy, anger, or fear | Music can stir up strong [emotion]. | feeling
+personality | 🎭 | noun | the special mix of qualities that make a person who they are | My sister has a bubbly [personality]. | character, nature
+temperament | 🌡️ | noun | a person's usual mood and way of reacting | The horse had a calm [temperament]. | nature, disposition
+attitude | 😎 | noun | the way you think and feel about something | A positive [attitude] helps you learn. | outlook, mindset
+habit | 🦷 | noun | something you do often, almost without thinking | Brushing my teeth is a good [habit]. | routine, custom
+anxiety | 😰 | noun | a feeling of worry and nervousness | She felt [anxiety] before the big test. | worry, nervousness
+confidence | 💪 | noun | believing in yourself and your abilities | Practice gave him [confidence]. | self-assurance
+impulse | ⚡ | noun | a sudden strong urge to do something | I had an [impulse] to jump in the pool with my clothes on. | urge, whim
+mindset | 🧠 | noun | a way of thinking about things | A growth [mindset] means believing you can always get better. | outlook, attitude
+@story The Brain Coach | school
+🧠🧑‍🏫 | A special "brain coach" visited {Name}'s class to talk about how our minds work.
+🎭🌈 | "Everyone has a different [personality]," she said. "Some are quiet, some are loud."
+🌡️🐴 | "Your [temperament] is your usual mood—like a calm horse or a jumpy one."
+😊😢 | "Every [emotion] is okay to feel—even anger or sadness."
+😰📝 | "[Anxiety] is normal before a test. Deep breaths help."
+⚡🍪 | "An [impulse] is a sudden urge—like grabbing a cookie before dinner!" Ziggy blushed.
+🦷📅 | "A [habit] is something you do so often that it becomes automatic."
+🔥🎯 | "[Motivation] is what gets you going."
+😎✨ | "Your [attitude] can change everything."
+🧠🌱 | "And a growth [mindset] means believing your brain can grow, like a muscle."
+💪🎉 | At the end, everyone felt more [confidence]. "I'm going to grow my brain," said Ziggy, "with snacks."
+
+@unit Skills and Experts
+proficient | ✅ | adj | skilled and good at something | She is [proficient] in two languages. | skilled, competent
+adept | 🎯 | adj | very skilled | He is [adept] at solving puzzles. | skilled, expert
+competent | 👍 | adj | able to do something well enough | The new lifeguard is very [competent]. | capable, able
+inept | 🤦 | adj | having no skill; clumsy | The [inept] magician kept dropping his cards. | clumsy, unskilled
+incompetent | 👎 | adj | not able to do a job properly | The [incompetent] chef burned every meal. | inept, unqualified
+versatile | 🔀 | adj | able to do many different things well | A [versatile] player can play any position. | adaptable, flexible
+deft | ✋ | adj | quick and skillful with your hands | With [deft] fingers, she tied the tiny knot. | nimble, skillful
+expertise | 🎓 | noun | special skill or knowledge | We needed a plumber's [expertise] to fix the leak. | skill, know-how
+mastery | 🥋 | noun | complete skill or knowledge of something | After years of practice, she had [mastery] of the piano. | command, expertise
+rudimentary | 🔤 | adj | basic and simple, at the beginning stage | I have only a [rudimentary] knowledge of French. | basic, elementary
+@story The Cooking Competition | kitchen
+👨‍🍳🏆 | {Name} and Ziggy entered a junior cooking competition.
+🔤🍳 | At first, Ziggy's cooking skills were [rudimentary]. He could only make toast.
+🤦🔥 | In the first round, he was [inept]—he set the toaster on fire!
+👎🥞 | One contestant was [incompetent]; his pancakes were raw in the middle.
+👍🍝 | {Name} was [competent]. Her pasta was good.
+✅🥗 | A girl named Sara was [proficient] at salads.
+🎯🔪 | A boy named Kai was [adept] at chopping vegetables super fast.
+✋🥟 | Another girl made dumplings with [deft] fingers.
+🔀🍰 | The winner, Chef Rosa's niece, was [versatile]—she could cook anything!
+🎓👩‍🍳 | Chef Rosa shared her [expertise] with everyone.
+🥋🍞 | "[Mastery] takes years," she told Ziggy. "Start with toast. Just… without the fire."
+
+@unit Time 2
+transient | 🌬️ | adj | lasting only a short time; passing | The [transient] rainbow faded after a minute. | fleeting, temporary
+fleeting | 🦋 | adj | lasting a very short time | I caught a [fleeting] glimpse of the deer. | brief, momentary
+eternal | ♾️ | adj | lasting forever | The poem spoke of [eternal] friendship. | everlasting, endless
+enduring | 🌳 | adj | lasting a long time | Their [enduring] friendship lasted fifty years. | lasting, abiding
+timeless | 🕰️ | adj | never becoming old-fashioned | The story is [timeless]—kids still love it. | classic, ageless
+longevity | 🐢 | noun | long life | Tortoises are famous for their [longevity].
+antiquated | 📼 | adj | very old-fashioned and out of date | The school had [antiquated] computers. | outdated, obsolete
+vintage | 🚗 | adj | old but high-quality and valuable | Grandpa drives a [vintage] car from 1955. | classic, retro
+futuristic | 🚀 | adj | very modern, like something from the future | The car had a [futuristic] design. | modern, ultramodern
+premature | 🐣 | adj | happening too early | It's [premature] to celebrate before the game ends. | early, hasty
+@story The Time Museum | museum
+🕰️🏛️ | {Name} and Ziggy visited a museum all about time.
+📼💾 | The first room had [antiquated] machines: record players and giant computers.
+🚗✨ | There was a shiny red [vintage] car from 1955.
+🐢📅 | A real tortoise named Captain was 150 years old! "Tortoises are known for [longevity]," said the guide.
+🦋⏳ | A butterfly exhibit showed how [fleeting] a butterfly's life is—only a few weeks.
+🌬️🌈 | In the weather room, a [transient] rainbow appeared and vanished.
+🕰️📖 | A library section showed [timeless] books that kids have loved for a hundred years.
+🌳💛 | A sign told the story of an [enduring] friendship between two old explorers.
+🚀🤖 | The last room was [futuristic], with robots and flying-car models.
+🐣🎉 | Ziggy started to clap before the robot finished its dance. "That's [premature]!" laughed {Name}.
+♾️💭 | "Will our friendship be [eternal]?" asked Ziggy. "Forever and a day," said {Name}.
+
+@unit Being Exact
+precise | 🎯 | adj | exact and accurate | The recipe needs [precise] measurements. | exact, accurate
+approximate | 〰️ | adj | close to the right amount but not exact | The [approximate] time of arrival is three o'clock. | rough, estimated
+exact | ✔️ | adj | completely correct in every detail | What is the [exact] time? | precise, accurate
+specific | 🔍 | adj | clearly stated; particular | Can you give a [specific] example? | particular, precise
+ambiguous | 🤷 | adj | having more than one possible meaning; unclear | The sign was [ambiguous]—did it mean left or right? | unclear, vague
+definite | ✅ | adj | clear and certain | We need a [definite] answer by Friday. | certain, sure
+concrete | 🧱 | adj | real and specific, not just an idea | Give me a [concrete] plan, not just a wish. | specific, tangible
+generalize | 🌐 | verb | to make a broad statement based on a few examples | It's unfair to [generalize] about people from one city.
+precision | 📏 | noun | the quality of being exact and careful | The watchmaker worked with great [precision]. | accuracy, exactness
+detail | 🔎 | noun | a small part or fact | The painting had beautiful [detail] in the flowers.
+@story The Treasure Instructions | island
+🗺️📜 | {Name} and Ziggy found an old treasure map. The directions were [ambiguous].
+🤷↔️ | "Walk to the tree, then turn." Turn which way? It didn't say!
+〰️👣 | "Take about a hundred steps." That was only an [approximate] number.
+🔍📝 | "We need [specific] directions," said {Name}.
+🧱🗺️ | They made a [concrete] plan: check every possible path.
+📏🧭 | {Name} measured each step with [precision].
+🔎🪨 | She noticed a small [detail]: an arrow carved on a rock.
+✔️📍 | The arrow gave the [exact] spot.
+🎯⛏️ | They needed to dig in a [precise] place—right next to the arrow.
+✅💰 | They found a [definite] sign of treasure: a wooden box!
+🌐😄 | Inside was a note: "Don't [generalize]—not all treasure is gold." Underneath was a box of cookies. "Best treasure ever," said Ziggy.
+
+@unit Changing Minds
+entreat | 🙏 | verb | to ask someone earnestly, almost begging | The kids began to [entreat] their parents for a puppy. | beg, plead, implore
+dissuade | 🙅 | verb | to persuade someone not to do something | Mom tried to [dissuade] me from climbing the tree. | discourage, deter
+deter | 🚧 | verb | to stop or discourage someone from doing something | The fence will [deter] the deer from eating the garden. | discourage, prevent
+reconsider | 🔄 | verb | to think again about a decision | Please [reconsider] your choice. | rethink
+compel | 👉 | verb | to force someone to do something | The rain will [compel] us to stay inside. | force, oblige
+coerce | 💪 | verb | to force someone to do something by threats | The bully tried to [coerce] him into giving up his lunch. | force, pressure
+cajole | 🍬 | verb | to gently persuade someone with flattery or treats | She tried to [cajole] her dad into buying ice cream. | coax, sweet-talk
+manipulate | 🎎 | verb | to control or influence someone in a sneaky, unfair way | The villain tried to [manipulate] the king. | control, exploit
+rationalize | 🤔 | verb | to try to explain a bad action with reasons that sound good | He tried to [rationalize] eating the whole cake. | justify, excuse
+enlighten | 💡 | verb | to give someone knowledge or understanding | The documentary can [enlighten] us about ocean life. | inform, educate
+@story Ziggy's Camping Plan | camp
+⛺🐉 | Ziggy wanted to camp alone in the woods overnight. {Name} wasn't sure.
+🙅⚠️ | She tried to [dissuade] him. "It's cold and dark out there."
+🍬🐉 | Ziggy tried to [cajole] her. "I'll bring you back a pinecone!"
+🤔🍪 | He tried to [rationalize] it: "Dragons are fireproof, so I can't get cold!"
+🎎😏 | Then he tried to [manipulate] her: "If you were a real friend, you'd say yes."
+💪🙅 | "Don't try to [coerce] me," said {Name}.
+💡📚 | She got a book to [enlighten] him about the bears in the woods.
+🚧🐻 | The thought of bears seemed to [deter] him.
+🙏🔄 | Ziggy tried one last time to [entreat] her: "Please?" But her careful reasons made him [reconsider].
+👉🏡 | In the end, the rain would [compel] them both to camp inside—in a blanket fort in the living room!
+
+@unit Embarrassing Moments
+grudging | 😒 | adj | given unwillingly | He gave a [grudging] apology. | reluctant, unwilling
+rueful | 😔 | adj | showing a little sadness or regret, often in a wry way | She gave a [rueful] smile after spilling her drink. | regretful, sorry
+apologetic | 🙇 | adj | showing that you are sorry | He was very [apologetic] about being late. | sorry, regretful
+sheepish | 🐑 | adj | embarrassed because you did something silly | He gave a [sheepish] grin after tripping. | embarrassed, shamefaced
+mortified | 😳 | adj | extremely embarrassed | I was [mortified] when my pants ripped on stage. | humiliated, ashamed
+flustered | 😵 | adj | nervous and confused | She got [flustered] when she forgot her lines. | rattled, frazzled
+rattled | 😬 | adj | nervous and upset | The loud crash left him [rattled]. | shaken, unnerved
+frazzled | 🤯 | adj | tired and stressed out | After a long day, Mom was [frazzled]. | worn out, stressed
+exasperated | 😤 | adj | very annoyed and frustrated | The teacher was [exasperated] by the noisy class. | annoyed, fed up
+unruffled | 😌 | adj | calm and not upset | She stayed [unruffled] even when the power went out. | calm, composed
+@story The Worst School Photo Day | school
+📸🏫 | It was school photo day, and everything went wrong for Ziggy.
+😵🦷 | First, he got [flustered] and forgot to smile.
+😬💥 | Then a light bulb popped, and he was [rattled].
+🐑🍝 | He'd spilled spaghetti on his shirt at lunch. He gave a [sheepish] grin.
+😳👖 | Then his cape got caught on the chair and tore! Ziggy was [mortified].
+🤯📷 | The photographer was [frazzled] from taking 500 photos.
+😤🐉 | After the tenth try, she was [exasperated].
+😒🙄 | A kid in line gave a [grudging] "Hurry up."
+🙇💭 | Ziggy was very [apologetic].
+😔📸 | He gave a [rueful] smile for the last shot.
+😌👧 | Only {Name} stayed [unruffled]. She whispered a joke, and Ziggy laughed. Click! It was the best picture of the year.
+
+@unit Kings and Queens
+monarch | 👑 | noun | a king, queen, or emperor | The [monarch] waved from the palace balcony. | ruler, sovereign
+sovereign | 🤴 | noun | a king or queen; a supreme ruler | The [sovereign] ruled for forty years. | monarch, ruler
+regent | 🧑‍⚖️ | noun | a person who rules for a king or queen who is too young or sick | The queen's uncle served as [regent] until she turned eighteen.
+heir | 👶 | noun | a person who will receive money, property, or a title when someone dies | The prince is the [heir] to the throne.
+successor | ➡️ | noun | a person who comes after someone else in a job or title | The old king named his daughter as his [successor].
+predecessor | ⬅️ | noun | the person who had a job before someone else | The new principal is kinder than her [predecessor].
+reign | 👑 | noun | the time when a king or queen rules | The queen's [reign] lasted seventy years.
+abdicate | 🏳️ | verb | to give up being king or queen | The tired king decided to [abdicate].
+coronation | 🎺 | noun | the ceremony of crowning a king or queen | Thousands came to the [coronation].
+realm | 🗺️ | noun | a kingdom | The dragon protected the whole [realm]. | kingdom, domain
+@story The Young Queen | castle
+👑🏰 | Long ago, in a peaceful [realm], there lived an old [monarch] named King Albert.
+👑📅 | His [reign] had lasted fifty years.
+🏳️😴 | One day, he decided to [abdicate]. "I'm too tired to rule."
+👶👸 | His granddaughter, Princess Lily, was the [heir].
+🧑‍⚖️⏳ | But she was only ten, so her aunt served as [regent].
+⬅️📜 | Lily studied everything her [predecessor] had done.
+🎺👑 | On her eighteenth birthday, there was a grand [coronation].
+🤴✨ | Lily became [sovereign] of the whole land.
+🐉💛 | Her best friend was a dragon who guarded the castle. (He looked a lot like Ziggy.)
+➡️🌟 | Many years later, Queen Lily chose a kind, fair [successor]—and the kingdom stayed happy for a thousand years.
+
+@unit Conflict and Peace
+animosity | 😠 | noun | strong dislike or hatred | There was [animosity] between the two families. | hostility, hatred
+feud | ⚔️ | noun | a long, bitter fight between people or families | The two neighbors had a [feud] over a fence. | quarrel, dispute
+vendetta | 🗡️ | noun | a long fight to get revenge | The pirate had a [vendetta] against the navy.
+rivalry | 🏆 | noun | competition between two people or groups | The two schools had a friendly [rivalry]. | competition
+strife | 🌩️ | noun | angry or violent disagreement | Years of [strife] divided the town. | conflict, discord
+discord | 🎻 | noun | disagreement; or sounds that clash | There was [discord] among the team members. | strife, conflict
+tension | 🪢 | noun | a nervous feeling when people disagree or are worried | You could feel the [tension] in the room. | stress, strain
+grievance | 📝 | noun | a complaint about something unfair | The workers listed their [grievance] to the boss. | complaint
+reconciliation | 🤝 | noun | becoming friends again after a disagreement | Their [reconciliation] made everyone happy.
+accord | 🕊️ | noun | an agreement; or harmony | The two countries signed a peace [accord]. | agreement, treaty
+@story The Hatfield and McCoy Cookies | home
+🏡🏡 | On {Name}'s street lived two families, the Hills and the Coys, who had a long [feud].
+😠🍪 | There was deep [animosity] between them over who made the best cookies.
+🏆🍪 | Every year, their [rivalry] at the bake sale grew.
+🗡️😤 | Mr. Hill even had a [vendetta] against Mrs. Coy's oatmeal cookies.
+🌩️🏘️ | The [strife] made the whole street uncomfortable.
+🎻😖 | There was [discord] at every block party.
+🪢😬 | You could feel the [tension] whenever they passed each other.
+📝🗣️ | {Name} and Ziggy asked each family to write down their [grievance].
+🤝🍪 | Then they set up a joint cookie stand. Both families tasted each other's cookies—and loved them!
+🕊️🎉 | The [reconciliation] was celebrated with a party, and they signed a "Cookie [Accord]."
+
+@unit Bold and Shy
+audacious | 🦁 | adj | very bold and willing to take risks, sometimes rudely | The [audacious] squirrel stole a sandwich right out of my hand. | daring, bold
+brazen | 😏 | adj | bold and shameless | The [brazen] thief walked right out with the TV. | shameless, bold
+impudent | 😛 | adj | rude and disrespectful | The [impudent] boy talked back to the teacher. | cheeky, insolent
+presumptuous | 🤨 | adj | taking too much for granted; acting as if you have rights you don't | It was [presumptuous] of him to sit in the king's chair. | arrogant, forward
+cocky | 🐓 | adj | too sure of yourself | The [cocky] player bragged before the game. | arrogant, overconfident
+assertive | 🗣️ | adj | confident and direct in saying what you want | Be [assertive] and ask for help when you need it. | confident, firm
+demure | 🌸 | adj | quiet, shy, and modest | The [demure] girl smiled softly. | modest, reserved
+submissive | 🙇 | adj | willing to obey others without arguing | The [submissive] puppy rolled onto its back. | obedient, meek
+deferential | 🎩 | adj | showing respect by yielding to someone else's wishes | The [deferential] waiter bowed to the guests. | respectful, polite
+diffident | 😶 | adj | shy and lacking confidence | The [diffident] student rarely raised her hand. | shy, timid
+@story The Class Election | school
+🗳️🏫 | {Name}'s class was electing a class president.
+🐓📢 | Brad was [cocky]. "I've already won!"
+🤨🪑 | He was [presumptuous] enough to sit in the teacher's chair.
+😛😤 | He was [impudent] when the teacher asked him to move.
+😏🍪 | He was even [brazen] enough to hand out cookies with his name on them.
+😶📝 | Ella was [diffident]. She wanted to run but was afraid to speak.
+🌸😊 | Her friend Ava was [demure] and quiet, but kind.
+🗣️💪 | {Name} encouraged Ella to be [assertive]. "Tell them your ideas!"
+🦁🎤 | Ella made an [audacious] speech: "Recess should be twice as long!"
+🎩👏 | Even the principal was [deferential] and let her finish. Ella won by a landslide!
+🙇🐶 | And Brad? He was [submissive] for once and congratulated her.
+
+@unit Styles and Decorations
+ornate | 🏛️ | adj | richly decorated with lots of details | The palace had [ornate] gold ceilings. | fancy, elaborate
+garish | 🌈 | adj | too bright and showy | The [garish] sign flashed pink and green. | gaudy, loud
+gaudy | 💍 | adj | too bright and showy in a tasteless way | She wore [gaudy] plastic jewelry. | flashy, garish
+austere | ⬜ | adj | very plain and without decoration | The monk's room was [austere], with just a bed and a desk. | plain, stark
+intricate | 🕸️ | adj | having many small parts arranged in a complicated way | The spider's web was [intricate]. | complex, detailed
+minimalist | ➖ | adj | using very few simple things | Her [minimalist] room had only white walls and a bed. | simple, sparse
+exquisite | 💎 | adj | extremely beautiful and delicate | The lace was [exquisite]. | beautiful, delicate
+rustic | 🪵 | adj | simple and countrylike | We stayed in a [rustic] log cabin. | country, rural
+spartan | 🛏️ | adj | very simple, plain, and without comforts | The camp had [spartan] cabins with hard beds. | austere, bare
+flamboyant | 🦚 | adj | very showy and colorful | The singer wore a [flamboyant] feathered jacket. | showy, flashy
+@story Ziggy Decorates | home
+🏠🎨 | Ziggy was allowed to decorate his attic room any way he wanted.
+🦚✨ | First, he tried [flamboyant]: feathers, sequins, and a disco ball!
+🌈😵 | The colors were [garish]—neon pink and lime green.
+💍🤦 | He added [gaudy] plastic crowns everywhere.
+⬜🛏️ | Too much! So he tried [austere]: plain white walls.
+🛏️😐 | Then [spartan]: just a hard bed. Boring!
+➖🤍 | {Name} suggested [minimalist] style: a few nice things.
+🪵🌲 | Ziggy liked [rustic] wood furniture.
+🏛️🖼️ | Grandma gave him an [ornate] old mirror.
+🕸️🌸 | {Name} gave him an [intricate] paper flower she folded.
+💎😊 | In the end, the room was [exquisite]—cozy, colorful, and perfectly Ziggy.
+
+@unit Flowing Water
+seep | 💧 | verb | to flow slowly through small holes | Rainwater began to [seep] through the cracks in the roof. | leak, ooze
+ooze | 🟢 | verb | to flow out slowly and thickly | Honey began to [ooze] from the jar. | seep, leak
+cascade | 🏞️ | verb | to fall or pour down in large amounts | Water began to [cascade] over the rocks. | tumble, pour
+spurt | ⛲ | verb | to shoot out in a sudden stream | Water began to [spurt] from the broken pipe. | squirt, gush
+saturate | 🧽 | verb | to soak completely | The rain will [saturate] the ground. | soak, drench
+permeate | 🌫️ | verb | to spread through every part of something | The smell of cookies began to [permeate] the house. | fill, pervade
+infiltrate | 🥷 | verb | to secretly get into a place or group | Water began to [infiltrate] the basement. | penetrate, enter
+immerse | 🛁 | verb | to put something completely into a liquid; or to become deeply involved | [Immerse] the tea bag in hot water. | submerge, dip
+evaporate | ♨️ | verb | to turn from liquid into gas and disappear | The puddle will [evaporate] in the sun. | dry up, vanish
+condense | 💦 | verb | to turn from a gas into a liquid; or to make shorter | Steam will [condense] on the cold mirror. | liquefy
+@story The Leaky Castle | castle
+🏰🌧️ | It rained for a week, and the old castle began to leak.
+💧🧱 | First, water began to [seep] through the cracks in the walls.
+🥷🪜 | Then it began to [infiltrate] the cellar.
+🟢🍯 | In the kitchen, honey began to [ooze] out of a cracked jar.
+⛲🚿 | A broken pipe began to [spurt] water across the floor!
+🏞️🪜 | Water began to [cascade] down the stone stairs like a waterfall.
+🧽🛋️ | The rugs were starting to [saturate].
+🛁📚 | {Name} rescued the books before they could [immerse] in the puddles.
+🌫️🍪 | Meanwhile, the smell of baking cookies began to [permeate] the castle—Ziggy's way of cheering everyone up.
+♨️🐉 | Ziggy breathed warm air to make the water [evaporate].
+💦🪟 | The steam began to [condense] on the windows. By morning, the castle was dry—and everyone had cookies.
