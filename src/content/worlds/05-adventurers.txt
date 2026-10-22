@@ -1289,3 +1289,328 @@ genre | 📚 | noun | a kind or type of story, music, or art, like mystery or fa
 🔄🌟 | He used a [simile]: "Her laugh was like a bell."
 🌊💛 | And a [metaphor]: "Friendship is a fire that never goes out."
 🙏🎂 | The [moral] at the end was: "Share your warmth with everyone." {Name} hugged him. "It's the best present ever."
+
+@unit Feelings for Others
+admiration | 🤩 | noun | a feeling of respect and liking for someone | I have great [admiration] for my brave grandma. | respect, esteem
+affection | 💕 | noun | a gentle feeling of love and caring | The cat showed its [affection] by purring. | fondness, love
+contempt | 😤 | noun | the feeling that someone or something is worthless | The bully looked at us with [contempt]. | disdain, scorn
+disdain | 🙄 | noun | the feeling that someone or something is not good enough | The picky cat sniffed the food with [disdain]. | contempt, scorn
+resentment | 😒 | noun | a bitter feeling about being treated unfairly | She felt [resentment] when her brother got a bigger allowance. | bitterness
+devotion | 💗 | noun | great love and loyalty | The dog's [devotion] to its owner was amazing. | loyalty, dedication
+empathy | 🫂 | noun | understanding and sharing the feelings of another person | {Name} showed [empathy] when her friend was sad. | compassion, understanding
+fondness | 🥰 | noun | a feeling of liking someone or something | Grandpa has a [fondness] for old movies. | affection, liking
+hostility | 😠 | noun | unfriendly or angry behavior | There was [hostility] between the two rival teams. | unfriendliness
+kinship | 👨‍👩‍👧 | noun | a feeling of being close to someone, like family | The two orphans felt a deep [kinship]. | closeness, bond
+@story The Two Cats | home
+🐱🐈 | Grandma had an old cat named Duchess. When {Name} brought home a kitten named Pip, Duchess was not pleased.
+🙄🐱 | Duchess looked at Pip with [disdain].
+😤🐾 | She hissed at him with [contempt].
+😠🏠 | For days, there was [hostility] between the two cats.
+😒🍽️ | Duchess felt [resentment] that Pip ate from her bowl.
+🫂💭 | {Name} felt [empathy] for Duchess. "Maybe she's scared we won't love her anymore."
+💕🧶 | So everyone showed Duchess extra [affection], with brushing and treats.
+🥰🌞 | Slowly, Duchess grew a [fondness] for Pip. She let him nap in her sunny spot.
+🤩🐭 | Pip watched Duchess catch a toy mouse with total [admiration].
+👨‍👩‍👧💛 | Soon they felt a real [kinship], like family. Duchess's [devotion] to Pip was so strong that she even washed his ears.
+
+@unit Ways of Speaking
+articulate | 🗣️ | adj | able to express ideas clearly in words | The [articulate] speaker explained everything perfectly. | eloquent, well-spoken
+eloquent | 🎤 | adj | speaking or writing in a beautiful, powerful way | Her [eloquent] speech made people cry. | articulate, expressive
+fluent | 🌍 | adj | able to speak a language easily and well | My aunt is [fluent] in Spanish and French.
+concise | ✂️ | adj | short and clear, using few words | Please give a [concise] answer. | brief, short
+blunt | 🔨 | adj | saying exactly what you think, even if it seems rude | My little brother is [blunt]: "Your haircut is weird." | frank, direct
+sarcastic | 🙃 | adj | saying the opposite of what you mean to mock or be funny | "Oh, great, more rain," he said in a [sarcastic] voice.
+humorous | 😂 | adj | funny | The book was full of [humorous] stories. | funny, comical
+monotone | 😐 | adj | speaking in one flat tone without changing pitch | The robot spoke in a [monotone] voice. | flat, dull
+dialect | 🗺️ | noun | a way of speaking a language that belongs to one area or group | People in different parts of England speak different [dialects].
+accent | 🎶 | noun | the way people from a place pronounce words | My cousin from Scotland has a lovely [accent].
+@story The Speech Contest | school
+🎤🏆 | The school held a speech contest, and {Name} and Ziggy came to watch.
+😐🤖 | The first speaker spoke in a [monotone] voice. Half the audience fell asleep!
+✂️⏱️ | The second gave a [concise] speech—just one minute long.
+🔨😬 | The third was very [blunt]. "This contest is boring," he said. Oops.
+🙃😏 | The fourth was [sarcastic]: "Oh, I just LOVE homework." Everyone laughed.
+😂🎭 | The fifth told [humorous] stories about her dog.
+🌍🗣️ | A girl from Mexico was [fluent] in two languages and gave her speech in both!
+🎶🏴󠁧󠁢󠁳󠁣󠁴󠁿 | A boy from Scotland had a lovely [accent].
+🗺️👵 | He even used his grandma's old [dialect] for one funny line.
+🗣️🌟 | Then {Name} spoke. She was clear and [articulate].
+🎤💛 | Her [eloquent] ending about friendship made the judges smile. She won first prize!
+
+@unit Math Explorers
+calculate | 🧮 | verb | to find an answer using math | Can you [calculate] how much five apples will cost? | compute, figure out
+equation | 🟰 | noun | a math sentence that shows two things are equal, like 2 + 3 = 5 | Solve the [equation] to find x.
+formula | 📐 | noun | a rule written with numbers and symbols | The [formula] for the area of a rectangle is length times width.
+perimeter | 🔲 | noun | the distance all the way around the edge of a shape | We measured the [perimeter] of the garden.
+area | 🟩 | noun | the amount of space inside a flat shape | The [area] of the room is twenty square meters.
+radius | ⭕ | noun | the distance from the center of a circle to its edge | The [radius] of the pizza is fifteen centimeters.
+diameter | ⌀ | noun | the distance straight across a circle through its center | The [diameter] is twice as long as the radius.
+symmetry | 🦋 | noun | when both halves of something match exactly | A butterfly's wings have perfect [symmetry].
+parallel | 🛤️ | adj | running side by side and never meeting | Train tracks are [parallel] lines.
+perpendicular | ✚ | adj | meeting at a right angle, like the corner of a square | The two streets are [perpendicular] to each other.
+@story The Garden Plan | garden
+🌻📐 | {Name} and Ziggy wanted to build a flower garden. "Let's use math to plan it!"
+🔲🪵 | First, they measured the [perimeter] to know how much fence they needed.
+🟩🌱 | Then they found the [area] to know how much soil to buy.
+📐✏️ | "The [formula] for area is length times width," said {Name}.
+🧮📏 | She began to [calculate]: four meters times three meters equals twelve square meters.
+🟰📝 | Ziggy wrote the [equation] on the board: 4 × 3 = 12.
+⭕🌸 | In the middle, they made a round flower bed. Its [radius] was one meter, so its [diameter] was two.
+🛤️🌷 | They planted tulips in [parallel] rows.
+✚🪨 | The stone paths were [perpendicular], crossing like a plus sign.
+🦋💛 | When it was finished, the garden had perfect [symmetry]. A butterfly landed in the middle—with perfect symmetry too!
+
+@unit Tiny Building Blocks
+atom | ⚛️ | noun | the tiniest part of an element that can exist | Everything around us is made of atoms. Even one [atom] is too small to see.
+molecule | 🧬 | noun | a group of atoms joined together | A water [molecule] has two hydrogen atoms and one oxygen atom.
+element | 🧪 | noun | a pure substance made of only one kind of atom, like gold or oxygen | Gold is an [element].
+compound | 🧂 | noun | a substance made of two or more elements joined together | Salt is a [compound] of sodium and chlorine.
+density | 🪨 | noun | how much stuff is packed into a space; how heavy something is for its size | A rock sinks because its [density] is greater than water's.
+friction | 🔥 | noun | the force that slows things down when they rub together | [Friction] makes your hands warm when you rub them together.
+force | 💪 | noun | a push or pull | It takes a lot of [force] to push a heavy box.
+motion | 🏃 | noun | movement | The [motion] of the boat made me feel seasick. | movement
+inertia | 🛹 | noun | the way things keep doing what they're doing—staying still or moving—unless something changes it | Because of [inertia], you lurch forward when a car stops suddenly.
+momentum | 🎳 | noun | the force a moving object has that keeps it moving | The bowling ball had so much [momentum] that it knocked down every pin.
+@story Ziggy's Science Day | lab
+🔬🐉 | Ziggy wanted to understand what everything was made of. Dr. Patel helped.
+⚛️🔍 | "Everything is made of tiny atoms," she said. "Even one [atom] is too small to see."
+🧬💧 | "When atoms join together, they make a [molecule]. Water is a molecule!"
+🧪🥇 | "Gold is an [element]. It's made of only one kind of atom."
+🧂🍟 | "Salt is a [compound]—two elements joined together."
+🪨💧 | They dropped a rock and a cork into water. "The rock has more [density], so it sinks!"
+💪📦 | Ziggy pushed a box. "That push is a [force]."
+🔥👐 | He rubbed his claws together fast. "[Friction] makes heat!" Sparks flew. "Careful, Ziggy!"
+🛹🧸 | {Name} put a teddy bear on a skateboard and stopped it suddenly. The bear flew forward—that was [inertia]!
+🎳💥 | Last, they rolled a heavy ball down a ramp. Its [momentum] knocked over a tower of cups. The [motion] was so fast that everyone ducked!
+
+@unit Ecosystems
+ecosystem | 🌍 | noun | all the living things in an area and how they live together | A pond is a small [ecosystem].
+organism | 🦠 | noun | any living thing, like a plant, animal, or germ | A tree is a living [organism].
+decompose | 🍂 | verb | to rot and break down into simpler parts | Dead leaves [decompose] and feed the soil. | rot, decay
+producer | 🌱 | noun | a living thing, like a plant, that makes its own food from sunlight | Grass is a [producer].
+consumer | 🐇 | noun | a living thing that eats other living things for food | A rabbit is a [consumer] because it eats plants.
+biome | 🏜️ | noun | a large area with a certain climate, plants, and animals, like a desert or rainforest | The tundra is a cold [biome].
+endangered | 🐼 | adj | at risk of dying out completely | The giant panda was once [endangered].
+conservation | 🌳 | noun | protecting nature, animals, and resources | [Conservation] helps save forests and wildlife. | preservation, protection
+native | 🏡 | adj | living or growing naturally in a place | Kangaroos are [native] to Australia. | local
+invasive | 🚫 | adj | spreading quickly into a new place and harming the plants or animals there | The [invasive] vine is choking the trees.
+@story The Pond Project | river
+🌍💧 | {Name}'s class studied the school pond. "A pond is a small [ecosystem]," said the teacher.
+🦠🔬 | Every [organism] in it, from tiny germs to big frogs, depends on the others.
+🌱☀️ | Pond plants are a [producer]—they make food from sunlight.
+🐇🐸 | Frogs and fish are a [consumer] because they eat other living things.
+🍂🪱 | When plants die, they [decompose] and feed the pond with nutrients.
+🏡🐢 | The turtles in the pond are [native]—they've lived there for thousands of years.
+🚫🌿 | But an [invasive] weed from far away was spreading fast and blocking the sun!
+🐼📉 | "If it keeps spreading, the turtles could become [endangered]," said the teacher.
+🏜️🌲 | "Every [biome]—desert, forest, or pond—needs balance."
+🌳💪 | So the class did a [conservation] project. They pulled out the weed, and the next spring, the pond was healthy again.
+
+@unit Inside the Body
+organ | ❤️ | noun | a part of the body that has a special job, like the heart or brain | The heart is the [organ] that pumps blood.
+lung | 🫁 | noun | one of the two organs in your chest that you breathe with | Each [lung] fills with air when you breathe in.
+kidney | 🫘 | noun | one of two organs that clean your blood and make urine | You have a [kidney] on each side of your back.
+artery | 🩸 | noun | a tube that carries blood away from the heart | An [artery] carries blood to every part of your body. | blood vessel
+vein | 🩸 | noun | a tube that carries blood back to the heart | You can see a blue [vein] on your wrist. | blood vessel
+nerve | ⚡ | noun | a thread in your body that carries messages to and from your brain | A [nerve] tells your brain when something is hot.
+spine | 🦴 | noun | the long column of bones down the middle of your back | Sit up straight to keep your [spine] healthy. | backbone
+tendon | 🦵 | noun | a strong band that connects a muscle to a bone | He hurt a [tendon] in his ankle playing soccer.
+digest | 🍽️ | verb | to break down food in your body so it can be used | It takes hours to [digest] a big meal.
+circulate | 🔄 | verb | to move around and around | Blood [circulates] through your body all day long. | flow
+@story The Body Tour | school
+🔬🐉 | In science class, {Name} and Ziggy pretended to shrink and take a tour inside the human body!
+🍽️🍎 | First, they slid down into the stomach, where food begins to [digest].
+❤️💓 | Then they rode a red blood cell to the heart, the most important [organ] for pumping blood.
+🩸🚀 | They zoomed through an [artery], carrying fresh blood to the toes.
+🩸🔙 | Then they came back through a [vein] to the heart.
+🔄💨 | "Blood is always moving," said {Name}. "It has to [circulate] all day and night."
+🫁🌬️ | They floated into a [lung]. Whoosh! It filled up with air.
+🫘💧 | They visited a [kidney], which was busy cleaning the blood.
+🦴🧗 | They climbed up the [spine] like a ladder.
+🦵💪 | They swung on a [tendon] that connected a muscle to a bone.
+⚡🧠 | Finally, a [nerve] zapped a message to the brain: "Tour's over!" They were back in their seats.
+
+@unit Who's in Charge?
+democracy | 🗳️ | noun | a government where people vote to choose their leaders | In a [democracy], every citizen gets a vote.
+monarchy | 👑 | noun | a country ruled by a king or queen | England has a [monarchy] with a king.
+republic | 🏛️ | noun | a country where people elect leaders and there is no king or queen | France is a [republic].
+constitution | 📜 | noun | the written set of basic laws for a country | The [constitution] protects people's rights.
+senator | 🧑‍⚖️ | noun | a person elected to help make laws in a senate | The [senator] gave a speech about clean water.
+legislature | 🏛️ | noun | the group of people who make laws for a country or state | The [legislature] voted on the new law. | congress, parliament
+ambassador | 🤝 | noun | a person sent by a country to represent it in another country | The [ambassador] from Japan visited our school.
+diplomat | 🕊️ | noun | a person whose job is to keep good relations between countries | The [diplomat] helped the two countries avoid a war.
+candidate | 🙋 | noun | a person who is trying to be elected or chosen | There are three [candidates] for mayor.
+campaign | 📣 | noun | a planned series of activities to win an election or reach a goal | Her [campaign] posters were all over town.
+@story Kingdom or Country? | castle
+👑🏰 | In social studies, {Name} learned about different ways to run a country. Ziggy was confused.
+👑🐉 | "In a [monarchy], a king or queen rules," said the teacher. "Like in fairy tales!"
+🗳️👥 | "In a [democracy], the people vote for their leaders."
+🏛️🇺🇸 | "A [republic] has elected leaders and no king."
+📜✍️ | "Most countries have a [constitution]: a list of important laws and rights."
+🏛️⚖️ | "The [legislature] makes new laws. Each [senator] gets a vote."
+🙋📣 | "To become a leader, a [candidate] runs a [campaign] with speeches and posters."
+🤝🌍 | "An [ambassador] lives in another country to speak for their own country."
+🕊️💬 | "And a [diplomat] helps countries solve problems peacefully." Ziggy raised his claw. "Can a dragon be a diplomat?" "If you can keep your fire to yourself," laughed the teacher.
+
+@unit In the Courtroom
+court | 🏛️ | noun | a place where legal cases are decided | The case went to [court]. | courthouse
+judge | 👨‍⚖️ | noun | a person who is in charge of a court and decides cases | The [judge] listened carefully to both sides.
+jury | 👥 | noun | a group of citizens who listen to a case and decide if someone is guilty | The [jury] decided the man was innocent.
+verdict | 📜 | noun | the decision made by a jury or judge | The [verdict] was "not guilty." | decision, ruling
+witness | 👁️ | noun | a person who saw something happen | A [witness] saw the car run the red light.
+trial | ⚖️ | noun | the process in a court of deciding if someone is guilty | The [trial] lasted three days.
+lawyer | 💼 | noun | a person trained in the law who helps people in legal matters | Her [lawyer] spoke to the jury. | attorney
+testimony | 🗣️ | noun | what a witness says in court | The witness's [testimony] helped solve the case. | statement, evidence
+crime | 🚨 | noun | something that is against the law | Stealing is a [crime]. | offense
+convict | 🔒 | verb | to prove in court that someone is guilty of a crime | The jury may [convict] the thief.
+@story The Great Cookie Trial | school
+🍪🏛️ | Someone ate all the cookies from the class party! The class held a pretend [court] to find out who.
+👨‍⚖️👧 | {Name} was the [judge]. She wore a black robe made from a trash bag.
+🚨🍪 | "Eating all the cookies is a serious [crime]," she said.
+⚖️🐉 | The suspect was Ziggy. His [trial] began after lunch.
+💼🧒 | Leo was Ziggy's [lawyer]. "My client is innocent!"
+👁️🙋 | Mia was a [witness]. "I saw crumbs near Ziggy's desk."
+🗣️🐕 | But then the class dog's [testimony] (a loud bark) made everyone look at him. He had chocolate on his nose!
+👥🤔 | The [jury] of six classmates talked it over.
+📜😄 | The [verdict]: "Ziggy is not guilty!"
+🔒🐕 | "We can't [convict] the dog," laughed {Name}, "but no more cookies for him!"
+
+@unit Medieval Village
+blacksmith | ⚒️ | noun | a person who makes and fixes things made of iron, like horseshoes | The [blacksmith] hammered the red-hot metal.
+merchant | 🧳 | noun | a person who buys and sells goods | The [merchant] sold silk from faraway lands. | trader
+minstrel | 🎻 | noun | a traveling singer or musician in the Middle Ages | The [minstrel] played songs at the castle.
+jester | 🃏 | noun | a person who told jokes and did tricks to entertain a king | The [jester] made the king laugh. | clown, fool
+monk | 🧘 | noun | a man who lives a religious life in a group, often in a monastery | The [monk] copied books by hand.
+scribe | ✍️ | noun | a person who copied books and documents by hand before printing | The [scribe] wrote the king's letters.
+apprentice | 🧒 | noun | a young person learning a trade from a skilled worker | The [apprentice] learned to bake bread from the baker. | trainee
+guild | 🏛️ | noun | a group of people in the same trade who help each other | The bakers' [guild] set the price of bread.
+serf | 🧑‍🌾 | noun | a poor farm worker in the Middle Ages who had to work for a lord | The [serf] worked the lord's fields all day. | peasant
+manor | 🏰 | noun | a large house with land, owned by a lord | The lord lived in a stone [manor] on the hill. | estate, mansion
+@story A Day in the Middle Ages | castle
+🏰⏳ | {Name} and Ziggy imagined going back in time to a village from the Middle Ages.
+🏰👑 | On the hill stood the lord's [manor] with its big stone walls.
+🧑‍🌾🌾 | In the fields, a [serf] plowed the land.
+⚒️🔥 | In town, the [blacksmith] made horseshoes. Ziggy helped heat the fire!
+🧒🍞 | A young [apprentice] was learning to bake from the baker.
+🏛️🥖 | "The bakers' [guild] makes sure all bread is good and fair," said the baker.
+🧳🧵 | A [merchant] sold colorful cloth from faraway lands.
+🧘📖 | In the church, a [monk] painted pictures in a book.
+✍️📜 | A [scribe] wrote a letter for a woman who couldn't read.
+🎻🃏 | At the castle feast, a [minstrel] sang, and a [jester] juggled apples. "I like the Middle Ages," said Ziggy, "but I miss pizza."
+
+@unit Great Achievements
+accomplishment | 🏅 | noun | something hard that you have succeeded in doing | Learning to swim was a big [accomplishment]. | achievement
+milestone | 🪧 | noun | an important event or point in progress | Her first step was a [milestone] for the baby.
+breakthrough | 💡 | noun | an important new discovery or development | Scientists made a [breakthrough] in curing the disease.
+feat | 🏋️ | noun | an act that needs great skill, strength, or courage | Climbing the highest mountain was an amazing [feat]. | achievement
+award | 🏆 | noun | a prize given for doing something well | She won an [award] for her science project. | prize
+recognition | 👏 | noun | praise and attention for doing something good | The firefighters got [recognition] for their bravery. | credit, praise
+excel | ⭐ | verb | to be very good at something | She seems to [excel] at math.
+outstanding | 🌟 | adj | extremely good; much better than others | He did an [outstanding] job on his report. | excellent, superb
+exceptional | 💎 | adj | unusually good or special | The pianist has [exceptional] talent. | extraordinary, outstanding
+merit | 🎖️ | noun | the quality of being good and deserving praise | She won the job on [merit], not luck. | worth, value
+@story The Science Fair Champion | school
+🔬🏫 | {Name} worked for months on her science fair project: a solar-powered dragon nightlight.
+🪧📅 | Finishing the first model was a big [milestone].
+💡🌞 | Her [breakthrough] came when she figured out how to store sunlight in a tiny battery.
+🏋️🐉 | Getting Ziggy to sit still for the demonstration was a real [feat]!
+⭐📚 | {Name} seemed to [excel] at explaining her project to the judges.
+🌟👨‍🔬 | "This is an [outstanding] idea," said the first judge.
+💎🔍 | "Your work is [exceptional]," said the second.
+🎖️⚖️ | "This project wins on [merit]," said the head judge.
+🏆🎉 | {Name} won the grand [award]!
+👏📰 | The newspaper wrote a story about her, and the whole town gave her [recognition].
+🏅💛 | "This is my biggest [accomplishment] ever," said {Name}. "And I couldn't have done it without Ziggy."
+
+@unit Books and Writing
+legible | ✍️ | adj | clear enough to read | Please make your handwriting [legible]. | readable, clear
+illegible | 🌀 | adj | too messy or unclear to read | The doctor's note was [illegible]. | unreadable
+fictional | 🐉 | adj | made up; not real | Harry Potter is a [fictional] character. | imaginary, invented
+nonfiction | 📘 | noun | writing about real people, places, and events | I love [nonfiction] books about animals.
+factual | ✅ | adj | based on facts; true | The report was [factual] and accurate. | true, accurate
+biography | 📖 | noun | the story of a real person's life written by someone else | I read a [biography] of Abraham Lincoln.
+autobiography | 🪞 | noun | the story of a person's life written by that same person | The astronaut wrote her [autobiography].
+anecdote | 💬 | noun | a short, interesting or funny story about something that really happened | Grandpa told an [anecdote] about his first car. | story, tale
+descriptive | 🎨 | adj | using lots of details to describe something | The author used [descriptive] words to paint a picture. | vivid, detailed
+caption | 🖼️ | noun | a few words written under a picture to explain it | The [caption] under the photo said "First day of school."
+@story Ziggy's Library Week | library
+📚🐉 | It was Library Week, and Ziggy wanted to read every kind of book.
+🐉📖 | First, he read a [fictional] story about a dragon who became king.
+📘🦈 | Then he read a [nonfiction] book about sharks. Every page was [factual].
+📖👩‍🚀 | He read a [biography] about a famous astronaut.
+🪞✍️ | Then he found the astronaut's own [autobiography], where she told her life story herself.
+💬😂 | The librarian shared a funny [anecdote] about the time a goat wandered into the library.
+🎨🌄 | {Name} showed him a book with [descriptive] writing: "The sunset melted like orange sherbet."
+🖼️📸 | Each photo in the book had a [caption] that explained it.
+🌀📝 | At the end of the week, Ziggy wrote a book report, but his handwriting was [illegible].
+✍️😅 | "Can you make it [legible]?" asked the librarian. Ziggy rewrote it, slowly and neatly.
+
+@unit Screens and Code
+digital | 💻 | adj | using computers or electronic technology | We take [digital] photos with our tablet.
+software | 💾 | noun | programs that tell a computer what to do | The computer needs new [software] to run the game. | program
+program | 👩‍💻 | verb | to write instructions for a computer | I learned to [program] a robot to dance. | code
+keyboard | ⌨️ | noun | a set of keys for typing on a computer | I typed my story on the [keyboard].
+screen | 🖥️ | noun | the flat part of a computer, phone, or TV that shows pictures | The [screen] was so bright that I had to squint. | display
+password | 🔑 | noun | a secret word you type to get into a computer or account | Never share your [password] with strangers!
+download | ⬇️ | verb | to copy something from the internet onto your device | We can [download] the book onto the tablet.
+online | 🌐 | adj | connected to the internet | We played an [online] game with Grandma.
+virtual | 🥽 | adj | made to look real by a computer, but not physically real | We took a [virtual] tour of the museum.
+cursor | 🖱️ | noun | the little arrow or line on a screen that shows where you are | Move the [cursor] to the button and click.
+@story Ziggy Learns to Code | school
+💻🐉 | In computer class, Ziggy wanted to make his own video game.
+⌨️👆 | He sat at a [keyboard] and stared at the glowing [screen].
+🔑🤫 | First, he typed his secret [password]: "PIZZAFIRE."
+💾📥 | The teacher showed them how to [download] free game-making [software].
+👩‍💻🎮 | "Now you can [program] a character," said the teacher.
+🖱️➡️ | Ziggy moved the [cursor] and clicked to make a little dragon jump.
+💻✨ | His [digital] dragon could fly, spin, and breathe fire!
+🥽🌈 | He built a [virtual] world full of castles and clouds.
+🌐👵 | He shared it [online] so Grandma could play from her house.
+😄🏆 | Grandma played for three hours. "Best game ever!" she typed. "But I keep falling in the lava!"
+
+@unit Leading Together
+leadership | 🧭 | noun | the ability to guide and lead a group | The team captain showed great [leadership].
+initiative | 🚀 | noun | the ability to start things on your own without being told | She took the [initiative] to clean up the park. | drive, enterprise
+responsibility | 🎒 | noun | a duty or job you are expected to take care of | Feeding the dog is my [responsibility]. | duty
+consensus | 🤝 | noun | an agreement by everyone in a group | The class reached a [consensus] on where to go for the field trip. | agreement
+unanimous | ✋ | adj | agreed on by everyone | The vote was [unanimous]—everyone wanted pizza.
+majority | 📊 | noun | more than half of a group | The [majority] of the class voted for the zoo.
+minority | 🔹 | noun | less than half of a group | Only a [minority] of kids wanted to go to the museum.
+coordinate | 🗓️ | verb | to organize people or things so they work well together | Mom helped [coordinate] the school picnic. | organize
+participate | 🙋 | verb | to take part in something | Everyone can [participate] in the game. | join in, take part
+inclusive | 🫂 | adj | including everyone and making them feel welcome | Our club is [inclusive]—anyone can join. | welcoming
+@story The Field Trip Vote | school
+🚌🏫 | {Name}'s class was planning a field trip. The teacher let {Name} take on [leadership] of the planning.
+🗳️📊 | First, they voted. The [majority] wanted to go to the aquarium.
+🔹🦖 | But a [minority] wanted the dinosaur museum.
+🤝💬 | {Name} wanted a [consensus], so everyone talked about it.
+🚀💡 | Ziggy took the [initiative] and called the aquarium. "They have a dinosaur fossil exhibit too!"
+✋🎉 | When they voted again, it was [unanimous]. Everyone chose the aquarium!
+🗓️📋 | {Name} helped [coordinate] the bus, the lunches, and the permission slips.
+🎒✅ | Each student had one [responsibility], like counting heads or carrying the first-aid kit.
+🙋🐠 | At the aquarium, everyone got to [participate] in feeding the fish.
+🫂♿ | {Name} made sure the trip was [inclusive]. Her friend in a wheelchair could reach every tank. "Best field trip ever!"
+
+@unit Never Give Up
+resolve | 💪 | noun | strong determination to do something | Her [resolve] to finish the race never weakened. | determination
+grit | 🪨 | noun | courage and the strength to keep going when things are hard | It takes [grit] to keep practicing after you fail. | toughness, perseverance
+valor | 🛡️ | noun | great bravery, especially in battle | The knight was praised for her [valor]. | courage, bravery
+dauntless | 🦁 | adj | showing no fear; determined | The [dauntless] explorer pushed through the storm. | fearless, bold
+adversity | ⛈️ | noun | a time of great difficulty or bad luck | She showed courage in the face of [adversity]. | hardship, trouble
+hardship | 😓 | noun | something that makes life difficult, like not having enough food | The pioneers faced great [hardship] on their journey. | difficulty, suffering
+obstacle | 🚧 | noun | something that blocks your way or makes progress hard | A fallen tree was an [obstacle] on the trail. | barrier, hurdle
+setback | 📉 | noun | a problem that slows your progress | Breaking his leg was a big [setback] for the runner.
+motivate | 🔥 | verb | to give someone a reason or desire to do something | Our coach knows how to [motivate] us to play our best. | inspire, encourage
+aspire | 🌟 | verb | to hope and work hard to achieve something | I [aspire] to be a scientist someday. | aim, dream
+@story The Last Adventure of the Year | mountain
+🏔️🐉 | For the last adventure of the year, {Name} and Ziggy entered the Great Mountain Race.
+🌟💭 | {Name} began to [aspire] to win it ever since she was little.
+⛈️😣 | On race day, there was a storm. They faced real [adversity].
+🚧🌲 | A fallen tree was the first [obstacle] on the trail.
+📉🦶 | Then {Name} twisted her ankle—a painful [setback].
+😓🥶 | The cold and wet were a real [hardship].
+🪨💪 | But {Name} had [grit]. "We keep going," she said.
+🔥🗣️ | Ziggy knew how to [motivate] her. "Think of the hot cocoa at the top!"
+🦁🌄 | With [dauntless] courage, they climbed the last steep hill.
+🛡️🏅 | They didn't come in first, but the judges gave them a special medal for [valor].
+💪🌈 | "Our [resolve] got us here," said {Name}. Ziggy grinned. "Next year, we win!"
