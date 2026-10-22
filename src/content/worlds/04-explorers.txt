@@ -533,3 +533,366 @@ invest | 🌱 | verb | to put money into something hoping to get more back later
 💎🍋 | His dragon-fire-heated lemonade was special. People said its [value] was more than a dollar.
 ⚖️🥤 | "This lemonade is [worth] five dollars!" said one customer.
 📈🎉 | By the end of the day, Ziggy had made a big [profit]. He paid back {Name}'s loan first.
+
+@unit Rules and Fairness
+justice | ⚖️ | noun | fair treatment for everyone, especially under the law | The judge wanted [justice] for everyone in the town. | fairness
+punish | 🚫 | verb | to make someone suffer a penalty for doing something wrong | The coach had to [punish] the players who cheated.
+reward | 🏆 | noun | something you get for doing something good | The [reward] for finding the lost dog was fifty dollars. | prize
+consequence | ➡️ | noun | something that happens because of something else you did | Getting wet was the [consequence] of forgetting my umbrella. | result, outcome
+privilege | 🎟️ | noun | a special right or advantage that not everyone has | Staying up late on Friday is a [privilege] I earned.
+permission | ✅ | noun | being told that you are allowed to do something | You need [permission] to leave the classroom. | consent
+duty | 🫡 | noun | something you must do because it is your job or it is right | It is the lifeguard's [duty] to keep swimmers safe. | responsibility
+honor | 🎖️ | noun | great respect, or doing what is right even when it's hard | It was an [honor] to meet the president.
+penalty | 🟥 | noun | a punishment for breaking a rule | The [penalty] for a late library book is ten cents a day. | fine
+behavior | 🙂 | noun | the way someone acts | The class got a pizza party for good [behavior]. | conduct
+@story The Class Court | school
+⚖️🏫 | {Name}'s class held a pretend court to learn about [justice].
+🙂📋 | The case was about Ziggy's [behavior] at lunch.
+🍪😬 | "Ziggy ate Leo's cookie without asking," said the judge (Mia, in a black robe).
+✅❓ | "Did you have [permission]?" asked the judge. "No," said Ziggy. "But it smelled SO good."
+➡️😢 | "The [consequence] was that Leo had no dessert," said {Name}.
+🟥🍪 | "What should the [penalty] be?" asked the judge.
+🚫😟 | "We shouldn't just [punish] Ziggy," said {Name}. "He should make it right."
+🫡🍪 | So Ziggy agreed it was his [duty] to bake Leo a whole batch of cookies.
+🏆🎉 | Leo was so happy that he gave Ziggy a [reward]: half the cookies!
+🎟️🎖️ | "Being part of a fair class is a [privilege]," said the teacher, "and it's an [honor] to have you all as students."
+
+@unit Real Scientists
+hypothesis | 🤔 | noun | a guess that a scientist tests to see if it is true | My [hypothesis] is that plants grow faster with music. | theory, guess
+observation | 👁️ | noun | something you notice by watching carefully | My [observation] was that the ants marched in a line.
+data | 📊 | noun | facts and numbers collected to learn about something | We collected [data] about the weather every day. | information
+research | 🔬 | noun | careful study to find new facts | Scientists do [research] to find cures for diseases. | study
+theory | 💡 | noun | an idea that tries to explain why something happens | Darwin's [theory] explained how living things change over time.
+method | 📋 | noun | a way of doing something | Which [method] is best for growing tomatoes? | way, technique
+laboratory | 🧪 | noun | a room or building where scientists do experiments | The scientist worked in a [laboratory] full of test tubes. | lab
+specimen | 🦋 | noun | an example of something, collected to study | The museum has a [specimen] of every butterfly in Brazil. | sample
+chemical | ⚗️ | noun | a substance made by or used in chemistry | Never mix cleaning [chemicals] at home!
+record | 📝 | verb | to write down or save information | [Record] the temperature every hour. | note, log
+@story Do Plants Like Music? | lab
+🌱🎵 | {Name} wondered if plants grow better with music. That was her [hypothesis].
+🧪🥼 | She turned her bedroom into a [laboratory] and put on a lab coat.
+📋🌱 | Her [method] was simple: two bean plants, two windows, but only one would hear music.
+🔬📚 | First, she did [research] at the library to learn about plants.
+⚗️🚫 | She didn't use any [chemicals]—just water and sunlight.
+📝📅 | Every day, she would [record] how tall each plant was.
+👁️🐉 | Ziggy made an [observation]: "The music plant is leaning toward the speaker!"
+📊📈 | After a month, her [data] showed that the music plant was two centimeters taller.
+🦋🍃 | She pressed a leaf from each plant as a [specimen] to bring to school.
+💡🏆 | "Maybe plants like the good vibrations," said Ziggy. "That's a [theory] we can test next!"
+
+@unit The Wild West
+wagon | 🛞 | noun | a cart with four wheels pulled by horses | The family rode west in a covered [wagon].
+cattle | 🐄 | noun | cows and bulls raised on a farm or ranch | The cowboys moved the [cattle] across the river. | cows, livestock
+saddle | 🐎 | noun | a leather seat put on a horse's back for a rider | She climbed into the [saddle] and rode off.
+lasso | 🪢 | noun | a long rope with a loop at one end, used to catch animals | The cowgirl swung her [lasso] over her head. | lariat
+frontier | 🏜️ | noun | the far edge of a country where few people have settled | Long ago, the West was the American [frontier].
+settler | 🧑‍🌾 | noun | a person who moves to a new place to live there | The [settler] built a log house by the river. | pioneer
+cabin | 🛖 | noun | a small, simple house, often made of logs | They lived in a log [cabin] in the woods. | hut
+corral | 🚧 | noun | a fenced area for keeping horses or cattle | The horses were safe in the [corral]. | pen
+ranch | 🤠 | noun | a large farm for raising cattle, horses, or sheep | Uncle Ray has a horse [ranch] in Texas.
+outlaw | 🦹 | noun | a criminal who is running from the law | The sheriff chased the [outlaw] out of town. | bandit
+@story Sheriff {Name} | desert
+🤠⭐ | Long ago, on the wild [frontier], {Name} was the sheriff of a dusty little town.
+🛖🌵 | She lived in a log [cabin] with her trusty deputy, Ziggy.
+🛞🧑‍🌾 | Every week, a new [settler] arrived by covered [wagon].
+🤠🐄 | Out on the big [ranch], cowboys looked after hundreds of [cattle].
+🚧🐴 | One night, someone left the [corral] open, and all the horses ran away!
+🦹🌙 | "It was Black Bart, the [outlaw]!" said the rancher.
+🐎💨 | {Name} jumped into the [saddle] and galloped after him.
+🪢🎯 | She swung her [lasso] and caught Bart around the middle. Yee-haw!
+🐉🔥 | Ziggy rounded up the horses with one friendly puff of smoke. The town threw a party for its sheriff!
+
+@unit Pirates Ahoy!
+pirate | 🏴‍☠️ | noun | a robber who attacks and steals from ships at sea | The [pirate] had a wooden leg and an eye patch. | buccaneer
+galleon | ⛵ | noun | a large sailing ship with many sails, used hundreds of years ago | The Spanish [galleon] was full of gold.
+cutlass | 🗡️ | noun | a short, curved sword used by sailors and pirates | The captain waved his [cutlass] in the air.
+loot | 💰 | noun | stolen money or valuable things | The pirates buried their [loot] on the beach. | treasure, plunder
+plunder | 🏴‍☠️ | verb | to steal things by force, often during a raid | Pirates sailed the seas to [plunder] other ships. | raid, rob
+spyglass | 🔭 | noun | a small telescope | The captain looked through her [spyglass] at the island. | telescope
+captive | ⛓️ | noun | a person or animal that is kept as a prisoner | The pirates kept the princess as their [captive]. | prisoner
+stranded | 🏝️ | adj | stuck somewhere with no way to leave | The sailors were [stranded] on a desert island. | marooned
+buccaneer | 🦜 | noun | a pirate, especially one long ago in the Caribbean Sea | The [buccaneer] sang a song about the sea. | pirate
+doubloon | 🪙 | noun | an old Spanish gold coin | She found a shiny [doubloon] in the sand.
+@story Captain Ziggy's Treasure | island
+🏴‍☠️🐉 | Ziggy dreamed he was a fearsome [pirate] with a parrot and a hat.
+⛵🌊 | He sailed a huge [galleon] with twelve white sails.
+🔭🏝️ | Through his [spyglass], he spotted a tiny island.
+🗡️⚔️ | He waved his [cutlass] (it was really a wooden spoon) and shouted, "Land ho!"
+🦜🎶 | His crew of jolly [buccaneer] friends sang as they rowed to shore.
+🪙✨ | On the beach, {Name} found a gold [doubloon] in the sand.
+💰🗺️ | "There must be more [loot] buried here!" said Ziggy.
+🏴‍☠️🚫 | "Real treasure hunters don't [plunder] other ships," said {Name}. "They find things fair and square."
+⛓️🐒 | They found a little monkey tied up—a [captive] of mean pirates! They set it free.
+🏝️😟 | But then their boat floated away. They were [stranded]! …Then Ziggy woke up in his own bed. "Phew!"
+
+@unit Knights and Quests
+quest | 🗺️ | noun | a long search for something important | The knight went on a [quest] to find the golden cup. | mission, search
+squire | 🧒 | noun | a boy or young man who helped a knight and trained to become one | The [squire] polished the knight's armor every morning.
+joust | 🐴 | verb | to fight on horseback with long poles, as knights did in contests | The two knights got ready to [joust].
+shield | 🛡️ | noun | a big, flat piece of metal or wood held to protect the body | The knight raised his [shield] to block the arrow.
+sword | ⚔️ | noun | a weapon with a long, sharp metal blade | The king touched the knight's shoulder with his [sword].
+noble | 👑 | adj | from a family of high rank, or having good, honest character | It was [noble] of him to give his bread to the hungry child. | honorable, worthy
+peasant | 🧑‍🌾 | noun | a poor farmer or worker in old times | The [peasant] worked in the fields from sunrise to sunset.
+castle | 🏰 | noun | a large, strong building with thick walls and towers, where kings and queens lived long ago | The [castle] stood on top of the hill.
+tournament | 🏆 | noun | a contest with many players or teams trying to win | Our school chess [tournament] is next week. | competition
+lance | 🪄 | noun | a long pole with a pointed end, used by knights on horseback | The knight held his [lance] steady as he rode.
+@story The Squire's Test | castle
+🏰👑 | In a great stone [castle] lived a kind king who needed a new knight.
+🧒🛡️ | {Name} was a [squire]. She cleaned armor and fed the horses.
+🧑‍🌾🌾 | Her best friend was Tom, a [peasant] boy who worked in the fields.
+🏆🎺 | The king announced a [tournament]. "The winner will become a knight!"
+🐴⚔️ | Big Sir Grumble was going to [joust] against {Name}.
+🪄🐎 | He charged at her with his long [lance].
+🛡️💥 | She raised her [shield]—clang!—and stayed on her horse.
+⚔️🙅 | She didn't even need her [sword]. Sir Grumble fell into a mud puddle.
+🗺️🐉 | The king gave {Name} her first [quest]: find the lost baby dragon in the forest. She found Ziggy on the very first day!
+👑💛 | "You are brave and kind," said the king. "You have a [noble] heart." And that was how {Name} became a knight.
+
+@unit Dinosaur Days
+dinosaur | 🦕 | noun | a reptile that lived millions of years ago, some of them huge | The [dinosaur] skeleton was as tall as a house.
+extinct | 💀 | adj | no longer existing anywhere | Dinosaurs have been [extinct] for millions of years. | died out
+prehistoric | 🗿 | adj | from the time before people wrote things down | [Prehistoric] people painted animals on cave walls.
+paleontologist | 👩‍🔬 | noun | a scientist who studies fossils and ancient life | The [paleontologist] dug up a T. rex tooth.
+carnivore | 🥩 | noun | an animal that eats meat | A lion is a [carnivore].
+herbivore | 🥬 | noun | an animal that eats only plants | A cow is a [herbivore].
+omnivore | 🍽️ | noun | an animal that eats both plants and meat | A bear is an [omnivore]—it eats berries and fish.
+mammoth | 🦣 | noun | a huge, hairy kind of elephant that is now extinct | The [mammoth] had long, curved tusks.
+reptile | 🦎 | noun | a cold-blooded animal with scales, like a snake, lizard, or turtle | A crocodile is a [reptile].
+excavate | ⛏️ | verb | to dig carefully to uncover something buried | Scientists [excavate] old bones from the desert. | dig up, unearth
+@story The Dinosaur Dig | desert
+🏜️⛏️ | {Name} and Ziggy joined Dr. Rocks, a [paleontologist], on a real dinosaur dig!
+🦴🖌️ | They began to [excavate] slowly, brushing away the sand.
+🦕😮 | Soon they uncovered a giant bone. "It's from a long-neck [dinosaur]!"
+🥬🦕 | "It was a [herbivore]," said Dr. Rocks. "It ate plants from the tops of trees."
+🦷🥩 | Nearby, they found a sharp tooth. "This came from a [carnivore]," said Dr. Rocks. "A meat-eater!"
+🗿🖼️ | "These creatures lived in [prehistoric] times, millions of years ago."
+💀🌋 | "Why are they [extinct]?" asked {Name}. "A giant space rock hit the Earth," said Dr. Rocks.
+🦎🐊 | "Was a dinosaur a [reptile]?" asked Ziggy. "Yes, a bit like crocodiles and lizards."
+🦣❄️ | In the museum later, they saw a hairy [mammoth] from the Ice Age.
+🍽️🐉 | "I'm an [omnivore]," said Ziggy. "I eat plants AND pizza!"
+
+@unit Under the City
+tunnel | 🚇 | noun | a passage that goes under the ground or through a mountain | The train went through a long, dark [tunnel].
+subway | 🚉 | noun | a train that runs underground in a city | We took the [subway] to the museum. | metro, underground
+sewer | 🚽 | noun | a large underground pipe that carries away dirty water | Rainwater flows into the [sewer] through the drains.
+basement | 🏠 | noun | the part of a building below the ground | We keep old toys in the [basement]. | cellar
+manhole | 🕳️ | noun | a hole in the street with a heavy lid that workers climb down | A worker climbed down the [manhole] to fix the pipe.
+mine | ⛏️ | noun | a deep hole or tunnel where people dig for coal, gold, or other minerals | The miners went deep into the coal [mine].
+pipe | 🚰 | noun | a long tube that carries water, gas, or oil | Water came out of a broken [pipe].
+underground | ⬇️ | adj | below the surface of the ground | Moles live in [underground] tunnels.
+vault | 🏦 | noun | a strong room for keeping money and valuables safe | The bank's gold is locked in a [vault]. | safe
+passage | 🚪 | noun | a long, narrow way that connects places | A secret [passage] led from the library to the garden. | corridor
+@story The Secret Under the City | city
+🏙️🐉 | {Name} and Ziggy were riding the [subway] when it stopped in a dark [tunnel].
+🚪✨ | Through the window, Ziggy saw an old door. "A secret [passage]!"
+🕳️🔦 | They climbed out and followed a worker down a [manhole].
+🚰💧 | Every big [pipe] went drip, drip, drip.
+🚽🐀 | They walked past the [sewer]. It was smelly, but a friendly rat waved hello.
+⬇️🏙️ | "There's a whole [underground] city down here!" whispered {Name}.
+⛏️💎 | They found an old gold [mine] with rusty carts.
+🏦🔒 | At the end was a huge round door. It was the bank's [vault]!
+🏠🪜 | They climbed a ladder that came out in the [basement] of the town library. The librarian just smiled. "I wondered when someone would find that."
+
+@unit Strong Feelings About Things
+adore | 😍 | verb | to love someone or something very much | I [adore] my baby cousin. | love, cherish
+loathe | 🤢 | verb | to hate something very much | I [loathe] cleaning the bathroom. | hate, detest
+dread | 😨 | verb | to feel very worried about something that is going to happen | I [dread] going to the dentist. | fear
+yearn | 💭 | verb | to want something very badly, often something far away | The sailor began to [yearn] for home. | long, ache
+tolerate | 😐 | verb | to put up with something you don't like | I can [tolerate] the cold, but I don't like it. | put up with, bear
+approve | 👍 | verb | to think something is good or right | Mom doesn't [approve] of candy for breakfast. | agree with
+protest | ✊ | verb | to say or show strongly that you don't agree with something | The kids began to [protest] when recess was canceled. | object
+critic | 🧐 | noun | a person who judges books, movies, food, or art | The food [critic] gave the restaurant five stars. | reviewer
+enthusiasm | 🤩 | noun | great excitement and interest | She played the piano with [enthusiasm]. | eagerness, zeal
+grudge | 😤 | noun | a feeling of anger toward someone that lasts a long time | Don't hold a [grudge]—just forgive him.
+@story Ziggy the Food Critic | kitchen
+🧐🍽️ | Ziggy became a food [critic] for the school newspaper.
+🤩📝 | He took his job with great [enthusiasm].
+😍🍕 | "I [adore] the pizza," he wrote. "Ten stars!"
+🤢🥦 | "I [loathe] the soggy broccoli. One star."
+😐🍞 | "I can [tolerate] the bread, but it's a bit stale."
+😨🐟 | He began to [dread] Fish Friday every week.
+✊🍪 | When the cafeteria stopped serving cookies, the kids began to [protest].
+😤👨‍🍳 | The cook felt hurt and held a [grudge] against Ziggy for his bad reviews.
+💭🍪 | Ziggy began to [yearn] for the old cookies. He went to say sorry.
+👍🤝 | Together, they made a new menu. Even the principal said, "I [approve]!"
+
+@unit Detective Work
+suspect | 🕵️ | noun | a person who might have done something wrong | The police questioned every [suspect].
+detective | 🔎 | noun | a person whose job is to solve crimes and mysteries | The [detective] found a clue under the rug. | investigator, sleuth
+culprit | 🦹 | noun | the person who did something wrong | The [culprit] who ate the cake had frosting on his face! | wrongdoer
+alibi | 📅 | noun | proof that you were somewhere else when something happened | His [alibi] was that he was at the movies all night.
+evidence | 🧾 | noun | facts or things that help show what is true | The muddy footprints were [evidence] that someone had come in. | proof
+fingerprint | 👆 | noun | the pattern of lines on the tip of your finger, or the mark it leaves | The detective found a [fingerprint] on the glass.
+accuse | 👉 | verb | to say that someone did something wrong | Don't [accuse] your brother without proof. | blame
+innocent | 😇 | adj | not guilty of doing something wrong | The puppy looked [innocent], but he had chewed the shoe. | blameless
+guilty | 😬 | adj | having done something wrong | The cat looked [guilty] next to the broken vase.
+sleuth | 🧐 | noun | a detective | The young [sleuth] solved the mystery in one day. | detective
+@story The Case of the Missing Pie | kitchen
+🥧❓ | Grandma's cherry pie had disappeared from the windowsill! "We need a [detective]," she said.
+🧐🔍 | "I'm the best [sleuth] in town," said {Name}. Ziggy grabbed a magnifying glass.
+🧾👣 | Their first piece of [evidence] was a trail of red crumbs.
+👆🪟 | On the window, they found a sticky [fingerprint]—no, a paw print!
+🕵️🐕 | The first [suspect] was Biscuit the dog. But his [alibi] was strong: he had been at the vet all morning.
+👉🐉 | "Did YOU do it, Ziggy?" asked Grandma. "Don't [accuse] me!" said Ziggy. "I'm [innocent]!"
+🦝🌳 | Then they followed the crumbs to the tree. There sat a raccoon with a red face, looking very [guilty].
+🦹🥧 | "We found the [culprit]!" said {Name}. Grandma laughed and baked another pie—one for the raccoon, too.
+
+@unit Tiny Bits
+speck | 🔹 | noun | a very tiny spot or piece | There's a [speck] of dirt on your nose. | dot, spot
+particle | ⚛️ | noun | an extremely small piece of something | A [particle] of dust floated in the sunbeam.
+fragment | 🧩 | noun | a small piece that has broken off something | We found a [fragment] of an old blue plate. | piece, chip
+morsel | 🍪 | noun | a tiny bite of food | The bird ate every [morsel] of bread. | bite, nibble
+shred | 📄 | noun | a long, thin strip torn off something | The dog left a [shred] of paper everywhere. | strip, scrap
+sliver | 🔪 | noun | a thin, small piece cut or broken off something | Can I have just a [sliver] of cake? | splinter, slice
+grain | 🌾 | noun | a tiny hard piece of something, like sand or salt | There's a [grain] of sand in my shoe.
+dab | 🎨 | noun | a small amount of something put on lightly | Put a [dab] of glue on each corner.
+trace | 👣 | noun | a tiny sign that something was there | There wasn't a [trace] of the cookies left. | hint, sign
+scrap | 🗑️ | noun | a small piece of something left over | Ziggy fed every [scrap] of food to the birds. | bit, leftover
+@story Ziggy's Tiny Museum | home
+🏛️🔍 | Ziggy decided to open the world's tiniest museum—only for very small things!
+🔹✨ | Exhibit 1: a single [speck] of gold glitter from {Name}'s birthday card.
+🌾🏖️ | Exhibit 2: one [grain] of sand from their beach trip.
+🧩🏺 | Exhibit 3: a blue [fragment] of an old plate they found in the garden.
+📄🐕 | Exhibit 4: a [shred] of the newspaper the dog had chewed.
+🔪🍰 | Exhibit 5: a tiny [sliver] of birthday cake (Ziggy ate it later).
+🎨🖌️ | Exhibit 6: a [dab] of purple paint on a toothpick.
+⚛️☀️ | Exhibit 7: a [particle] of dust, floating in a sunbeam. "That one keeps escaping," said Ziggy.
+🍪🐦 | Exhibit 8: a cookie [morsel] for the birds.
+🗑️😅 | But the birds ate every [scrap]! By the end of the day, there wasn't a [trace] of the museum left.
+
+@unit Weather Words
+frigid | 🥶 | adj | extremely cold | The [frigid] wind made our cheeks sting. | freezing, icy
+sweltering | 🥵 | adj | uncomfortably hot | It was a [sweltering] day, so we stayed in the pool. | scorching, boiling
+balmy | 🌴 | adj | pleasantly warm and gentle | We enjoyed a [balmy] evening on the beach. | mild, pleasant
+muggy | 💦 | adj | hot and sticky with damp air | It's so [muggy] that my hair is frizzy. | humid
+breezy | 🍃 | adj | with a light wind blowing | It was a [breezy] day, perfect for flying kites. | windy
+overcast | ☁️ | adj | covered with gray clouds | The sky was [overcast], so we didn't need sunscreen. | cloudy, gray
+gusty | 🌬️ | adj | with sudden strong winds | The [gusty] wind blew my umbrella inside out.
+sleet | 🌨️ | noun | a mix of rain and snow, or frozen raindrops | [Sleet] made the roads slippery.
+slush | 🧊 | noun | half-melted snow | My boots splashed through the gray [slush].
+downpour | ⛈️ | noun | a very heavy fall of rain | We got soaked in the sudden [downpour]. | deluge
+@story Ziggy's Weather Week | city
+📅🐉 | Ziggy kept a weather diary for a whole week.
+🥶❄️ | "Monday: [frigid]! Even my fire felt cold."
+🌨️🚗 | "Tuesday: [sleet] made the sidewalks icy. Dad slipped twice."
+🧊👢 | "Wednesday: the snow melted into gray [slush]. Splish, splosh!"
+☁️😐 | "Thursday: the sky was [overcast] all day. No sun at all."
+🌬️☂️ | "Friday: [gusty] winds blew {Name}'s umbrella inside out!"
+⛈️💦 | "Saturday morning: a [downpour]! The streets turned into rivers."
+💦😓 | "Saturday afternoon: hot and [muggy]. My scales felt sticky."
+🍃🪁 | "Sunday morning: [breezy] and bright. We flew kites."
+🥵🏊 | "Sunday afternoon: [sweltering]! We jumped in the pool."
+🌴🌅 | "Sunday night: [balmy] and calm. Best weather of the week!"
+
+@unit On Stage
+audience | 👥 | noun | the people watching or listening to a show | The [audience] clapped and cheered. | crowd, spectators
+perform | 🎭 | verb | to act, sing, dance, or play music for people | Our class will [perform] a play for the parents. | act, present
+stage | 🎪 | noun | a raised area where people perform | She walked onto the [stage] and began to sing.
+actor | 🎬 | noun | a person who plays a character in a play or movie | The [actor] played a brave pirate. | performer
+script | 📜 | noun | the written words of a play or movie | I have to learn my lines from the [script].
+scene | 🎞️ | noun | one part of a play or movie that happens in one place | In the first [scene], the queen loses her crown.
+applause | 👏 | noun | the sound of people clapping | The [applause] went on for five minutes. | clapping
+curtain | 🎭 | noun | a big piece of cloth that hangs in front of a stage | The [curtain] opened, and the show began.
+audition | 🎤 | noun | a short performance to try out for a part in a show | I had an [audition] for the school musical. | tryout
+encore | 🔁 | noun | an extra song or act at the end of a show because the audience wants more | The crowd shouted for an [encore]!
+@story The Dragon Play | school
+🎤🐉 | The school was putting on a play called "The Dragon Queen." Ziggy went to the [audition].
+📜😄 | He got the part of the dragon! (Of course.) {Name} got the part of the queen.
+🎬🌟 | Every [actor] had to learn lines from the [script].
+🎞️🏰 | In the first [scene], the queen and her dragon save a village.
+🎪🎶 | On opening night, the [stage] was full of paper trees and a cardboard castle.
+🎭⬆️ | The [curtain] rose, and the lights came up.
+👥😮 | The [audience] went silent.
+🎭🔥 | {Name} and Ziggy began to [perform]. Ziggy even made real smoke rings!
+👏🎉 | At the end, the [applause] was so loud that the windows shook.
+🔁🎵 | "[Encore]! Encore!" shouted the crowd. So Ziggy did his smoke-ring trick one more time.
+
+@unit Moods
+amused | 😄 | adj | finding something funny | Dad was [amused] by my silly joke. | entertained
+annoyed | 😒 | adj | a little bit angry | I was [annoyed] when my brother kept poking me. | irritated, bothered
+disappointed | 😞 | adj | sad because something wasn't as good as you hoped | I was [disappointed] when the trip was canceled. | let down
+overjoyed | 🥳 | adj | extremely happy | Grandma was [overjoyed] when we came to visit. | thrilled, delighted
+irritated | 😤 | adj | bothered and a bit angry | The [irritated] cat flicked its tail. | annoyed, cranky
+offended | 😠 | adj | hurt or upset by something someone said or did | She was [offended] when he laughed at her hat. | insulted, hurt
+determined | 💪 | adj | having made a firm decision to do something no matter what | {Name} was [determined] to finish the puzzle. | resolute
+discouraged | 😔 | adj | having lost hope or confidence | He felt [discouraged] after losing three games in a row. | disheartened
+impressed | 🤩 | adj | thinking that someone or something is very good | The teacher was [impressed] by my science project.
+cranky | 😾 | adj | in a bad mood and easily upset | The baby gets [cranky] when she's tired. | grumpy, irritable
+@story Ziggy's Bad, Good Day | home
+😾🌅 | Ziggy woke up [cranky]. He had slept on his tail all night.
+😒🐱 | The cat kept stepping on his face. He was [annoyed].
+😤🧦 | Then he couldn't find his other sock. Now he was really [irritated].
+😞🌧️ | It began to rain, so the picnic was canceled. He was [disappointed].
+😠🐦 | A bird laughed at him through the window. Ziggy was [offended]! "How rude!"
+😔🧩 | He tried a puzzle but couldn't finish it. He felt [discouraged].
+💪🧩 | But {Name} sat down with him. "Let's try together." Ziggy was [determined] now.
+🤩✅ | They finished the whole puzzle! Dad was [impressed]. "Five hundred pieces!"
+😄🤡 | Then {Name} did a silly dance, and Ziggy was [amused].
+🥳🌈 | When the sun came out and they had the picnic after all, Ziggy was [overjoyed]. "Best bad day ever!"
+
+@unit Chatterboxes
+babble | 👶 | verb | to talk quickly in a way that is hard to understand | The baby likes to [babble] at her toys. | jabber, prattle
+blurt | 😮 | verb | to say something suddenly without thinking | Try not to [blurt] out the answer before the teacher calls on you.
+chat | 💬 | verb | to talk in a friendly, relaxed way | My mom and her friend [chat] on the phone every Sunday.
+rant | 😤 | verb | to talk loudly and angrily for a long time | Grandpa likes to [rant] about the traffic. | rave
+bicker | 🗯️ | verb | to argue about small, unimportant things | My brother and I [bicker] about who sits by the window. | squabble
+nag | 🙄 | verb | to keep reminding someone to do something in an annoying way | Mom has to [nag] me to clean my room. | pester
+bluff | 🃏 | verb | to pretend you know something or can do something when you can't | He tried to [bluff] that he had a winning card. | fake
+tattle | 🤭 | verb | to tell a grown-up about small things others do wrong | Don't [tattle] about every little thing. | tell on
+retort | 💥 | verb | to reply quickly in a sharp or clever way | "I'm not short—I'm fun-sized!" she began to [retort].
+drawl | 🤠 | verb | to speak slowly, stretching out the sounds | The cowboy began to [drawl], "Howdy, partner."
+@story The Car Trip | city
+🚗🗺️ | {Name}, her little brother Max, and Ziggy went on a long car trip.
+👶🗣️ | Baby Max began to [babble]: "Ba-ba-ga-goo!"
+🗯️🪟 | {Name} and Ziggy began to [bicker] about who got the window seat.
+🙄📢 | Mom had to [nag]: "Seatbelts on! Feet down!"
+🤭👉 | Ziggy began to [tattle]. "{Name} is kicking my seat!"
+💥😏 | "I am not!" {Name} began to [retort]. "It's your tail!"
+😤🚦 | Dad began to [rant] about all the traffic.
+💬☕ | At the diner, they began to [chat] with a cowboy who was eating pie.
+🤠🎩 | He began to [drawl], "Y'all are a lively bunch."
+😮🐉 | Ziggy couldn't help it and began to [blurt] out, "I'm a dragon!" The cowboy smiled. "Nice try, kid. You can't [bluff] me." Everyone laughed.
+
+@unit Boxes and Bags
+barrel | 🛢️ | noun | a large round container with curved sides, often made of wood | Pirates kept water in a wooden [barrel]. | cask
+crate | 📦 | noun | a large wooden or plastic box for carrying things | The apples came in a big wooden [crate].
+jar | 🫙 | noun | a glass container with a wide mouth and a lid | We keep cookies in a [jar].
+basket | 🧺 | noun | a container woven from straw, sticks, or strips | She carried a [basket] of berries.
+vase | 🏺 | noun | a container for holding flowers | Put the roses in a [vase] with water.
+pouch | 👝 | noun | a small bag, or a pocket of skin like a kangaroo's | He kept his coins in a leather [pouch].
+carton | 🥛 | noun | a cardboard box for food like milk or eggs | Please get a [carton] of eggs from the store.
+canister | 🥫 | noun | a round metal container with a lid | Grandma keeps flour in a tin [canister].
+vessel | ⚱️ | noun | a container for liquids, like a cup or bowl; also a ship | The ancient clay [vessel] once held olive oil. | container
+trunk | 🧳 | noun | a large, strong box for storing or carrying things | We found old clothes in a [trunk] in the attic. | chest
+@story The Attic Treasure | home
+🧳🕸️ | In Grandpa's attic, {Name} and Ziggy found a dusty old [trunk].
+📦🔓 | Inside the trunk was a wooden [crate] full of straw.
+⚱️🏺 | In the straw was a clay [vessel] from long ago.
+🏺🌸 | Next to it was a painted [vase] with roses on it.
+👝🪙 | Under that was a leather [pouch] with three silver coins.
+🫙🐞 | They found a [jar] of buttons and a [canister] full of old marbles.
+🧺🧶 | There was a woven [basket] of yarn.
+🥛🦕 | And in an egg [carton] were little toy dinosaurs.
+🛢️🍎 | In the corner stood an old [barrel] that Grandpa used to fill with apples. "Every box has a story," said Grandpa, smiling.
+
+@unit Tool Time
+shovel | 🪏 | noun | a tool with a long handle and a wide blade for digging | Grab a [shovel] to clear the snow. | spade
+rake | 🍂 | noun | a tool with a long handle and teeth for gathering leaves | We used a [rake] to make a big pile of leaves.
+hoe | 🌱 | noun | a garden tool with a flat blade for breaking up soil and pulling weeds | Grandma used a [hoe] to dig out the weeds.
+broom | 🧹 | noun | a brush with a long handle for sweeping | Use the [broom] to sweep the porch.
+axe | 🪓 | noun | a tool with a heavy blade for chopping wood | The woodcutter split the log with an [axe].
+pliers | 🔧 | noun | a tool with two handles for gripping or bending things | Dad used [pliers] to pull out the bent nail.
+wrench | 🔧 | noun | a tool for holding and turning nuts and bolts | The plumber tightened the pipe with a [wrench]. | spanner
+scissors | ✂️ | noun | a tool with two blades for cutting paper or cloth | Cut along the line with your [scissors].
+needle | 🪡 | noun | a thin, pointed piece of metal with a hole for thread, used for sewing | Grandma threaded the [needle] with red thread.
+chisel | 🔨 | noun | a tool with a sharp flat edge for cutting wood or stone | The sculptor shaped the stone with a [chisel].
+@story Grandpa's Workshop | garden
+🏚️🔨 | Grandpa had a workshop full of tools. {Name} and Ziggy loved to help.
+🍂🧺 | In the fall, they used a [rake] to gather the leaves.
+🪏❄️ | In the winter, they used a [shovel] to clear the snow.
+🌱🌿 | In the spring, Grandma used a [hoe] in the vegetable garden.
+🧹🏠 | Ziggy swept sawdust with a [broom].
+🪓🪵 | Grandpa chopped firewood with an [axe]. "Stand back!" he said.
+🔧🔩 | He used a [wrench] to fix Ziggy's wobbly bike and [pliers] to bend the bell back into shape.
+🔨🗿 | With a [chisel], he carved a little wooden dragon.
+✂️🪡 | Grandma used [scissors] and a [needle] to sew a tiny cape for it. "It's you, Ziggy!" said {Name}.
