@@ -898,3 +898,210 @@ automatic | 🤖 | adj | working by itself without a person controlling it | The
 🧠🌟 | "That's [ingenious]!" said Aunt Rosa.
 📜🏆 | She helped them apply for a [patent].
 📱😎 | Now Ziggy can make his bed from a [device] in his pocket. "Inventing is easier than making the bed," he said.
+
+@unit Fit and Healthy
+nutrition | 🥗 | noun | the food your body needs to grow and stay healthy | Good [nutrition] helps you think and play better. | nourishment
+vitamin | 💊 | noun | a natural substance in food that your body needs to stay healthy | Oranges are full of [vitamin] C.
+protein | 🥚 | noun | a nutrient in foods like eggs, meat, and beans that builds muscles | Beans are a great source of [protein].
+calorie | 🔥 | noun | a unit that measures how much energy food gives you | An apple has fewer than a hundred [calories].
+diet | 🍽️ | noun | the kinds of food a person or animal usually eats | A panda's [diet] is mostly bamboo.
+fitness | 🏃 | noun | being strong and healthy from exercise | Swimming is great for your [fitness]. | health
+stamina | 🔋 | noun | the energy and strength to keep going for a long time | Running every day builds [stamina]. | endurance
+endurance | 🏔️ | noun | the ability to keep doing something hard for a long time | Climbing the mountain took great [endurance]. | stamina
+immune | 🛡️ | adj | protected against a disease | After having chickenpox, you are [immune] to it.
+hydrate | 💧 | verb | to drink water so your body has enough | Remember to [hydrate] on hot days.
+@story Training for the Fun Run | park
+🏃🎽 | {Name} and Ziggy signed up for the town's Fun Run. They had one month to train.
+🔋🐢 | At first, {Name} didn't have much [stamina]. She got tired after five minutes.
+🏔️💪 | But every day she ran a little farther, building her [endurance].
+🏃⭐ | Coach Lee said, "[Fitness] isn't just running. It's eating well and sleeping well too."
+🥗🍎 | {Name} learned about [nutrition]: fruits, vegetables, grains, and protein.
+🥚🫘 | She ate eggs and beans for [protein] to build strong muscles.
+🍊☀️ | She ate oranges for [vitamin] C.
+🍽️🐉 | Ziggy changed his [diet] too—fewer cookies, more carrots. (Well, a few cookies.)
+🔥🍌 | "A banana gives you about a hundred [calories] of energy," said Coach Lee.
+💧🥤 | "And always [hydrate] before you run."
+🛡️🏅 | On race day, {Name} felt strong. A cold was going around, but she stayed healthy. "Maybe I'm [immune] to giving up!" she laughed, crossing the finish line.
+
+@unit Falling Apart
+corrode | 🔩 | verb | to slowly wear away metal, often because of rust | Salt water can [corrode] a ship's metal. | rust, eat away
+deteriorate | 📉 | verb | to slowly get worse | The old bridge began to [deteriorate] after years of rain. | decline, worsen
+dilapidated | 🏚️ | adj | old, broken, and falling apart | The [dilapidated] barn had holes in its roof. | run-down, shabby
+rickety | 🪑 | adj | weak and likely to break | Don't sit on that [rickety] old chair! | shaky, wobbly
+renovate | 🔨 | verb | to repair and improve an old building | They will [renovate] the old school this summer. | restore, remodel
+maintain | 🧰 | verb | to keep something in good condition | You need to [maintain] your bike by oiling the chain. | keep up, look after
+neglect | 🕸️ | verb | to not take care of something | If you [neglect] your plants, they will die. | ignore, abandon
+debris | 🧱 | noun | broken pieces left after something is destroyed | After the storm, there was [debris] all over the street. | rubble, wreckage
+rubble | 🪨 | noun | broken stone and bricks from a fallen building | The workers cleared the [rubble] from the old wall. | debris
+reinforce | 🏗️ | verb | to make something stronger by adding support | We need to [reinforce] the fence before the storm. | strengthen
+@story The Old Treehouse | garden
+🌳🏚️ | In the corner of Grandpa's yard was an old treehouse. It had become [dilapidated].
+🕸️😢 | For years, everyone had chosen to [neglect] it.
+📉🪵 | The wood had begun to [deteriorate] in the rain and snow.
+🔩🟫 | Even the metal nails had started to [corrode].
+🪜😬 | The [rickety] ladder wobbled when {Name} touched it.
+🔨🐉 | "Let's [renovate] it!" said Ziggy.
+🧱🧹 | First, they cleared away the [debris]: broken boards and old leaves.
+🪨🌿 | They hauled away a pile of [rubble] from the old stone steps.
+🏗️💪 | Grandpa helped them [reinforce] the floor with strong new beams.
+🧰✨ | When it was finished, it looked brand new. "Now we have to [maintain] it," said Grandpa. "Check it every spring."
+
+@unit Customs and Culture
+hospitality | 🏡 | noun | being friendly and generous to guests | Thank you for your [hospitality] during our visit. | welcome, kindness
+custom | 🎎 | noun | something that people in a place usually do | It's a [custom] to take off your shoes before going inside. | tradition, practice
+tradition | 🎄 | noun | a belief or way of doing something passed down for many years | Making cookies together is a family [tradition]. | custom
+ritual | 🕯️ | noun | a set of actions always done in the same way, often for a special reason | Reading a story is part of my bedtime [ritual]. | routine, ceremony
+heritage | 🏺 | noun | the traditions, history, and culture passed down in a family or country | We celebrate our family's [heritage] with music and food.
+culture | 🌏 | noun | the ideas, customs, art, and way of life of a group of people | We learned about Japanese [culture] at school.
+ancestor | 👴 | noun | a family member who lived long before you, like a great-great-grandparent | My [ancestor] sailed here from Ireland two hundred years ago. | forebear
+descendant | 👶 | noun | a person who comes from someone who lived earlier | She is a [descendant] of a famous inventor. | offspring
+legacy | 🎁 | noun | something important that someone leaves behind for future people | The library is Grandpa's [legacy] to the town.
+folklore | 📖 | noun | traditional stories, beliefs, and customs passed down by word of mouth | In local [folklore], a dragon lives in the hills.
+@story The Family Festival | home
+🎉👨‍👩‍👧‍👦 | Every year, {Name}'s family has a festival to celebrate their [heritage].
+🏡🍲 | Grandma's [hospitality] is famous. She cooks for fifty people!
+👟🚪 | It's a [custom] to take off your shoes at the door.
+🎄🍪 | Baking honey cookies is a family [tradition] that's two hundred years old.
+🕯️🌙 | At night, there's a candle [ritual]: everyone lights a candle and makes a wish.
+👴📸 | Grandpa showed them a photo of their [ancestor], a sailor with a big beard.
+👶💛 | "You are his [descendant]," Grandpa told {Name}. "His blood is in your veins!"
+🌏🎶 | They danced old dances and sang songs from their [culture].
+📖🐉 | Grandpa told a story from their [folklore] about a friendly dragon who protected the village. Ziggy beamed.
+🎁🌳 | "Our family's [legacy] is love and kindness," said Grandma. "Pass it on."
+
+@unit Rich and Poor
+wealth | 💰 | noun | a large amount of money and valuable things | The king's [wealth] filled ten rooms. | riches, fortune
+fortune | 🍀 | noun | a very large amount of money, or luck | She made a [fortune] selling her invention. | wealth, riches
+poverty | 🏚️ | noun | the state of being very poor | Many families live in [poverty] and need help.
+luxury | 💎 | noun | something expensive and nice that you don't really need | A swimming pool is a [luxury].
+thrifty | 🐷 | adj | careful about spending money | My [thrifty] grandma saves every coupon. | frugal, economical
+frugal | 🪙 | adj | careful to spend very little money | The [frugal] family grew their own vegetables. | thrifty, economical
+stingy | 🤏 | adj | not willing to share or spend money | The [stingy] man wouldn't even share a cracker. | cheap, miserly
+extravagant | 🎆 | adj | spending too much money on fancy things | They threw an [extravagant] party with fireworks and a castle cake. | lavish, wasteful
+lavish | 👑 | adj | rich, fancy, and generous; more than enough | The palace had a [lavish] ballroom. | luxurious, extravagant
+miser | 🧓 | noun | a person who loves money and hates spending it | The old [miser] counted his gold every night. | scrooge, cheapskate
+@story The Miser's Gold | city
+🧓💰 | In a big, cold house lived an old [miser] named Mr. Crumb.
+💰🔒 | He had great [wealth], but he kept it all locked up.
+🤏🍞 | He was so [stingy] that he wouldn't even buy bread.
+🏚️❄️ | Down the street, families lived in [poverty]. They had little food or heat.
+🐷🪙 | {Name}'s family was [thrifty]. They saved what they could.
+🎆👗 | Across town, a rich lady threw an [extravagant] party every night.
+👑🍰 | Her [lavish] cakes were taller than Ziggy!
+🍀🐉 | One winter night, Ziggy knocked on Mr. Crumb's door. "Your [fortune] could warm the whole street!" he said.
+💎💭 | Mr. Crumb looked at his gold. "A warm fire isn't a [luxury]," he said slowly. "It's a need."
+🪙💛 | So he became [frugal] for himself but generous to others. He bought firewood for every house on the street, and he was never cold or lonely again.
+
+@unit Rules and Laws
+regulation | 📋 | noun | an official rule | Safety [regulation] says everyone must wear a life jacket. | rule
+policy | 📜 | noun | a plan or set of rules that a group follows | The school has a no-phones [policy]. | rule, guideline
+enforce | 👮 | verb | to make sure people obey a rule or law | Lifeguards [enforce] the pool rules.
+violate | 🚫 | verb | to break a rule, law, or promise | Running in the halls would [violate] the rules. | break
+comply | ✅ | verb | to do what a rule or request says | Please [comply] with the library rules. | obey, follow
+obligation | 🤝 | noun | something you must do because it's your duty or a promise | I have an [obligation] to help my team. | duty
+prohibit | 🚷 | verb | to officially forbid something | The rules [prohibit] dogs on the beach. | ban, forbid
+mandatory | ❗ | adj | required by a rule; you must do it | Wearing a helmet is [mandatory] at the skate park. | required
+exception | ⭐ | noun | someone or something that is not included in a rule | Everyone must leave early, with one [exception]: the cleaners.
+legal | ⚖️ | adj | allowed by law | It's [legal] to ride bikes in the park. | lawful, allowed
+@story The Skate Park | park
+🛹🏞️ | The town opened a new skate park, and {Name} and Ziggy couldn't wait to try it.
+📋🪧 | A big sign listed every [regulation].
+❗⛑️ | "Helmets are [mandatory]," it said.
+🚷🐕 | "We [prohibit] dogs on the ramps."
+📜⏰ | The park's [policy] was to close at sunset.
+👮🧑 | A ranger was there to [enforce] the rules.
+🚫😬 | A teenager tried to skate without a helmet. "That would [violate] the rules," said the ranger.
+✅⛑️ | The teenager had to [comply] and put one on.
+🤝🐉 | Ziggy felt an [obligation] to help the little kids learn to balance.
+⭐🐉 | "Is it [legal] for dragons to fly over the ramps?" asked Ziggy. The ranger laughed. "We'll make one [exception]—just for you!"
+
+@unit Growing Food
+cultivate | 🌾 | verb | to prepare land and grow crops on it | The farmers [cultivate] rice in wet fields. | grow, farm
+irrigate | 💧 | verb | to bring water to land to help crops grow | Farmers dig ditches to [irrigate] their fields. | water
+fertilize | 🧪 | verb | to add things to soil to help plants grow | We [fertilize] the garden with compost. | feed, enrich
+prune | ✂️ | verb | to cut off parts of a plant to help it grow better | Grandpa will [prune] the rose bushes in spring. | trim, clip
+transplant | 🪴 | verb | to move a plant from one place to another | We [transplant] the seedlings into bigger pots.
+pesticide | 🐛 | noun | a chemical used to kill insects that harm plants | Some farmers don't use any [pesticide] at all.
+organic | 🥕 | adj | grown without man-made chemicals | We buy [organic] carrots from the farmers' market. | natural
+yield | 🌽 | noun | the amount of crops produced | This year's corn [yield] was the best ever. | harvest, crop
+mulch | 🍂 | noun | a layer of leaves, bark, or straw spread on soil to protect plants | We spread [mulch] around the trees to keep the soil damp.
+sow | 🌱 | verb | to plant seeds | We [sow] pumpkin seeds in early summer. | plant, scatter
+@story The School Farm | farm
+🏫🌾 | {Name}'s school started a farm, and every class helped.
+🚜🌱 | First, they had to [cultivate] the land by digging and turning the soil.
+🧪🪱 | They used compost to [fertilize] it.
+🌱👐 | In spring, they began to [sow] tomato and pepper seeds in little cups.
+🪴🌿 | When the seedlings grew, they decided to [transplant] them into the garden.
+🍂🌳 | They spread [mulch] around each plant.
+💧🚿 | Ziggy dug little ditches to [irrigate] the rows.
+✂️🌹 | The teacher showed them how to [prune] the tomato plants so they'd grow stronger.
+🥕🐞 | They didn't use any [pesticide]. Ladybugs ate the bad bugs instead! Their vegetables were [organic].
+🌽🎉 | At harvest time, the [yield] was amazing: two hundred tomatoes! They made salsa for the whole school.
+
+@unit On Guard
+vigilant | 👀 | adj | carefully watching for danger | The guard dog stayed [vigilant] all night. | watchful, alert
+oblivious | 😶 | adj | not noticing what is happening around you | He was [oblivious] to the rain because he was reading. | unaware
+sentry | 💂 | noun | a soldier who stands guard | The [sentry] stood at the castle gate. | guard, lookout
+patrol | 🚓 | verb | to go around an area to guard it or check on it | Police officers [patrol] the streets at night.
+lookout | 🔭 | noun | a person who watches for danger, or a high place to watch from | From the [lookout], we could see for miles.
+surveillance | 📹 | noun | careful watching of a person or place, often with cameras | The bank has video [surveillance].
+monitor | 🖥️ | verb | to watch or check something over a period of time | Nurses [monitor] patients all night. | watch, track
+alert | 🚨 | adj | quick to notice things; paying attention | The [alert] deer lifted its head at the sound. | attentive, watchful
+trespass | 🚫 | verb | to go onto someone's land without permission | Please don't [trespass] on the farmer's field.
+intruder | 🥷 | noun | a person who goes into a place where they are not allowed | The dog barked at the [intruder]. | trespasser, burglar
+@story The Castle Night Watch | castle
+🏰🌙 | {Name} and Ziggy were chosen to keep watch over the castle for one night.
+💂🚪 | {Name} stood at the gate like a real [sentry].
+🔭🗼 | Ziggy climbed to the top of the tower, the castle's highest [lookout].
+🚓🔦 | Every hour, they would [patrol] the castle walls.
+📹👀 | The castle had no cameras for [surveillance]—just their eyes.
+🖥️🌌 | They had to [monitor] the dark forest for any movement.
+👀😤 | They stayed [vigilant] all night, even when they got sleepy.
+😴💂 | The real guard, Sir Snore, was [oblivious]. He was fast asleep!
+🚨🌲 | Suddenly, Ziggy was [alert]. Something was moving in the trees!
+🚫🥷 | Was someone trying to [trespass]? Was it an [intruder]? It was… a hungry hedgehog looking for snacks. They gave it a berry and laughed.
+
+@unit Teams and Groups
+committee | 👥 | noun | a small group chosen to make decisions or plans | The party [committee] chose the decorations. | panel, council
+organization | 🏢 | noun | a group of people working together for a purpose | The Red Cross is an [organization] that helps people in disasters. | group, society
+alliance | 🤝 | noun | an agreement between groups to work together | The two kingdoms formed an [alliance]. | partnership, union
+league | 🏆 | noun | a group of sports teams that play against each other | Our team is the best in the soccer [league].
+troop | ⛺ | noun | a group of scouts or soldiers | Our scout [troop] went camping last weekend.
+squad | 🧑‍🤝‍🧑 | noun | a small group working together, like a team | The cheerleading [squad] practiced every day. | team, crew
+faction | 🔀 | noun | a small group within a larger group that disagrees with the rest | One [faction] of the club wanted to change the rules.
+assembly | 🏫 | noun | a gathering of people, like the whole school in the gym | We had a school [assembly] about safety. | gathering
+member | 🙋 | noun | a person who belongs to a group | Every [member] of the club got a badge.
+clan | 👨‍👩‍👧‍👦 | noun | a large family group, or a group of families with the same ancestor | The whole [clan] came to Grandma's party. | tribe, family
+@story The Dragon Club | school
+🐉🏫 | {Name} started a Dragon Club at school. Each [member] got a paper dragon badge.
+👥📋 | A small [committee] planned all the club activities.
+🏫🎤 | They announced the club at the school [assembly].
+⛺🏕️ | Soon, a scout [troop] wanted to join for a camping trip.
+🏆⚽ | The club even entered a soccer [league] and named their [squad] "The Fire Breathers."
+🔀😠 | But one [faction] of the club wanted to change the name to "The Unicorn Club."
+🤝💛 | {Name} suggested an [alliance]: "The Dragon-Unicorn Club!" Everyone agreed.
+🏢🌍 | Soon it became a real [organization] that raised money for the animal shelter.
+👨‍👩‍👧‍👦🎉 | At the end-of-year party, Ziggy said, "We're not just a club. We're a [clan]!"
+
+@unit Strong and Weak
+robust | 💪 | adj | strong and healthy | The [robust] young tree survived the storm. | sturdy, strong, hardy
+hardy | 🌵 | adj | able to survive difficult conditions | Cactuses are [hardy] plants. | tough, robust
+resilient | 🦺 | adj | able to recover quickly from difficulties | Kids are [resilient]—they bounce back fast. | tough, adaptable
+vigorous | 🏃 | adj | strong, active, and full of energy | We did [vigorous] exercise in gym class. | energetic, lively
+frail | 👵 | adj | weak and easily hurt | The [frail] old bird could barely fly. | weak, delicate
+brawny | 🏋️ | adj | big and strong with lots of muscles | The [brawny] lumberjack chopped the tree in three swings. | muscular, burly
+muscular | 💪 | adj | having strong, well-developed muscles | The gymnast had [muscular] arms. | brawny, strong
+scrawny | 🐔 | adj | very thin and bony | The [scrawny] stray cat needed a good meal. | skinny, gaunt
+gaunt | 💀 | adj | very thin and bony, often because of illness or hunger | The sailor looked [gaunt] after weeks at sea. | haggard, scrawny
+durable | 🥾 | adj | strong and able to last a long time | These hiking boots are very [durable]. | tough, long-lasting
+@story The Stray Kitten | home
+🐱🌧️ | One rainy night, {Name} found a [scrawny] kitten under the porch.
+💀😢 | It looked [gaunt], as if it hadn't eaten in days.
+👵🐱 | It was so [frail] that it could barely meow.
+🏋️👨 | Dad, who was big and [brawny], gently carried it inside in one hand.
+🧺🥾 | They made a bed in an old, [durable] boot box.
+🍼🐱 | They fed it warm milk every few hours.
+🦺😊 | The kitten was [resilient]. In a week, it was playing with string.
+🌵💪 | "It's a [hardy] little thing," said the vet. "And now it's [robust] and healthy."
+🏃🧶 | Soon it was so [vigorous] that it chased Ziggy's tail all day.
+💪🐈 | A year later, it was a big, [muscular] cat that ruled the house. They named it Tiger.
