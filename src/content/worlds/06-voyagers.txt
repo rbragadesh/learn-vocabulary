@@ -997,3 +997,192 @@ belittle | 🤏 | verb | to make someone or something seem unimportant | Don't [
 😳💧 | One duck even tried to [humiliate] him by splashing mud on him in front of everyone.
 💔⚖️ | "This is an [injustice]," said a wise old turtle. "Their [intolerance] and [discrimination] are wrong."
 🦢✨ | In spring, the gray duckling grew into a beautiful swan. But the real lesson, said {Name} as she closed the book, "is that he was always worth loving, even before."
+
+@unit Fear and Courage
+phobia | 🕷️ | noun | a very strong, unreasonable fear of something | My aunt has a [phobia] of spiders. | fear
+paranoid | 👀 | adj | worried that people are against you, without a good reason | He was [paranoid] that everyone was laughing at him. | suspicious, distrustful
+cowardly | 🐔 | adj | too afraid to do what is right or needed | The [cowardly] lion ran away from the mouse. | fearful, timid
+skittish | 🐴 | adj | nervous and easily frightened | The [skittish] horse jumped at every noise. | jumpy, nervous
+jittery | 😬 | adj | nervous and shaky | I always feel [jittery] before a test. | nervous, jumpy
+squeamish | 🤢 | adj | easily upset by unpleasant things like blood or bugs | I'm too [squeamish] to watch the doctor give shots.
+unflinching | 🛡️ | adj | not showing fear or hesitation | She faced the storm with [unflinching] courage. | steadfast, brave
+gallant | 🎩 | adj | brave and polite, especially toward others in need | The [gallant] knight helped the old woman across the river. | chivalrous, brave
+heroism | 🦸 | noun | great bravery | The firefighter was honored for her [heroism]. | bravery, courage
+daring | 🧗 | adj | brave and willing to take risks | The [daring] climber scaled the tall cliff. | bold, adventurous
+@story The Haunted Corn Maze | farm
+🌽🎃 | {Name}, Ziggy, and their friends went to a corn maze on Halloween.
+😬🌙 | Everyone felt [jittery] as the sun went down.
+🐴🍂 | Ziggy was [skittish] and jumped every time a leaf rustled.
+🕷️😱 | Mia had a [phobia] of spiders, and there were fake webs everywhere!
+🤢🧟 | Leo was [squeamish] about the zombie with fake blood.
+👀🌽 | Tom was [paranoid] that someone was following them. (It was a scarecrow.)
+🐔💨 | A [cowardly] boy from another group ran screaming back to the entrance.
+🧗🌾 | But {Name} was [daring]. She led the way through the darkest paths.
+🛡️👣 | She walked with [unflinching] steps.
+🎩🤝 | Ziggy was [gallant] and held Mia's hand past the spider webs.
+🦸🏅 | When they found the exit, the farmer gave them all a prize for [heroism]—candy apples!
+
+@unit Beautiful Places
+picturesque | 🖼️ | adj | pretty enough to be a painting | We stayed in a [picturesque] village by the sea. | charming, pretty
+scenic | 🏞️ | adj | having beautiful natural views | We took the [scenic] route along the river.
+majestic | 🏔️ | adj | grand, impressive, and beautiful | The [majestic] mountains towered above us. | grand, magnificent
+rugged | 🪨 | adj | rough, rocky, and wild | The [rugged] coastline was full of cliffs. | rocky, rough
+pastoral | 🐑 | adj | having to do with peaceful countryside and farm life | The painting showed a [pastoral] scene with sheep. | rural, rustic
+idyllic | 🌸 | adj | extremely peaceful, happy, and beautiful | We spent an [idyllic] summer at the lake. | perfect, heavenly
+panoramic | 🌄 | adj | showing a wide view of a whole area | From the top, we had a [panoramic] view of the city. | sweeping
+breathtaking | 😮 | adj | so beautiful or amazing that it surprises you | The sunset was [breathtaking]. | stunning, spectacular
+scenery | 🌳 | noun | the natural features of a place, like mountains and trees | The [scenery] on the train ride was beautiful. | landscape, view
+vista | 🔭 | noun | a beautiful view, especially a long one | The hilltop offered a stunning [vista] of the valley. | view, panorama
+@story The Train Through the Mountains | mountain
+🚂🏔️ | {Name}, her family, and Ziggy rode a train through the mountains.
+🏞️🛤️ | It was the most [scenic] train ride in the country.
+🌳🌸 | The [scenery] changed every hour: forests, rivers, and fields of flowers.
+🐑🌾 | They passed [pastoral] farms with sheep and red barns.
+🖼️🏘️ | They stopped in a [picturesque] village with painted houses.
+🪨🌊 | Near the coast, the land became [rugged], with steep cliffs.
+🏔️❄️ | Then they saw [majestic] snowy peaks.
+🌄📸 | At the highest station, they had a [panoramic] view of the whole valley.
+🔭💙 | The [vista] stretched for a hundred miles.
+😮🌅 | At sunset, the sky turned pink and gold. It was [breathtaking].
+🌸💛 | "This trip has been [idyllic]," sighed Mom. Ziggy was asleep with his nose pressed to the window.
+
+@unit Stormy Weather
+tempest | 🌊 | noun | a violent storm | The ship was tossed about in the [tempest]. | storm, gale
+torrential | 🌧️ | adj | falling in great amounts, like heavy rain | [Torrential] rain flooded the streets. | pouring, heavy
+sultry | 🥵 | adj | hot and humid | It was a [sultry] summer afternoon. | muggy, steamy
+inclement | ⛈️ | adj | stormy, cold, or rainy | The game was canceled due to [inclement] weather. | stormy, harsh
+blustery | 🌬️ | adj | very windy | It was a [blustery] day, perfect for kites. | windy, gusty
+frosty | ❄️ | adj | very cold, with frost | The [frosty] morning made the grass crunch. | icy, freezing
+thunderous | ⚡ | adj | very loud, like thunder | The crowd gave [thunderous] applause. | booming, deafening
+misty | 🌫️ | adj | covered with a light fog | The [misty] hills looked mysterious. | foggy, hazy
+turbulent | 🌀 | adj | moving in a rough, uneven, or wild way | The plane shook in the [turbulent] air. | rough, stormy
+temperate | 🌤️ | adj | having weather that is not too hot or too cold | England has a [temperate] climate. | mild
+@story A Year of Weather | sky
+🌤️📅 | {Name}'s town has a [temperate] climate, but each season brings its own weather.
+❄️🌅 | In January, the mornings are [frosty].
+🌬️🪁 | In March, the days are [blustery] and wild.
+🌫️🌄 | In April, the hills are [misty] at dawn.
+🌧️☔ | In May, [torrential] rain fills every river.
+🥵☀️ | In August, the afternoons are [sultry].
+⚡⛈️ | Summer storms bring [thunderous] booms.
+🌀✈️ | On a flight to visit Grandma, the air was [turbulent], and the plane bumped up and down.
+⛈️🚫 | In October, [inclement] weather canceled the school picnic.
+🌊⛵ | And in November, a [tempest] blew so hard that the boats stayed in the harbor. "What's your favorite weather?" asked {Name}. "Whatever lets me fly," said Ziggy.
+
+@unit On the Move
+propel | 🚀 | verb | to push or drive something forward | Rockets use fuel to [propel] themselves into space. | push, drive
+careen | 🛷 | verb | to move fast and out of control | The sled began to [careen] down the icy hill. | hurtle, swerve
+catapult | 🏹 | verb | to throw or launch something with great force | The see-saw can [catapult] a ball into the air. | launch, hurl
+ricochet | 🎱 | verb | to bounce off a surface at an angle | The ball can [ricochet] off the wall. | rebound, bounce
+rebound | 🏀 | verb | to bounce back after hitting something | The basketball will [rebound] off the backboard. | bounce back
+oscillate | 🎐 | verb | to swing back and forth regularly | A pendulum will [oscillate] from side to side. | swing, sway
+veer | ↪️ | verb | to suddenly change direction | The car had to [veer] to avoid the deer. | swerve, turn
+swerve | 🚗 | verb | to turn suddenly to avoid something | The bike had to [swerve] around the puddle. | veer, dodge
+skid | 🛑 | verb | to slide without control, often on a slippery surface | The car began to [skid] on the ice. | slide, slip
+trajectory | 📐 | noun | the curved path of an object flying through the air | The ball's [trajectory] took it right into the net. | path, arc
+@story The Backyard Olympics | park
+🏅🏡 | {Name} and Ziggy held a Backyard Olympics.
+🏹🎈 | First, they built a see-saw to [catapult] water balloons.
+📐💦 | They measured each balloon's [trajectory]. Splash!
+🚀💨 | Ziggy used a puff of air to [propel] a paper boat across the pool.
+🎱🧱 | In ping-pong, the ball would [ricochet] off the fence.
+🏀🗑️ | A basketball would [rebound] off the trash can.
+🎐⏰ | A swinging rope would [oscillate] for the long-jump timer.
+🛷🌿 | In the sled race on wet grass, {Name}'s sled began to [careen] down the hill.
+↪️🌳 | She had to [veer] left to miss a tree…
+🚗🐕 | …then [swerve] right to miss the dog…
+🛑😂 | …and [skid] to a stop right in the flower bed! "Gold medal for the most dramatic finish!" laughed Ziggy.
+
+@unit Strong and Weak 2
+potent | 💊 | adj | very powerful or strong | The wizard brewed a [potent] potion. | powerful, strong
+formidable | 🦍 | adj | causing fear or respect because it is so big or powerful | The team faced a [formidable] opponent. | daunting, powerful
+invincible | 🛡️ | adj | too strong to be defeated | The knight thought he was [invincible]. | unbeatable
+vulnerable | 🐣 | adj | easily hurt or attacked | Baby birds are [vulnerable] to cats. | defenseless, exposed
+susceptible | 🤧 | adj | likely to be affected by something | Young children are [susceptible] to colds. | prone, vulnerable
+mighty | 💪 | adj | very strong and powerful | The [mighty] river carved the canyon. | powerful, strong
+powerless | 😞 | adj | without power or ability to do anything | We felt [powerless] to stop the storm. | helpless
+dominant | 👑 | adj | most powerful or important | The [dominant] wolf led the pack. | leading, controlling
+overpower | 🤼 | verb | to defeat someone by being much stronger | The lion could [overpower] any animal on the plain. | overwhelm, overcome
+defenseless | 🐰 | adj | unable to protect yourself | The [defenseless] bunny hid in the bushes. | helpless, vulnerable
+@story The Giant and the Bunny | forest
+🦍🌲 | In the forest lived a [formidable] giant named Grog.
+💪🪵 | He was so [mighty] that he could lift whole trees.
+🛡️😤 | He thought he was [invincible].
+👑🐻 | He was the [dominant] creature in the woods. Even bears stepped aside.
+🤼🐺 | He could [overpower] any wolf.
+🐰🌿 | One day, he saw a [defenseless] little bunny caught in a thorn bush.
+🐣💔 | The bunny was [vulnerable] and scared.
+🤧🌸 | But when Grog bent down to help, he began to sneeze! He was [susceptible] to pollen from the flowers.
+😞🤧 | Sneezing, he felt [powerless].
+💊🐉 | Ziggy flew down with a [potent] allergy tea. Grog drank it, stopped sneezing, and gently freed the bunny. "Being strong," said {Name}, "means using your strength to help."
+
+@unit All Our Senses
+auditory | 👂 | adj | having to do with hearing | Music is an [auditory] experience.
+visual | 👁️ | adj | having to do with seeing | The movie had amazing [visual] effects.
+tactile | ✋ | adj | having to do with touch | The museum had a [tactile] exhibit where you could touch everything.
+olfactory | 👃 | adj | having to do with the sense of smell | Dogs have an amazing [olfactory] sense.
+sensory | 🧠 | adj | having to do with the senses | The garden was a [sensory] delight of colors, smells, and sounds.
+perception | 💭 | noun | the way you notice and understand things with your senses | Bats have excellent [perception] in the dark.
+pungent | 🧄 | adj | having a strong, sharp smell or taste | Garlic has a [pungent] smell. | sharp, strong
+acrid | 💨 | adj | having a strong, bitter smell or taste that stings | The [acrid] smoke made our eyes water. | bitter, harsh
+musty | 🏚️ | adj | smelling old, damp, and stale | The basement had a [musty] smell. | moldy, stale
+aromatic | 🌿 | adj | having a pleasant, strong smell | The [aromatic] herbs made the kitchen smell wonderful. | fragrant
+@story The Sense Garden | garden
+🌸🧠 | The town opened a Sense Garden, full of [sensory] surprises.
+👁️🌈 | The flowers were a [visual] feast of reds, blues, and yellows.
+👂🎶 | Wind chimes made it an [auditory] adventure.
+✋🌵 | The [tactile] path had soft moss, bumpy stones, and fuzzy leaves to touch.
+👃🌿 | The herb garden was great for your [olfactory] sense.
+🌿😌 | Mint and lavender were [aromatic] and lovely.
+🧄😝 | The garlic was [pungent]!
+🏚️🍄 | In the old shed, there was a [musty] smell of mushrooms.
+💨🔥 | When Ziggy sneezed a little flame, the [acrid] smoke made everyone cough. "Oops!"
+💭🐉 | "Dragons have super [perception]," said Ziggy. "I can smell cookies from a mile away." He wasn't wrong—there was a cookie stand at the gate.
+
+@unit Talk Talk Talk
+interject | ✋ | verb | to suddenly say something while someone else is talking | Can I [interject] a quick question? | interrupt, cut in
+digress | 🔀 | verb | to move away from the main topic while talking or writing | Grandpa likes to [digress] into stories about his dog. | wander, stray
+ramble | 🗣️ | verb | to talk for a long time in a confused or wandering way | My uncle tends to [ramble] about old movies. | babble, go on
+allude | 💭 | verb | to hint at something without saying it directly | Did you [allude] to the surprise party? | hint, refer
+insinuate | 🤨 | verb | to suggest something unpleasant in an indirect way | Are you trying to [insinuate] that I cheated? | imply, hint
+comment | 💬 | verb | to say something that gives an opinion | The teacher will [comment] on our essays. | remark, note
+reiterate | 🔁 | verb | to say something again for emphasis | Let me [reiterate]: no running near the pool! | repeat, restate
+quote | ❝ | verb | to repeat someone's exact words | She likes to [quote] her favorite author. | cite
+testify | 🧑‍⚖️ | verb | to tell what you know in a court of law | The witness will [testify] tomorrow.
+proclaim | 📯 | verb | to announce something publicly and proudly | The king will [proclaim] a holiday. | declare, announce
+@story The Class Meeting | school
+🏫💬 | {Name}'s class had a meeting to plan the end-of-year party.
+📯🎉 | The class president stood up to [proclaim], "We're having a party!"
+🗣️🍕 | Tom began to [ramble] about pizza toppings for ten minutes.
+🔀🐶 | Then he began to [digress] into a story about his dog's birthday.
+✋🙋 | Mia had to [interject]: "Can we get back to the party?"
+💬📝 | The teacher began to [comment] on each idea.
+🔁🧁 | "Let me [reiterate]," said {Name}. "We need food, music, and games."
+💭🐉 | Ziggy began to [allude] to a big surprise, but wouldn't say what.
+🤨😏 | Leo tried to [insinuate] that Ziggy would just eat all the cupcakes.
+❝📖 | {Name} decided to [quote] their favorite book: "A party without friends is just a meeting."
+🧑‍⚖️😂 | "I can [testify] that Ziggy has never eaten ALL the cupcakes," said {Name}. "Just most of them."
+
+@unit What Could Happen?
+feasible | ✅ | adj | possible and practical to do | Is it [feasible] to finish the project by Friday? | possible, doable
+viable | 🌱 | adj | able to work successfully | We need a [viable] plan to save money. | workable, practical
+inevitable | ⏳ | adj | certain to happen; unavoidable | Getting wet was [inevitable] in the rain. | unavoidable, certain
+imminent | 🚨 | adj | about to happen very soon | The storm is [imminent]—get inside! | approaching, impending
+potential | 🌟 | noun | the ability to become something or do something in the future | She has the [potential] to be a great pianist. | promise, possibility
+probable | 📈 | adj | likely to happen or be true | It's [probable] that we'll win the game. | likely
+improbable | 🦄 | adj | not likely to happen | It's [improbable] that it will snow in July. | unlikely
+likelihood | 🎲 | noun | how likely something is | There's a high [likelihood] of rain today. | chance, probability
+hypothetical | 💭 | adj | imagined as an example, not real | Let's answer a [hypothetical] question: what if dogs could talk? | imaginary, theoretical
+impossible | 🚫 | adj | not able to happen or be done | It's [impossible] to lick your own elbow!
+@story What If? | home
+💭🐉 | On a rainy day, {Name} and Ziggy played the "What If?" game.
+💭🐶 | "Here's a [hypothetical] question," said {Name}. "What if dogs ran the world?"
+🎲😂 | "The [likelihood] of that is very low," laughed Ziggy.
+🦄🌕 | "It's [improbable] that a cow could jump over the moon."
+🚫👅 | "It's [impossible] to lick your own elbow," said {Name}. Ziggy tried. Nope.
+📈🍕 | "It's [probable] that we'll have pizza on Friday," said Ziggy.
+✅🏰 | "Is it [feasible] to build a pillow fort big enough for a dragon?" They tried—it was!
+🌱💡 | "Do you think a lemonade stand in the rain is a [viable] business?" "Hot cocoa would be better!"
+🌟🎨 | "You have the [potential] to be a great artist," said {Name}, looking at Ziggy's drawing.
+🚨🍪 | Then they smelled cookies baking. "A snack is [imminent]!" said Ziggy.
+⏳😋 | Eating three cookies was [inevitable].
