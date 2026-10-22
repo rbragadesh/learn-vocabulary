@@ -1,0 +1,187 @@
+# World 8 — sage words (about grades 7–9). Rich, literary, and academic vocabulary.
+
+@world sages | Sages | 🦉 | Rich words that great writers love
+
+@unit How People Look
+haggard | 😩 | adj | looking very tired and worn out, often from worry | After three sleepless nights, Dad looked [haggard]. | worn, drawn
+wan | 😶 | adj | pale and weak-looking, as if ill or tired | She gave a [wan] smile from her hospital bed. | pale, pallid
+pallid | 🤍 | adj | unusually pale, in an unhealthy way | His face was [pallid] after the scary ride. | pale, wan, ashen
+wizened | 👴 | adj | shriveled and wrinkled with age | A [wizened] old man sold apples at the market. | wrinkled, withered
+gnarled | 🌳 | adj | twisted, knobby, and rough, like an old tree | The [gnarled] oak had stood for three hundred years. | twisted, knotted
+lanky | 🦒 | adj | tall, thin, and a bit awkward | The [lanky] teenager kept bumping his head. | gangly, gawky
+burly | 💪 | adj | big, strong, and heavy | A [burly] lumberjack carried the logs. | brawny, hefty
+stout | 🍺 | adj | rather fat or heavy; or strong and thick | The [stout] little pony carried big loads. | sturdy, portly
+lithe | 🐈 | adj | thin, flexible, and graceful | The [lithe] dancer leaped across the stage. | supple, agile
+sinewy | 🦵 | adj | lean and muscular | The runner had [sinewy] legs. | wiry, muscular
+@story The Wizard's Apprentices | castle
+🧙🏰 | In a tower lived a [wizened] old wizard named Merrow, with a beard down to his knees.
+🌳🪄 | His staff was made from a [gnarled] branch of an ancient oak.
+😩📜 | After a week of searching for an apprentice, he looked [haggard].
+💪🪓 | First came a [burly] blacksmith's son. "I'm strong!" he said.
+🍺🥖 | Then a [stout] baker's girl. "I'm hardworking!"
+🦒😅 | Then a [lanky] boy who tripped over the doorstep.
+🐈🤸 | Then a [lithe] acrobat who flipped into the room.
+🦵🏃 | Then a [sinewy] runner who had raced up the mountain.
+🤍😰 | Last came {Name}, [pallid] with nerves, and Ziggy, who looked [wan] from flying all night.
+✨🐉 | "I'll choose all of you," said Merrow, smiling for the first time. "Magic needs every kind of person."
+
+@unit Ways to Move 2
+clamber | 🧗 | verb | to climb awkwardly using your hands and feet | The kids began to [clamber] over the rocks. | scramble, scale
+traipse | 🚶 | verb | to walk around wearily or aimlessly | We had to [traipse] all over town looking for the store. | trudge, tramp
+gallivant | 💃 | verb | to go around from place to place having fun | They liked to [gallivant] around the city all summer. | roam, wander
+cavort | 🐐 | verb | to jump and dance around in a lively way | The lambs began to [cavort] in the meadow. | frolic, romp
+shamble | 🧟 | verb | to walk slowly and awkwardly, dragging your feet | The tired zombie began to [shamble] down the street. | shuffle, lumber
+flail | 🙌 | verb | to wave your arms or legs wildly | The swimmer began to [flail] in the deep water. | thrash, wave
+writhe | 🐍 | verb | to twist and turn your body, often in pain | The worm began to [writhe] on the hook. | squirm, wriggle
+jostle | 🫸 | verb | to push and bump against others in a crowd | Shoppers began to [jostle] each other at the sale. | shove, push
+recoil | 😨 | verb | to suddenly jump or pull back in fear or disgust | She began to [recoil] from the snake. | flinch, shrink back
+cringe | 😬 | verb | to shrink back or feel embarrassed | I [cringe] when I watch videos of myself singing. | wince, flinch
+@story The Haunted Hayride | farm
+🎃🚜 | On Halloween night, {Name} and Ziggy went on a haunted hayride.
+🧗🌾 | They began to [clamber] onto the wagon full of hay.
+🫸👥 | Kids began to [jostle] for the best seats.
+🐐🌙 | In the field, goats in costumes began to [cavort] in the moonlight.
+🧟🌽 | A farmer dressed as a zombie began to [shamble] out of the corn.
+😨🐉 | Ziggy began to [recoil] in fright!
+🐍🍬 | A rubber snake began to [writhe] on a string above them.
+🙌😱 | A teenager began to [flail] his arms and scream (on purpose).
+😬😂 | {Name} would [cringe] at the silliest jokes the guide told.
+🚶🍎 | Afterward, they had to [traipse] across the muddy field to the cider stand.
+💃🌟 | "Let's [gallivant] around to every pumpkin patch next year!" said Ziggy.
+
+@unit Laughter and Tears
+chortle | 😄 | verb | to laugh in a happy, gleeful way | Grandpa began to [chortle] at the comic strip. | chuckle, giggle
+guffaw | 🤣 | verb | to laugh loudly and heartily | The audience began to [guffaw] at the clown. | roar, howl
+snivel | 😢 | verb | to cry and sniffle in a whiny way | Stop trying to [snivel] about losing the game. | whimper, whine
+mirth | 😂 | noun | laughter and fun | The party was full of [mirth]. | merriment, glee
+levity | 🎈 | noun | humor or fun at a serious time | A little [levity] helped everyone relax. | lightheartedness
+doleful | 😔 | adj | sad and gloomy | The puppy gave us a [doleful] look. | mournful, sorrowful
+lugubrious | 🌧️ | adj | very sad and gloomy, often too much so | He sang a [lugubrious] song about rain. | mournful, gloomy
+jest | 🃏 | noun | a joke | He said it in [jest], not to be mean. | joke, quip
+banter | 💬 | noun | playful, teasing talk | The friends enjoyed friendly [banter]. | teasing, joking
+titter | 🤭 | verb | to laugh in a short, nervous, or silly way | The students began to [titter] when the teacher sneezed. | giggle, snicker
+@story The Gloomy Prince | castle
+👑😔 | In a gray kingdom lived a prince who never smiled. He had a [doleful] face.
+🌧️🎻 | He played only [lugubrious] songs on his violin.
+😢🥀 | Whenever it rained, he would [snivel] by the window.
+🃏🐉 | The king invited Ziggy to try to cheer him up. "A little [levity] might help," said the king.
+💬😏 | Ziggy began with some friendly [banter]: "Your crown is crooked, Your Highness."
+🤭👸 | The princess began to [titter].
+😄🤡 | Then Ziggy juggled cream pies. The cook began to [chortle].
+🤣💥 | When a pie landed on the king's head, the whole court began to [guffaw]!
+🃏😊 | "It was only in [jest]!" said Ziggy.
+😂🎉 | And the prince? He laughed so hard he cried. From then on, the castle was full of [mirth].
+
+@unit Grumps and Grouches
+cantankerous | 😾 | adj | grumpy and quick to argue | The [cantankerous] old goat butted everyone. | cranky, grouchy
+surly | 😠 | adj | rude and bad-tempered | The [surly] guard wouldn't answer our questions. | grumpy, sullen
+gruff | 🐻 | adj | rough and unfriendly in voice or manner | He had a [gruff] voice but a kind heart. | brusque, harsh
+dour | 😐 | adj | stern, gloomy, and unfriendly | The [dour] judge never smiled. | stern, grim
+irascible | 🔥 | adj | easily made angry | The [irascible] chef yelled at the waiters. | hot-tempered, irritable
+querulous | 😒 | adj | complaining in a whiny way | The [querulous] passenger complained about everything. | whiny, complaining
+disgruntled | 😤 | adj | unhappy and annoyed | The [disgruntled] fans left early. | displeased, dissatisfied
+crestfallen | 😞 | adj | sad and disappointed | He looked [crestfallen] when he didn't make the team. | dejected, downcast
+peevish | 😑 | adj | easily annoyed; irritable | The tired toddler was [peevish]. | cranky, testy
+bereft | 💔 | adj | sad because you have lost something or someone | She was [bereft] after her dog died. | grieving, heartbroken
+@story Old Mr. Bramble | home
+🏚️😾 | Next door to {Name} lived old Mr. Bramble, the most [cantankerous] man on the street.
+😠🚪 | He was [surly] to the mail carrier.
+🐻🗣️ | His voice was [gruff]: "Get off my lawn!"
+😐🌧️ | His face was always [dour].
+🔥⚽ | When a ball landed in his yard, he got [irascible] and kept it.
+😒☕ | He was [querulous] at the café, complaining about the coffee.
+😤🐶 | The [disgruntled] neighbors stopped saying hello.
+💔🐕 | But {Name} learned the truth: his dog had died last year. He was [bereft].
+🐶🎁 | So she and Ziggy brought him a puppy from the shelter. At first he was [peevish]—"I don't want it!"
+😞➡️😊 | When they started to take it back, he looked [crestfallen]. "Wait," he said softly. "Leave her." From then on, Mr. Bramble smiled every day.
+
+@unit Spooky and Creepy
+apparition | 👻 | noun | a ghost or ghostly figure | An [apparition] floated down the hallway. | ghost, specter, phantom
+spectral | 🌫️ | adj | like a ghost; ghostly | A [spectral] light glowed in the window. | ghostly, eerie
+ethereal | ✨ | adj | extremely light, delicate, and heavenly | The fairy had an [ethereal] glow. | delicate, otherworldly
+macabre | 💀 | adj | disturbing and dealing with death in a creepy way | The museum had a [macabre] display of old skulls. | gruesome, morbid
+grisly | 🩸 | adj | causing horror or disgust | The movie had a [grisly] scene, so I covered my eyes. | gruesome, gory
+grotesque | 👹 | adj | strange and ugly in a distorted way | The statue had a [grotesque] face. | hideous, monstrous
+loathsome | 🤮 | adj | causing hatred or disgust | The swamp monster was [loathsome]. | disgusting, revolting
+vile | 🐀 | adj | extremely unpleasant or wicked | The rotten egg had a [vile] smell. | foul, disgusting
+noxious | ☠️ | adj | harmful or poisonous | The factory released [noxious] fumes. | toxic, poisonous
+dank | 🕳️ | adj | unpleasantly damp and cold | The [dank] cellar smelled of mold. | damp, musty
+@story The Ghost of Blackwood Manor | night
+🏚️🌙 | On a stormy night, {Name} and Ziggy explored Blackwood Manor, the spookiest house in town.
+🕳️💧 | The cellar was [dank] and smelled of mold.
+☠️🧪 | An old jar held something [noxious]—they didn't open it.
+🤮🐸 | A [loathsome] slimy toad croaked in the corner.
+🐀🗑️ | There was a [vile] smell of rotten cheese.
+👹🗿 | Statues with [grotesque] faces lined the hall.
+💀🖼️ | One painting was [macabre]—a skeleton playing a violin.
+🩸📖 | An old book told a [grisly] tale about the manor.
+🌫️🕯️ | Then a [spectral] light flickered upstairs!
+👻✨ | An [apparition] floated toward them, [ethereal] and glowing. "Boo!" It was Grandma in a sheet with a flashlight! "Happy Halloween!" she laughed.
+
+@unit Crowds and Chaos
+throng | 👥 | noun | a large, packed crowd | A [throng] of fans waited outside the stadium. | crowd, horde, mob
+horde | 🧟 | noun | a huge, often wild crowd | A [horde] of shoppers rushed into the store. | swarm, throng, mob
+pandemonium | 🌪️ | noun | wild, noisy chaos | When the dog ran onto the field, there was [pandemonium]. | chaos, mayhem, uproar
+tumult | 🌊 | noun | loud confusion and disorder | The [tumult] of the crowd drowned out the speaker. | commotion, uproar
+ruckus | 📢 | noun | a noisy disturbance | The kids made a [ruckus] in the hallway. | commotion, racket
+hubbub | 🗣️ | noun | a busy, noisy situation | The [hubbub] of the market was exciting. | commotion, din
+frenzy | 🌀 | noun | wild, uncontrolled excitement or activity | The sharks swam in a feeding [frenzy]. | fever, madness
+fray | ⚔️ | noun | a fight or noisy argument | The cat jumped into the [fray]. | fight, brawl
+furor | 🔥 | noun | an outburst of public anger or excitement | The new rule caused a [furor]. | outcry, uproar
+onslaught | 🌩️ | noun | a fierce attack; or an overwhelming amount | The [onslaught] of emails lasted all day. | assault, barrage
+@story The Great Toy Sale | city
+🧸🏪 | The toy store announced a half-price sale on the new Dragon Doll. It caused a [furor]!
+👥🌅 | By dawn, a [throng] of shoppers waited outside.
+🗣️📣 | The [hubbub] grew louder as the doors opened.
+🧟🏃 | A [horde] of people rushed in.
+🌀🛒 | Shoppers grabbed toys in a [frenzy].
+📢🧸 | Two dads made a [ruckus] fighting over the last doll.
+⚔️🐉 | Ziggy jumped into the [fray] to calm them down.
+🌪️💥 | Then the shelves fell over—total [pandemonium]!
+🌊😵 | In the [tumult], a little girl got lost.
+🌩️📞 | The store faced an [onslaught] of complaints. But {Name} found the girl and gave her the doll. "Kindness beats shopping," she said.
+
+@unit Danger Ahead
+perilous | ⚠️ | adj | full of danger | The [perilous] path wound along the cliff. | dangerous, hazardous
+precarious | ⚖️ | adj | likely to fall or fail; not secure | The vase sat in a [precarious] spot on the shelf. | unstable, shaky
+harrowing | 😱 | adj | very upsetting and frightening | The sailors told a [harrowing] story of the storm. | terrifying, distressing
+fraught | 😬 | adj | full of something bad, like danger or worry | The journey was [fraught] with danger. | filled, loaded
+daunting | 🏔️ | adj | seeming difficult and scary | Climbing the huge mountain was a [daunting] task. | intimidating, overwhelming
+menacing | 😈 | adj | threatening; seeming likely to cause harm | The dog gave a [menacing] growl. | threatening, sinister
+dire | 🆘 | adj | extremely serious or urgent | The lost hikers were in [dire] need of water. | desperate, grave
+imperil | 🌋 | verb | to put in danger | The fire could [imperil] the whole village. | endanger, threaten
+jeopardize | ⚠️ | verb | to put something at risk | Cheating could [jeopardize] your place on the team. | risk, endanger
+precipice | 🧗 | noun | a very steep cliff; or the edge of a dangerous situation | They stood at the edge of the [precipice]. | cliff, brink
+@story The Mountain Rescue | mountain
+🏔️🐉 | A climber was stuck on Thunder Peak. {Name} and Ziggy joined the rescue.
+🏔️😰 | The climb was [daunting]—the tallest peak in the land.
+⚠️🪨 | The [perilous] trail had loose rocks everywhere.
+😬⛈️ | The day was [fraught] with danger: wind, ice, and storm clouds.
+😈🌩️ | [Menacing] clouds rolled over the summit.
+🌋❄️ | An avalanche could [imperil] everyone.
+🧗🕳️ | They found the climber on a ledge at the edge of a [precipice].
+⚖️😨 | He was in a [precarious] spot—one wrong move and he'd fall.
+🆘💧 | He was in [dire] need of water and warmth.
+⚠️🐉 | Ziggy didn't want to [jeopardize] the rescue, so he flew very carefully, scooped up the climber, and carried him down. Later, the climber told the [harrowing] story on the news.
+
+@unit Villains and Thieves
+scoundrel | 🦹 | noun | a dishonest, unkind person | The [scoundrel] stole money from the charity. | rascal, villain, rogue
+marauder | 🏴‍☠️ | noun | a person who roams around attacking and stealing | [Marauders] raided the village at night. | raider, bandit
+despot | 👑 | noun | a ruler with total power who uses it cruelly | The [despot] threw anyone who disagreed into jail. | tyrant, dictator
+renegade | 🏃 | noun | a person who leaves or betrays a group to join the other side | The [renegade] knight joined the enemy. | rebel, deserter, traitor
+usurp | 👑 | verb | to take power or a position wrongly or by force | The evil duke tried to [usurp] the throne. | seize, steal
+treachery | 🐍 | noun | betraying someone who trusts you | The queen was shocked by her advisor's [treachery]. | betrayal, disloyalty
+mutiny | ⚓ | noun | a rebellion against those in charge, especially by sailors | The crew planned a [mutiny] against the cruel captain. | revolt, rebellion
+pilfer | 🍪 | verb | to steal small things | The raccoon would [pilfer] snacks from the campsite. | swipe, filch
+malice | 😈 | noun | the wish to hurt others | She spoke without [malice]; it was an honest mistake. | spite, ill will
+heinous | 💀 | adj | extremely evil or shocking | Stealing from orphans is a [heinous] crime. | monstrous, wicked
+@story The Pirate Mutiny | ocean
+🏴‍☠️⚓ | Captain Blackbeard was a cruel [despot] who ruled his ship with fear.
+🍪😠 | He would [pilfer] the crew's food for himself.
+💀⛓️ | His most [heinous] act was locking a cabin boy in the brig for a week.
+😈🗺️ | His first mate, Silver, was a [scoundrel] too, full of [malice].
+🐍👑 | Silver planned to [usurp] the captain's place. It was pure [treachery].
+🏃🏝️ | One sailor became a [renegade] and swam to shore to warn the navy.
+🏴‍☠️🌙 | Meanwhile, [marauders] from another ship attacked at night!
+⚓✊ | The crew had had enough. They started a [mutiny] and locked both bad captains in the brig.
+🐉👧 | {Name} and Ziggy arrived with the navy just in time. The crew chose a kind new captain, and the ship sailed home in peace.
