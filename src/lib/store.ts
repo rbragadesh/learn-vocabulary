@@ -49,6 +49,10 @@ export interface Progress {
   days: Record<string, DayLog>;
   stars: number;
   streak: { count: number; last: string | null };
+  /** Right/total per question type, e.g. 'usage' shows whether she can use words, not just define them. */
+  kindStats: Record<string, { right: number; total: number }>;
+  /** Times a grown-up confirmed she used the word in her own sentence. */
+  ownSentences: Record<string, number>;
 }
 
 const KEY = 'wordquest:v1';
@@ -76,6 +80,8 @@ export function freshProgress(): Progress {
     days: {},
     stars: 0,
     streak: { count: 0, last: null },
+    kindStats: {},
+    ownSentences: {},
   };
 }
 
@@ -160,8 +166,13 @@ export function touchStreak(p: Progress): void {
 }
 
 /** Record one answer for a word. New words enter the review schedule; known ones move boxes. */
-export function recordAnswer(p: Progress, wordId: string, correct: boolean, countAsReview: boolean): void {
+export function recordAnswer(p: Progress, wordId: string, correct: boolean, countAsReview: boolean, kind?: string): void {
   const now = Date.now();
+  if (kind) {
+    const k = (p.kindStats[kind] ??= { right: 0, total: 0 });
+    k.total++;
+    if (correct) k.right++;
+  }
   const card = p.cards[wordId];
   p.cards[wordId] = card ? review(card, correct, now) : newCard(correct, now);
   const log = dayLog(p);

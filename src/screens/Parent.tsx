@@ -120,6 +120,8 @@ function Dashboard({ go, onBack }: { go: Navigate; onBack: () => void }) {
         </p>
       </section>
 
+      <Understanding />
+
       <section className="panel">
         <h2>Worlds</h2>
         {c.worlds.map((w) => {
@@ -273,5 +275,43 @@ function Toggle({ label, on, onChange }: { label: string; on: boolean; onChange:
       </span>
       <span>{label}</span>
     </button>
+  );
+}
+
+/** Recall vs. real understanding: can she pick the definition, and can she tell when the word is used right? */
+function Understanding() {
+  const p = useProgress();
+  const k = p.kindStats;
+  const merge = (...kinds: string[]) =>
+    kinds.reduce((acc, kind) => ({ right: acc.right + (k[kind]?.right ?? 0), total: acc.total + (k[kind]?.total ?? 0) }), { right: 0, total: 0 });
+  const pct = (x: { right: number; total: number }) => (x.total ? `${Math.round((x.right / x.total) * 100)}%` : '—');
+  const recall = merge('meaning', 'define', 'synonym');
+  const usage = merge('usage');
+  const context = merge('blank');
+  const sentences = Object.values(p.ownSentences).reduce((a, b) => a + b, 0);
+  const sentenceWords = Object.keys(p.ownSentences).length;
+  const gap = recall.total >= 30 && usage.total >= 15 ? recall.right / recall.total - usage.right / usage.total : 0;
+
+  return (
+    <section className="panel">
+      <h2>Understanding, not just memorizing</h2>
+      <div className="stat-grid">
+        <Stat label="Knows the meaning" value={pct(recall)} hint={`word ↔ definition · ${recall.total} answers`} />
+        <Stat label="Picks the right word for a sentence" value={pct(context)} hint={`fill the gap · ${context.total} answers`} />
+        <Stat label="Spots correct use" value={pct(usage)} hint={`which sentence fits best · ${usage.total} answers`} />
+        <Stat label="Own sentences" value={sentences} hint={`${sentenceWords} different word${sentenceWords === 1 ? '' : 's'}`} />
+      </div>
+      {gap > 0.15 ? (
+        <p>
+          <strong>Watch this:</strong> she matches definitions much better than she uses the words. That usually means memorizing without understanding. Slow down
+          (fewer new units a day), do more “Say it your way”, and use this week's words at dinner.
+        </p>
+      ) : (
+        <p className="muted">
+          “Spots correct use” and “Own sentences” are the real signs of understanding. Knowing a definition is only the first step. If those two fall well behind “Knows
+          the meaning”, slow down.
+        </p>
+      )}
+    </section>
   );
 }

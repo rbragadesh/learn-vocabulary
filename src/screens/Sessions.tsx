@@ -87,7 +87,7 @@ export function ReviewSession({ onExit, onNext }: { onExit: () => void; onNext: 
       title="Review time"
       questions={questions}
       onQuit={onExit}
-      onAnswer={(q, ok) => update((p) => recordAnswer(p, q.word.id, ok, true))}
+      onAnswer={(q, ok) => update((p) => recordAnswer(p, q.word.id, ok, true, q.kind))}
       onDone={(r) => {
         update((p) => {
           dayLog(p).reviewRounds++;
@@ -148,7 +148,7 @@ export function LevelChallenge({ level, onExit, onNext }: { level: Level; onExit
       questions={questions}
       requeueWrong={false}
       onQuit={onExit}
-      onAnswer={(q, ok) => update((p) => recordAnswer(p, q.word.id, ok, true))}
+      onAnswer={(q, ok) => update((p) => recordAnswer(p, q.word.id, ok, true, q.kind))}
       onDone={(r) => {
         const pct = pctOf(r);
         update((p) => {
@@ -207,7 +207,7 @@ export function QuickTest({ onExit }: { onExit: () => void }) {
       questions={questions}
       requeueWrong={false}
       onQuit={onExit}
-      onAnswer={(q, ok) => update((p) => recordAnswer(p, q.word.id, ok, true))}
+      onAnswer={(q, ok) => update((p) => recordAnswer(p, q.word.id, ok, true, q.kind))}
       onDone={(r) => {
         update(touchStreak);
         setResults(r);

@@ -1680,3 +1680,58 @@ mark {
     transition: none !important;
   }
 }
+
+/* ---------- say it your way ---------- */
+
+.say-it {
+  width: 100%;
+  margin-top: 10px;
+  padding: 18px 20px;
+  border-radius: var(--radius);
+  background: var(--blue-l);
+  text-align: left;
+}
+
+.say-it h3 {
+  margin: 0 0 4px;
+  font-size: 24px;
+}
+
+.say-it p {
+  margin: 0 0 10px;
+  font-size: 19px;
+  font-weight: 700;
+}
+
+.say-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.say-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.btn.good {
+  background: var(--green);
+  color: #fff;
+  box-shadow: 0 5px 0 var(--green-d);
+}
+
+.say-it .say-it-note {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.options.list .option .sentence {
+  font-weight: 600;
+  line-height: 1.35;
+}

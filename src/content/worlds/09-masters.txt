@@ -429,3 +429,431 @@ paltry | 🥜 | adj | very small and not worth much | They paid him a [paltry] t
 🥜🧹 | He took a job sweeping streets for a [paltry] wage.
 💵🐷 | {Name} showed him how to save his [remuneration] in a piggy bank.
 🥖🏠 | He learned to live with [austerity]—simple food and no fancy hats—and his piggy bank finally grew fat.
+
+@unit Old, New, and Fleeting
+ephemeral | 🫧 | adj | lasting a very short time | A soap bubble's beauty is [ephemeral]. | fleeting, brief, transient, evanescent
+evanescent | 🌫️ | adj | quickly fading away and disappearing | The [evanescent] rainbow vanished in a minute. | fading, fleeting, ephemeral
+anachronism | ⏰ | noun | something that seems to belong to a different time period | A knight with a cell phone would be an [anachronism]. | misplacement in time
+archaic | 🏺 | adj | very old or old-fashioned; no longer used | "Thou" is an [archaic] word for "you." | ancient, outdated, obsolete
+extant | 📜 | adj | still existing, though very old | Only three copies of the ancient map are [extant]. | surviving, existing, remaining
+nascent | 🌱 | adj | just beginning to exist or develop | Her [nascent] interest in rockets grew into a career. | budding, emerging, developing
+inchoate | 🥚 | adj | just begun and not yet fully formed | His plan was still [inchoate], just a few scribbles. | undeveloped, unformed, rudimentary
+fledgling | 🐣 | adj | new and not yet experienced or developed | The [fledgling] company had only three workers. | new, beginning, budding
+neophyte | 🔰 | noun | a person who is new to something | As a chess [neophyte], he still mixed up the bishops and knights. | beginner, novice, newcomer
+callow | 🐥 | adj | young and lacking experience | The [callow] knight had never seen a real dragon. | inexperienced, immature, green
+@story The Time Machine | museum
+⏳🐉 | {Name} and Ziggy found a time machine in the museum basement.
+🥚💭 | Their plan was [inchoate]: "Push buttons and see what happens!"
+🔰🎛️ | As a time-travel [neophyte], Ziggy had no idea which button did what.
+🏺🏛️ | Zoom! They landed in ancient Greece, where people spoke an [archaic] language.
+⏰📱 | Ziggy's watch was an [anachronism]—nobody there had ever seen one!
+🐥🛡️ | They met a [callow] young soldier who had never left his village.
+🌱🔭 | A scientist showed them her [nascent] idea: a tool for looking at stars.
+🐣🏫 | She ran a [fledgling] school with only two students.
+🌈🌫️ | They watched an [evanescent] rainbow that faded in seconds.
+🫧⌛ | Their visit was [ephemeral]; the time machine pulled them back after one hour.
+📜🔍 | Back in the museum, {Name} found that the scientist's star drawings were still [extant] in a glass case!
+
+@unit Knowing a Lot
+erudite | 🎓 | adj | having or showing great knowledge from reading and study | The [erudite] professor knew six languages. | learned, scholarly, knowledgeable
+perspicacious | 🦅 | adj | quick to notice and understand things | The [perspicacious] detective spotted the tiny clue. | perceptive, sharp, astute
+prescient | 🔮 | adj | knowing or guessing what will happen before it happens | Her [prescient] warning about the storm saved the picnic. | farsighted, prophetic
+cognizant | 💡 | adj | aware of something | Be [cognizant] of the rules before you play. | aware, conscious, mindful
+didactic | 👩‍🏫 | adj | meant to teach, often in a preachy way | The [didactic] story ended with a long lesson about honesty. | instructive, preachy, moralizing
+pedantic | 🤓 | adj | too focused on small details and rules, showing off knowledge | The [pedantic] tour guide corrected everyone's grammar. | nitpicky, fussy, hairsplitting
+dilettante | 🎨 | noun | a person who dabbles in an art or subject without real commitment or skill | He's a [dilettante] who tries a new hobby every week. | dabbler, amateur
+connoisseur | 🧀 | noun | an expert judge of something, like art, food, or music | The cheese [connoisseur] could name any cheese by taste. | expert, authority, aficionado
+philistine | 🙉 | noun | a person who doesn't care about or understand art and culture | Only a [philistine] would use a famous painting as a placemat! | lowbrow
+savant | 🧠 | noun | a person with great knowledge or a special mental ability | The math [savant] solved the puzzle in seconds. | genius, scholar
+@story The Big Brain Quiz Show | lab
+📺🧠 | {Name} and Ziggy joined the Big Brain Quiz Show.
+🎓📚 | Their first rival was an [erudite] professor who had read every book in the library.
+🧠🔢 | Next was a math [savant] who could multiply giant numbers in her head.
+🧀👅 | Then came a food [connoisseur] who could name any dish by smell alone.
+🎨🎸 | A [dilettante] had tried painting, guitar, and juggling—but was great at none.
+🙉🖼️ | A [philistine] in the audience yawned at all the art questions.
+🤓📏 | The [pedantic] host kept correcting everyone's tiny mistakes.
+👩‍🏫📖 | Each question came with a [didactic] little lesson.
+💡⚠️ | "Be [cognizant] of the time limit," the host warned.
+🦅🔍 | {Name} was [perspicacious]; she noticed a hidden clue in the question.
+🔮🏆 | Ziggy had made a [prescient] guess: "The last question will be about dragons!" He was right—and they won!
+
+@unit Sneaky Tricks
+surreptitious | 🤫 | adj | done secretly because it would not be approved of | She took a [surreptitious] peek at her birthday present. | secret, sneaky, furtive, covert
+subterfuge | 🎭 | noun | a trick or secret plan used to hide the truth or get something | The spy used [subterfuge] to get into the castle. | trickery, deception, ruse
+ruse | 🪤 | noun | a clever trick meant to fool someone | The fake errand was a [ruse] to get him out of the house. | trick, ploy, subterfuge
+artifice | 🎩 | noun | clever tricks used to fool people | The magician's [artifice] made the coin seem to vanish. | trickery, cunning, deception
+connive | 🤝 | verb | to secretly plan with others to do something wrong | The two foxes [connived] to steal the farmer's eggs. | conspire, scheme, plot
+feint | 🤺 | noun | a fake move meant to fool someone, like pretending to go one way and then going the other | The soccer player's [feint] fooled the goalie. | fake, bluff
+prevaricate | 🌀 | verb | to avoid telling the truth by not answering directly | When asked about the cookies, he [prevaricated]. | dodge, fib, evade, equivocate
+incognito | 🕶️ | adv | in disguise, with your true identity hidden | The movie star traveled [incognito]. | in disguise, undercover
+dupe | 🤡 | verb | to trick or fool someone | The con artist [duped] them into buying a fake diamond. | trick, fool, deceive, con
+guileless | 😇 | adj | innocent and honest; not knowing how to trick others | The [guileless] child believed every story she heard. | innocent, naive, sincere
+@story The Secret Surprise | kitchen
+🎂🤫 | It was Mom's birthday, and {Name} and Ziggy planned a secret surprise.
+🤝🐉 | They [connived] with Dad to bake a cake while Mom was out.
+🪤🛒 | Their [ruse]: Dad asked Mom to go buy "very important milk."
+🎭📦 | As extra [subterfuge], they hid the cake inside a giant cereal box.
+🎩🍰 | Ziggy used a magician's [artifice] to make the frosting look like pizza.
+🤡🍕 | They [duped] the nosy neighbor into thinking they were just making pizza.
+😇❓ | Little cousin Pip, who was [guileless], almost told Mom the secret!
+🕶️🥸 | Ziggy put on sunglasses and a fake mustache to go [incognito] to the store for candles.
+🌀🙈 | When Mom came home and asked why the kitchen smelled sweet, {Name} [prevaricated]: "Smells? What smells?"
+🤺🎈 | Dad made a [feint] toward the living room so Mom wouldn't see the balloons.
+🤭🎉 | Mom took a [surreptitious] peek into the kitchen—and everyone yelled, "Surprise!"
+
+@unit Steady and Fickle
+immutable | 🗿 | adj | unable to be changed | The laws of nature are [immutable]. | unchangeable, fixed, permanent
+capricious | 🌪️ | adj | changing suddenly and without reason | The [capricious] weather switched from sun to hail. | unpredictable, fickle, erratic
+fickle | 🎭 | adj | changing your mind or loyalty often | The [fickle] cat loved one toy on Monday and ignored it on Tuesday. | changeable, capricious, flighty
+erratic | 〰️ | adj | not regular or predictable | The bee's [erratic] flight made it hard to follow. | unpredictable, irregular, inconsistent
+ambivalent | ⚖️ | adj | having mixed feelings about something | She felt [ambivalent] about moving: excited but sad. | uncertain, torn, conflicted
+staunch | 🛡️ | adj | very loyal and committed | He is a [staunch] supporter of his local team. | loyal, faithful, steadfast, stalwart
+stalwart | 🌳 | adj | loyal, strong, and dependable | Her [stalwart] friends stood by her. | dependable, staunch, steadfast
+resolute | 🎯 | adj | firmly determined | She was [resolute] in her goal to finish the marathon. | determined, unwavering, firm
+inveterate | ♾️ | adj | having a habit that has lasted a long time and is unlikely to change | My uncle is an [inveterate] joke teller. | habitual, chronic, confirmed
+indelible | 🖊️ | adj | impossible to remove or forget | The marker left an [indelible] stain on the shirt. | permanent, lasting, unforgettable
+@story Captain Steady and the Fickle Wind | ocean
+⛵🐉 | {Name} and Ziggy sailed with Captain Steady across the ocean.
+🌪️🌊 | The wind was [capricious]; it changed direction every few minutes.
+🎭💨 | "The sea breeze is [fickle]," said the captain. "Never trust it."
+〰️🐬 | A dolphin swam an [erratic] path, zigzagging around the boat.
+⚖️🤢 | Ziggy felt [ambivalent] about the trip—excited, but a little seasick.
+♾️😂 | The first mate was an [inveterate] joker who never stopped telling fish puns.
+🛡️⚓ | But the crew was [staunch]; they stayed loyal to the captain in every storm.
+🌳💪 | The [stalwart] old ship held strong against huge waves.
+🎯🧭 | Captain Steady was [resolute]: "We will reach Treasure Bay!"
+🗿⭐ | "The stars are [immutable]," she said. "Follow them, and you'll never get lost."
+🖊️❤️ | They reached the bay, and the adventure left an [indelible] memory in {Name}'s heart.
+
+@unit Sad and Uneasy
+chagrin | 😖 | noun | annoyance and embarrassment at failing or being disappointed | To his [chagrin], he tripped on stage. | embarrassment, humiliation, mortification
+consternation | 😱 | noun | a feeling of shock, worry, and confusion | To everyone's [consternation], the bridge was gone. | dismay, alarm, shock
+disquiet | 😟 | noun | a feeling of worry or unease | The strange noise filled her with [disquiet]. | unease, anxiety, worry
+disconcert | 😳 | verb | to unsettle or confuse someone | His odd stare [disconcerted] me. | unsettle, fluster, rattle
+ennui | 😒 | noun | a feeling of boredom and dissatisfaction from having nothing interesting to do | On the tenth rainy day, a deep [ennui] set in. | boredom, listlessness, tedium
+malaise | 🤢 | noun | a general feeling of discomfort or unhappiness that is hard to explain | A strange [malaise] hung over the gloomy town. | unease, discomfort, gloom
+doldrums | 🌊 | noun | a state of low spirits or no progress; or a calm part of the ocean with no wind | After vacation ended, I was in the [doldrums]. | slump, blues, gloom
+maudlin | 😭 | adj | sad and teary in a silly or overly emotional way | He got [maudlin] about his old socks. | sentimental, mushy, weepy
+plaintive | 🎻 | adj | sounding sad and mournful | The puppy gave a [plaintive] whimper. | mournful, sad, wistful
+distraught | 😫 | adj | extremely upset and worried | The [distraught] mother searched for her lost child. | frantic, upset, distressed
+@story The Day Everything Went Gray | beach
+🏖️😒 | It was summer, but {Name} felt a strange [ennui]. Nothing seemed fun.
+🌊⛵ | Even the sailboats were stuck in the [doldrums]—no wind at all.
+🤢🌫️ | A gray [malaise] hung over the whole beach.
+🎻🐶 | A puppy gave a [plaintive] howl.
+😭🩴 | Ziggy got [maudlin] about his lost flip-flop: "It was my best friend!"
+😟🌊 | Then a deep rumble filled them with [disquiet].
+😱🏰 | To their [consternation], a wave swept away the sandcastle contest!
+😫👦 | A [distraught] little boy cried, "My castle is gone!"
+😖🐉 | To Ziggy's [chagrin], his own castle had fallen too.
+😳💡 | The sudden quiet [disconcerted] everyone. Then {Name} had an idea: "Let's build one GIANT castle together!" By sunset, the gray feeling was gone.
+
+@unit Delight
+felicity | 😊 | noun | great happiness; or a pleasing way of saying something | Their wedding day was full of [felicity]. | happiness, joy, bliss
+enthrall | 🤩 | verb | to hold someone's attention completely with delight | The magic show [enthralled] the children. | captivate, fascinate, mesmerize
+mesmerize | 🌀 | verb | to hold someone's attention so strongly that they can't look away | The fireworks [mesmerized] the crowd. | hypnotize, captivate, enthrall
+scintillating | ✨ | adj | sparkling; or brilliantly clever and lively | We had a [scintillating] conversation about space. | sparkling, brilliant, dazzling
+regale | 🎙️ | verb | to entertain someone with stories or a feast | Grandpa [regaled] us with tales of his travels. | entertain, amuse
+gratify | 🎁 | verb | to please or satisfy | It [gratified] her to see her students succeed. | please, satisfy
+halcyon | 🌅 | adj | describing a happy, peaceful time in the past | She remembered the [halcyon] days of summer camp. | idyllic, golden, peaceful
+revel | 🎉 | verb | to enjoy something very much | The kids [reveled] in the snow day. | bask, celebrate
+jocular | 😄 | adj | joking and playful | His [jocular] manner made everyone laugh. | playful, jokey, humorous
+astound | 😲 | verb | to shock or surprise greatly | The tiny gymnast's flip [astounded] the judges. | amaze, astonish, stun
+@story The Jungle Circus | jungle
+🎪🌴 | A circus came to the jungle, and {Name} and Ziggy got front-row seats!
+😄🐒 | A [jocular] monkey clown told jokes that made everyone giggle.
+🌀🐍 | A dancing snake [mesmerized] the crowd with its swaying.
+🤩🐘 | An elephant balancing on a ball [enthralled] the children.
+😲🐆 | A leopard's triple flip [astounded] everyone.
+✨🦜 | The parrots' [scintillating] feathers sparkled under the lights.
+🎙️🦍 | The gorilla ringmaster [regaled] them with stories of circus life.
+🎉🍿 | Ziggy [reveled] in the popcorn, the music, and the cheers.
+🎁👏 | It [gratified] the performers to hear such loud applause.
+😊🌙 | {Name} walked home full of [felicity].
+🌅📸 | Years later, she would remember those [halcyon] circus nights and smile.
+
+@unit Rules and Punishment
+culpable | 👉 | adj | deserving blame for something wrong | The driver was [culpable] for the crash. | guilty, responsible, blameworthy
+impunity | 😎 | noun | freedom from punishment | The bullies acted with [impunity] until the principal found out. | exemption
+proscribe | 🚫 | verb | to forbid officially | The school [proscribed] gum in class. | forbid, ban, prohibit
+annul | ❌ | verb | to officially cancel and declare something no longer valid | The judge [annulled] the unfair contract. | cancel, void, invalidate
+stipulate | 📝 | verb | to state clearly as a rule or condition | The rules [stipulate] that each team has five players. | specify, require
+decree | 📜 | noun | an official order given by a ruler or court | The king's [decree] declared a holiday. | order, edict, ruling
+duress | 😰 | noun | threats or force used to make someone do something | He signed the paper under [duress]. | force, pressure, coercion
+extenuating | 🌧️ | adj | making a wrong seem less serious by giving reasons | Because of [extenuating] circumstances, the teacher accepted the late homework. | mitigating, excusing
+punitive | ⛓️ | adj | meant to punish | The [punitive] fine was a thousand dollars. | punishing, disciplinary, penal
+draconian | 🐲 | adj | extremely harsh and strict | No dessert for a year? That's [draconian]! | harsh, severe, strict
+@story King Magma's Rules | volcano
+🌋👑 | King Magma ruled the Volcano Kingdom with [draconian] rules.
+📜🔥 | His newest [decree]: "No one may laugh on Tuesdays!"
+🚫😂 | He [proscribed] giggles, chuckles, and even smiles.
+📝⚖️ | The rules [stipulated] that anyone caught laughing must scrub lava pots.
+⛓️🧽 | The [punitive] chores lasted for a month.
+😎👑 | Meanwhile, the king's friends broke rules with [impunity].
+🐉😆 | One Tuesday, Ziggy laughed at a funny cloud. "You are [culpable]!" yelled the guards.
+😰✍️ | Under [duress], Ziggy almost signed a paper saying he was a troublemaker.
+🌧️👧 | But {Name} explained the [extenuating] circumstances: "The cloud looked like a dancing hippo!"
+❌🎉 | Even the king laughed. He [annulled] the no-laughing law forever.
+
+@unit Big and Too Much
+superfluous | ➕ | adj | more than is needed | Adding a fifth scarf was [superfluous]. | unnecessary, extra, excess, redundant
+gratuitous | 🙄 | adj | done without a good reason; uncalled for | The movie had [gratuitous] explosions in every scene. | unnecessary, unjustified, uncalled-for
+extraneous | 🧩 | adj | not belonging or not important to the topic | Cut the [extraneous] details from your report. | irrelevant, unrelated, superfluous
+redundant | 🔁 | adj | not needed because it repeats something else | "Free gift" is [redundant]; all gifts are free. | repetitive, unnecessary, superfluous
+inordinate | 📈 | adj | much more than is usual or reasonable | He spent an [inordinate] amount of time on his hair. | excessive, undue, extreme
+profusion | 🌸 | noun | a very large amount of something | A [profusion] of flowers covered the hill. | abundance, wealth, plethora
+exhaustive | 📚 | adj | complete and covering every detail | The detective made an [exhaustive] search of the house. | thorough, complete, comprehensive
+voluminous | 👗 | adj | very large, roomy, or long | Her [voluminous] dress filled the doorway. | huge, roomy, ample, capacious
+capacious | 🎒 | adj | having lots of room inside | The [capacious] backpack held everything for the trip. | roomy, spacious, voluminous
+prodigious | 🏔️ | adj | amazingly large or impressive | The young pianist had a [prodigious] talent. | enormous, remarkable, phenomenal
+@story Ziggy Packs for a Trip | sky
+🧳🐉 | Ziggy and {Name} were flying to visit Grandma Dragon. Ziggy packed... a lot.
+🎒✨ | He used his most [capacious] backpack. It had room for everything.
+👗🧣 | He packed a [voluminous] cape that could cover a whole tent.
+📈🧦 | He brought an [inordinate] number of socks: forty-two pairs!
+➕🧣 | A fifth scarf was [superfluous], but he packed it anyway.
+🔁📝 | His list was [redundant]: "Toothbrush. Toothbrush. Brush for teeth."
+🧩🪨 | He even packed [extraneous] things, like a rock collection and a bowling ball.
+🙄💥 | His [gratuitous] fireworks were definitely not needed for a visit to Grandma.
+📚✅ | {Name} made an [exhaustive] check of the bag, item by item.
+🌸🎁 | They kept only what they needed—and a [profusion] of flowers for Grandma.
+🏔️🪽 | Even so, carrying it all took [prodigious] strength. Ziggy flapped extra hard!
+
+@unit Agree and Disagree
+concur | 👍 | verb | to agree | The doctors [concurred] that he needed rest. | agree, assent
+assent | ✅ | noun | agreement or approval | The teacher nodded her [assent]. | agreement, approval, consent
+dissent | ✋ | noun | disagreement with an official or popular opinion | There was loud [dissent] when the park was closed. | disagreement, objection, protest
+dissident | 📢 | noun | a person who openly disagrees with a government or powerful group | The [dissident] wrote articles criticizing the king. | rebel, protester, objector
+gainsay | 🙅 | verb | to deny or disagree with something | No one could [gainsay] her excellent results. | deny, dispute, contradict
+rebuttal | 🗨️ | noun | an argument that tries to prove another argument wrong | She gave a strong [rebuttal] to his claim. | counterargument, refutation
+contend | 🥊 | verb | to argue that something is true; or to compete | Scientists [contend] that exercise helps the brain. | argue, claim, maintain
+concord | 🕊️ | noun | agreement and peace | The two tribes lived in [concord] for years. | harmony, peace, accord
+conciliatory | 🤝 | adj | meant to calm anger and make peace | He made a [conciliatory] offer to share his toys. | peacemaking, appeasing
+impasse | 🧱 | noun | a situation where no progress is possible because people can't agree | The talks reached an [impasse]. | deadlock, standstill, stalemate
+@story The Fish Council | underwater
+🐠🏛️ | Under the sea, the Fish Council met to decide: should the reef get a new playground?
+🥊🐡 | The pufferfish [contended] that a playground would be too noisy.
+🗨️🐙 | The octopus gave a clever [rebuttal]: "We can make it quiet!"
+✋🦀 | The crabs shouted their [dissent]: "We don't want it!"
+📢🦐 | A small shrimp [dissident] wrote protest signs in squid ink.
+🧱🌊 | The council reached an [impasse]. No one would budge.
+🤝🐉 | Ziggy, visiting in a diving helmet, made a [conciliatory] offer: "Let's build it far from the crab caves."
+🙅🐟 | No one could [gainsay] such a good idea.
+👍🐬 | The dolphins [concurred]: "Perfect!"
+✅🐢 | The wise old turtle gave her [assent] with a slow nod.
+🕊️🪸 | {Name} smiled. The reef lived in [concord] once again.
+
+@unit Opposites and Mixtures
+dichotomy | ✂️ | noun | a division into two opposite or very different parts | There's a [dichotomy] between what he says and what he does. | split, division, contrast
+antithesis | ↔️ | noun | the exact opposite | Laziness is the [antithesis] of hard work. | opposite, reverse, contrary
+juxtapose | 🖼️ | verb | to place two things side by side to compare or contrast them | The artist [juxtaposed] a tiny mouse with a giant elephant. | contrast, compare
+incongruous | 🦒 | adj | strange because it doesn't fit with what's around it | A penguin in the desert would look [incongruous]. | out of place, odd, mismatched
+disparate | 🍎 | adj | very different from each other | The class had [disparate] ideas about the best pet. | different, dissimilar, contrasting
+amalgam | 🧪 | noun | a mixture of different things | The song was an [amalgam] of jazz and rock. | mixture, blend, combination, hybrid
+coalesce | 🫧 | verb | to come together to form one thing | The raindrops [coalesced] into a puddle. | merge, unite, combine
+homogeneous | 🥛 | adj | made of parts that are all the same kind | The milk was [homogeneous], with no lumps. | uniform, consistent, alike
+eclectic | 🎨 | adj | made up of many different styles or sources | Her room had an [eclectic] mix of posters, plants, and robots. | varied, diverse, assorted
+hybrid | 🚗 | noun | something made by combining two different things | A mule is a [hybrid] of a horse and a donkey. | cross, mix, blend, amalgam
+@story The Mixed-Up Garden | garden
+🌻🐉 | {Name} and Ziggy entered the "Mix It Up" science fair.
+🎨🌼 | Ziggy's garden was [eclectic]: roses, cactuses, and a pumpkin all growing together.
+🍓🍅 | {Name} grew a [hybrid] plant—half strawberry, half tomato!
+🧪🧃 | Its juice was an [amalgam] of sweet and sour.
+🖼️🍉 | They [juxtaposed] a giant watermelon with a tiny pea to show the difference in size.
+🦒🌵 | A cactus wearing a scarf looked [incongruous] in the garden.
+🍎🍋 | The judges had [disparate] opinions: one loved the sour juice, one hated it.
+↔️😊 | Ziggy's grin was the [antithesis] of the grumpy judge's frown.
+✂️🍅 | There was a [dichotomy] in the crowd: half said "fruit," half said "vegetable."
+🥛🥤 | {Name} blended the juice until it was smooth and [homogeneous].
+🫧🏆 | Slowly, all the opinions [coalesced] into one: "First prize!"
+
+@unit Outsiders and Wanderers
+pariah | 🚷 | noun | a person whom others reject and avoid | After cheating, he became a [pariah] in the chess club. | outcast, castaway
+recluse | 🏚️ | noun | a person who lives alone and avoids other people | The [recluse] hadn't left his house in years. | hermit, loner
+hermit | 🧙 | noun | a person who lives alone far away from others, often for religious reasons | The [hermit] lived in a cave on the mountain. | recluse, loner
+misanthrope | 😾 | noun | a person who dislikes people in general | The [misanthrope] put a "Go Away" sign on his door. | people-hater, cynic
+expatriate | ✈️ | noun | a person who lives outside their own country | The American [expatriate] opened a café in Paris. | emigrant, expat
+exodus | 🚶 | noun | a large group of people leaving a place at the same time | After the concert, there was an [exodus] of fans from the stadium. | departure, flight
+vagrant | 🎒 | noun | a person without a home or job who wanders from place to place | The [vagrant] slept on a park bench. | drifter, wanderer
+denizen | 🦉 | noun | a person, animal, or plant that lives in a particular place | Owls are [denizens] of the night forest. | inhabitant, resident, dweller
+interloper | 🚪 | noun | a person who goes where they are not wanted or don't belong | The family glared at the [interloper] who crashed their picnic. | intruder, trespasser, gatecrasher
+itinerant | 🚚 | adj | traveling from place to place | The [itinerant] musician played in a new town every night. | traveling, wandering, roaming, nomadic
+@story The Hermit of Hollow Hill | mountain
+⛰️🧙 | A [hermit] lived alone on Hollow Hill, far from the village.
+🏚️🚪 | The villagers called him a [recluse] because he never came down.
+😾🪧 | Some said he was a [misanthrope] who hated everyone.
+🚷😢 | Because of the rumors, he had become a [pariah].
+🦉🌲 | His only friends were the [denizens] of the forest: owls, foxes, and deer.
+🚚🎻 | One day, an [itinerant] fiddler traveling through town climbed the hill.
+✈️🥐 | With him came an [expatriate] baker who had moved from France.
+🎒🌧️ | A [vagrant] boy with no home joined them, looking for shelter from the rain.
+🚪😠 | "I don't want an [interloper]!" the hermit grumbled at first.
+🍞🎶 | But the bread and music melted his heart. Soon there was an [exodus] from the village—everyone climbed up to join the party! {Name} and Ziggy brought the cake.
+
+@unit Bold and Unshakable
+temerity | 😮 | noun | too much boldness; nerve | He had the [temerity] to ask the queen for her crown. | audacity, nerve, gall, effrontery
+aplomb | 😎 | noun | calm confidence, especially in a hard situation | She handled the tricky question with [aplomb]. | poise, composure, confidence
+panache | 🎩 | noun | stylish confidence and flair | He sang the song with great [panache]. | flair, style, dash
+impervious | 🛡️ | adj | not affected or harmed by something; not letting something pass through | The raincoat is [impervious] to water. | resistant, unaffected, impenetrable
+imperturbable | 🧘 | adj | always calm and impossible to upset | The [imperturbable] lifeguard stayed calm during the storm. | unflappable, calm, composed, serene
+impregnable | 🏰 | adj | too strong to be attacked or broken into | The castle's walls were [impregnable]. | unbreakable, invincible, impenetrable
+chivalry | 🐴 | noun | brave, polite, and honorable behavior, like that of an ideal knight | Holding the door for others is a small act of [chivalry]. | gallantry, courtesy, honor
+prowess | 💪 | noun | great skill or ability | Her [prowess] on the soccer field amazed the coach. | skill, expertise, mastery
+embolden | 🦁 | verb | to make someone braver or more confident | Her success [emboldened] her to try harder climbs. | encourage, hearten, inspire
+undaunted | 🔥 | adj | not discouraged or afraid, even when things are hard | [Undaunted] by the rain, the hikers kept climbing. | fearless, unafraid, intrepid
+@story Knight School | rain
+⚔️🏰 | {Name} and Ziggy went to Knight School to learn to be brave.
+🐴🙇 | The first lesson was [chivalry]: be kind, honest, and polite to everyone.
+💪🎯 | {Name} showed great [prowess] with the bow and arrow.
+🎩🗡️ | Ziggy swung his wooden sword with [panache], spinning and bowing.
+😎❓ | When the teacher asked a hard riddle, {Name} answered with [aplomb].
+🧘🌩️ | The teacher was [imperturbable], even when thunder boomed.
+🛡️🌧️ | Their new shields were [impervious] to rain.
+🏰🧱 | Their final test: get into a fort whose walls seemed [impregnable].
+🔥⛈️ | [Undaunted] by the storm, they found a secret path.
+🦁✨ | Each small success [emboldened] them to try something harder.
+😮🐉 | Ziggy even had the [temerity] to ask the teacher for a dragon-sized medal. He got one!
+
+@unit Quick and Careless
+impetuous | 🏃 | adj | acting quickly without thinking carefully | The [impetuous] boy jumped into the pond with his shoes on. | rash, impulsive, hasty
+precipitate | ⏩ | adj | done suddenly and without careful thought | Quitting the team was a [precipitate] decision. | hasty, rash, impetuous
+cursory | 👀 | adj | quick and not thorough | He gave the test a [cursory] glance and missed three questions. | quick, hasty, superficial, perfunctory
+perfunctory | 🤷 | adj | done quickly, only because you have to, without real care | She gave a [perfunctory] wave without looking up. | halfhearted, careless, cursory
+facile | 🍰 | adj | too simple; or done easily but without much thought | His [facile] answer ignored the hard parts of the problem. | simplistic, shallow, glib
+expedient | 🛣️ | adj | useful for getting something done quickly, even if it is not the best or fairest way | Taking the shortcut was [expedient], but it was muddy. | convenient, practical, handy
+remiss | 😬 | adj | careless about doing your duty | It was [remiss] of me to forget your birthday. | careless, negligent, neglectful
+feckless | 🤦 | adj | lacking energy, skill, or a sense of responsibility | The [feckless] guard fell asleep on duty. | useless, irresponsible, ineffective
+heed | 👂 | verb | to pay careful attention to advice or a warning | [Heed] the lifeguard's warning and stay out of the deep water. | listen to, mind, obey
+inadvertent | 🙊 | adj | not done on purpose; accidental | Her [inadvertent] sneeze blew out the birthday candles. | accidental, unintentional
+@story The Too-Fast Treasure Hunt | cave
+🗺️🐉 | Ziggy found a treasure map leading to a dark cave.
+🏃💨 | The [impetuous] dragon ran inside without a flashlight.
+⏩🚪 | It was a [precipitate] choice; he didn't even tell anyone where he was going.
+👀🗺️ | He gave the map only a [cursory] look and missed the warning: "Beware of falling rocks!"
+👂⚠️ | {Name} caught up and called, "[Heed] the warning, Ziggy!"
+🤦💤 | They found the treasure guard: a [feckless] troll, snoring on duty.
+🤷👋 | The troll gave a [perfunctory] wave and went back to sleep.
+🙊🪨 | Ziggy's [inadvertent] sneeze shook loose a pile of rocks!
+🛣️🕳️ | The most [expedient] way out was a tiny tunnel, so they crawled through it.
+🍰💭 | Ziggy's [facile] plan—"Just grab the gold and go!"—had ignored all the dangers.
+😬📦 | "It was [remiss] of me to rush," he admitted. (They still got the treasure: a box of old chocolate coins.)
+
+@unit Neat and Proper
+fastidious | 🧼 | adj | very careful about details, cleanliness, and doing things just right | The [fastidious] cat licked every speck of dust off her paws. | fussy, meticulous, finicky
+punctilious | ⏱️ | adj | very careful about following rules and manners exactly | The [punctilious] butler set every fork in a perfect line. | precise, scrupulous, meticulous
+slovenly | 🐷 | adj | messy and careless in appearance or work | His [slovenly] room was covered in old pizza boxes. | messy, sloppy, untidy
+exacting | 📏 | adj | demanding a lot of skill, care, or effort | The ballet teacher was [exacting] about every step. | demanding, strict, rigorous
+decorous | 🎀 | adj | polite and proper in behavior | The guests were [decorous] at the queen's dinner. | proper, polite, dignified, seemly
+staid | 🧓 | adj | serious, dull, and old-fashioned | The [staid] museum had no fun exhibits at all. | sedate, serious, prim
+prim | 👒 | adj | very formal and proper, easily shocked by rudeness | The [prim] lady gasped when the dog burped. | proper, prissy, starchy
+solicitous | 🫖 | adj | showing care and concern for someone | The [solicitous] nurse checked on him every hour. | caring, attentive, concerned
+officious | 📋 | adj | too eager to tell people what to do, in an annoying way | The [officious] hall monitor gave tickets for walking too fast. | bossy, meddling, interfering
+circumspect | 🔍 | adj | careful to think about risks before acting | Be [circumspect] when talking to strangers online. | cautious, careful, prudent, wary
+@story The Hotel Inspection | city
+🏨🐉 | Ziggy ran a hotel, and today the inspector was coming!
+👒📋 | Inspector Prim was a [prim] lady who gasped at the tiniest mess.
+📏✅ | She was [exacting]; everything had to be perfect.
+🧼✨ | {Name} was [fastidious], polishing every doorknob until it shone.
+⏱️🍴 | The [punctilious] butler set each fork exactly one inch from the plate.
+🐷🍕 | But Ziggy's room was [slovenly], with pizza boxes everywhere!
+🔍🚪 | Being [circumspect], {Name} closed Ziggy's door before the inspector arrived.
+📋🙄 | An [officious] guest kept telling the staff what to do.
+🧓🖼️ | The lobby was [staid], with dusty paintings and no music.
+🎀🍵 | Everyone was [decorous] at the inspector's tea.
+🫖❤️ | When the inspector sneezed, Ziggy was [solicitous], bringing tissues and hot soup. She gave the hotel five stars!
+
+@unit Sacred and Everyday
+pious | 🙏 | adj | deeply religious; or acting very good in a showy way | The [pious] monk prayed every morning. | devout, religious, godly
+devout | 📿 | adj | deeply committed to a religion or cause | Her [devout] grandmother never missed a holy day. | faithful, pious, devoted
+reverent | 🕯️ | adj | showing deep respect | The visitors were [reverent] as they walked through the ancient temple. | respectful, awed, solemn
+secular | 🏙️ | adj | not connected with religion | The town held a [secular] celebration for the new year. | nonreligious, worldly
+profane | 🤬 | adj | showing disrespect for holy things; or rude and vulgar | The pirate's [profane] language shocked the sailors. | disrespectful, irreverent, vulgar
+consecrate | ✨ | verb | to officially make something holy | The priest [consecrated] the new chapel. | bless, sanctify, dedicate
+desecrate | 🖍️ | verb | to damage or disrespect something holy or special | Vandals [desecrated] the old graveyard with paint. | violate, defile, vandalize
+sacrosanct | 🔒 | adj | too important or special to be changed or questioned | In our house, Sunday pancakes are [sacrosanct]. | sacred, untouchable, inviolable
+hallowed | 🏛️ | adj | holy or greatly respected | The players walked onto the [hallowed] stadium grass. | sacred, revered, holy
+heresy | 🔥 | noun | a belief or opinion that goes against what most people or a religion accept | Saying pineapple doesn't belong on pizza is [heresy] to my dad! | blasphemy, unorthodoxy
+@story The Temple in the Clouds | sky
+☁️🏯 | High above the clouds stood an ancient temple, and {Name} and Ziggy flew up to visit.
+🏛️👣 | They stepped quietly onto its [hallowed] floor.
+🕯️🙇 | Everyone was [reverent], speaking only in whispers.
+🙏🕯️ | A [pious] old monk was lighting candles.
+📿👵 | A [devout] grandmother had climbed a thousand steps to pray there.
+✨🔔 | Long ago, the temple's bell had been [consecrated] by the first monks.
+🔒🌸 | The temple garden was [sacrosanct]; no one was allowed to pick a flower.
+🖍️😠 | One day, a naughty goblin tried to [desecrate] the walls with crayons!
+🤬👹 | He shouted [profane] words, but the monks stayed calm.
+🔥💭 | The goblin declared a [heresy]: "Bells are boring!" So Ziggy rang the bell—so beautifully that the goblin cried.
+🏙️🎉 | Back home, the town held a [secular] festival with music and lanterns, and the goblin came too.
+
+@unit Highest and Lowest
+zenith | ☀️ | noun | the highest point; the time of greatest success | At the [zenith] of her career, she won three gold medals. | peak, height, apex, pinnacle, acme
+nadir | 🕳️ | noun | the lowest point | The team reached its [nadir] when it lost twenty games in a row. | low point, bottom, rock bottom
+paragon | 🏅 | noun | a perfect example of a good quality | She is a [paragon] of kindness. | model, ideal, exemplar
+exemplar | 🎯 | noun | an excellent example for others to copy | The class's science project was an [exemplar] for the whole school. | model, example, paragon
+paramount | 🔝 | adj | more important than anything else | Safety is [paramount] on a field trip. | supreme, chief, foremost, primary
+preeminent | 🥇 | adj | better or more important than all others | She is the [preeminent] scientist in her field. | leading, foremost, top
+eminent | 🎓 | adj | famous and respected, especially in a profession | An [eminent] doctor gave a speech at our school. | distinguished, renowned, illustrious
+illustrious | 🌟 | adj | well known and admired for great achievements | The [illustrious] explorer had visited every continent. | famous, celebrated, eminent
+august | 👑 | adj | grand and deserving great respect | The [august] judges entered the hall in long robes. | dignified, majestic, distinguished
+quintessential | 💎 | adj | being the most perfect or typical example of something | Pizza is the [quintessential] party food. | typical, classic, ideal
+@story The Hall of Heroes | museum
+🏛️🌟 | {Name} and Ziggy visited the Hall of Heroes, where the most [illustrious] people were honored.
+👑⚖️ | Statues of [august] queens and kings stood in a row.
+🎓🔬 | One wall honored an [eminent] doctor who cured a terrible disease.
+🥇🚀 | Another showed the [preeminent] astronaut of all time.
+🏅❤️ | A painting showed a nurse who was a [paragon] of kindness.
+🎯🦸 | "She's an [exemplar] for every hero," said {Name}.
+🔝📜 | A sign said: "Here, courage is [paramount]."
+💎🐉 | In the dragon section, Ziggy found the [quintessential] dragon: big wings, warm heart.
+🕳️😢 | One story showed a hero at her [nadir]—poor, lost, and alone.
+☀️🏆 | But she kept going and reached the [zenith] of success. "Maybe we'll be here one day," whispered Ziggy.
+
+@unit Shame and Disgrace
+ignominious | 😳 | adj | deserving or causing public shame | The champion suffered an [ignominious] defeat. | humiliating, shameful, embarrassing, disgraceful
+ignoble | 👎 | adj | not honorable; mean or low | Stealing from a friend is an [ignoble] act. | dishonorable, base, shameful
+debacle | 💥 | noun | a sudden, complete failure | The school play was a [debacle]: the set fell down and the lights went out. | disaster, fiasco, catastrophe
+travesty | 🤡 | noun | a ridiculous or shocking version of something that should be serious | The unfair trial was a [travesty] of justice. | mockery, sham, farce
+stigma | 🏷️ | noun | a mark of shame or disapproval | There should be no [stigma] in asking for help. | shame, disgrace, stain
+debase | ⬇️ | verb | to lower the quality, value, or respect of something | The king [debased] the coins by mixing in cheap metal. | degrade, cheapen, demean
+demean | 😞 | verb | to make someone seem less worthy or respected | Don't [demean] others by calling them names. | belittle, degrade, debase
+umbrage | 😤 | noun | a feeling of being offended or insulted | She took [umbrage] at his rude comment. | offense, resentment
+reprehensible | 🚨 | adj | very bad and deserving blame | Bullying is [reprehensible]. | shameful, disgraceful, deplorable
+egregious | ❗ | adj | shockingly bad | Forgetting your own birthday party was an [egregious] mistake. | outrageous, shocking, glaring
+@story The Royal Bake-Off | castle
+🎂👑 | The royal bake-off was the biggest contest in the land. Ziggy and {Name} entered!
+🧁😏 | Sir Snoot, last year's winner, tried to [demean] them: "Dragons can't bake!"
+😤🐉 | Ziggy took [umbrage] at that remark.
+👎🧂 | Then Sir Snoot did something [ignoble]: he secretly swapped their sugar for salt!
+❗🍰 | It was an [egregious] act of cheating.
+💥🎂 | Their first cake was a [debacle]; it tasted like the ocean.
+🤡⚖️ | The judging seemed like a [travesty] of fairness—until {Name} found salt in Sir Snoot's pocket!
+🚨😱 | "This is [reprehensible]!" the queen declared.
+⬇️🏆 | "You have [debased] the honor of this contest," she told Sir Snoot.
+😳🚪 | Sir Snoot made an [ignominious] exit, slipping on frosting on his way out.
+🏷️🤝 | But {Name} said, "Everyone makes mistakes. There should be no [stigma] if he says sorry." He did—and they all baked a new cake together.
+
+@unit Believing and Doubting
+credulous | 🦄 | adj | too ready to believe things, even without proof | The [credulous] boy believed the moon was made of cheese. | gullible, naive, trusting
+credence | ✔️ | noun | belief that something is true | Don't give [credence] to rumors. | belief, trust, credibility
+skeptic | 🤨 | noun | a person who doubts claims until there is proof | The [skeptic] asked to see the evidence for the ghost. | doubter, questioner, cynic
+infallible | 💯 | adj | never wrong or never failing | No one is [infallible]; everyone makes mistakes. | perfect, unerring, flawless
+fallible | 🙃 | adj | able to make mistakes | Even experts are [fallible]. | imperfect, error-prone, human
+tenet | 📌 | noun | a main belief or principle of a group or idea | Kindness is a [tenet] of our school. | principle, belief, doctrine
+orthodox | 📘 | adj | following the usual, accepted beliefs or ways | The doctor used [orthodox] treatments, nothing strange. | traditional, conventional, standard
+apocryphal | 🐉 | adj | widely told but probably not true | The story about the dragon under the bridge is [apocryphal]. | made-up, legendary, fictitious
+specious | 🍎 | adj | seeming true or right at first but actually false | His [specious] argument fell apart when we checked the facts. | misleading, deceptive, spurious
+spurious | 🎭 | adj | false or fake, though it may seem real | The website made [spurious] claims about a magic diet. | false, fake, bogus, specious
+@story The Monster of Misty Lake | river
+🌊🐉 | Everyone in town said a monster lived in Misty Lake.
+🐉📖 | {Name} suspected the tale was [apocryphal]—told a lot, but probably not true.
+🦄👦 | Her [credulous] cousin believed it completely. "It eats boats!" he said.
+🤨🔦 | {Name} was a [skeptic]. "Show me proof," she said.
+🎭📸 | A man sold [spurious] photos of the "monster"—it was clearly a floating log.
+🍎💬 | His [specious] argument: "If you can't prove it's not there, it must be there!"
+✔️🚫 | {Name} didn't give his story any [credence].
+📌🔬 | "Check the facts" was a [tenet] she always followed.
+📘🧭 | She used an [orthodox] method: measuring, watching, and writing everything down.
+💯🙃 | "No one is [infallible]," she said. "Maybe I'm wrong."
+🦆😂 | That night, they saw the "monster": a family of ducks making big ripples. "See?" laughed Ziggy. "Everyone is [fallible]!"

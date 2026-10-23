@@ -29,6 +29,8 @@ export function QuizRunner({ title, questions, requeueWrong = true, onAnswer, on
   const results = useRef<QuizResult[]>([]);
   const answered = useRef(new Set<string>());
   const requeued = useRef(new Set<string>());
+  /** Keys of questions that are second tries, so the "try again" note shows on those only. */
+  const retries = useRef(new Set<string>());
   const q = queue[index];
 
   function handleAnswer(correct: boolean) {
@@ -40,7 +42,9 @@ export function QuizRunner({ title, questions, requeueWrong = true, onAnswer, on
     if (!correct && requeueWrong && !requeued.current.has(q.word.id)) {
       requeued.current.add(q.word.id);
       // Try the same word again later, with fresh options.
-      setQueue((qs) => [...qs, makeQuestion(q.word, q.kind, c)]);
+      const again = makeQuestion(q.word, q.kind, c);
+      retries.current.add(again.key);
+      setQueue((qs) => [...qs, again]);
     }
   }
 
@@ -54,7 +58,7 @@ export function QuizRunner({ title, questions, requeueWrong = true, onAnswer, on
     <div className="screen quiz-screen">
       <TopBar title={title} onBack={onQuit} right={<span className="pill">{Math.min(index + 1, queue.length)} / {queue.length}</span>} />
       <ProgressBar value={index} max={queue.length} />
-      <QuestionView key={q.key} q={q} retry={answered.current.has(q.word.id)} onAnswer={handleAnswer} onNext={next} />
+      <QuestionView key={q.key} q={q} retry={retries.current.has(q.key)} onAnswer={handleAnswer} onNext={next} />
     </div>
   );
 }
@@ -114,6 +118,14 @@ function QuestionView({ q, retry, onAnswer, onNext }: { q: Question; retry: bool
             </div>
           </>
         )}
+        {q.kind === 'usage' && (
+          <>
+            <div className="prompt-label">Which sentence fits this word best?</div>
+            <div className="prompt-word">
+              {q.word.word} <SpeakButton text={q.word.word} small />
+            </div>
+          </>
+        )}
         {q.kind === 'synonym' && (
           <>
             <div className="prompt-label">Which word means almost the same as…</div>
@@ -150,14 +162,15 @@ function QuestionView({ q, retry, onAnswer, onNext }: { q: Question; retry: bool
       {q.kind === 'spell' ? (
         <SpellTiles q={q} status={status} onSubmit={(attempt) => choose(attempt)} />
       ) : (
-        <div className={q.kind === 'define' ? 'options list' : 'options grid'}>
+        <div className={q.kind === 'define' || q.kind === 'usage' ? 'options list' : 'options grid'}>
           {q.options.map((o) => {
             const cls =
               status === 'ask' ? '' : o === q.answer ? 'right' : o === picked ? 'wrong' : 'dim';
             return (
               <button key={o} className={`option ${cls}`} onClick={() => choose(o)} disabled={status !== 'ask'}>
-                <span>{o}</span>
+                {q.kind === 'usage' ? <Marked text={personalize(o, name)} /> : <span>{o}</span>}
                 {q.kind === 'define' && <SpeakButton text={o} small />}
+                {q.kind === 'usage' && <SpeakButton text={speakable(o, name)} small />}
               </button>
             );
           })}
@@ -177,6 +190,15 @@ function QuestionView({ q, retry, onAnswer, onNext }: { q: Question; retry: bool
         </div>
       )}
     </div>
+  );
+}
+
+/** A sentence with its [bracketed] word highlighted. */
+function Marked({ text }: { text: string }) {
+  return (
+    <span className="sentence">
+      {text.split(/\[([^\]]+)\]/).map((part, i) => (i % 2 ? <mark key={i}>{part}</mark> : part))}
+    </span>
   );
 }
 

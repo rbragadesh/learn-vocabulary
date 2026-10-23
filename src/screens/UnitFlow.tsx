@@ -1,9 +1,11 @@
 import { useMemo, useState } from 'react';
-import { useCurriculum, useSettings } from '../App';
+import { useCurriculum, useName, useSettings } from '../App';
 import { WordCard } from '../components/WordCard';
 import { Confetti, Stars, TopBar, starsFor } from '../components/ui';
 import type { Unit } from '../content/types';
 import { unitQuiz } from '../lib/quiz';
+import { sample } from '../lib/random';
+import { sfx } from '../lib/sfx';
 import { speak } from '../lib/speech';
 import { dayLog, getProgress, recordAnswer, touchStreak, update } from '../lib/store';
 import { QuizRunner, type QuizResult } from './QuizRunner';
@@ -55,7 +57,7 @@ export function UnitFlow({ unit, onExit, onNext }: { unit: Unit; onExit: () => v
         title={`Quiz: ${unit.title}`}
         questions={questions}
         onQuit={onExit}
-        onAnswer={(q, correct) => update((p) => recordAnswer(p, q.word.id, correct, !!p.units[unit.id]?.completedAt))}
+        onAnswer={(q, correct) => update((p) => recordAnswer(p, q.word.id, correct, !!p.units[unit.id]?.completedAt, q.kind))}
         onDone={(results: QuizResult[]) => {
           const right = results.filter((r) => r.correct).length;
           const pct = Math.round((right / Math.max(1, results.length)) * 100);
@@ -106,6 +108,7 @@ export function UnitFlow({ unit, onExit, onNext }: { unit: Unit; onExit: () => v
             </div>
           </div>
         )}
+        <SayItYourWay unit={unit} />
         <div className="done-actions">
           <button className="btn soft big" onClick={onExit}>
             🏠 Home
@@ -115,6 +118,45 @@ export function UnitFlow({ unit, onExit, onNext }: { unit: Unit; onExit: () => v
           </button>
         </div>
       </div>
+    </div>
+  );
+}
+
+/**
+ * Making up her own sentence is the real test of understanding, and only a person can judge it,
+ * so a grown-up listens and taps ✓.
+ */
+function SayItYourWay({ unit }: { unit: Unit }) {
+  const name = useName();
+  const [words] = useState(() => sample(unit.words, 3));
+  const [done, setDone] = useState<string[]>([]);
+
+  function confirm(id: string) {
+    sfx.correct();
+    setDone((d) => [...d, id]);
+    update((p) => {
+      p.ownSentences[id] = (p.ownSentences[id] ?? 0) + 1;
+      p.stars += 1;
+    });
+  }
+
+  return (
+    <div className="say-it">
+      <h3>🗣️ Say it your way</h3>
+      <p>Make up your own sentence with each word and say it out loud to a grown-up.</p>
+      <div className="say-rows">
+        {words.map((w) => (
+          <div key={w.id} className="say-row">
+            <button className="chip big" onClick={() => speak(`${w.word}. ${w.definition}`)}>
+              {w.emoji} {w.word}
+            </button>
+            <button className={`btn ${done.includes(w.id) ? 'good' : 'primary'}`} onClick={() => confirm(w.id)} disabled={done.includes(w.id)}>
+              {done.includes(w.id) ? '⭐ Nice!' : '✓ Made sense'}
+            </button>
+          </div>
+        ))}
+      </div>
+      <p className="say-it-note">Grown-up: tap ✓ only if {name}'s sentence shows she knows what the word means. Not sure? Ask, “What does that word mean?”</p>
     </div>
   );
 }

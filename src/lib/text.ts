@@ -9,7 +9,7 @@ export function speakable(text: string, name: string): string {
 
 /** Split "The whale was [enormous]." into the parts around the bracketed word. */
 export function splitExample(example: string): { before: string; form: string; after: string } {
-  const m = /\[([^\]|]+)\]/.exec(example);
+  const m = /\[([^\]|]+)(?:\|[^\]]+)?\]/.exec(example);
   if (!m) return { before: example, form: '', after: '' };
   return { before: example.slice(0, m.index), form: m[1], after: example.slice(m.index + m[0].length) };
 }
