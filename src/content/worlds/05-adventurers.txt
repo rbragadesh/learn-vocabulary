@@ -119,7 +119,7 @@ bewildered | 😵‍💫 | adj | very confused | The tourist looked [bewildered]
 
 @unit Deep Thinking
 contemplate | 🤔 | verb | to think deeply about something for a long time | She sat by the lake to [contemplate] her future. | ponder, consider
-deduce | 🔍 | verb | to figure something out by using clues and reasoning | From the muddy prints, we could [deduce] that the dog had come inside. | infer, conclude
+deduce | 🔍 | verb | to figure something out by using clues and careful thinking | From the muddy prints, we could [deduce] that the dog had come inside. | infer, conclude
 conclude | 🏁 | verb | to decide something after thinking about the facts | After testing the water, the scientists will [conclude] it is safe. | decide, infer
 analyze | 🔬 | verb | to study something carefully by looking at its parts | We will [analyze] the data from our experiment. | examine, study
 comprehend | 💡 | verb | to understand something | It's hard to [comprehend] how big the universe is. | understand, grasp
@@ -1206,7 +1206,7 @@ crevice | 🪨 | noun | a narrow crack in rock | A lizard hid in a [crevice]. | 
 ravine | ⛰️ | noun | a deep, narrow valley carved by running water | The hikers crossed the [ravine] on a rope bridge. | gorge, gully
 foothill | 🌄 | noun | a low hill at the bottom of a mountain | We camped in the [foothills] before the big climb.
 range | 🏔️ | noun | a line of mountains | The Rocky Mountains are a long mountain [range]. | chain
-crag | 🗻 | noun | a steep, rugged rock or cliff | An eagle nested on a high [crag].
+crag | 🗻 | noun | a steep, rough rock or cliff | An eagle nested on a high [crag].
 alpine | 🐐 | adj | having to do with high mountains | Mountain goats live in [alpine] meadows.
 @story The Mountain Climb | mountain
 🏔️🐉 | {Name}, Ziggy, and Uncle Jack set off to climb a peak in a great mountain [range].

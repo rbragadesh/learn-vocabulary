@@ -872,7 +872,7 @@ deter | 🚧 | verb | to stop or discourage someone from doing something | The f
 reconsider | 🔄 | verb | to think again about a decision | Please [reconsider] your choice. | rethink
 compel | 👉 | verb | to force someone to do something | The rain will [compel] us to stay inside. | force, oblige
 coerce | 💪 | verb | to force someone to do something by threats | The bully tried to [coerce] him into giving up his lunch. | force, pressure
-cajole | 🍬 | verb | to gently persuade someone with flattery or treats | She tried to [cajole] her dad into buying ice cream. | coax, sweet-talk
+cajole | 🍬 | verb | to gently get someone to do something with sweet talk, praise, or treats | She tried to [cajole] her dad into buying ice cream. | coax, sweet-talk
 manipulate | 🎎 | verb | to control or influence someone in a sneaky, unfair way | The villain tried to [manipulate] the king. | control, exploit
 rationalize | 🤔 | verb | to try to explain a bad action with reasons that sound good | He tried to [rationalize] eating the whole cake. | justify, excuse
 enlighten | 💡 | verb | to give someone knowledge or understanding | The documentary can [enlighten] us about ocean life. | inform, educate
@@ -890,7 +890,7 @@ enlighten | 💡 | verb | to give someone knowledge or understanding | The docum
 
 @unit Embarrassing Moments
 grudging | 😒 | adj | given unwillingly | He gave a [grudging] apology. | reluctant, unwilling
-rueful | 😔 | adj | showing a little sadness or regret, often in a wry way | She gave a [rueful] smile after spilling her drink. | regretful, sorry
+rueful | 😔 | adj | showing a little sadness or regret | She gave a [rueful] smile after spilling her drink. | regretful, sorry
 apologetic | 🙇 | adj | showing that you are sorry | He was very [apologetic] about being late. | sorry, regretful
 sheepish | 🐑 | adj | embarrassed because you did something silly | He gave a [sheepish] grin after tripping. | embarrassed, shamefaced
 mortified | 😳 | adj | extremely embarrassed | I was [mortified] when my pants ripped on stage. | humiliated, ashamed

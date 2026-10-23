@@ -383,7 +383,7 @@ sequence | 🔢 | noun | the order in which things happen | Follow the steps in 
 hierarchy | 🔺 | noun | a system where people or things are ranked from top to bottom | In the wolf pack's [hierarchy], the leader eats first. | ranking, chain of command
 category | 🗂️ | noun | a group of things that are alike in some way | Apples and bananas belong in the fruit [category]. | group, class
 classify | 🏷️ | verb | to sort things into groups | Scientists [classify] animals by their features. | sort, categorize
-arbitrary | 🎯 | adj | chosen by chance or whim, not for a good reason | The rule seemed [arbitrary]—why no green shirts on Tuesday? | random
+arbitrary | 🎯 | adj | chosen by chance or a sudden wish, not for a good reason | The rule seemed [arbitrary]—why no green shirts on Tuesday? | random
 @story The Messy Museum | museum
 🏛️🌪️ | After a big storm, the town museum was [chaotic]. Fossils, paintings, and rocks were all mixed up!
 🎲📦 | Workers had stacked everything in a [haphazard] pile.
@@ -680,7 +680,7 @@ subdued | 🤫 | adj | quiet and calm, often because of sadness or tiredness | A
 hushed | 🙊 | adj | very quiet | We spoke in [hushed] voices in the museum. | quiet, muted
 uproarious | 😂 | adj | very noisy and full of laughter | The comedian got [uproarious] applause. | hilarious, riotous
 rambunctious | 🐶 | adj | wild, noisy, and full of energy | The [rambunctious] puppy knocked over the lamp. | boisterous, unruly
-sedate | 🐢 | adj | calm, slow, and dignified | The old horse walked at a [sedate] pace. | calm, unhurried
+sedate | 🐢 | adj | calm, slow, and serious | The old horse walked at a [sedate] pace. | calm, unhurried
 restless | 🫨 | adj | unable to stay still or relax | The kids got [restless] on the long car ride. | fidgety, antsy
 mellow | 🎷 | adj | soft, smooth, and relaxed | The café played [mellow] jazz music. | gentle, soothing
 @story Two Kinds of Parties | home
@@ -1492,7 +1492,7 @@ intrigued | 🧐 | adj | very curious and interested | I was [intrigued] by the 
 captivated | 😍 | adj | holding all your attention because it's so interesting or charming | The audience was [captivated] by the magician. | charmed, enchanted
 enthralled | 🤩 | adj | so interested that you can't look away | The kids were [enthralled] by the story. | spellbound, gripped
 engrossed | 📖 | adj | so busy and interested in something that you don't notice anything else | She was [engrossed] in her book. | absorbed, immersed
-mesmerized | 😵‍💫 | adj | completely held by something, as if in a trance | The cat was [mesmerized] by the fish tank. | hypnotized, entranced
+mesmerized | 😵‍💫 | adj | completely held by something, as if under a spell | The cat was [mesmerized] by the fish tank. | hypnotized, entranced
 uninterested | 😑 | adj | not interested | The baby was [uninterested] in his new toy. | bored
 indifferent | 🤷 | adj | not caring one way or the other | The cat was [indifferent] to the new dog. | uncaring, apathetic
 monotonous | 😴 | adj | boring because it never changes | The long, flat road was [monotonous]. | dull, repetitive

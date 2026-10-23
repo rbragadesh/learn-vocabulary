@@ -857,3 +857,216 @@ spurious | 🎭 | adj | false or fake, though it may seem real | The website mad
 📘🧭 | She used an [orthodox] method: measuring, watching, and writing everything down.
 💯🙃 | "No one is [infallible]," she said. "Maybe I'm wrong."
 🦆😂 | That night, they saw the "monster": a family of ducks making big ripples. "See?" laughed Ziggy. "Everyone is [fallible]!"
+
+@unit Word Play
+misnomer | 🏷️ | noun | a name that doesn't fit what something really is | "Shooting star" is a [misnomer]; it's really a space rock, not a star. | wrong name
+pejorative | 👎 | adj | showing a low or insulting opinion | "Nerd" can be a [pejorative] word, but some people say it proudly. | insulting, negative, derogatory
+colloquial | 💬 | adj | used in everyday, informal talk rather than formal writing | "Gonna" is a [colloquial] way to say "going to." | informal, conversational, casual
+lampoon | 🎭 | verb | to make fun of someone or something publicly, often in funny writing or drawings | The comedy show [lampooned] the mayor's silly hat. | mock, satirize, spoof
+abridge | ✂️ | verb | to make a book or speech shorter while keeping the main ideas | The publisher [abridged] the long novel for young readers. | shorten, condense, cut
+purport | 🤔 | verb | to claim to be or do something, often falsely | The ad [purports] to make you taller overnight. | claim, profess
+connotation | 💭 | noun | a feeling or idea that a word suggests beyond its basic meaning | "Home" has a warm [connotation]; "house" is just a building. | association, overtone, implication
+epithet | 📛 | noun | a describing nickname added to a name, like "the Great" | Alexander earned the [epithet] "the Great." | nickname, title
+malapropism | 🤪 | noun | a funny mistake where someone uses a wrong word that sounds like the right one | Saying "dance the flamingo" instead of "dance the flamenco" is a [malapropism]. | mix-up, slip
+extemporaneous | 🎤 | adj | spoken or done without preparing first | She gave an [extemporaneous] speech when the speaker didn't show up. | unrehearsed, impromptu, off-the-cuff
+@story The Word Club Show | library
+📚🐉 | {Name} and Ziggy put on a show for the Word Club at the library.
+🎤😅 | The host was sick, so {Name} gave an [extemporaneous] welcome speech—no notes at all!
+✂️📖 | First, Ziggy read an [abridged] fairy tale: three pages instead of thirty!
+🏷️⭐ | Then {Name} explained a [misnomer]: "A shooting star isn't a star at all. It's a space rock!"
+💭🏠 | She showed how "home" has a cozy [connotation], while "house" just means a building.
+💬👋 | Ziggy taught some [colloquial] words: "gonna," "wanna," and "y'all."
+👎😢 | "Some words are [pejorative]," said {Name}. "They make people feel small. Let's not use them."
+📛👑 | Ziggy gave himself an [epithet]: "Ziggy the Magnificent."
+🤪💃 | Then he made a [malapropism]: "I will now dance the flamingo!" (He meant flamenco.)
+🎭🖍️ | A kid drew a cartoon to [lampoon] Ziggy's "Magnificent" crown. Everyone laughed—Ziggy most of all.
+🤔🧴 | Last, they read a silly ad that [purported] to turn kids into dragons. "Doesn't work," said {Name}. "I tried."
+
+@unit Urging and Spreading
+exhort | 📣 | verb | to strongly urge someone to do something | The coach [exhorted] the team to never give up. | urge, encourage, implore
+implore | 🙏 | verb | to beg someone in a desperate, heartfelt way | "Please don't go!" she [implored]. | beg, plead, beseech
+beseech | 🥺 | verb | to beg eagerly and seriously | The villagers [beseeched] the wizard to stop the rain. | beg, implore, plead
+goad | 🦯 | verb | to push or tease someone into doing something | His friends [goaded] him into jumping in the cold lake. | provoke, prod, egg on
+foment | 🔥 | verb | to stir up trouble or fighting | The troublemaker tried to [foment] a food fight. | stir up, incite, provoke
+promulgate | 📜 | verb | to announce something officially and make it widely known | The queen [promulgated] a new law across the land. | proclaim, announce, publish
+propagate | 🌱 | verb | to spread an idea widely; or to grow new plants from a parent plant | Gardeners [propagate] roses from cuttings. | spread, multiply, breed
+apprise | 📨 | verb | to tell someone about something; to inform | Please [apprise] me of any changes to the plan. | inform, notify, tell
+elicit | 🎣 | verb | to draw out an answer, reaction, or fact from someone | The clown's joke [elicited] a big laugh. | draw out, bring out
+evince | 👀 | verb | to show or reveal a feeling or quality clearly | Her bright eyes [evinced] her excitement. | show, reveal, display
+@story The Sunflower Campaign | farm
+🌻🐉 | {Name} wanted the whole town to plant sunflowers to help the bees.
+📨🧑‍🌾 | First, she [apprised] the farmers of her plan.
+📣🐝 | At the town meeting, she [exhorted] everyone: "Plant one sunflower each!"
+👀😊 | The mayor's big smile [evinced] how much he liked the idea.
+🎣❓ | {Name}'s questions [elicited] lots of ideas from the kids.
+📜🏛️ | The mayor [promulgated] a new rule: "Sunflower Saturday" for the whole town!
+🌱✂️ | Grandpa showed them how to [propagate] new plants from seeds and cuttings.
+🔥🐐 | But a grumpy goat tried to [foment] trouble by eating the seedlings.
+🦯🐐 | His goat friends [goaded] him on: "Eat more!"
+🥺🌻 | {Name} [beseeched] the goat, "Please, the bees need these flowers!"
+🙏🐝 | The bees buzzed around him and [implored] him too. The goat finally stopped—and the town turned yellow with sunflowers.
+
+@unit Getting and Giving
+garner | 🌾 | verb | to gather or collect, especially support or praise | Her science project [garnered] a lot of attention. | gather, collect, earn, win
+amass | 💰 | verb | to gather a large amount of something over time | The squirrel [amassed] a huge pile of acorns. | collect, gather, accumulate, hoard
+annex | 🗺️ | verb | to take over a territory and add it to your own | The empire [annexed] the small island. | take over, seize
+supplant | 🔄 | verb | to take the place of something or someone | Cars [supplanted] horses as the main way to travel. | replace, displace
+bequeath | 📜 | verb | to leave something to someone after you die, in a will | Grandpa [bequeathed] his old watch to me. | leave, pass on, hand down
+impart | 🎓 | verb | to give or share knowledge or a quality | The old sailor [imparted] his wisdom to the young crew. | pass on, share, convey
+imbue | 🎨 | verb | to fill something with a feeling or quality | The music [imbued] the room with joy. | fill, infuse, permeate
+infuse | 🍵 | verb | to fill with a quality; or to soak something, like tea leaves, in liquid | Her speech [infused] the team with courage. | fill, imbue, steep
+render | 🖌️ | verb | to cause to become; or to give or provide | The heavy snow [rendered] the roads useless. | make, provide
+wrest | 🤼 | verb | to pull something away from someone with force | The dog [wrested] the toy from my hands. | grab, seize, wrench
+@story The Pirate Queen's Treasure | island
+🏴‍☠️👑 | Long ago, a pirate queen [amassed] a mountain of gold on Turtle Island.
+🗺️🏝️ | She [annexed] three nearby islands and called them hers.
+📜💎 | When she grew very old, she [bequeathed] her treasure to "whoever is kind and clever."
+🤼🦜 | {Name} and Ziggy found her map, but a greedy parrot tried to [wrest] it from Ziggy's claws. He held on tight!
+🌧️🛶 | A storm [rendered] their little boat almost useless, but they paddled on.
+🎓🐢 | A wise old turtle [imparted] a secret: "The treasure is under the tallest palm."
+🎨✨ | Spotting the tallest palm [imbued] them with excitement.
+🍵💪 | A cup of coconut tea [infused] them with energy for digging.
+🔄📚 | Inside the chest, the gold had been [supplanted] by something better: books, maps, and a telescope!
+🌾🏆 | Their discovery [garnered] praise from the whole kingdom—and they shared the books with every kid on the island.
+
+@unit Tough Spots
+onerous | 🏋️ | adj | heavy and hard to do; burdensome | Cleaning the whole garage was an [onerous] job. | burdensome, difficult, demanding
+insurmountable | 🧗 | adj | too big or hard to overcome | The mountain seemed [insurmountable], but we kept climbing. | impossible, overwhelming, unbeatable
+surmount | 🏔️ | verb | to overcome a problem or difficulty; or to climb over | She [surmounted] her fear of the dark. | overcome, conquer, beat
+quagmire | 🟫 | noun | a soft, muddy area of land; or a hard situation that is difficult to get out of | The tractor got stuck in the [quagmire]. | bog, swamp, mess, predicament
+quandary | 🤔 | noun | a state of not knowing what to do in a hard situation | She was in a [quandary] about which friend's party to go to. | dilemma, predicament
+conundrum | 🧩 | noun | a confusing and difficult problem or puzzle | How to fit the elephant in the car was a real [conundrum]. | puzzle, riddle, quandary
+exigent | ⏰ | adj | needing action right away; urgent | The flooding was an [exigent] problem. | urgent, pressing, critical
+extricate | 🪢 | verb | to free someone or something from a difficult place or situation | Firefighters [extricated] the kitten from the drainpipe. | free, release, rescue, untangle
+encroach | 🌿 | verb | to slowly move into someone else's space or rights | The weeds [encroached] on our vegetable garden. | intrude, invade, creep in
+acclimate | 🌡️ | verb | to get used to a new place, climate, or situation | It took a week to [acclimate] to the cold mountain air. | adjust, adapt, get used to
+@story Stuck in the Swamp | jungle
+🌴🐉 | {Name} and Ziggy were exploring the jungle when they stepped into a [quagmire] of sticky mud.
+🟫😱 | Ziggy sank to his knees. They were in a real [quandary]: wings too muddy to fly, feet too stuck to walk.
+🧩🤔 | How to get out was a [conundrum].
+⏰🐊 | Then a crocodile appeared! The problem became [exigent].
+🪢🌿 | {Name} grabbed a vine to [extricate] Ziggy from the mud.
+🏋️💦 | Pulling a heavy dragon out of mud was [onerous] work.
+🧗😤 | It seemed [insurmountable]—but she didn't give up.
+🏔️🎉 | Together, they [surmounted] the problem. Pop! Ziggy came free.
+🌿⛺ | Back at camp, they noticed jungle vines [encroaching] on their tent.
+🌡️😅 | "We'll [acclimate] to the jungle soon," said {Name}. "Next time, we'll watch out for mud!"
+
+@unit Spreading and Growing
+ubiquitous | 🌐 | adj | seeming to be everywhere at the same time | Smartphones are [ubiquitous] these days. | everywhere, omnipresent, pervasive
+pervasive | 🌫️ | adj | spreading through every part of something | The smell of popcorn was [pervasive] in the theater. | widespread, ubiquitous, prevalent
+pervade | 💨 | verb | to spread through every part of something | The scent of roses [pervaded] the garden. | permeate, fill, pervasive
+endemic | 🦘 | adj | found naturally in only one place; or common in a place | Kangaroos are [endemic] to Australia. | native, local, indigenous
+indigenous | 🌿 | adj | living or growing naturally in a place; native | Maple trees are [indigenous] to Canada. | native, endemic, original
+rife | 🦟 | adj | full of something, usually something bad | The swamp was [rife] with mosquitoes. | full, teeming, riddled
+indiscriminate | 🎯 | adj | done without careful choosing | The [indiscriminate] puppy chewed shoes, toys, and homework alike. | random, careless, unselective
+emanate | ✨ | verb | to come out from a source, like light, sound, or smell | A warm glow [emanated] from the fireplace. | radiate, flow, come from
+burgeon | 🌱 | verb | to begin to grow or increase quickly | The town [burgeoned] after the railroad arrived. | grow, flourish, boom, blossom
+prolific | 🐇 | adj | producing a lot of something | She is a [prolific] writer with fifty books. | productive, fruitful
+@story Bunnies Everywhere! | meadow
+🐇🐉 | Ziggy adopted two bunnies. Bunnies are very [prolific]...
+🌱🐇 | Soon the bunny family began to [burgeon]: four, then ten, then forty!
+🌐🐰 | By summer, bunnies were [ubiquitous]. They were in the kitchen, the bathtub, even Ziggy's hat!
+🌫️🥕 | The smell of carrots was [pervasive] in every room.
+💨🏠 | Bunny fur [pervaded] the whole house.
+🎯🧦 | The [indiscriminate] bunnies nibbled socks, books, and Ziggy's tail.
+🦟🌾 | The meadow outside was [rife] with bunny holes.
+✨😊 | Still, a happy glow [emanated] from Ziggy whenever a bunny cuddled him.
+🦘🗺️ | {Name} read that some animals are [endemic] to just one place, like kangaroos in Australia.
+🌿🏡 | So they found the bunnies a big farm where clover is [indigenous] and grows everywhere. Ziggy visits every Sunday.
+
+@unit Strong Dislike
+abhor | 🤢 | verb | to hate something very much | I [abhor] cruelty to animals. | hate, loathe, detest
+anathema | ☠️ | noun | something that someone hates or strongly rejects | Cheating is [anathema] to a true sports fan. | abomination, curse
+antipathy | 😾 | noun | a strong feeling of dislike | The cat had a deep [antipathy] toward the vacuum cleaner. | dislike, hostility, aversion
+aversion | 🙅 | noun | a strong dislike of something | She has an [aversion] to spiders. | dislike, distaste, antipathy
+repugnant | 🤮 | adj | extremely unpleasant and disgusting | The smell of rotten eggs was [repugnant]. | disgusting, revolting, odious
+detest | 😠 | verb | to dislike someone or something very strongly | I [detest] cold, soggy fries. | hate, loathe, abhor
+animus | 😡 | noun | strong dislike or ill will toward someone | There was no [animus] between the two rivals; they were friendly. | hostility, ill will, animosity
+appall | 😱 | verb | to shock and upset greatly | The litter on the beach [appalled] us. | shock, horrify, dismay
+deplore | 👎 | verb | to say that something is very wrong or bad | We [deplore] bullying of any kind. | condemn, denounce, criticize
+deprecate | 🙄 | verb | to say you disapprove of something; or to make something seem less important | The coach [deprecated] showing off on the field. | disapprove, criticize, belittle
+@story The Pickiest Dragon | kitchen
+🍽️🐉 | Ziggy was the pickiest eater in the kingdom.
+🥦🙅 | He had an [aversion] to broccoli.
+🧅😾 | He felt a deep [antipathy] toward onions.
+🍟😠 | "I [detest] soggy fries," he declared.
+🤢🥬 | "And I [abhor] anything slimy!"
+🥚🤮 | One day, he smelled a rotten egg. "[Repugnant]!" he gasped.
+😱🗑️ | {Name} was [appalled] when he scraped his whole dinner into the trash.
+👎🍝 | "I [deplore] wasting food," she said firmly.
+☠️🍽️ | To Ziggy, trying new food was [anathema]. But {Name} made him a deal: one bite of each.
+🙄🥕 | He [deprecated] the carrots ("too orange!"), but he took a bite.
+😡😋 | His [animus] toward vegetables melted. "Hmm," he said. "Broccoli soup is... not bad."
+
+@unit Showing Off and Empty Talk
+grandiose | 🏰 | adj | much too big or fancy, meant to impress | He had [grandiose] plans to build a castle in his backyard. | pompous, extravagant, showy
+ostentatious | 💎 | adj | showing off wealth or importance in a way meant to impress | The [ostentatious] car was covered in gold paint. | showy, flashy, flamboyant
+aggrandize | 📈 | verb | to make someone seem more powerful or important than they really are | He told tall tales to [aggrandize] himself. | exaggerate, inflate, glorify
+bluster | 🌬️ | verb | to talk loudly and boastfully, but without much real power | The bully [blustered] but backed away when the teacher came. | boast, brag, rant
+brandish | ⚔️ | verb | to wave something around, especially a weapon, to threaten or show off | The pirate [brandished] his sword. | wave, flourish, wield
+frivolous | 🎈 | adj | not serious; silly or unimportant | She spent her money on [frivolous] things like glitter stickers. | silly, trivial, unimportant
+superficial | 🪞 | adj | only on the surface; not deep or thorough | The scratch was only [superficial]. | shallow, surface-level, skin-deep
+vacuous | 🫥 | adj | showing no thought or intelligence; empty | He gave a [vacuous] grin and said nothing useful. | empty, blank, vapid
+inane | 🙃 | adj | silly and without meaning | The comedian's [inane] jokes made no sense. | silly, senseless, pointless
+ludicrous | 🤡 | adj | so silly or unreasonable that it is funny | Wearing a swimsuit in a snowstorm is [ludicrous]. | ridiculous, absurd, laughable
+@story Mayor Bigshot's Parade | city
+🎩🏙️ | Mayor Bigshot loved to show off. He planned a parade all about himself.
+🏰✨ | His plans were [grandiose]: a hundred bands, fifty elephants, and fireworks shaped like his face.
+💎🚗 | He rode in an [ostentatious] golden car covered with jewels.
+📈🗣️ | He told stories to [aggrandize] himself: "I once wrestled a bear—with one hand!"
+🌬️📢 | He [blustered] into the microphone, "I am the greatest mayor ever!"
+⚔️🌂 | He [brandished] a golden umbrella like a sword.
+🎈🎉 | The parade was full of [frivolous] things, like confetti cannons and a cake shaped like his shoe.
+🪞🤔 | But {Name} noticed the fun was only [superficial]—the town's broken playground was still broken.
+🫥😐 | When a reporter asked about it, the mayor gave a [vacuous] smile.
+🙃💬 | Then he made an [inane] comment: "Playgrounds are for giraffes."
+🤡🐉 | "That's [ludicrous]!" laughed Ziggy. The next day, the whole town fixed the playground together.
+
+@unit Mistakes and Flaws
+aberration | ❗ | noun | something unusual that differs from what is normal or expected | Her low score was an [aberration]; she usually gets an A. | anomaly, oddity, exception
+foible | 🙈 | noun | a small weakness or odd habit | Grandpa's [foible] is losing his glasses while they're on his head. | quirk, flaw, weakness
+peccadillo | 🍪 | noun | a small, unimportant mistake or wrongdoing | Sneaking one cookie is just a [peccadillo]. | slip, misstep
+venial | 🤏 | adj | small and easy to forgive | Forgetting to say thank you once is a [venial] mistake. | forgivable, minor, pardonable
+err | ❌ | verb | to make a mistake | Everyone can [err]; what matters is fixing it. | blunder, slip up
+errant | 🧭 | adj | wandering off the right path; or behaving wrongly | The [errant] ball rolled into the neighbor's yard. | wandering, stray
+misconstrue | 🔀 | verb | to understand something wrongly | He [misconstrued] my joke as an insult. | misunderstand, misinterpret, misread
+myopic | 👓 | adj | nearsighted; or not thinking about the future | Spending all your money on candy is a [myopic] choice. | nearsighted, shortsighted
+obtuse | 🧱 | adj | slow to understand; or, for an angle, wider than a right angle | He was too [obtuse] to notice she was upset. | dense, dull, slow
+incorrigible | 😈 | adj | impossible to correct or improve | The [incorrigible] puppy kept stealing socks no matter what. | hopeless, incurable, unruly
+@story Ziggy's Funny Report Card | school
+📋🐉 | Ziggy brought home his report card from Dragon School.
+❗📉 | His C in flying was an [aberration]—he usually got A's.
+🧭🌳 | "An [errant] gust of wind blew me into a tree," he explained.
+❌🤷 | "Everyone can [err]," said {Name}. "What matters is trying again."
+🙈🔍 | The teacher noted his [foible]: he always forgot where he put his glasses.
+🍬💸 | She also wrote that spending all his lunch money on candy was [myopic].
+🍪😋 | Sneaking an extra cookie at snack time was just a [peccadillo].
+🤏😊 | "That's a [venial] mistake," {Name} agreed. "Easy to forgive."
+🔀😢 | Ziggy [misconstrued] one comment, "very talkative," as an insult. But it was a compliment—he asked great questions!
+🧱🤦 | "Don't be [obtuse], Ziggy," {Name} laughed. "Your teacher loves you."
+😈🧦 | The last line said: "Ziggy is [incorrigible]—he still steals everyone's socks!"
+
+@unit The Master's Words
+consummate | 🏆 | adj | showing great skill; complete and perfect | She is a [consummate] storyteller who keeps everyone listening. | skilled, accomplished, masterful
+idiosyncrasy | 🦄 | noun | a habit or way of behaving that is unusual and special to one person | Wearing mismatched socks is his [idiosyncrasy]. | quirk, peculiarity, oddity
+ineffable | 🌌 | adj | too great or beautiful to be described in words | The view from the mountaintop was [ineffable]. | indescribable, inexpressible
+sublime | 🌄 | adj | so beautiful or excellent that it fills you with wonder | The sunset over the ocean was [sublime]. | magnificent, glorious, awe-inspiring
+vicarious | 📖 | adj | felt by imagining someone else's experience, rather than your own | Reading adventure books gives me [vicarious] thrills. | secondhand, indirect
+vocation | 🧑‍🚀 | noun | a strong feeling that you are meant for a certain kind of work; or a person's job | Teaching was her true [vocation]. | calling, career, profession
+emulate | 🪞 | verb | to try to be as good as someone you admire by copying them | Young players [emulate] their sports heroes. | imitate, copy, follow
+fruition | 🍎 | noun | the point when a plan or hope finally comes true | After years of work, her dream came to [fruition]. | fulfillment, realization, completion
+precocious | 🌟 | adj | having skills or abilities much earlier than usual | The [precocious] girl was reading chapter books at four. | advanced, gifted
+voracious | 🐛 | adj | wanting a great amount of something, like food or books | The [voracious] caterpillar ate ten leaves in an hour. | hungry, insatiable, avid
+@story The Word Master | night
+🌙🐉 | On a starry night, Ziggy flew {Name} to the top of the Word Tower for a special ceremony.
+📖🌍 | She had been a [voracious] reader since her very first words—cat, dog, sun, and thousands more.
+🌟👧 | People called her [precocious], but {Name} knew the truth: she had practiced a little every day.
+🪞🦉 | She had [emulated] the wise owls, brave knights, and clever detectives from her stories.
+📚🚀 | Through books, she had enjoyed [vicarious] adventures in space, under the sea, and inside volcanoes.
+🦄🧦 | Ziggy still had his [idiosyncrasy]—mismatched socks—and that was perfect too.
+🍎✨ | Tonight, their dream came to [fruition]: {Name} was named a Word Master!
+🏆🎤 | She gave a speech like a [consummate] storyteller, and nobody wanted it to end.
+🧑‍🚀💭 | "Maybe my [vocation] will be writing books," she said, "or exploring the stars."
+🌄🌠 | The sunrise that followed was [sublime], painting the sky gold and pink.
+🌌❤️ | The joy she felt was [ineffable]—too big for words. Even for someone who knew five thousand of them.
