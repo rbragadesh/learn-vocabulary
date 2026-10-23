@@ -234,6 +234,11 @@ function Dashboard({ go, onBack }: { go: Navigate; onBack: () => void }) {
         <ul className="tips">
           <li>Short and daily beats long and rare: 15–20 minutes, ideally at the same time each day.</li>
           <li>Do reviews first. They're what turns “studied” into “known”.</li>
+          <li>
+            Don't skip “Say it your way” after each unit. Ask her to use the word in a sentence about <em>her</em> life, and only tap ✓ if it really makes sense. A definition
+            she can repeat isn't understanding; a sentence she made up is.
+          </li>
+          <li>Ask “What does that mean?” when a new word comes up in a story. If she can explain it in her own words, she owns it.</li>
           <li>Use the week's words at dinner, in the car, at bedtime. Hearing a word in real life a few times does more than any app.</li>
           <li>Keep reading to her from books above her own reading level. Wide reading is where most vocabulary comes from — this app is a supplement to that, not a replacement.</li>
         </ul>
